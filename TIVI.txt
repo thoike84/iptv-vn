@@ -83,10 +83,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8|Referer=http://sc
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="inthebox" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", IN THE BOX
 http://vthanhtivi.pw:5000/itb/mpegts
-#EXTINF:-1 tvg-id="boxhits" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/XbkM9D2/Box-Hit-BEARTV.png",BOX HITS
-http://vthanhtivi.pw:5000/bhits/mpegts
-#EXTINF:0 tvg-id="kix" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/QYVd38q/kix.png", KIX HD
-http://0.tcp.ap.ngrok.io:11632/kix/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/animal-planet.png",Animal Planet SEA
 http://vthanhtivi.pw:5000/animal/index.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌏| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/bbce.png",BBC Earth
