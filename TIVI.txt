@@ -1,30 +1,6 @@
 #EXTM3U 
 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://i.ibb.co/mBHRZbg/VTV1-BEARTV.png",VTV1       
-https://live2onsport.vtvcab.vn/hls/VTV1_HD/sc-gaFEAA/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://i.ibb.co/1rGZzbN/VTV2-BEARTV.png",VTV2
-https://live2onsport.vtvcab.vn/onplus/VTV2_HD/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://i.ibb.co/hKgN4RG/VTV3-BEARTV.png",VTV3      
-https://live2onsport.vtvcab.vn/onplus/VTV3_HD/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://i.ibb.co/928wSRc/VTV4-BEARTV.png",VTV4       
-https://live2onsport.vtvcab.vn/onplus/VTV4_HD/m20_index.m3u8
-#EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://i.ibb.co/bKfw6Tc/VTV5-BEARTV.png",VTV5
-https://liveh12.vtvcab.vn/hls/ONVTV5_CL/04.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://i.ibb.co/Hnc1LPG/VTV5-TNB-BEARTV.png",VTV5 TÂY NAM BỘ
-https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
-#EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://i.ibb.co/zVJz2CQ/VTV5-TN-BEARTV.png",VTV5 TÂY NGUYÊN
-https://live-ali2.tv360.vn/manifest/VTV5_Tay_Nguyen_HD/playlist_1080p.m3u8
-#EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://i.ibb.co/8cghHq1/vtv-cantho-BEARTV.png",VTV CẦN THƠ
-https://live2onsport.vtvcab.vn/onplus/VTV6_HD/m30_index.m3u8
-#EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/ZwoP823.png",VTV7
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/rf9adGJ.png",VTV8
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv8/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/QiY55sy.png",VTV9
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8|Referer=http://sctvonline.vn/8
-
-
 #EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png", HTV1
 https://drm-livecdn.hplus.com.vn/htvonline/htv1.720p.nimble.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳| HTV" tvg-logo="https://i.ibb.co/J7M2fsv/HTV2-BEARTV.png",HTV2 HD HD
