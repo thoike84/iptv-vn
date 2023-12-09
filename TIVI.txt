@@ -13,11 +13,12 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=http://sctvonl
 #EXTINF:-1 tvg-id="htv9hd" group-title="🇻🇳| Tổng hợp" tvg-logo="https://i.ibb.co/4VNDzHh/HTV9-BEARTV.png" ,HTV9 HD
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|Referer=http://sctvonline.vn/
 
-
 #EXTINF:-1 tvg-id="sctv9hd" group-title="🇻🇳| Tổng hợp" tvg-logo="https://i.ibb.co/VLJrprr/sctv9-hd-BEARTV.png" ,SCTV9
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 tvg-id=""group-title="🇻🇳| Tổng hợp" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a4/Tvb_logo.svg/2560px-Tvb_logo.svg.png",TVB VIỆT NAM
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
+
 #EXTINF:-1 tvg-id="vinhlong1hd" tvg-name="THVL1 HD" group-title="🇻🇳| Tổng hợp" tvg-logo="https://i.ibb.co/2MVntS3/THVL1-HD-BEARTV.png",Vĩnh Long 1 HD
 https://code.vthanhtivi.pw/getlink/vieon/thvl1-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" tvg-name="THVL2 HD" group-title="🇻🇳| Tổng hợp" tvg-logo="https://i.ibb.co/LJWVVRp/THVL2-HD-BEARTV.png",Vĩnh Long 2 HD
@@ -27,42 +28,18 @@ https://code.vthanhtivi.pw/getlink/vieon/thvl3-hd/playlist.m3u8
 #EXTINF:-1 tvg-id="THVL4 HD" tvg-name="THVL4 HD" group-title="🇻🇳| Tổng hợp" tvg-logo="https://i.ibb.co/F5VZQ8x/THVL4-HD-BEARTV.png" ,Vĩnh Long 4 HD
 https://code.vthanhtivi.pw/getlink/vieon/thvl4-hd/playlist.m3u8
 
-
-#EXTINF:-1 tvg-id="animaxhd" group-title="🇻🇳| Tổng hợp" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png", Animax HD
-http://vthanhtivi.pw:5000/animax/index.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="🇻🇳| Tổng hợp" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png", Cartoon Network HD
-http://vthanhtivi.pw:5000/cartoon/index.m3u8
 #EXTINF:-1 tvg-id="happykids"  group-title="🇻🇳| Tổng hợp" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy Kids
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sctvonline.vn/
 
-
-#EXTINF:-1 tvg-id="axnhd" group-title="⭕| Quốc tế" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png",AXN HD
-http://vthanhtivi.pw:5000/axn/index.m3u8
-#EXTINF:-1 tvg-id="hbohd" group-title="⭕| Quốc tế" tvg-logo="https://i.ibb.co/QkgRShZ/hbo-BEARTV.png", HBO
-http://vthanhtivi.pw:5000/hbo/index.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" group-title="⭕| Quốc tế" tvg-logo="https://i.ibb.co/fnrDyDg/cinemax-BEARTV.png", CINEMAX
-http://vthanhtivi.pw:5000/cinemax/index.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="⭕| Quốc tế" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
-#EXTVLCOPT:http-referer=http://sctvonline.vn
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="⭕| Quốc tế" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",HOLLYWOOD CLASSICS
-#EXTVLCOPT:http-user-agent="BearTV"
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="inthebox" group-title="⭕| Quốc tế" tvg-logo="https://i.ibb.co/C2yvjj1/inthebox-BEARTV.png", IN THE BOX
-http://vthanhtivi.pw:5000/itb/mpegts
-#EXTINF:-1 tvg-id="animalhd" group-title="⭕| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/animal-planet.png",Animal Planet SEA
-http://vthanhtivi.pw:5000/animal/index.m3u8
-#EXTINF:-1 tvg-id="bbcearth" group-title="⭕| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/bbce.png",BBC Earth
-http://vthanhtivi.pw:5000/bbcearth/index.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" group-title="⭕| Quốc tế" tvg-logo="https://phuhdtv.github.io/logo/MSky_TV/discovery-channel.png",Discovery Channel SEA
-http://vthanhtivi.pw:5000/discovery/index.m3u8
-#EXTINF:-1  tvg-id="planetearthhd" group-title="⭕| Quốc tế" tvg-logo="https://i.ibb.co/BgmV1f8/Planet-earth-BEARTV.png",Planet Earth
-#EXTVLCOPT:http-user-agent="BearTV"
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="lovenature" group-title="⭕| Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi" , Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-
-#EXTINF:0 type="stream" group-title="⭕| Quốc tế" tvg-logo="https://i.ibb.co/Lv7QW7j/ccFN.jpg",Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8 
+#EXTINF:-1 tvg-id="kcinehd" group-title="🇻🇳| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE - MyK+
+http://edge.vthanhtivi.pw/K_CINE/index.m3u8
+#EXTINF:-1 tvg-id="kaction" group-title="🇻🇳| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION - MyK+
+http://edge.vthanhtivi.pw/K_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🇻🇳| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1 - MyK+
+http://edge.vthanhtivi.pw/K_SPORT1/index.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🇻🇳| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2 - MyK+
+http://edge.vthanhtivi.pw/K_SPORT2/index.m3u8
+#EXTINF:-1 tvg-id="kkidshd" group-title="🇻🇳| K+" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS - MyK+
+http://edge.vthanhtivi.pw/K_KIDS/index.m3u8
+ 
 
