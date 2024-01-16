@@ -195,7 +195,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8|Referer=http://sc
 #EXTINF:-1 tvg-id="sctv10hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/y8gsL76/SCTV10-BEARTV.webp" ,SCTV 10
 #EXTVLCOPT:http-user-agent="Bear TV"
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://i.ibb.co/Jy3cThG/sctv11-hd-BEARTV.png" ,SCTV 11
+#EXTINF:-1 tvg-id="sctv11hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/Jy3cThG/sctv11-hd-BEARTV.png" ,SCTV 11
 #EXTVLCOPT:http-user-agent="Bear TV"
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv12hd" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/nDbnG8h/sctv12-hd-BEARTV.png" ,SCTV 12 - Du Lịch
@@ -404,6 +404,8 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🇻🇳| B4TV Produce" tvg-logo="https://i.ibb.co/fD13MRN/BEARTV.png" ,BEAR TV
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
+#EXTINF:-1 group-title="🇻🇳| B4TV Produce" tvg-logo="http://103.172.78.47/b4boxplus.png", B4BOX PLUS (Kênh phim mới chọn lọc)
+http://b4tv.live/b4tv/b4tv/120.m3u8
 #EXTINF:-1 group-title="🇻🇳| B4TV Produce" tvg-logo="http://b4tv.live/images/6c30cdc8aa40aa5776c7d8ebd78a93d4.png", B4MEN
 http://b4tv.live/b4tv/b4tv/1.m3u8
 #EXTINF:-1 group-title="🇻🇳| B4TV Produce" tvg-logo="http://b4tv.live/images/994c671dd2015154c0a928f00aa4934a.png", B4EVENT 1
@@ -418,8 +420,6 @@ http://b4tv.live/b4tv/b4tv/19.m3u8
 http://b4tv.live/b4tv/b4tv/20.m3u8
 #EXTINF:-1 group-title="🇻🇳| B4TV Produce" tvg-logo="http://103.172.78.47/b4sport.png", B4SPORT3 PLUS (Kênh thể thao đỉnh cao)
 http://b4tv.live/b4tv/b4tv/21.m3u8
-#EXTINF:-1 group-title="🇻🇳| B4TV Produce" tvg-logo="http://103.172.78.47/b4boxplus.png", B4BOX PLUS (Kênh phim mới chọn lọc)
-http://b4tv.live/b4tv/b4tv/120.m3u8
 
 
 
