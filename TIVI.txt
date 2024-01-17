@@ -309,21 +309,21 @@ http://b4tv.live/b4tv/b4tv/21.m3u8
 #EXTINF:-1 group-title="🇻🇳| B4TV Produce" tvg-logo="http://103.172.78.47/b4boxplus.png", B4BOX PLUS (Kênh phim mới chọn lọc)
 http://b4tv.live/b4tv/b4tv/120.m3u8
 
-#EXTINF:-1 tvg-id="vthanhchannel" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhchannel_thumb.png", VThanh Channel
+#EXTINF:-1 tvg-id="vthanhchannel" group-title="⚽| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhchannel_thumb.png", VThanh Channel
 http://vthanhtivi.pw/vthanhchannel/mpegts
-#EXTINF:-1 tvg-id="vthanhanime" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhanime_thumb.png", VThanh Anime
+#EXTINF:-1 tvg-id="vthanhanime" group-title="⚽| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhanime_thumb.png", VThanh Anime
 http://vthanhtivi.pw/vthanhanime/mpegts
-#EXTINF:-1 tvg-id="vthanhaudio" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio
+#EXTINF:-1 tvg-id="vthanhaudio" group-title="⚽| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio
 http://vthanhtivi.pw/vthanhaudio/mpegts
-#EXTINF:-1 tvg-id="vthanhaudio" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio (ON Live)
+#EXTINF:-1 tvg-id="vthanhaudio" group-title="⚽| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio (ON Live)
 https://code.vthanhtivi.pw/getlink/onlive/vthanhtivi/231107.m3u8
-#EXTINF:-1 tvg-id="vthanhsp1" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh Sports 1
+#EXTINF:-1 tvg-id="vthanhsp1" group-title="⚽| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh Sports 1
 http://vthanhtivi.pw/vthanhsports1/mpegts
-#EXTINF:-1 tvg-id="vthanhsp2" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhsports2_thumb.png", VThanh Sports 2
+#EXTINF:-1 tvg-id="vthanhsp2" group-title="⚽| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhsports2_thumb.png", VThanh Sports 2
 http://vthanhtivi.pw/vthanhsports2/mpegts
-#EXTINF:-1 group-title="⚜️| VThanh Network" group-logo="https://cdn.hqth.me/vthanhnetwork.png" tvg-logo="https://cdn.hqth.me/vthanhevent1_thumb.png", VThanh Event 1
+#EXTINF:-1 group-title="⚽| VThanh Network" group-logo="https://cdn.hqth.me/vthanhnetwork.png" tvg-logo="https://cdn.hqth.me/vthanhevent1_thumb.png", VThanh Event 1
 http://vthanhtivi.pw/vthanhevent1/mpegts
-#EXTINF:-1 group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhevent2_thumb.png", VThanh Event 2
+#EXTINF:-1 group-title="⚽| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhevent2_thumb.png", VThanh Event 2
 http://vthanhtivi.pw/vthanhevent2/mpegts
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/5L2KxmL/racing-com-BEARTV.jpg" group-title="⚽| Thể thao",Racing.com
@@ -353,3 +353,12 @@ https://ctrl.laotv.la/live/WWE/index.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="bein" tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-es1.png" group-title="⚽| Thể thao",BEIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/G02ZkMd/Hollywood-Classics-BEARTV.png",HOLLYWOOD CLASSICS
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1  tvg-id="planetearthhd" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/BgmV1f8/Planet-earth-BEARTV.png",Planet Earth
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="lovenature" group-title="🌏| Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi" , Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
