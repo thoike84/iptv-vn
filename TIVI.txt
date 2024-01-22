@@ -15,7 +15,7 @@ https://live-zlr1.tv360.vn/manifest/vtv2/playlist_1080p.m3u8?timestamp=170593691
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 https://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8?timestamp=1705936935&token=e40860ef2941651272462110da7bcca8&uid=71043469
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
-#https://vtvgolive-vtv.vtvdigital.vn/ytxOzCgLLL1mLOIAubLYPg/1705895475/vtvgo/vtv4-480p.m3u8
+https://s10.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s10.edge.cdn.sctvonline.vn/hls/vtv4/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 https://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M.m3u8?timestamp=1705937025&token=ff733261f87c96fcef7885858f6a03ee&uid=71043469
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
@@ -25,11 +25,11 @@ https://live-ali2.tv360.vn/manifest/VTV5_Tay_Nguyen_HD/playlist_1080p.m3u8?times
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
 https://live-zlr1.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8?timestamp=1705937103&token=97e5461cf6a70b4b4fefdacefbb8c930&uid=71043469
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
-#https://vtvgolive-vtv.vtvdigital.vn/o9d0y8p5BlHkx3c2j0RZGg/1705896032/vtvgo/vtv7-480p.m3u8
+https://s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv7/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
-#https://vtvgolive-vtv.vtvdigital.vn/v6eC_6dBERp8fcIUZCnmMA/1705895559/vtvgo/vtv8-480p.m3u8
+https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/vtv8/index.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
-#https://vtvgolive-vtv.vtvdigital.vn/LCKn8rJWOfiguPX751fymA/1705896050/vtvgo/vtv9-480p.m3u8
+https://s8.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/vtv9/index.m3u8
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="🇻🇳| VTVCab" tvg-logo="https://i.ibb.co/NYSr7Kn/VTVCAB1-BEARTV.png",VTVCab1 - Vie GIẢI TRÍ
 #https://live2onsport.vtvcab.vn/onplus/GIAITRI_TV_HD/m20_index.m3u8
