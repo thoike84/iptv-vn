@@ -12,7 +12,7 @@ https://code.vthanhtivi.pw/getlink/tv360/bQYga2VRGjS5nCB8L23XZg/1705995362/108/p
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 http://27.75.229.250:8080/sctv/o629fqcwbiliv.vcdn.cloud/hls/vtv5/index.m3u8?token=cq4muQzxKeBvrn9cFxNNOA&e=1705983415
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
-https://liveh12.vtvcab.vn/hls/ONVTV5TNB_CL/04.m3u8
+https://s7.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 https://code.vthanhtivi.pw/getlink/tv360/YMoM18oiYyVqQxi9HxHklw/1705995362/207/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
@@ -20,7 +20,7 @@ http://14.187.159.26:8081/sctv/s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endp
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
 http://27.75.229.250:8080/sctv/s12.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/nginx.s12.edge.cdn.sctvonline.vn/hls/vtv7/index.m3u8?token=pgKBPERExdqej9slZ4HCGw&e=1705983510
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
-http://118.107.68.10:1935/live/_definst_/VTV1HD_12806b51bdf7ac364126%20/chunklist.m3u8?uid=s2c526m574z5s4l5h4&mytokenstarttime=1554702727&mytokenendtime=1554746227&mytokenhash=YGor67EtJK8fo7zYNaAultRmnfqLbaNHwBGTB9ty-50
+https://code.vthanhtivi.pw/getlink/tv360/yfJ6Cdg5AlC7i3-fBplCrQ/1705997892/115/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8|Referer=http://sctvonline.vn/
 
@@ -279,15 +279,6 @@ https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/184.png", YTV HD | TH Yên Bái
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
-
-#EXTINF:-1 tvg-id="cartoonhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
-http://115.72.181.169:8080/live/cartoon/index.m3u8?token=hcLItCgRzBRThWVCyH6UCw&e=1705930468
-#EXTINF:-1 tvg-id="boomerang" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia HD
-http://14.187.159.26:8081/live/boomerang/index.m3u8?token=LE0NQzRWW9tTHht3gE9_3A&e=1705930600
-#EXTINF:-1 tvg-id="hbohd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/qPXF25a.png",HBO Asia
-http://14.187.159.26:8081/live/hbo/index.m3u8?token=OYQHRRPLjvfvz4vMHzAkfw&e=1705930706
-#EXTINF:-1 tvg-id="axnhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/OnJMiz5.png",AXN Asia
-http://115.72.181.169:8080/live/axn/index.m3u8?token=sudcONBSpUKdh2YfIG8KGg&e=1705930823
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/FDmymrV/Box-Movie1-BEARTV.png" ,BOX MOVIE 1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8|Referer=http://sctvonline.vn
