@@ -164,9 +164,9 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8?|Refere
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
-https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/25/2.m3u8
+https://1011154949.vnns.net/6fb65d2d46e435eb53d438139c4b2c431706861314/thvl1hd.720p.adm.tms/chunks.m3u8
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
-https://ott3.khanggtivi.xyz/live/channel/tv360/a2JyWktuQUR2VkdQbllwTWVyelo0blFhcFgzQnRBd0ZsNlpFdE1TQUpuTytsUjE3LzNoajRmdmltL3U2a0I5MDgyMW1xYk5icmg0VldJbFlpbkF3NzdhbkIzRTJyajdqeEwzaXV4NVdXU3VrL0NFWmJZUFRiLzNRYjg2QmVFS1c=/chunklist.m3u8?vstv=26
+https://htvc271120.cdn.vnns.io/4d6a839447a62e9eea918a43eb5476e11706861351/thvl2.adm.720p.tms/chunks.m3u8
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
 https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/219/2.m3u8
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
@@ -309,12 +309,6 @@ https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzA
 https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/162/2.m3u8
 #EXTINF:-1 tvg-id="woman" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/209.png" , Woman
 https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/163/2.m3u8
-
-#EXTINF:-1 tvg-id="happykids" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/207.png" , Happy Kids
-https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/212/2.m3u8
-#EXTINF:-1 tvg-id="planetearthhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/208.png" , Planet Earth
-https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/135/2.m3u8
-
 
 #EXTINF:-1 group-title="🌏| B4TV Produce" tvg-logo="http://103.172.78.47/b4boxplus.png", B4BOX PLUS (Kênh phim)
 http://b4tv.live/b4tv/b4tv/120.m3u8
