@@ -3,27 +3,27 @@
 
 #-*--VTV-*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
-http://live.antmediatv.xyz/VTV1/mpegts
+https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjI0MjE5M3xBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706249393/2/2.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
-http://live.antmediatv.xyz/VTV2/mpegts
+https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjI0MjE5M3xBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706249393/3/2.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-http://live.antmediatv.xyz/VTV3/mpegts
+https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjI0MjE5M3xBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706249393/4/2.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
-https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/vtv4-hd/playlist.m3u8
+https://ott3.khanggtivi.xyz/live/channel/tv360/a2JyWktuQUR2VkdQbllwTWVyelo0amFYNTA0UDNGNTNqWEJGZmFQWElyQmRNOW5BTE1yTWgzcjZlNG02TGE3N2x4NW14aHRoRG5ZNHI3Z2sxQTAxY2gybmZlRmZOQ1ZNUldYOGtvemN3bW1Kc08wbTZMdFFIbXlhY0U2dzhKcDM=/chunklist.m3u8?vstv=108
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-http://live.antmediatv.xyz/VTV5/mpegts
+https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjI0MjE5M3xBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706249393/110/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
-http://live.antmediatv.xyz/VTV5TNB/mpegts
+https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjI0MjE5M3xBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706249393/157/2.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/207/2.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
-http://live.antmediatv.xyz/VTVCT/mpegts
+https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjI0MjE5M3xBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706249393/98/2.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
-https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/vtv7-hd/playlist.m3u8
+https://ott3.khanggtivi.xyz/live/channel/tv360/a2JyWktuQUR2VkdQbllwTWVyelo0amFYNTA0UDNGNTNqWEJGZmFQWElyQmRNOW5BTE1yTWgzcjZlNG02TGE3N2x4NW14aHRoRG5ZNHI3Z2sxQTAxY2gybmZlRmZOQ1ZNUldYOGtvemN3bW1Kc08wbTZMdFFIbXlhY0U2dzhKcDM=/chunklist.m3u8?vstv=6
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
-https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/vtv8-hd/playlist.m3u8
+https://ott3.khanggtivi.xyz/live/channel/tv360/a2JyWktuQUR2VkdQbllwTWVyelo0amFYNTA0UDNGNTNqWEJGZmFQWElyQmRNOW5BTE1yTWgzcjZlNG02TGE3N2x4NW14aHRoRG5ZNHI3Z2sxQTAxY2gybmZlRmZOQ1ZNUldYOGtvemN3bW1Kc08wbTZMdFFIbXlhY0U2dzhKcDM=/chunklist.m3u8?vstv=115
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
-https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/vtv9-hd/playlist.m3u8
+https://ott3.khanggtivi.xyz/live/channel/tv360/a2JyWktuQUR2VkdQbllwTWVyelo0amFYNTA0UDNGNTNqWEJGZmFQWElyQmRNOW5BTE1yTWgzcjZlNG02TGE3N2x4NW14aHRoRG5ZNHI3Z2sxQTAxY2gybmZlRmZOQ1ZNUldYOGtvemN3bW1Kc08wbTZMdFFIbXlhY0U2dzhKcDM=/chunklist.m3u8?vstv=8
 
 
 #-*--VTVCAB-*--#
@@ -32,20 +32,17 @@ https://code.antmediatv.xyz/getplay/livetv/onlive/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OT
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/13.png", ON Phim Việt
 https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/175/2.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/14.png",  ON Sports HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/vtvcab3-on-sports/playlist.m3u8
+https://ott3.khanggtivi.xyz/cliptv/a2JyWktuQUR2VkdQbllwTWVyelo0amFYNTA0UDNGNTNqWEJGZmFQWElyQmRNOW5BTE1yTWgzcjZlNG02TGE3N2x4NW14aHRoRG5ZNHI3Z2sxQTAxY2gybmZlRmZOQ1ZNUldYOGtvemN3bW1Kc08wbTZMdFFIbXlhY0U2dzhKcDM=/on-sports/hd.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/15.png", ON Movies
 https://code.antmediatv.xyz/getplay/livetv/onlive/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/onmovies/96660.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/16.png", ON E Channel
 https://code.antmediatv.xyz/getplay/livetv/onlive/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/echannel/96666.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/17.png", ON Sports+
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/vtvcab6-on-sport-plus/playlist.m3u8
+https://ott3.khanggtivi.xyz/cliptv/a2JyWktuQUR2VkdQbllwTWVyelo0amFYNTA0UDNGNTNqWEJGZmFQWElyQmRNOW5BTE1yTWgzcjZlNG02TGE3N2x4NW14aHRoRG5ZNHI3Z2sxQTAxY2gybmZlRmZOQ1ZNUldYOGtvemN3bW1Kc08wbTZMdFFIbXlhY0U2dzhKcDM=/on-sportsss/hd.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/18.png", ON O2TV
 https://code.antmediatv.xyz/getplay/livetv/onlive/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/o2tvvtvcab/93300.m3u8
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/19.png", ON BiBi
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/vtvcab8-bibi/playlist.m3u8
+https://ott3.khanggtivi.xyz/live/channel/tv360/a2JyWktuQUR2VkdQbllwTWVyelo0amFYNTA0UDNGNTNqWEJGZmFQWElyQmRNOW5BTE1yTWgzcjZlNG02TGE3N2x4NW14aHRoRG5ZNHI3Z2sxQTAxY2gybmZlRmZOQ1ZNUldYOGtvemN3bW1Kc08wbTZMdFFIbXlhY0U2dzhKcDM=/chunklist.m3u8?vstv=178
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/20.png", ON Info TV
 https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/189/2.m3u8
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/21.png", ON Cine
@@ -53,32 +50,25 @@ https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/23.png", ON Style TV
 https://code.antmediatv.xyz/getplay/livetv/onlive/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/onstyle/96662.m3u8
 #EXTINF:-1 tvg-id="vtvcab13hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/24.png",VTVcab 13
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/vtvcab13-home-shopping/playlist.m3u8
+https://ott3.khanggtivi.xyz/live/channel/tv360/a2JyWktuQUR2VkdQbllwTWVyelo0amFYNTA0UDNGNTNqWEJGZmFQWElyQmRNOW5BTE1yTWgzcjZlNG02TGE3N2x4NW14aHRoRG5ZNHI3Z2sxQTAxY2gybmZlRmZOQ1ZNUldYOGtvemN3bW1Kc08wbTZMdFFIbXlhY0U2dzhKcDM=/chunklist.m3u8?vstv=27
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/26.png", ON Music
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/vtvcab15/playlist.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/27.png", ON Football HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/vtvcab16-on-football/playlist.m3u8
+https://ott3.khanggtivi.xyz/cliptv/a2JyWktuQUR2VkdQbllwTWVyelo0amFYNTA0UDNGNTNqWEJGZmFQWElyQmRNOW5BTE1yTWgzcjZlNG02TGE3N2x4NW14aHRoRG5ZNHI3Z2sxQTAxY2gybmZlRmZOQ1ZNUldYOGtvemN3bW1Kc08wbTZMdFFIbXlhY0U2dzhKcDM=/on-football/hd.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/28.png", ON Trending TV
 https://code.antmediatv.xyz/getplay/livetv/onlive/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/ontrending/96665.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/29.png", ON Sports News 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/vtvcab18-on-sports-news/playlist.m3u8
+https://ott3.khanggtivi.xyz/cliptv/a2JyWktuQUR2VkdQbllwTWVyelo0amFYNTA0UDNGNTNqWEJGZmFQWElyQmRNOW5BTE1yTWgzcjZlNG02TGE3N2x4NW14aHRoRG5ZNHI3Z2sxQTAxY2gybmZlRmZOQ1ZNUldYOGtvemN3bW1Kc08wbTZMdFFIbXlhY0U2dzhKcDM=/on-sports-news/hd.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/30.png", ON Vie Dramas
 https://code.antmediatv.xyz/getplay/livetv/onlive/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/viedramas/92955.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/31.png", ON VFamily
 https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/187/2.m3u8
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/32.png", ON Kids
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/vtvcab21-cartoon-kid/playlist.m3u8
+https://ott3.khanggtivi.xyz/live/channel/tv360/a2JyWktuQUR2VkdQbllwTWVyelo0amFYNTA0UDNGNTNqWEJGZmFQWElyQmRNOW5BTE1yTWgzcjZlNG02TGE3N2x4NW14aHRoRG5ZNHI3Z2sxQTAxY2gybmZlRmZOQ1ZNUldYOGtvemN3bW1Kc08wbTZMdFFIbXlhY0U2dzhKcDM=/chunklist.m3u8?vstv=179
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/33.png", ON Life
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/vtvcab22-life-tv/playlist.m3u8
+https://ott3.khanggtivi.xyz/live/channel/tv360/a2JyWktuQUR2VkdQbllwTWVyelo0amFYNTA0UDNGNTNqWEJGZmFQWElyQmRNOW5BTE1yTWgzcjZlNG02TGE3N2x4NW14aHRoRG5ZNHI3Z2sxQTAxY2gybmZlRmZOQ1ZNUldYOGtvemN3bW1Kc08wbTZMdFFIbXlhY0U2dzhKcDM=/chunklist.m3u8?vstv=188
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/34.png", ON Golf 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/vtvcab23-the-thao-golf/playlist.m3u8
+https://ott3.khanggtivi.xyz/live/channel/tv360/a2JyWktuQUR2VkdQbllwTWVyelo0amFYNTA0UDNGNTNqWEJGZmFQWElyQmRNOW5BTE1yTWgzcjZlNG02TGE3N2x4NW14aHRoRG5ZNHI3Z2sxQTAxY2gybmZlRmZOQ1ZNUldYOGtvemN3bW1Kc08wbTZMdFFIbXlhY0U2dzhKcDM=/chunklist.m3u8?vstv=169
 #EXTINF:-1 tvg-id="btv5hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/256.png", BTV5 - ON Sports Action
 https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/2380/2.m3u8
 
@@ -187,7 +177,7 @@ https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
 #EXTINF:-1 tvg-id="quochoi" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/qrQ8fJM/qhtv-BEARTV.png",QUỐC HỘI TV
 https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
-https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjA2OTg0NXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706077045/19/2.m3u8
+http://27.76.137.122:1935/standard/smil:standard.smil/chunklist_w1933869513_b996000_sleng.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png",NHÂN DÂN TV
 https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w2032123611.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png", VOVTV HD
@@ -351,23 +341,6 @@ http://b4tv.live/b4tv/b4tv/20.m3u8
 #EXTINF:-1 group-title="🌏| B4TV Produce" tvg-logo="http://103.172.78.47/b4sport.png", B4SPORT3 PLUS (Kênh thể thao đỉnh cao)
 http://b4tv.live/b4tv/b4tv/21.m3u8
 
-#EXTINF:-1 group-title="🌏| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhevent2_thumb.png", VThanh Event 2
-http://vthanhtivi.pw/vthanhevent2/mpegts
-#EXTINF:-1 tvg-id="vthanhchannel" group-title="🌏| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhchannel_thumb.png", VThanh Channel
-http://vthanhtivi.pw/vthanhchannel/mpegts
-#EXTINF:-1 tvg-id="vthanhanime" group-title="🌏| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhanime_thumb.png", VThanh Anime
-http://vthanhtivi.pw/vthanhanime/mpegts
-#EXTINF:-1 tvg-id="vthanhaudio" group-title="🌏| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio
-http://vthanhtivi.pw/vthanhaudio/mpegts
-#EXTINF:-1 tvg-id="vthanhaudio" group-title="🌏| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhaudio_thumb.png", VThanh Audio (ON Live)
-https://code.vthanhtivi.pw/getlink/onlive/vthanhtivi/231107.m3u8
-#EXTINF:-1 tvg-id="vthanhsp1" group-title="🌏| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhsports1_thumb.png", VThanh Sports 1
-http://vthanhtivi.pw/vthanhsports1/mpegts
-#EXTINF:-1 tvg-id="vthanhsp2" group-title="🌏| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhsports2_thumb.png", VThanh Sports 2
-http://vthanhtivi.pw/vthanhsports2/mpegts
-#EXTINF:-1 group-title="🌏| VThanh Network" group-logo="https://cdn.hqth.me/vthanhnetwork.png" tvg-logo="https://cdn.hqth.me/vthanhevent1_thumb.png", VThanh Event 1
-http://vthanhtivi.pw/vthanhevent1/mpegts
-
 
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-id="discovery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
@@ -474,8 +447,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://ctrl.laotv.la/live/WWE/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="⚽| Thể thao", Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Setanta-logo.jpg/640px-Setanta-logo.jpg",Setanta Sports Ukraine
-http://free.cvmtv.site/Setanta?token=live
 
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
 https://ctrl.laotv.la/live/TSport1/index.m3u8
@@ -499,6 +470,10 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 https://7pal.short.gy/event1
 #EXTINF:-1 tvg-id="Sports.18.-.1.HD.in" tvg-logo="https://prod-media.beinsports.com/image/e3d8ef07bcc06956c8067bbf37f07df8.128.png?ver=09-01-2024" group-title="⚽| Thể thao", BeIN1-Asian_Cup
 https://7pal.short.gy/event2
+#EXTINF:-1 tvg-id="spotv1" group-title="⚽| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV ASIA
+http://ott4livecdb.khanggtivi.xyz/spotv/mpegts
+#EXTINF:-1 tvg-id="spotv2" group-title="⚽| Thể thao" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2 ASIA
+http://ott4livecdb.khanggtivi.xyz/spotv2/mpegts
 
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="⚽| Thể thao", NowSportsPL1-FHD
 https://7pal.short.gy/nowhkp1
