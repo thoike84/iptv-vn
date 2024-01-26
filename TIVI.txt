@@ -306,8 +306,27 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8|Referer=http://sc
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-id="planetearthhd" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/BgmV1f8/Planet-earth-BEARTV.png",Planet Earth
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="lovenature" group-title="🌏| Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi" , Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 tvg-id="afnhd" group-title="🌏| Quốc tế" group-logo="https://cdn.antmediatv.xyz/group/KhamPha.png" tvg-logo="https://cdn.antmediatv.xyz/253.png", Asian Food Network
+https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/215/2.m3u8
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/219.png" , Discovery Asia
+http://live.antmediatv.xyz:1234/stream/qnettv/discoveryasia/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+#EXTINF:-1 tvg-id="outdoor" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/222.png", Outdoor Channel HD
+https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/216/2.m3u8
+#EXTINF:-1 tvg-id="hgtv" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/248.png", HGTV
+https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/99/2.m3u8
+#EXTINF:-1 tvg-id="man" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/205.png" , Man
+https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/237/2.m3u8
+#EXTINF:-1 tvg-id="drfithd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/206.png" , Dr.Fit
+https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/162/2.m3u8
+#EXTINF:-1 tvg-id="woman" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/209.png" , Woman
+https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/163/2.m3u8
+
+#EXTINF:-1 tvg-id="happykids" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/207.png" , Happy Kids
+https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/212/2.m3u8
+#EXTINF:-1 tvg-id="planetearthhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/208.png" , Planet Earth
+https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/135/2.m3u8
+
 
 #EXTINF:-1 group-title="🌏| B4TV Produce" tvg-logo="http://103.172.78.47/b4boxplus.png", B4BOX PLUS (Kênh phim)
 http://b4tv.live/b4tv/b4tv/120.m3u8
@@ -350,8 +369,23 @@ http://vthanhtivi.pw/vthanhsports2/mpegts
 http://vthanhtivi.pw/vthanhevent1/mpegts
 
 
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-id="discovery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://cdn.hqth.me/logo/category/jp.png" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
+http://jp.vthanhnetwork.com/NHK_G/index.m3u8
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-id="nhkbs1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6d/NHKBS1%E3%83%AD%E3%82%B42020-.png", NHK BS1  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-id="nhkbsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/NHK_BS%E3%83%97%E3%83%AC%E3%83%9F%E3%82%A2%E3%83%A0_%E6%96%B0%E3%83%AD%E3%82%B4.png", NHK BS Premium 4K
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
+
+
+#EXTINF:-1 tvg-id="fashionhd" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.antmediatv.xyz/246.png", Fashion TV
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="lovenature" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi" , Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://i.imgur.com/PD1qeRO.jpg" group-title="🌏| Đối ngoại/Tin tức quốc tế", USA_NetWork-FHD
 https://7pal.short.gy/usanetwork
+
 #EXTINF:-1 tvg-id="blueantent" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://thumbor.prod.vidiocdn.com/--Y__FYsuwKLJ6nNO22iqu3Upwo=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8120/rock-entertainment-756300.jpg", Rock Entertainment
 http://210.210.155.35:80/dr9445/h/h16/01.m3u8
 #EXTINF:-1 tvg-id="blueantext" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://uploads-ssl.webflow.com/64e961c3862892bff815289d/64ef4338bc214f77a5db6ce9_Rock-Action_web_image.jpg", Rock Action
@@ -406,6 +440,17 @@ http://free.cvmtv.site/ABC?token=live
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://cdn.antmediatv.xyz/group/DUC.png" tvg-id="zdf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/ZDF_HD_Logo.svg/2560px-ZDF_HD_Logo.svg.png",ZDF
 http://free.cvmtv.site/ZDF?token=live
 
+
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="fishing" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tsuri_vision.png", BS Fishing Vision  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="js1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 1  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="js2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 2  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="js3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 3  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="js4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/j_sports_jp.png", J SPORTS 4  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-id="polsatsp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_Sport_2021_gradient.svg/1200px-Polsat_Sport_2021_gradient.svg.png",Polsat Sport
 http://free.cvmtv.site/Polsat?token=live
@@ -468,6 +513,16 @@ https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/in
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:0 tvg-id="Spacetoon.sy" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RzPOwqI.png" group-title="🅱️| Baby",Spacetoon (1080p)
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
+#EXTINF:-1 group-title="🅱️| Baby" tvg-id="animax" tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png", BS Animax  
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+#EXTINF:-1 group-title="🅱️| Baby" tvg-id="kidsstation" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kidsstation.png", Kids Staton TV
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07
+#EXTINF:-1 group-title="🅱️| Baby" tvg-id="cartoonnw" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon-network-us.svg", Cartoon Network 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+#EXTINF:-1 group-title="🅱️| Baby" tvg-id="disneyjr" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png", Disney Junior
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+#EXTINF:-1 group-title="🅱️| Baby" tvg-id="disneych" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney-channel-us.svg", Disney Channel
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
 
 #-*--Radio-*--#
