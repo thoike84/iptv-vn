@@ -26,7 +26,7 @@ https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjMyNTE
 https://code.antmediatv.xyz/getplay/livetv/vieon/MTcxLjI0My41Mi4xNTJ8MTcwNjMyNTE2MXxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706332361/vtv9-hd/playlist.m3u8
 
 
-#-*--VTVCAB-*--#
+#-*--VTC-*--#
 #EXTINF:-1 tvg-id="vtc1hd" group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1 HD
 https://1117141481.vnns.net/VTC1/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc2" group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2 HD
@@ -369,6 +369,7 @@ http://b4tv.live/b4tv/b4tv/20.m3u8
 http://b4tv.live/b4tv/b4tv/21.m3u8
 
 
+
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-id="discovery" tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery-channel-east-us.png", Discovery Channel  
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs08
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" group-logo="https://cdn.hqth.me/logo/category/jp.png" tvg-id="nhkg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/NHK%E7%B7%8F%E5%90%88%E3%83%AD%E3%82%B42020-.png", NHK G 
@@ -402,6 +403,8 @@ http://free.cvmtv.site/ERN?token=live
 http://free.cvmtv.site/SkyN?token=live
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png",NHK World
 https://b-nhkwlive-xjp.nhkworld.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/1280px-NHK_World-Japan_TV.svg.png",NHK World Premium
+https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium-avc1_2000000=1-mp4a_294400_jpn=5.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://www.openthebooks.com/assets/1/6/MainFCKEditorDimension/OAN.png",One American News
 https://cdn.klowdtv.net/803B48A/oan_aws_ms/OAN_720p30.m3u8
 
@@ -494,10 +497,6 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 https://7pal.short.gy/event1
 #EXTINF:-1 tvg-id="Sports.18.-.1.HD.in" tvg-logo="https://prod-media.beinsports.com/image/e3d8ef07bcc06956c8067bbf37f07df8.128.png?ver=09-01-2024" group-title="⚽| Thể thao", BeIN1-Asian_Cup
 https://7pal.short.gy/event2
-#EXTINF:-1 tvg-id="spotv1" group-title="⚽| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", SPOTV ASIA
-http://ott4livecdb.khanggtivi.xyz/spotv/mpegts
-#EXTINF:-1 tvg-id="spotv2" group-title="⚽| Thể thao" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/68/SPOTV2_logo_2018.png/revision/latest?cb=20230507021015", SPOTV2 ASIA
-http://ott4livecdb.khanggtivi.xyz/spotv2/mpegts
 
 #EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/N7K865M.png" group-title="⚽| Thể thao",ZiggoSportUHD
 https://7pal.short.gy/ZiggoSport
@@ -511,14 +510,8 @@ https://7pal.short.gy/tntspts3
 https://7pal.short.gy/SkSpMainE
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="⚽| Thể thao", SkySportsPL-FHD
 https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/TRX5fQr.png" group-title="⚽| Thể thao", SkySportsFBALL-FHD
-https://7pal.short.gy/ssportsfb
-#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/6h5V23t.png" group-title="⚽| Thể thao", SkySportsGolf-FHD
-https://7pal.short.gy/ssportsgf
 #EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.imgur.com/I1gtyo7.png" group-title="⚽| Thể thao", SkySportsNews-FHD
 https://7pal.short.gy/ssportsnw
-#EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="⚽| Thể thao", HubPremier1-FHD
-https://7pal.short.gy/HPremier1
 #EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="⚽| Thể thao", NowSportsPL1-FHD
 https://7pal.short.gy/nowhkp1
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="" group-title="⚽| Thể thao", SkySport8-PremierLeague_NZ-FHD
@@ -588,6 +581,8 @@ https://strm.voh.com.vn/radio/channel5/playlist.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/250.png", VOH AM 610Khz
 https://strm.voh.com.vn/radio/channel2/playlist.m3u8
 
+#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Xone-logo.jpg" radio="true",Xone Radio
+https://vnno-zn-11-tf-multi-playlist-zmp3.zmdcdn.me/rVRxDgLqxHo/zhls/playback-realtime/very-low/f9a40e7c3239db678228/very-low.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://assets-on.akamaized.net/images/v2/event/20230603/2023060301/THUMBJOYFM1.webp", JoyFM
 https://code.vthanhtivi.pw/getlink/onlive/joyfmmhz/20231229.m3u8
 
