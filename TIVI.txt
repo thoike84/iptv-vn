@@ -50,9 +50,9 @@ https://1117141481.vnns.net/VTC10/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc11" group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11 HD
 https://1117141481.vnns.net/VTC11/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc12" group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/SX9k3hO.png",VTC12 HD
-https://1117141481.vnns.net/VTC12/chunks.m3u8
+
 #EXTINF:-1 tvg-id="vtc13hd" group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/wnNBcEo.png",VTC13 HD
-https://1117141481.vnns.net/VTC13/chunks.m3u8
+
 #EXTINF:-1 tvg-id="vtc14hd" group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 HD
 https://1117141481.vnns.net/VTC14/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc16" group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD
@@ -493,37 +493,13 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 tvg-id="bein" tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-es1.png" group-title="⚽| Thể thao",BEIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/68741d735025657b96d8c7eb760d2e5c.128.png" group-title="⚽| Thể thao", BeIN3-Asian_Cup
-https://7pal.short.gy/event1
-#EXTINF:-1 tvg-id="Sports.18.-.1.HD.in" tvg-logo="https://prod-media.beinsports.com/image/e3d8ef07bcc06956c8067bbf37f07df8.128.png?ver=09-01-2024" group-title="⚽| Thể thao", BeIN1-Asian_Cup
-https://7pal.short.gy/event2
 
-#EXTINF:-1 tvg-id="Ziggo.Sport.nl" tvg-logo="https://i.imgur.com/N7K865M.png" group-title="⚽| Thể thao",ZiggoSportUHD
-https://7pal.short.gy/ZiggoSport
-#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="⚽| Thể thao", TNTSports1-FHD
-https://7pal.short.gy/tntspts1
-#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="⚽| Thể thao", TNTSports2-FHD
-https://7pal.short.gy/tntspts2
-#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="⚽| Thể thao", TNTSports3-FHD
-https://7pal.short.gy/tntspts3
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/mnAYZiQ.png" group-title="⚽| Thể thao", SkySportsMainEvent-FHD
-https://7pal.short.gy/SkSpMainE
-#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="⚽| Thể thao", SkySportsPL-FHD
-https://7pal.short.gy/ssportspl
-#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.imgur.com/I1gtyo7.png" group-title="⚽| Thể thao", SkySportsNews-FHD
-https://7pal.short.gy/ssportsnw
-#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="⚽| Thể thao", NowSportsPL1-FHD
-https://7pal.short.gy/nowhkp1
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="" group-title="⚽| Thể thao", SkySport8-PremierLeague_NZ-FHD
 https://7pal.short.gy/skyspt8nz
-#EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="⚽| Thể thao", Astro_Supersport1_MY-FHD
-https://7pal.short.gy/astross1
-#EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="⚽| Thể thao", Astro_Supersport2_MY-FHD
-https://7pal.short.gy/astross2
-#EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="⚽| Thể thao", Astro_Supersport3_MY-FHD
-https://7pal.short.gy/astross3
-#EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="⚽| Thể thao", Astro_Supersport4_MY-FHD
-https://7pal.short.gy/astross4
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="⚽| Thể thao", NowSportsPL1-FHD
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.2.hk" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="⚽| Thể thao", NowSportsPL2-FHD
+https://7pal.short.gy/nowhkp2
 #EXTINF:-1 tvg-id="EPL.za" tvg-logo="https://images.supersport.com/media/yvuloxza/premier-league-1.png" group-title="⚽| Thể thao", Supersport_Premier_League-FHD
 https://7pal.short.gy/spersppl
 #EXTINF:-1 tvg-id="FOOTBALL.za" tvg-logo="https://images.supersport.com/media/wx5prn11/football-6.png" group-title="⚽| Thể thao", Supersport_Football-FHD
@@ -536,10 +512,37 @@ https://7pal.short.gy/spersppsl
 https://7pal.short.gy/spersptns
 #EXTINF:-1 tvg-id="Tennis.Channel.HDTV.(TNNSHD).us" tvg-logo="https://marketingpartnerships.com/assets/companies/comp_12252_hero.jpg" group-title="⚽| Thể thao", Tennis_Channel
 https://7pal.short.gy/tennisc
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/68741d735025657b96d8c7eb760d2e5c.128.png" group-title="⚽| Thể thao", BeIN3-Asian_Cup
+https://7pal.short.gy/event1
+#EXTINF:-1 tvg-id="" tvg-logo="https://prod-media.beinsports.com/image/e3d8ef07bcc06956c8067bbf37f07df8.128.png?ver=09-01-2024" group-title="⚽| Thể thao", BeIN1-Asian_Cup
+https://7pal.short.gy/event2
 #EXTINF:-1 tvg-id="Premier.Sports.1.HD.ie" tvg-logo="https://i.imgur.com/YqTCkGk.png" group-title="⚽| Thể thao", PremierSports1-FHD
 https://7pal.short.gy/prsport1
 #EXTINF:-1 tvg-id="Premier.Sports.2.HD.ie" tvg-logo="https://i.imgur.com/RenHhOi.png" group-title="⚽| Thể thao", PremierSports2-FHD
 https://7pal.short.gy/prsport2
+#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="⚽| Thể thao", TNTSports1-FHD
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="⚽| Thể thao", TNTSports2-FHD
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="⚽| Thể thao", TNTSports3-FHD
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/mnAYZiQ.png" group-title="⚽| Thể thao", SkySportsMainEvent-FHD
+https://7pal.short.gy/SkSpMainE
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="⚽| Thể thao", SkySportsPL-FHD
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/TRX5fQr.png" group-title="⚽| Thể thao", SkySportsFBALL-FHD
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-logo="https://i.imgur.com/6h5V23t.png" group-title="⚽| Thể thao", SkySportsGolf-FHD
+https://7pal.short.gy/ssportsgf
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-logo="https://i.imgur.com/I1gtyo7.png" group-title="⚽| Thể thao", SkySportsNews-FHD
+https://7pal.short.gy/ssportsnw
+#EXTINF:-1 tvg-id="HubPremier.1.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" group-title="⚽| Thể thao", HubPremier1-FHD
+https://7pal.short.gy/HPremier1
+#EXTINF:-1 tvg-id="Hub.Premier.2.(HD).sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/222_1920x1080_HTV.png" group-title="⚽| Thể thao", HubPremier2-FHD
+https://7pal.short.gy/HPremier2
+#EXTINF:-1 tvg-id="Hub.Premier.3.sg" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/223_1920x1080_HTV.png" group-title="⚽| Thể thao", HubPremier3-FHD
+https://7pal.short.gy/HPremier3
+
 
 
 #EXTINF:0 group-title="🅱️| Baby" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png",PBS Kids
