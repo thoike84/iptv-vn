@@ -1,6 +1,15 @@
 #EXTM3U 
 
 
+#EXTINF:-1 group-title="🇻🇳| Cà Lem TV", FBNC
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706541960/ei/KG-3ZY-GCa2r0-kPse6ZwAU/ip/171.243.52.152/id/BG9Mds01yd4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fx06ordX34wr8qwd1FAbm8yFH-jSUWW3ipiXMYIKysgYMrxJDtz35oCv/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO_J_qOZhAa7MMq_wqq6Jmb-_b4ERryPrBFJPnsh_7eBAiADzcdRFtffvvLvPxtPTp47nAqh_M4Sy_7mk6sleJ4wAg%3D%3D/file/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| Cà Lem TV", VNEWS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706541857/ei/wW63ZfqDHsz67OsP88W1kAQ/ip/171.243.52.152/id/hapGZS42h_4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f-DxLPakj5CxssiUNl_UEJ3ZRD87D1Y3Sz_nALG9aztLX2848Jj5FUaI/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgL0uEI3uZ32ws3KotKIxvhE6uXCSiG9KVYkU9t1zhAKUCIEEk0lBqShCR8oBJ7BAfL4uRuaPga7RidiFik7n-Vpf5/file/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| Cà Lem TV", 360
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706542142/ei/3W-3ZYrTPIex1d8PpsyPQA/ip/171.243.52.152/id/Wn4viQpB1Hg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/maudio/1/siu/1/spc/UWF9f8AHvlJbApIH92ZJ04y_R9FTefiwc-2bUFIwXnG4v1UYcmdcvefiaqBt/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/LIVE/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgaMV2QP-6NZCguJq4t2woLVQ-EkIOe_q3UR72x926LaYCIATyISyC7IEBxybtT3yz4Og8NUwwA2fu5L-i0MQM19qJ/file/index.m3u8
+
+
+
 #-*--VTV-*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8|Referer=http://sctvonline.vn/
@@ -336,36 +345,13 @@ https://ott3.khanggtivi.xyz/live/channel/quocte/vstv210/index.m3u8
 
 
 #-*--Quốc tế-*--#
-#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://khanggne.github.io/logo/MSky_TV/hbohd.png" group-title="🌏| Quốc tế",HBO
-https://ott3.khanggtivi.xyz/live/channel/quocte/vstv207/index.m3u8
-#EXTINF:-1 tvg-id="cinemaxhd" tvg-name="Cinemax" tvg-logo="https://khanggne.github.io/logo/MSky_TV/cinemaxhd.png" group-title="🌏| Quốc tế",Cinemax
-http://ott4livecdb.khanggtivi.xyz/tivi/treobang/manifest.m3u8
-
-#EXTINF:-1 tvg-id="inthebox" group-title="🌏| Quốc tế" tvg-logo="https://khanggne.github.io/logo/inthebox.jpg",In The Box
-https://ott3.khanggtivi.xyz/live/channel/quocte/vstv220/index.m3u8
-#EXTINF:-1 tvg-id="boxmovie1" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="planetearthhd" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/BgmV1f8/Planet-earth-BEARTV.png",Planet Earth
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="outdoor" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/222.png", Outdoor Channel HD
-https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/216/2.m3u8
-#EXTINF:-1 tvg-id="hgtv" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/248.png", HGTV
-https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/99/2.m3u8
-#EXTINF:-1 tvg-id="man" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/205.png" , Man
-https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/237/2.m3u8
-#EXTINF:-1 tvg-id="drfithd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/206.png" , Dr.Fit
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="woman" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/209.png" , Woman
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="tv5monde" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/HnBxLwB/TV5-Monde-BEARTV.png", TV5MONDE
-https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/219.png" , Discovery Asia
 http://live.antmediatv.xyz:1234/stream/qnettv/discoveryasia/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
-#EXTINF:-1 tvg-id="afnhd" group-title="🌏| Quốc tế" group-logo="https://cdn.antmediatv.xyz/group/KhamPha.png" tvg-logo="https://cdn.antmediatv.xyz/253.png", Asian Food Network
-https://code.antmediatv.xyz/getplay/livetv/tv360/MTcxLjI0My41Mi4xNTJ8MTcwNjE3NzAwMnxBTlRtZWRpYS1QYXJ0bmVyLWJ5LVZUaGFuaC1OZXRXb3Jr/1706184203/215/2.m3u8
 
+#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://khanggne.github.io/logo/MSky_TV/hbohd.png" group-title="🌏| Quốc tế",HBO
+https://ott3.khanggtivi.xyz/live/channel/quocte/vstv207/index.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="🌏| Quốc tế" tvg-logo="https://khanggne.github.io/logo/inthebox.jpg",In The Box
+https://ott3.khanggtivi.xyz/live/channel/quocte/vstv220/index.m3u8
 #EXTINF:0 tvg-id="axnhd" group-title="🌏| Quốc tế" tvg-logo="https://khanggne.github.io/logo/MSky_TV/axn.png", AXN
 https://ott3.khanggtivi.xyz/live/channel/quocte/vstv215/index.m3u8
 #EXTINF:-1 tvg-id="animalhd" group-title="🌏| Quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/vop9bsxi_animal-planet_296_168.webp",Animal Planet
@@ -375,8 +361,27 @@ https://ott3.khanggtivi.xyz/live/channel/quocte/vstv213/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌏| Quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/2srt1v2v_discovery_296_168.webp", Discovery Channel
 https://ott3.khanggtivi.xyz/live/channel/quocte/vstv214/index.m3u8
 
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/188.png", Hollywood Classics
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1  tvg-id="planetearthhd" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/BgmV1f8/Planet-earth-BEARTV.png",Planet Earth
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="drfithd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/206.png" , Dr.Fit
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="woman" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/209.png" , Woman
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="lovenature" group-title="🌏| Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi" , Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+#EXTINF:-1 tvg-id="afnhd" group-title="🌏| Quốc tế" group-logo="https://cdn.antmediatv.xyz/group/KhamPha.png" tvg-logo="https://cdn.antmediatv.xyz/253.png", Asian Food Network
+https://ott3.khanggtivi.xyz/live/channel/tv360/TjhPOStNWlNmMTlmbjJTYVFHR2FtZ0hBM2wwRFRCNXpMRTNYZzdRd0VoNys3enY0MjBiZktkYU1kanZjc1ZGelo1SFM5WlBON2lFTjFCck11RFkzL1Y4V2RNc1RZd3hYS2NhL2RPQ0tadDQ9/chunklist.m3u8?vstv=215
+#EXTINF:-1 tvg-id="outdoor" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/222.png", Outdoor Channel HD
+https://ott3.khanggtivi.xyz/live/channel/tv360/TjhPOStNWlNmMTlmbjJTYVFHR2FtZ0hBM2wwRFRCNXpMRTNYZzdRd0VoNys3enY0MjBiZktkYU1kanZjc1ZGelo1SFM5WlBON2lFTjFCck11RFkzL1Y4V2RNc1RZd3hYS2NhL2RPQ0tadDQ9/chunklist.m3u8?vstv=216
+#EXTINF:-1 tvg-id="hgtv" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/248.png", HGTV
+https://ott3.khanggtivi.xyz/live/channel/tv360/TjhPOStNWlNmMTlmbjJTYVFHR2FtZ0hBM2wwRFRCNXpMRTNYZzdRd0VoNys3enY0MjBiZktkYU1kanZjc1ZGelo1SFM5WlBON2lFTjFCck11RFkzL1Y4V2RNc1RZd3hYS2NhL2RPQ0tadDQ9/chunklist.m3u8?vstv=99
+#EXTINF:-1 tvg-id="man" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/205.png" , Man
+https://ott3.khanggtivi.xyz/live/channel/tv360/TjhPOStNWlNmMTlmbjJTYVFHR2FtZ0hBM2wwRFRCNXpMRTNYZzdRd0VoNys3enY0MjBiZktkYU1kanZjc1ZGelo1SFM5WlBON2lFTjFCck11RFkzL1Y4V2RNc1RZd3hYS2NhL2RPQ0tadDQ9/chunklist.m3u8?vstv=237
 
 
 #-*--BEARTV-*--#
