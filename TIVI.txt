@@ -1,9 +1,25 @@
 #EXTM3U 
 
 
-
 #EXTINF:-1 group-title="🇻🇳| Livestream ", FBNC
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706541960/ei/KG-3ZY-GCa2r0-kPse6ZwAU/ip/171.243.52.152/id/BG9Mds01yd4.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maxh/4320/maudio/1/siu/1/spc/UWF9fx06ordX34wr8qwd1FAbm8yFH-jSUWW3ipiXMYIKysgYMrxJDtz35oCv/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaxh%2Cmaudio%2Csiu%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAO_J_qOZhAa7MMq_wqq6Jmb-_b4ERryPrBFJPnsh_7eBAiADzcdRFtffvvLvPxtPTp47nAqh_M4Sy_7mk6sleJ4wAg%3D%3D/file/index.m3u8
+
+#EXTINF:-1 group-title="🇻🇳| Phim kẻ độc hành ", T1
+https://1080.opstream4.com/20221103/37059_12473e3a/3238313/hls/mixed.m3u8
+#EXTINF:-1 group-title="🇻🇳| Phim kẻ độc hành ", T2
+https://1080.opstream4.com/20221103/37060_0fdc3e8e/2637864/hls/mixed.m3u8
+#EXTINF:-1 group-title="🇻🇳| Phim kẻ độc hành ", T3
+https://1080.opstream4.com/20221103/37061_55b03217/3686918/hls/mixed.m3u8
+#EXTINF:-1 group-title="🇻🇳| Phim kẻ độc hành ", T4
+https://1080.opstream4.com/20221103/37062_04305dd0/3249891/hls/mixed.m3u8
+#EXTINF:-1 group-title="🇻🇳| Phim kẻ độc hành ", T5
+https://1080.opstream4.com/20221103/37063_818e27a4/3604350/hls/mixed.m3u8
+#EXTINF:-1 group-title="🇻🇳| Phim kẻ độc hành ", T6
+https://1080.opstream4.com/20221103/37064_55c47f2d/2311983/hls/mixed.m3u8
+#EXTINF:-1 group-title="🇻🇳| Phim kẻ độc hành ", T7
+https://1080.opstream4.com/20221103/37065_c924d37a/3374926/hls/mixed.m3u8
+#EXTINF:-1 group-title="🇻🇳| Phim kẻ độc hành ", T8
+https://1080.opstream4.com/20221103/37066_69592f8f/2327260/hls/mixed.m3u8
 
 #-*--VTV-*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
