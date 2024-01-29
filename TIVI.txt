@@ -9,15 +9,15 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1706541960/ei/K
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
-https://ott3.khanggtivi.xyz/live/channel/tv360/TjhPOStNWlNmMTlmbjJTYVFHR2Ftc1VyQnkxeWpXMTBhbURoY2YrdWo4dnpLajBLRktLT2lHdTdtZ0Y2RzdVMWNGbmw5MTE5SmdrQ3pjdzkyTkFBYnJORm1HRWtjWkVQdWhRUUozeGwyR1k9/chunklist.m3u8?vstv=3
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
-https://ott3.khanggtivi.xyz/live/channel/tv360/TjhPOStNWlNmMTlmbjJTYVFHR2Ftc1VyQnkxeWpXMTBhbURoY2YrdWo4dnpLajBLRktLT2lHdTdtZ0Y2RzdVMWNGbmw5MTE5SmdrQ3pjdzkyTkFBYnJORm1HRWtjWkVQdWhRUUozeGwyR1k9/chunklist.m3u8?vstv=108
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-https://ott3.khanggtivi.xyz/live/channel/tv360/TjhPOStNWlNmMTlmbjJTYVFHR2Ftc1VyQnkxeWpXMTBhbURoY2YrdWo4dnpLajBLRktLT2lHdTdtZ0Y2RzdVMWNGbmw5MTE5SmdrQ3pjdzkyTkFBYnJORm1HRWtjWkVQdWhRUUozeGwyR1k9/chunklist.m3u8?vstv=110
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
-https://ott3.khanggtivi.xyz/live/channel/vieon/TjhPOStNWlNmMTlmbjJTYVFHR2Ftc1VyQnkxeWpXMTBhbURoY2YrdWo4dnpLajBLRktLT2lHdTdtZ0Y2RzdVMWNGbmw5MTE5SmdrQ3pjdzkyTkFBYnJORm1HRWtjWkVQdWhRUUozeGwyR1k9/615/playlist.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 https://ott3.khanggtivi.xyz/live/channel/tv360/TjhPOStNWlNmMTlmbjJTYVFHR2Ftc1VyQnkxeWpXMTBhbURoY2YrdWo4dnpLajBLRktLT2lHdTdtZ0Y2RzdVMWNGbmw5MTE5SmdrQ3pjdzkyTkFBYnJORm1HRWtjWkVQdWhRUUozeGwyR1k9/chunklist.m3u8?vstv=207
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
