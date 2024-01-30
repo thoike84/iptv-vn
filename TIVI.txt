@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U url-tvg="phattai_phattai@yahoo.com"
 
 
 #EXTINF:-1 group-title="🇻🇳| Livestream ", FBNC
@@ -218,21 +218,23 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u
 https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist_w1515940883.m3u8
 
 #EXTINF:-1 tvg-id="angiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/107.png", ATV HD | TH An Giang
-https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
+https://vips-livecdn.fptplay.net/MTk4Mzk3NHxhbmdpYW5nX2hscy5zbWlsfHZpZXR0ZWx8MTcwNjU4OTk5M3wxNzEuMjQzLjUyLjE1MnxlM2Y1MWU4YWQ0OGJjMzdmZjUxNzYzODRlOTY0YWU3Nw/epzsd1/angiang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="baria" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png", BRT HD | TH Bà Rịa Vũng Tàu
+https://vips-livecdn.fptplay.net/MTk4Mzk3NHxiYXJpYXZ1bmd0YXVfaGxzLnNtaWx8dmlldHRlbHwxNzA2NTkwMDE4fDE3MS4yNDMuNTIuMTUyfDBiNWJjOWI2NjcwZTBjNjJhOWJhZjRiYTUzMzA1OGQ1/epzsd1/bariavungtau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="baclieu" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/112.png", BLTV HD | TH Bạc Liêu
-https://1011154949.vnns.net/9ae92b5443d85f645471b0e9e9316d711706577796/baclieu1.480p.adm.tms/chunks.m3u8
+https://vips-livecdn.fptplay.net/MTk4Mzk3NHxiYWNsaWV1X2hscy5zbWlsfHZpZXR0ZWx8MTcwNjU5MDE2MHwxNzEuMjQzLjUyLjE1MnxiNTRlMWJhMWQxM2IxZDdhYWQyODE2NGJlNjc5Mjg1Ng/epzsd1/baclieu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bentre" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/113.png", THBT HD | TH Bến Tre
-https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/a5673c903913c9be621534c58d1b88c7/1706627888016/livetv/enc/ad0a64f9a7fc84f78390a5ae450acfcd/playlist.m3u8
+https://vips-livecdn.fptplay.net/MTk4Mzk3NHxiZW50cmVfaGxzLnNtaWx8dmlldHRlbHwxNzA2NTkwMjEzfDE3MS4yNDMuNTIuMTUyfDZkN2UxZjZkYjQxOTdlZjc0ZjYzYjRkMzhkZjE2MTdh/epzsd1/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/115.png", BTV1 HD | TH Bình Dương
-https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/da4b97bb9aa29bcda8fbfa7c1bafb467/1706626198212/livetv/enc/d8bae67ce818ed6b280ad78b035b8484/playlist.m3u8
+https://vips-livecdn.fptplay.net/MTk4Mzk3NHxidHYxX2hscy5zbWlsfHZpZXR0ZWx8MTcwNjU5MDI2NXwxNzEuMjQzLjUyLjE1MnxkNTkzODNlZGQ0Yzc4YWI1N2ZlMzA5Zjk2OTY2OWY0Mg/epzhd2/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhduong2" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/116.png", BTV2 HD | TH Bình Dương
-https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/d32aed13861d666e14631e2ad20da068/1706626246350/livetv/enc/d224c1504643dd5022491532f84ce7ab/playlist.m3u8
+https://vips-livecdn.fptplay.net/MTk4Mzk3NHxidHYyX2hscy5zbWlsfHZpZXR0ZWx8MTcwNjU5MDI4MHwxNzEuMjQzLjUyLjE1Mnw0MGI4YWI3NmFiZGEwZmRkY2Y0NzcyYWY5YzI3ZjRjOQ/epzhd2/btv2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/117.png", BTV3 | TH Bình Dương
 https://vips-livecdn.fptplay.net/MTk4Mzk3NHxiaW5oZHVvbmczX2hscy5zbWlsfHZpZXR0ZWx8MTcwNjU4NzU5NXwxNzEuMjQzLjUyLjE1MnwyMjA5OWRhOTlmZWU4NjZhM2ZiMjliMzE3NTI2Nzc3Mg/epzsd1/binhduong3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhduong6" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/120.png", BTV6 | TH Bình Dương
 https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/981c8bd44229043dd996e85129e7d3c1/1706626839094/livetv/enc/6efdc93bf135f14e729cea4653a5e674/playlist.m3u8
 #EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/96.png", BTV9 | An Viên TV
-https://ott3.nethubtv.vn/live/anvien/chunklist_1.m3u8
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/31d5da23f0ebc66a255132541d01c5eb/1706678754839/livetv/enc2/45ef7f63082488218aa1a8c93bb7c185/playlist.m3u8
 #EXTINF:-1 tvg-id="bacninh" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/110.png", BTV HD | TH Bắc Ninh
 https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/80b2b6522da24f08e26ea831b4d7b2be/1706626426522/livetv/enc/6ab9e31de0fa22dc902c1032ff0dfc22/playlist.m3u8
 #EXTINF:-1 tvg-id="baccan" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/111.png", TBK HD | TH Bắc Kạn
@@ -245,6 +247,10 @@ https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/347ee60e761670cfe7628525747c8de3/
 https://vips-livecdn.fptplay.net/MTk4Mzk3NHxzb2N0cmFuZ19obHMuc21pbHx2aWV0dGVsfDE3MDY1ODcyMDR8MTcxLjI0My41Mi4xNTJ8YjI0YmU1NGJkOWI5MTVlMjZiMjI5NTE5ODYxOGRkNmY/epzsd1/soctrang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/172.png", STV2 HD | TH Sóc Trăng
 
+#EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/147.png", HGTV HD | TH Hậu Giang
+https://vips-livecdn.fptplay.net/MTk4Mzk3NHxoYXVnaWFuZ192aGxzLnNtaWx8dmlldHRlbHwxNzA2NTkwMzg5fDE3MS4yNDMuNTIuMTUyfDEyZjM3Mzg0MGE1MGVjNmQ4OTI4MDQxZjMzNzc5NmE1/epzsd1/haugiang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="travinh" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/181.png", THTV HD | TH Trà Vinh
+https://vips-livecdn.fptplay.net/MTk4Mzk3NHx0cmF2aW5oX3ZobHMuc21pbHx2aWV0dGVsfDE3MDY1OTA0MTF8MTcxLjI0My41Mi4xNTJ8ZjVkYjgzOTRhOGFkMjkwZjQ2Y2ZiMjgxYWFiZWViMjA/epzsd1/travinh_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="kiengiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/151.png", KG HD | TH Kiên Giang
 https://vips-livecdn.fptplay.net/MTk4Mzk3NHxraWVuZ2lhbmdfaGxzLnNtaWx8dmlldHRlbHwxNzA2NTg3NDM2fDE3MS4yNDMuNTIuMTUyfDU3ZGExMzdlYmE5YWY5N2M1NTA4M2MwZmU3N2MxNTMz/epzsd1/kiengiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="haiduong" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/144.png", THD HD | TH Hải Dương
@@ -269,11 +275,8 @@ https://vips-livecdn.fptplay.net/MTk4Mzk3NHx0aGFuaGhvYV9obHMuc21pbHx2aWV0dGVsfDE
 https://vips-livecdn.fptplay.net/MTk4Mzk3NHxodWVfaGxzLnNtaWx8dmlldHRlbHwxNzA2NTg4NzEyfDE3MS4yNDMuNTIuMTUyfDQyOWRmMGI3Y2IzYzQ5MjNkNTIyNGE2ODVmYTIxZTAx/epzsd1/hue_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="tuyenquang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/182.png", TTV HD | TH Tuyên Quang
 https://vips-livecdn.fptplay.net/MTk4Mzk3NHx0dXllbnF1YW5nX2hscy5zbWlsfHZpZXR0ZWx8MTcwNjU4ODc2MHwxNzEuMjQzLjUyLjE1MnxmYjdhZGUzMzg2ZTk5M2VjMGVjMTViODZkNWQ1ZGJiNg/fnxsd1/tuyenquang_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="cantho" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/126.png", THTPCT HD | TH Cần Thơ
 https://live.canthotv.vn/live/tv/chunklist.m3u8
-#EXTINF:-1 tvg-id="baria" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png", BRT HD | TH Bà Rịa Vũng Tàu
-https://stream.brt.vn:8081/live/tv2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="bacgiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/109.png", BGTV HD | TH Bắc Giang
 https://live.mediatech.vn/live/285f5f227e988ab4445a2138091d3d62e8d/chunklist.m3u8
 #EXTINF:-1 tvg-id="binhdinh" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/114.png", BTV HD | TH Bình Định
@@ -318,8 +321,6 @@ https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
 #EXTINF:-1 tvg-id="haiphongplus" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/146.png", THP+ HD | TH Hải Phòng
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
-#EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/147.png", HGTV HD | TH Hậu Giang
-https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 #EXTINF:-1 tvg-id="hungyen" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/149.png", HY HD | TH Hưng Yên
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/chunklist.m3u8
 #EXTINF:-1 tvg-id="laichau" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/154.png", LTV HD | TH Lai Châu
@@ -356,8 +357,6 @@ https://live.mediatech.vn/live/285fe61ba73072f428d8a626d764222e744/chunklist.m3u
 https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="tiengiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/180.png", THTG HD | TH Tiền Giang
 http://123.25.238.45:1935/live/thtg/playlist.m3u8
-#EXTINF:-1 tvg-id="travinh" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/181.png", THTV HD | TH Trà Vinh
-https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="vinhphuc" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/183.png", VP HD | TH Vĩnh Phúc
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/184.png", YTV HD | TH Yên Bái
