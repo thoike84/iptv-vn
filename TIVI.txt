@@ -3,7 +3,7 @@
 
 #EXTINF:-1 group-title="🇻🇳| Livestream ", FBNC
 
-#EXTINF:0 tvg-id="" group-title=="🇻🇳| FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+#EXTINF:0 tvg-id="" group-title="🇻🇳| FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
 https://vips-livecdn.fptplay.net/MTk4Mzk3NHxmLWNoYW5uZWwxX3ZobHMuc21pbHx2aWV0dGVsfDE3MDY2MDI5Nzd8MTcxLjI0My41Mi4xNTJ8NDQzNjI4OWMyMTAxYzdmY2U0NGU1NDJlNzUzZjEzNTM/fnxhd2/f-channel1_vhls.smil/chunklist_b2500000.m3u8
 
 #-*--VTV-*--#
