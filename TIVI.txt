@@ -6,29 +6,30 @@
 #EXTINF:-1 group-title="🇻🇳| FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
 https://vips-livecdn.fptplay.net/MTk4Mzk3NHxmLWNoYW5uZWwxX3ZobHMuc21pbHx2aWV0dGVsfDE3MDY2MDI5Nzd8MTcxLjI0My41Mi4xNTJ8NDQzNjI4OWMyMTAxYzdmY2U0NGU1NDJlNzUzZjEzNTM/fnxhd2/f-channel1_vhls.smil/chunklist_b2500000.m3u8
 
+
 #-*--VTV-*--#
 #EXTINF:-1 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/1.png", VTV1
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8|Referer=http://sctvonline.vn/
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/2740de45cc13384d506169f3e725cf2d/1706692507494/livetv/enc2/3b0d13cc45a5e637e4672ba354d7e8b5/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/2.png", VTV2
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8|Referer=http://sctvonline.vn/
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/7f47ce28442d119c5f7432ebee52d673/1706692553794/livetv/enc2/65e4e2cd4a6cd1c07682cc9d1830fd3f/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/3.png", VTV3
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8|Referer=http://sctvonline.vn/
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/0afd0de04ca6333958c97ddd5648fbc4/1706692600483/livetv/enc2/00f4aa36b8d034b5e8569b77d1675c1e/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/4.png", VTV4
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8|Referer=http://sctvonline.vn/
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/f2165656f61201748860293ada2f5ac6/1706692638016/livetv/enc2/c9e89fdf42233e52a57a312baa4e9da0/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
-https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8|Referer=http://sctvonline.vn/
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/3ea31e18d7808ef316839ca13398dff6/1706692838716/livetv/enc2/53a3ed9b2879dc2dcc2051bff6060b37/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8|Referer=http://sctvonline.vn/
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/5a9ea2127adfd830866b150f5396496e/1706692694925/livetv/enc2/f1198968254f3d74c366645e9f5e260d/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
-https://livecdn-vthcm-vnw.vieon.vn/jF0n5m0oFjVwgUZRZKRCWw/1706625668/livetv/enc2/fa394ebe0828aa7ffdb9ca25d22296de/playlist.m3u8
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/8ac95d2688f19c1774ae7fc33df9126d/1706692884505/livetv/enc2/fa394ebe0828aa7ffdb9ca25d22296de/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8|Referer=http://sctvonline.vn/
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/aafd5c4ab943c38fd167328c11ce6faa/1706692924986/livetv/enc2/fdb7f91923323e646a69ce149f95f6cd/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8|Referer=http://sctvonline.vn/
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/ac2293cfca5711f739f7d4201a456a95/1706692970620/livetv/enc2/67d1c84cac97171d714848c4c34c2b3a/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
-https://livecdn-vthcm-vnw.vieon.vn/k7Uw-El876KkksJdufwLdQ/1706625066/livetv/enc2/fd6b24e22924ecd153258819ba2049b8/playlist.m3u8
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/3169059008ac3dfbb4929c6e0f935e49/1706693007216/livetv/enc2/fd6b24e22924ecd153258819ba2049b8/playlist.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/11.png", VTV9
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8|Referer=http://sctvonline.vn/
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/6ab8894b8126e69726cf77109f026df9/1706693036287/livetv/enc2/6f34d2d2b930641beddae9c9480005a7/playlist.m3u8
 
 
 #-*--VTC-*--#
@@ -115,17 +116,17 @@ https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/7f3e59738955d42cbfbf520e68e69ae0/
 #EXTINF:-1 tvg-id="htv1" group-title="🇻🇳| HTV" tvg-logo="https://i.ibb.co/0qMK4cP/HTV1-BEARTV.png", HTV1
 https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/09a056ca131ad83b8f9ea75e218d44f0/1706624842886/livetv/enc/93068c2a0ec828ae6ee56aa628341497/playlist.m3u8
 #EXTINF:-1 tvg-id="htv2hd" group-title="🇻🇳| HTV" tvg-logo="https://i.ibb.co/J7M2fsv/HTV2-BEARTV.png",HTV2
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8|Referer=http://sctvonline.vn
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/1ce81f4ad19d32371330b948e4ae205e/1706693328652/livetv/enc/84e39f2158e950a0d63d783260f7ea75/playlist.m3u8
 #EXTINF:-1 tvg-id="htv3" group-title="🇻🇳| HTV" tvg-logo="https://i.ibb.co/TP063Mw/HTV3-BEARTV.png", HTV3
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8|Referer=http://sctvonline.vn
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/788591ae863925b66fb2c1e5b7252c89/1706693382783/livetv/enc/96f1e40fdc011502d396c2eb0c3d9627/playlist.m3u8
 #EXTINF:-1 tvg-id="htv4" group-title="🇻🇳| HTV" tvg-logo="https://i.ibb.co/nL6Lg9X/HTVKEY-BEARTV.png", HTV Key
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8|Referer=http://sctvonline.vn
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/67a4c6b7024733cf98c46780594c7db4/1706693421623/livetv/enc/91e13f38078114329b4b4d45f613924b/playlist.m3u8
 #EXTINF:-1 tvg-id="htv7hd" group-title="🇻🇳| HTV" tvg-logo="https://i.ibb.co/mh1GLfY/HTV7-BEARTV.png" ,HTV7 
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=http://sctvonline.vn
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/0ea3e62125289ca89501b57ad98112fd/1706693464625/livetv/enc/60efe6198ce953ae1411fb164e334367/playlist.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="🇻🇳| HTV" tvg-logo="https://i.ibb.co/4VNDzHh/HTV9-BEARTV.png" ,HTV9
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8|Referer=http://sctvonline.vn
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/75e8896b11f30a28f98a85f5814f0717/1706693511001/livetv/enc/6d8dfd97165650a8935c57262d9be67f/playlist.m3u8
 #EXTINF:-1 tvg-id="htvthethaohd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
-https://livecdn-vthcm-vnw.vieon.vn/y1g5d6EwJUvF3SBJWwZWzQ/1706624720/livetv/enc/d3d81ce359479433b1ccf8d14c1d6578/playlist.m3u8
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/1d7b91da05538bfcbca3b19f771c47db/1706693575483/livetv/enc/d3d81ce359479433b1ccf8d14c1d6578/playlist.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/655ec7289e9157a6af1969c330f2be93/1706626029494/livetv/enc/bde40bfcc78519e17803b1a170d6e34b/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/LFL1x49.png",HTVC Thuần Việt
@@ -226,7 +227,7 @@ https://vips-livecdn.fptplay.net/MTk4Mzk3NHxhbmdpYW5nX2hscy5zbWlsfHZpZXR0ZWx8MTc
 #EXTINF:-1 tvg-id="baclieu" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/112.png", BLTV HD | TH Bạc Liêu
 https://vips-livecdn.fptplay.net/MTk4Mzk3NHxiYWNsaWV1X2hscy5zbWlsfHZpZXR0ZWx8MTcwNjU5MDE2MHwxNzEuMjQzLjUyLjE1MnxiNTRlMWJhMWQxM2IxZDdhYWQyODE2NGJlNjc5Mjg1Ng/epzsd1/baclieu_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.antmediatv.xyz/133.png" , CTV HD | TH Cà Mau
-https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/79c45cbbef94dd92e805fd455f9c52c3/1706626288513/livetv/enc/e5566ce84dbd12af9b594911da257b70/playlist.m3u8
+https://vips-livecdn.fptplay.net/MTk4Mzk3NHxjYW1hdV9obHMuc21pbHx2aWV0dGVsfDE3MDY2MDc1MTB8MTcxLjI0My41Mi4xNTJ8NGEwMTA4MjBmOTk1YWFlMmRkOTFkOWI1N2RkZTJjODM/epzsd1/camau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="bentre" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/113.png", THBT HD | TH Bến Tre
 https://vips-livecdn.fptplay.net/MTk4Mzk3NHxiZW50cmVfaGxzLnNtaWx8dmlldHRlbHwxNzA2NTkwMjEzfDE3MS4yNDMuNTIuMTUyfDZkN2UxZjZkYjQxOTdlZjc0ZjYzYjRkMzhkZjE2MTdh/epzsd1/bentre_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/115.png", BTV1 HD | TH Bình Dương
