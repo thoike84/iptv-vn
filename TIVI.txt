@@ -592,3 +592,146 @@ https://multi-playlist-zmp3.zmdcdn.me/Itsn5VCb5Uo/zhls/playback-realtime/4f2980e
 https://multi-playlist-zmp3.zmdcdn.me/94rxZ-Dfzro/zhls/playback-realtime/ff294ded71a898f6c1b9/index.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg", Zing MP3 - USUK
 https://multi-playlist-zmp3.zmdcdn.me/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
+
+
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2f17443e-96eb-4321-a245-6ccdbb139966/deagd7k-30bd027f-c318-410b-bc3f-99c5f55fb26e.png/v1/fill/w_512,h_512,strp/shaolin_soccer__2001__by_vahidkave_deagd7k-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTEyIiwicGF0aCI6IlwvZlwvMmYxNzQ0M2UtOTZlYi00MzIxLWEyNDUtNmNjZGJiMTM5OTY2XC9kZWFnZDdrLTMwYmQwMjdmLWMzMTgtNDEwYi1iYzNmLTk5YzVmNTVmYjI2ZS5wbmciLCJ3aWR0aCI6Ijw9NTEyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.BP5hmP_LhsWa60mk55-MuZCg45qPfaxhi_fpQpDCKio",Đội Bóng Thiếu Lâm (2001)
+#EXTVLCOPT:http-user-agent="CoocaaTV
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210707/shaolin_soccer_2001_1080p_china_sub_v2/311875906ff82a295b0d54a8c7840e50.smil/chunklist_b4628000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.ytimg.com/vi/is7ceCQT2JI/maxresdefault.jpg",Đỗ Thánh 1 (1990)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210719/all_for_the_winner_1990_hongkong_lt_v3/7c9d8f81ab56a795bfbaf293b37756fb.smil/chunklist_b4628000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://image.tmdb.org/t/p/w300/MQRwB224lAgh9ZyMRk6wyrgRaZ.jpg",Đỗ Thánh 2 (1990)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210719/godofgamblersii_1991_hongkong_lt_v2/1156fe0cf49a22375ba875baa13d8bac.smil/chunklist_b2828000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="http://3.bp.blogspot.com/-HBQw-D9cVzQ/VHOVcJVYSyI/AAAAAAAAAMw/oueJv2PUcPY/w1200-h630-p-k-no-nu/than-bai-1.jpg",Thần Bài 1 (1989)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20160304/28547462115ea15ff7d13ec167c9d52d.smil/chunklist_b1998000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://assets.glxplay.io/static/images/god-of-gamblers-2-poster-new_banner_landscape_21x9_2048x878_3x.jpg",Thần Bài 2 (1990)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/Temp/ThanBai_02fix.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://assets.glxplay.io/images/w400/title/god-of-gamblers-part-3--back-to-shanghai_web_posterLandscape_27a7f2dd49210b8ff40d1624fe8c3efc.jpg",Thần Bài 3 (1996)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/Temp/ThanBai_03fix.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://cdnmedia.webthethao.vn/thumb/720-405/uploads/img/files/images/fullsize/2019/11/22/vua-pha-hoai-va-nhung-bai-hoc-chien-thuat-danh-vo-dai-tu-chau-tinh-tri.jpg",Vua Phá Hoại (1994)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/ingest/loveondelivery-1994-hongkong-tm/LoveOnDelivery_1994_HongKong_TM_vip.smil/chunklist_b996000_sleng.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://flixwatch.co/wp-content/uploads/81038416.jpg",Bách Biến Tinh Quân (1995)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/60milionsdollarMan/60MillionsDollarMan_1995_HongKong.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://www.flixwatch.co/wp-content/uploads/81038418.jpg.webp",Vận May Mỉm Cười (1990)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/whenfortunesmiles/When_Fortune_Smiles_1990.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://3.bp.blogspot.com/-yIbTlwHwDwI/XR7__qxkgjI/AAAAAAAAW0E/579ob-q3OvoLSIaGDb_hwI-yUA7_oA7fQCLcBGAs/s1600/Chuyen-Gia-Bat-Ma-1995-1.jpg?imgmax=0",Chuyên Gia Bắt Ma (1995)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/OutOfTheDark_1995_HongKong.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://image.cdnclouds.org/400x225,sc/https://media.cdnclouds.org/img-redirect/movies/1990/anh_hung_cua_toi_my_hero_1990.jpg",Anh Hùng Của Tôi (1990)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/myhero/My_Hero_1990.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://cyberd.org/img/4/Fist-Of-Fury-1991.jpg",Tân Tinh Võ Môn 1 (1991)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/Tan_Tinh_Vo_Mon_I.mp4/chunklist.m3u8
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210714/fist_of_fury_1991_hongkong_lt_v4/0823c2748d886f40b220f7ebfb977fb4.smil/chunklist_b4628000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.ytimg.com/vi/oTnYDLDg2pE/mqdefault.jpg",Tân Tinh Võ Môn 2 (1992)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fistofury/Fist_Of_Fury_2_1991.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i.postimg.cc/TYpJcN0S/mad-monk-poster.jpg",Tế Công (1993)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/madmonk/The_Mad_Monk_1993.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://assets.glxplay.io/static/tricky-brains-poster-tag-tm_banner_landscape_21x9_2048x878_3x.jpg",Chuyên Gia Xảo Quyệt (1991)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/trickybrain/Tricky_Brains_1991.mp4/chunklist.m3u8
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210304/tricky-brains-1991-hongkong-uslt-v2/c57c82bb237c5d388b4057928c07489d.smil/chunklist_b2828000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://assets.glxplay.io/static/images/king-of-beggars-poster_banner_landscape_21x9_2048x878_3x.jpg",Trạng Nguyên Tô Khất Nhi (1992)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/KingOfBeggars_1992_HongKong.mp4/chunklist.m3u8
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170331/04ae898a459924ea4494d1293c8cea31.smil/chunklist_b1998000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://i0.wp.com/diendannguoiviet.com/wp-content/uploads/2021/10/Truong-Hoc-Uy-Long-1-Phim-Le-Hay-Nhat.jpg?fit=480%2C360&ssl=1",Trường Học Uy Long 1 (1991)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_1_1991.mp4/chunklist.m3u8
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170103/df7058800224db0c6818cc0dd292a7e5.smil/chunklist_b1998000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnO5CZmQxuNjW30UfPfs_2fR2ZJ_fvTabBYQ&usqp=CAU",Trường Học Uy Long 2 (1992)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_2_1992.mp4/chunklist.m3u8
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210713/fightbacktoschool_2_1991_hongkong_v3/0e081a274f7af33b3dd34051acaa18d8.smil/chunklist_b2828000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://allimages.sgp1.digitaloceanspaces.com/giaitrivietnetvn/2020/12/TRUONG-HOC-UY-LONG-3-Chau-Tinh-Tri-Truong.jpg",Trường Học Uy Long 3 (1993)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_3_1993.mp4/chunklist.m3u8
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210713/fightbacktoschool_3_1993_hongkong_v2/c1d6c04a1097544452ba8d65ed4f20c7.smil/chunklist_b2828000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://img.tvzingvn.com/uploads/2016/05/658509-royal-tramp-1-1992.jpg",Tân Lộc Đỉnh Ký 1 (1992)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/SeriesRoyalTramp_P01.mp4/chunklist.m3u8
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20181101/royal-tramp-1992-hongkong-lt/ada39ef7f89b0906775e42741960c26b.smil/chunklist_b3992000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://m.media-amazon.com/images/M/MV5BOTQyY2NjMjUtZDc5YS00ZTkxLThhOTctZjAxOTAwOGUzYjA2XkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg",Tân Lộc Đỉnh Ký 2 (1992)
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/SeriesRoyalTramp_P02.mp4/chunklist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://eatnmore.com/wp-content/uploads/2020/10/oldboy-272503.jpg" group-title="Phim Lẻ",Báo Thù 
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210311/oldboy_2003_korea_tm/b65543efcb6afcdc3977d05b4ac8e24e_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/cong-to-vien-hung-bao-ctvhb363901.jpg" group-title="Phim Lẻ",Công Tố Viên Hung Bạo
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191128/a_violent_prosecutor_fptplay_1080p_logofptplay/5504a21c41ce77478d8308592b16791c_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="http://khophimhan.com/wp-content/uploads/2017/09/top-phim-han-hay-nhat-ve-chien-tranh-khien-nguoi-xem-quan-tim-9.jpg" group-title="Phim Lẻ",Cờ Thái Cực Giương Cao
+https://vod06-cdn.fptplay.net/encoded/20200711/taegukgihwinalrimyeo_2004_korea_v2_sub/1080p/index.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://assets.glxplay.io/images/w700/title/the-man-from-nowhere_web_backdrop_bc181c4885ce3445594fc0d1add9ae36.jpg" group-title="Phim Lẻ",Người Vô Danh Tính 
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201119/the_man_from_nowhere_fptplay_1080p_sub_logofptplay/dca121e1023f189d84742aee00d0cf0d_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i.ytimg.com/vi/oOSataDfoo8/maxresdefault.jpg" group-title="Phim Lẻ",Tội Ác Ghê Tởm
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200914/i-saw-the-devil-2010-korea-sub-sub/b8df664240da80fb2f83002fa4f0a41b-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i.ytimg.com/vi/DsEJkUyFAi0/maxresdefault.jpg" group-title="Phim Lẻ",Trùm, Cớm và Ác Quỷ 
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200115/the_gangster_the_cop_the_devil_1080p_sub_logofptplay/25331b09a80bcf6c32ce785154064e32_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i.ytimg.com/vi/jQDwoFZVWxM/maxresdefault.jpg" group-title="Phim Lẻ",Kẻ Đi Săn
+https://vod07-cdn.fptplay.net/encoded/20200813/the-chaser-2008-korea-1080p-sub/1080p/index.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2021_02_13/vuong_bao_cuong4.jpg" group-title="Phim Lẻ",Thám Tử Phố Tàu
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20160117/b36c3a4846a24fcc246a3e22c86cf30a.smil/chunklist_b1998000.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://afamilycdn.com/thumb_w/600/150157425591193600/2021/2/13/thamtu4-1613208019019892095482-42-0-388-660-crop-1613208364169920836889.jpg" group-title="Phim Lẻ",Thám Tử Phố Tàu 2 
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210203/detective-chinatown-2-2018-china-tm/03a82ef013d3b92bc10bcbb74ebe167a.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://lh6.googleusercontent.com/LvrafZ96_KrF1NnDR4uLP4TtrFQrB7kFXRZinlGOnJQrwWX4TFNm976aGXF2_JCjw5M" group-title="Phim Lẻ",Thám Tử Phố Tàu 3
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210519/detective_chinatown_3_2021_sub_v5_sub/8e845eb0d74e2cfac69c75f93fbb9838_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/tham-tu-k-bi-mat-goa-phu-stkbmgp702957-2019120924.jpg" group-title="Phim Lẻ",Thám Tử K: Bí Mật Hoa Ô Đầu 
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201126/detective-k-secret-of-virtuous-widow-fptplay-1080p-sub-logofptplay/6aacaea92ad6acb2e7a3594c7ecb3eea-1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogImI4MDJiYjMxYzg0OWFjOGJhYWM0MWY4YTMyYmRlN2MwIiwgInZpZGVvX2lkIjogIjVmYzg5YzI5MjA4OWJkMGI5NjdiMjhlMyIsICJzZXJ2ZXJfdGltZSI6IDE2MzA4MTc0NjUsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://2.bp.blogspot.com/-CHVGwoUz7_Q/WsHzuM_2LSI/AAAAAAAE734/SSCJDQ4DRjcNT-Zj2xiYyGl5U7mE765wACHMYCw/s0/XemPhimOn_gallery_tham-tu-k-bi-mat-goa-phu-0.jpg" group-title="Phim Lẻ",Thám Tử K: Ma Cà Rồng Báo Thù 
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200618/detective_k_secret_of_the_living_dead_1080p_sub_logofptplay_v3/7ff832496f2755a6d194ed0053751cb3_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjIyYzkwNWNjOWI3MTFmNDQ0ZGNiMDY0Mzk0NWM0NTY1IiwgInZpZGVvX2lkIjogIjVlMjQxYzk5MjA4OWJkMDU0OTA2NjI5NCIsICJzZXJ2ZXJfdGltZSI6IDE2MzAxMTk4NDQsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/19_11_2020/untitled-119-11-2020_07g14-08.jpg" group-title="Phim Lẻ",Tuổi Trẻ Sục Sôi
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201119/hot_young_blood_fptplay_1080p_logofptplay_v2/98ae308c5a14cbe9d0abffd250d854ca_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://aumyhay.files.wordpress.com/2019/02/phim_phia_sau_tam_guong.jpg?w=1100&h=619" group-title="Phim Lẻ",Phía Sau Tấm Gương
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210828/look_away_2018_usa_1080p_logofptplay_tm/5edd470cf16e474018db6b757e015663_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjA5NzQzY2YyNDZkMzVkNWVlNGM1ZTNkNzVhOTZiMzNlIiwgInZpZGVvX2lkIjogIjYxMmU1NDg3MjA4OWJkMDBhM2I1N2JmMSIsICJzZXJ2ZXJfdGltZSI6IDE2MzA0MjcyNDQsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://phunuvietnam.mediacdn.vn/zoom/660_412/media/news/a658d23016fb87f4536849e04851921d/thumb/phim-thay-oi-em-yeu-anh-tung-mv-giong-em-gai-mua-banner-thumb43.jpg" group-title="Phim Lẻ",Thầy Ơi… Em Yêu Anh
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200212/sensei_fptplay_4k_1080p_sub_logofptplay/6e652b40df1f46a68b1829b24643254e_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i.imgur.com/TGRUeKg.jpg" group-title="Phim Lẻ",Dạ Quỷ 
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20191006/rampant_2018_korea_pd_1080p/02a04b8acf9805b901f1ed6e328dd9ab_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/07_04_2020/untitled-107-04-2020_09g47-56.jpg" group-title="Phim Lẻ",Sát Thủ Văn Phòng 
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201116/a_company_man_fptplay_1080p_logofptplay/89e2f8cbec8f370972d30ec946748a69_1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/04_12_2019/untitled-104-12-2019_02g47-24.jpg" group-title="Phim Lẻ",Ẩn Thân
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200413/secretly_greatly_fptplay_1080p_sub_logofptplay/5e495f83bc6ee50988e38a438e413c0e.smil/chunklist_b3992000.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/21_11_2019/201807191056251730_t21-11-2019_05g46-35.jpg" group-title="Phim Lẻ",Bạn Ma Phiền Toái
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20191120/the_soul_mate_1080p_logofptplay/df66379980f8c5ba1c81e3f5457659d9.smil/chunklist_b3992000.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://cdn-2.tstatic.net/sultra/foto/bank/images/film-korea-hit-and-run-squad.jpg" group-title="Phim Lẻ",Biệt Đội Hit & Run
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210801/hit_and_run_squad_2019_korea_1080p_sub/5a7ff0b555923e2feff4326995171f7a.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://afamilycdn.com/zoom/480_300/150157425591193600/2020/4/6/800x500-1-1586171317013355997755-0-0-500-800-crop-1586171325365794783897.png" group-title="Phim Lẻ",Thợ Săn Tiền Thưởng 
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210214/bounty-hunters-1080p-2016-korea-tm-v2/05bbb12160f74bb152d330ee3311bb54-1080p.mp4/chunklist.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.vieon.vn/vieplay-image/thumbnail_v4/2020/12/25/frdbggv2_1920x1080cobeak.jpg" group-title="Phim Lẻ",Cô Baek 
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210801/miss_baek_2018_korea_logofptplay_tm/76d40b845fc624c83ddf25551e14267a.smil/chunklist_b4628000.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.fptplay.net/static/img/share/video/10_09_2020/the-witch-banner10-09-2020_12g05-12.jpg" group-title="Phim Lẻ",Sát Thủ Nhân Tạo - The Witch: Part 1. The Subversion 
+https://vod02-cdn.fptplay.net/encoded/20200910/the_witch_part_1_the_subversion_2018_korea_sub_v3/1080p/index.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2018/8/26/1hoabi-15352543573631587444741.png" group-title="Phim Lẻ",Họa Bì - Painted Skin 2008 
+https://vod05-cdn.fptplay.net/encoded/20200524/paintedskin_2008_chi_mul/1080p/index.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://vcdn1-giaitri.vnecdn.net/2012/03/05/tao_hinh-1345817360.jpg?w=480&h=0&q=100&dpr=1&fit=crop&s=-XK0G6L2nLcmFPibyxLZHg" group-title="Phim Lẻ",Họa Bì 2 
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200726/psiitr2012dub/e84fbe510506ecb86c0e6edfc6b575ee.smil/chunklist_b4628000.m3u8  
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://hdvietsub.net/wp-content/uploads/2017/04/bg_01_lrs63116-744x419.jpg" group-title="Phim Lẻ",Đường Hầm 
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200331/tunnel_fptplay_rerender_1080p_sub_logofptplay/f1bba0f9553b464277ff0a748bb5cc54.smil/chunklist_b3992000.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://scontent.fdad2-1.fna.fbcdn.net/v/t1.6435-9/72995397_110657550355331_354254919823261696_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_ohc=m1-4D73iYAAAX83BnAY&_nc_ht=scontent.fdad2-1.fna&oh=4d003b0aba6183f19c722bde8c0f0416&oe=61549D8C" group-title="Phim Lẻ",Băng Trộm Siêu Đẳng 
+ https://vod05-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20200317/the_con_artists_fptplay_1080p_sub_logofptplay/0e21f15ac8f9e1f54e064386fee6f324_1080p.mp4/chunklist.m3u8?token=eyJoYXNoX3ZhbHVlIjogIjEwOTg5MzQ5ZWI1NGViZjZiOGVkODcwMTE5OWIwMzU5IiwgInZpZGVvX2lkIjogIjVkZTZiNmQ2MjA4OWJkMDI0N2NlZDZkZCIsICJzZXJ2ZXJfdGltZSI6IDE2MjgzMjY3MjAsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://danviet.mediacdn.vn/upload/4-2014/images/2014-12-23/1434416605-kihd1419328659-gangnam-blue-1.jpg" group-title="Phim Lẻ",Bụi Đời Gangnam 
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170103/41e759c60bb8f417d91962230f797c3c.smil/chunklist_b2992000.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.mnewsvn.com/uploads/20/5c11ddecef60e.jpg" group-title="Phim Lẻ",Găng Tơ Tái Xuất - Unstoppable Angry Bull 2018 
+https://vod04-cdn.fptplay.net/encoded/20200905/unstoppable_2018_1080p_korea_sub/1080p/index.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://anh.eva.vn/upload/4-2016/images/2016-12-01/1480588118-ava-songhye-kyo-thangnam.jpg" group-title="Phim Lẻ",Những Tháng Năm Rực Rỡ 
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200314/my_brilliant_life_fptplay_1080p_sub_logofptplay/124ad881347366836cf655191da10f62.smil/chunklist_b3992000.m3u8
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://kenh14cdn.com/thumb_w/660/2018/10/25/bg01jkt35500-15404821307571432905898.jpg" group-title="Phim Lẻ",Hóa Ra Anh Vẫn Ở Đây 
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201102/nevergone_2016_china_v3/5bb271549df8335ace2ed22b61fc120c.smil/chunklist_b4628000.m3u8?token=eyJoYXNoX3ZhbHVlIjogImQ1N2U0NDJkYjcyYzc5YjI4NzgzN2M4YmUyYmQ2NWFjIiwgInZpZGVvX2lkIjogIjU3YjJkMDgxMTdkYzEzMDJkNDRkYWE1ZiIsICJzZXJ2ZXJfdGltZSI6IDE2Mjk5NjkxMjcsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://static.tuoitre.vn/tto/i/s626/2016/08/12/train-to-busan-6-1471017852.jpg" group-title="Phim Lẻ", Chuyến Tàu Sinh Tử
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200504/train_to_busan_1080p_sub_logofptplay_v3/198cfd3cfabbca658a0818142450476e.smil/chunklist_b3992000.m3u8 
+#EXTINF:-1 tvg-id="phim" tvg-logo="https://i.ytimg.com/vi/yVucSRLLeIM/maxresdefault.jpg" group-title="Phim Lẻ", Bán Đảo Sinh Tử
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210623/train_to_busan_2_2020_korea_1080_sub/eb8797c6ff08713056f6788356dd0350.smil/chunklist_b4628000.m3u8?token=eyJoYXNoX3ZhbHVlIjogImQ1NTZlODU3YTBlNDhhN2U0ZmI2ZDYzOThkMGNmYThlIiwgInZpZGVvX2lkIjogIjYwZDZhZmY4MjA4OWJkMjJmYjVmNGNmZCIsICJzZXJ2ZXJfdGltZSI6IDE2Mjk4NjY5MjIsICJ2YWxpZF9taW51dGVzIjogNzIwfQ
+
