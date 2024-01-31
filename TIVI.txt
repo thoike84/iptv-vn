@@ -19,7 +19,8 @@ https://api.wintv.me/vtv4/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/5.png", VTV5
 https://api.wintv.me/vtv5/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8?|Referer=http://sctvonline.vn/
+#https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8?|Referer=http://sctvonline.vn/
+http://103.47.194.152/VTV5TNB/mpegts
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
@@ -97,17 +98,17 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?|Referer=http://sc
 
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/33.png", ON Life
 https://api.wintv.me/vtvcab22/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/34.png", ON Golf 
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="🇻🇳| Thể thao" tvg-logo="https://cdn.antmediatv.xyz/34.png", ON Golf 
 https://api.wintv.me/vtvcab23/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/14.png",  ON Sports HD 
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🇻🇳| Thể thao" tvg-logo="https://cdn.antmediatv.xyz/14.png",  ON Sports HD 
 https://api.wintv.me/vtvcab3/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/17.png", ON Sports+
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🇻🇳| Thể thao" tvg-logo="https://cdn.antmediatv.xyz/17.png", ON Sports+
 https://api.wintv.me/vtvcab6/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/27.png", ON Football HD 
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🇻🇳| Thể thao" tvg-logo="https://cdn.antmediatv.xyz/27.png", ON Football HD 
 https://api.wintv.me/vtvcab16/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/29.png", ON Sports News 
+#EXTINF:-1 tvg-id="vtvcab18hd" group-title="🇻🇳| Thể thao" tvg-logo="https://cdn.antmediatv.xyz/29.png", ON Sports News 
 https://api.wintv.me/vtvcab18/index.m3u8
-#EXTINF:-1 tvg-id="btv5hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/256.png", BTV5 - ON Sports Action
+#EXTINF:-1 tvg-id="btv5hd" group-title="🇻🇳| Thể thao" tvg-logo="https://cdn.antmediatv.xyz/256.png", BTV5 - ON Sports Action
 
 
 
@@ -125,7 +126,7 @@ https://api.wintv.me/htv4/index.m3u8
 https://api.wintv.me/htv7/index.m3u8
 #EXTINF:-1 tvg-id="htv9hd" group-title="🇻🇳| HTV" tvg-logo="https://i.ibb.co/4VNDzHh/HTV9-BEARTV.png" ,HTV9
 https://api.wintv.me/htv9/index.m3u8
-#EXTINF:-1 tvg-id="htvthethaohd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="🇻🇳| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
 https://api.wintv.me/htvtt/index.m3u8
 #EXTINF:-1 tvg-id="no_epg" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 
@@ -174,11 +175,11 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8?|Referer=http://
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv14hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/ThjNn6H/SCTV14-cc.webp",SCTV14
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv15hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/q1GPVFM/SCTV15-SSport-cc.webp",SCTV15
+#EXTINF:-1 tvg-id="sctv15hd" type="stream" group-title="🇻🇳| Thể thao" tvg-logo="https://i.ibb.co/q1GPVFM/SCTV15-SSport-cc.webp",SCTV15
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/01.m3u8
 #EXTINF:-1 tvg-id="sctv16hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/934CHgk/SCTV16-cc.webp",SCTV16
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv17hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/DK7fS8T/SCTV17-cc.webp",SCTV17
+#EXTINF:-1 tvg-id="sctv17hd" type="stream" group-title="🇻🇳| Thể thao" tvg-logo="https://i.ibb.co/DK7fS8T/SCTV17-cc.webp",SCTV17
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/01.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/fGHtx1M/SCTV18-cc.webp",SCTV18
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8?|Referer=http://sctvonline.vn/
@@ -188,7 +189,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/index.m3u8?|Referer=http://
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="ssctv21hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/q7XSnwX/SCTV21-cc.webp",SCTV21
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv22hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/zxDw1L7/SCTV22-cc.webp",SCTV22
+#EXTINF:-1 tvg-id="sctv22hd" type="stream" group-title="🇻🇳| Thể thao" tvg-logo="https://i.ibb.co/zxDw1L7/SCTV22-cc.webp",SCTV22
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctvhdpth" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/23fg0qV/SCTVPhim-cc.webp",SCTV Phim TH
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8?|Referer=http://sctvonline.vn/
@@ -374,6 +375,8 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 
 #--*.*--Hoạt hình--*.*--#
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🅱️| Baby" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
+https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="🅱️| Hoạt hình" tvg-logo="https://cdn.antmediatv.xyz/32.png", ON Kids
 
 #EXTINF:-1 tvg-id="happykids"  group-title="🅱️| Hoạt hình" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy Kids
@@ -532,13 +535,12 @@ http://fpt.vthanhtivi.pw/Hollywood_Classics/mpegts
 http://fpt.vthanhtivi.pw/In_The_Box/mpegts
 #EXTINF:-1 tvg-id="boxhits" group-title="🌏| vthanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png",Box Hits
 http://fpt.vthanhtivi.pw/Box_Hits/mpegts
-
 #EXTINF:-1 tvg-id="animalhd" group-title="🌏| vthanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png",Animal Planet
 http://fpt.vthanhtivi.pw/animal/index.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌏| vthanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png",BBC Earth
 http://fpt.vthanhtivi.pw/bbcearth/index.m3u8
-#EXTINF:-1 tvg-id="bbcworldnews" group-title="🌏| vthanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/213.png",BBC News
-http://fpt.vthanhtivi.pw/BBC_News/mpegts
+#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png",Discovery
+http://fpt.vthanhtivi.pw/discovery/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌏| vthanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png",Discovery
 http://fpt.vthanhtivi.pw/discovery/index.m3u8
 
