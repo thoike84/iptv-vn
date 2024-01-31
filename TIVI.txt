@@ -1,8 +1,6 @@
 #EXTM3U url-tvg="phattai_phattai@yahoo.com"
 
 
-#EXTINF:-1 group-title="🇻🇳| Livestream ", FBNC
-
 #EXTINF:-1 group-title="🇻🇳| FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
 https://vips-livecdn.fptplay.net/MTk4Mzk3NHxmLWNoYW5uZWwxX3ZobHMuc21pbHx2aWV0dGVsfDE3MDY2MDI5Nzd8MTcxLjI0My41Mi4xNTJ8NDQzNjI4OWMyMTAxYzdmY2U0NGU1NDJlNzUzZjEzNTM/fnxhd2/f-channel1_vhls.smil/chunklist_b2500000.m3u8
 
@@ -376,7 +374,7 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 
 #--*.*--Hoạt hình--*.*--#
-#EXTINF:-1 tvg-id="cartoonhd" group-title="🅱️| Baby" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🅱️| Hoạt hình" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
 https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab21hd" group-title="🅱️| Hoạt hình" tvg-logo="https://cdn.antmediatv.xyz/32.png", ON Kids
 
@@ -538,8 +536,6 @@ http://fpt.vthanhtivi.pw/Box_Hits/mpegts
 http://fpt.vthanhtivi.pw/animal/index.m3u8
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌏| vthanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png",BBC Earth
 http://fpt.vthanhtivi.pw/bbcearth/index.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png",Discovery
-http://fpt.vthanhtivi.pw/discovery/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌏| vthanhtivi" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png",Discovery
 http://fpt.vthanhtivi.pw/discovery/index.m3u8
 
