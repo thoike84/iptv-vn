@@ -19,11 +19,12 @@ https://api.wintv.me/vtv5/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/6.png", VTV5 Tây Nam Bộ
 #https://e3.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8?|Referer=http://sctvonline.vn/
 #http://103.47.194.152/VTV5TNB/mpegts
-http://gg.gg/HaNoiIPTV-VTV5_Tay_Nam_Bo_HD
+http://m3u.at/vtv5-tnb?playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
-http://gg.gg/HaNoiIPTV-VTV5_Tay_Nguyen
+http://m3u.at/Khichtv-vtv5-TN?/playlist_1080p.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8?|Referer=http://sctvonline.vn/
+#https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8?|Referer=http://sctvonline.vn/
+http://m3u.at/Khichtv-vtv6-hd?.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="vtv7hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/9.png", VTV7
 https://api.wintv.me/vtv7/index.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/10.png", VTV8
@@ -132,7 +133,7 @@ https://htvc271120.cdn.vnns.io/905f7861a4064478a088b6ba556cf33d1706822696/htvcoo
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/LFL1x49.png",HTVC Thuần Việt
 https://htvc271120.cdn.vnns.io/7906b1c97a11a9f1e8e34aecb59557ed1706824372/thuanviet.cat.720p.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcdulichhd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC DU LỊCH & CUỘC SỐNG
-http://gg.gg/HaNoiIPTV-HTVC_Du_lich_va_Cuoc_song
+https://htvc271120.cdn.vnns.io/a56eaa5105c9bb2dc1a4cb4ddd17c0161706822530/htvcgiadinh.adm.720p.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/fRSFr9h.png",HTVC GIA ĐÌNH
 https://wintv.fun/360/11/index.m3u8
 #EXTINF:-1 tvg-id="htvcphimhd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/SKeH11N.png",HTVC Phim HD
@@ -140,9 +141,9 @@ https://wintv.fun/360/15/index.m3u8
 #EXTINF:-1 tvg-id="htvcplushd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC PLUS
 https://htvc271120.cdn.vnns.io/c03f54b3de06e12a5435889b3598b6ef1706822468/htvcplus.adm.720p.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htvccanhachd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/DowOolr.png",HTVC Ca Nhạc
-http://gg.gg/HaNoiIPTV-HTVC_Ca_Nhac
+https://1011154949.vnns.net/4ff23c883bfe280d30671922200991bd1706822288/htvccanhac.adm.720p.tms/playlist.m3u8
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/LFqj48k.png",HTVC Phụ Nữ
-http://gg.gg/HaNoiIPTV-HTVC_Phu_Nu
+https://wintv.fun/360/12/index.m3u8
 
 
 #-*--SCTV-*--#
@@ -386,8 +387,6 @@ http://m3u.at/Lives-animax?khichTV/index.m3u8
 http://m3u.at/cartoon-khichTV?index.m3u8
 #EXTINF:-1 tvg-id="dormonhd" group-title="🅱️| Hoạt hình" tvg-logo="https://i.ibb.co/n1wXc9P/Khich-TV-live-dremon.png",Doremon HD 
 http://is.am/5mpe/Doremon/KhichTiVi.m3u8
-#EXTINF:-1 tvg-id="popsanimehd" group-title="🅱️| Hoạt hình" tvg-logo="https://i.ytimg.com/vi/Ku0ay2SpGgk/hqdefault.jpg",Sieu Nhận 
-http://is.am/5mpk/sieu-nhan-Gao{khichlive}index.m3u8
 #EXTINF:-1 tvg-id="onepnchahd" group-title="🅱️| Hoạt hình" tvg-logo="https://i.ibb.co/pQQdpKH/Khich-Ti-Vi-one.png",One pnchan HD 
 http://m3u.at/Onepnchman?khichTV/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🅱️| Hoạt hình" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network 
@@ -408,26 +407,21 @@ https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 http://live.antmediatv.xyz:1234/stream/qnettv/discoveryasia/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
 
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://khanggne.github.io/logo/MSky_TV/hbohd.png" group-title="🌏| Quốc tế",HBO
-https://ott3.khanggtivi.xyz/live/channel/quocte/vstv207/index.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="🌏| Quốc tế" tvg-logo="https://khanggne.github.io/logo/inthebox.jpg",In The Box
-https://ott3.khanggtivi.xyz/live/channel/quocte/vstv220/index.m3u8
-#EXTINF:0 tvg-id="axnhd" group-title="🌏| Quốc tế" tvg-logo="https://khanggne.github.io/logo/MSky_TV/axn.png", AXN
-https://ott3.khanggtivi.xyz/live/channel/quocte/vstv215/index.m3u8
-#EXTINF:-1 tvg-id="animalhd" group-title="🌏| Quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/vop9bsxi_animal-planet_296_168.webp",Animal Planet
-https://ott3.khanggtivi.xyz/live/channel/quocte/vstv212/index.m3u8
-#EXTINF:-1 tvg-id="bbcearth" group-title="🌏| Quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/66kpgfn6_bbc-earth_296_168.webp", BBC Earth
-https://ott3.khanggtivi.xyz/live/channel/quocte/vstv213/index.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏| Quốc tế" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/2srt1v2v_discovery_296_168.webp", Discovery Channel
-https://ott3.khanggtivi.xyz/live/channel/quocte/vstv214/index.m3u8
-
+http://m3u.at/live-khich-hbo?index.m3u8 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png",Cinemax
-http://fpt.vthanhtivi.pw/cinemax/index.m3u8
+http://m3u.at/Live-cinemax?index.m3u8
+#EXTINF:0 tvg-id="axnhd" group-title="🌏| Quốc tế" tvg-logo="https://khanggne.github.io/logo/MSky_TV/axn.png", AXN
+http://m3u.at/AXN-VN?khichTV/index.m3u8
 #EXTINF:-1 tvg-id="inthebox" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png",In The Box
-http://fpt.vthanhtivi.pw/In_The_Box/mpegts
+http://m3u.at/In-the-box?index.m3u8
 #EXTINF:-1 tvg-id="boxhits" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png",Box Hits
-http://fpt.vthanhtivi.pw/Box_Hits/mpegts
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png",Discovery
-http://fpt.vthanhtivi.pw/discovery/index.m3u8
+http://m3u.at/Box-Hits?index.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png",Discovery 
+http://m3u.at/discovery-viena?khichTV/index.m3u8
+#EXTINF:-1 tvg-id="animalhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png",Animal Planet
+http://m3u.at/Lives-animal?/khichTV/index.m3u8
+#EXTINF:-1 tvg-id="bbcearth" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png",BBC Earth
+http://gg.gg/HaNoiIPTV-BBC_Earth_HD
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=http://sctvonline.vn
