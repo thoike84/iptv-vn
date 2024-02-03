@@ -417,20 +417,6 @@ http://m3u.at/Stream-k5?khich-plus.m3u8
 http://m3u.at/Lives-animax?khichTV/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png",Cartoon Network
 http://m3u.at/cartoon-khichTV?index.m3u8
-#EXTINF:-1 tvg-id="dormonhd" group-title="🌈| Hoạt hình" tvg-logo="https://i.ibb.co/n1wXc9P/Khich-TV-live-dremon.png",Doremon HD 
-http://is.am/5mpe/Doremon/KhichTiVi.m3u8
-#EXTINF:-1 tvg-id="onepnchahd" group-title="🌈| Hoạt hình" tvg-logo="https://i.ibb.co/pQQdpKH/Khich-Ti-Vi-one.png",One pnchan HD 
-http://m3u.at/Onepnchman?khichTV/index.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network 
-https://ctrl.laotv.la/live/CartoonNetwork/index.m3u8
-#EXTINF:-1 tvg-id="cnhd" group-title="🌈| Hoạt hình" tvg-logo="https://i.ibb.co/7r76MkN/CN-Khich-TV.png",CN 
-http://tinyurl.com/Cnnhoathinh?Khichtv/index.m3u8
-#EXTINF:-1 tvg-id="cnhd" group-title="🌈| Hoạt hình" tvg-logo="https://i.ibb.co/J3CCyc6/KhichTV.png",disneyxd 
-http://tinyurl.com/Phineassesion?khichTV/index.m3u8
-#EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/iNUMohA.png", Boomerang HD
-https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="cbeebies" group-title="🌈| Hoạt hình" tvg-logo="https://i.ibb.co/F7jddXB/212.jpg", BBC Cbeebies
-https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 
 
 #----------*-Quốc tế-*----------#
@@ -438,22 +424,18 @@ https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/219.png" , Discovery Asia
 http://live.antmediatv.xyz:1234/stream/qnettv/discoveryasia/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
 
+#EXTINF:-1 tvg-id="bbcearth" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png",BBC Earth
+http://gg.gg/HaNoiIPTV-BBC_Earth_HD
+#EXTINF:-1 tvg-id="animalhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png",Animal Planet
+http://m3u.at/Lives-animal?/khichTV/index.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png",Discovery 
+http://m3u.at/discovery-viena?khichTV/index.m3u8
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://khanggne.github.io/logo/MSky_TV/hbohd.png" group-title="🎬| Phim",HBO
 http://m3u.at/live-khich-hbo?index.m3u8 
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png",Cinemax
 http://m3u.at/Live-cinemax?index.m3u8
 #EXTINF:0 tvg-id="axnhd" group-title="🎬| Phim" tvg-logo="https://khanggne.github.io/logo/MSky_TV/axn.png", AXN
 http://m3u.at/AXN-VN?khichTV/index.m3u8
-#EXTINF:-1 tvg-id="inthebox" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/189.png",In The Box
-http://m3u.at/In-the-box?index.m3u8
-#EXTINF:-1 tvg-id="boxhits" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/190.png",Box Hits
-http://m3u.at/Box-Hits?index.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png",Discovery 
-http://m3u.at/discovery-viena?khichTV/index.m3u8
-#EXTINF:-1 tvg-id="animalhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png",Animal Planet
-http://m3u.at/Lives-animal?/khichTV/index.m3u8
-#EXTINF:-1 tvg-id="bbcearth" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png",BBC Earth
-http://gg.gg/HaNoiIPTV-BBC_Earth_HD
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=http://sctvonline.vn
@@ -465,8 +447,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8?|Referer=http:/
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="woman" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/209.png" , Woman
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="tv5monde" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5 Monde Asie
-https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8?|Referer=https://sctvonline.vn
 
 #EXTINF:-1 tvg-id="afnhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/253.png", Asian Food Network
 
@@ -507,8 +487,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 https://ctrl.laotv.la/live/WWE/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="⚽| Thể thao", Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 tvg-id="fightbox-hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/mRsnztA.png",FightBox HD
-https://stream01.vnet.am/Fightbox/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
 https://ctrl.laotv.la/live/TSport1/index.m3u8
