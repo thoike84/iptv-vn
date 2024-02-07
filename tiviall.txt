@@ -23,19 +23,19 @@ http://b4tv.live/b4tv/b4tv/48.m3u8
 http://b4tv.live/b4tv/b4tv/86.m3u8
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="http://b4tv.live/images/0ef23e2c33c966c5c76e2b5cca9428f8.png", B4CONNECT 2
 http://b4tv.live/b4tv/b4tv/76.m3u8
-#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="http://b4tv.live:80/images/f86b6a1c40ff8ef5cb247f25a5a1b1c8.png", B4SPORT1 PLUS 
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="http://b4tv.live:80/images/f86b6a1c40ff8ef5cb247f25a5a1b1c8.png", B4SPORT1 PLUS 
 http://b4tv.live/b4tv/b4tv/19.m3u8
-#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="http://b4tv.live:80/images/f86b6a1c40ff8ef5cb247f25a5a1b1c8.png", B4SPORT2 PLUS
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="http://b4tv.live:80/images/f86b6a1c40ff8ef5cb247f25a5a1b1c8.png", B4SPORT2 PLUS
 http://b4tv.live/b4tv/b4tv/20.m3u8
-#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="http://b4tv.live:80/images/f86b6a1c40ff8ef5cb247f25a5a1b1c8.png", B4SPORT3 PLUS
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="http://b4tv.live:80/images/f86b6a1c40ff8ef5cb247f25a5a1b1c8.png", B4SPORT3 PLUS
 http://b4tv.live/b4tv/b4tv/21.m3u8
 
 
 #----------*-K+-*----------#
 
-#EXTINF:-1 tvg-id="kcinehd" group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/PzlEguH.jpg", K+CINE   
+#EXTINF:-1 tvg-id="kcinehd" group-title="🎬| Phim" tvg-logo="https://i.imgur.com/PzlEguH.jpg", K+CINE   
 http://is.am/5mf7/khichtivi/k+3/index.m3u8
-#EXTINF:-1 tvg-id="kaction" group-title="🇻🇳| K+" tvg-logo="https://i.ibb.co/qrrD9GT/Khich-Ti-Vi-K-action.png", K+ ACTION
+#EXTINF:-1 tvg-id="kaction" group-title="🎬| Phim" tvg-logo="https://i.ibb.co/qrrD9GT/Khich-Ti-Vi-K-action.png", K+ ACTION
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
 http://is.am/5mf8/khichtivi/k+4/index.m3u8
 #EXTINF:-1 tvg-id="Kkidshd" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS 
@@ -152,8 +152,7 @@ https://api.wintv.me/vtvcab22/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab23hd" group-title="⚽| Thể thao" tvg-logo="https://cdn.antmediatv.xyz/34.png", ON Golf 
 https://api.wintv.me/vtvcab23/index.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="⚽| Thể thao" tvg-logo="https://cdn.antmediatv.xyz/256.png", BTV5 - ON Sports Action
-https://code.antmediatv.xyz/getplay/livetv/tv360/NlBNNEZNRDNZbGFReGU1TktvVk05MEk4dlc1ODFFYmtrNzE4OXVlcnFObW1uTkNKSVZ3TzM5RWwrSXVqdEdaa0w2TmV1MEVEUE51RW9VTlFzd0w0d1cyektNaXhPR0p0MDNsRXlrNElpMnFZZU5JeS8vQUJ6Z05Mc1VZaEtRdkg0QXRYbkU5cGRCRVozekNDWmtZb0xnPT0=/1707222259/2380/2.m3u8
-
+http://gg.gg/HaNoiIPTV-BTV5-ON_Sports_Action_HD
 #EXTINF:0 tvg-id="vtvcab17hd" group-title="⚽| Thể thao" tvg-logo="https://i.ibb.co/C6bRbMq/vtvcab-khichtv.png" ,ON+
 
 
@@ -297,13 +296,16 @@ https://ott3.nethubtv.vn/live/btv1/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="binhduong2" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/116.png", BTV2 HD | TH Bình Dương
 https://wintv.fun/360/43/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/117.png", BTV3 | TH Bình Dương
-http://is.am/5nzy/khichtivi/bìnhuong3hd/index.m3u8
+https://code.antmediatv.xyz/getplay/livetv/fptplay/NlBNNEZNRDNZbGFReGU1TktvVk05eFltMXhKb0N0UExXV1pZM2tzek9aamhTWW9BdWd4OFVnNTdzelZMSjVJOEJ1VHJLbFBDeGU1S3VYUjRhV3BvMlhKY3h1WDBvbTFyS1AzcHcwekdvSW5iWDFsdDZTeGhMcFRVWTNaL0tpTWR5NEZyOWFMT1psNHkvWkZyOWNGc0pRPT0=/1707310520/binh-duong-3/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="binhduong6" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/120.png", BTV6 | TH Bình Dương
-https://tth.vn/binhduong6
+https://code.antmediatv.xyz/getplay/livetv/fptplay/NlBNNEZNRDNZbGFReGU1TktvVk05eFltMXhKb0N0UExXV1pZM2tzek9aamhTWW9BdWd4OFVnNTdzelZMSjVJOEJ1VHJLbFBDeGU1S3VYUjRhV3BvMlhKY3h1WDBvbTFyS1AzcHcwekdvSW5iWDFsdDZTeGhMcFRVWTNaL0tpTWR5NEZyOWFMT1psNHkvWkZyOWNGc0pRPT0=/1707310520/btv6/chunklist_b2500000.m3u8
+
 #EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/96.png", BTV9 | An Viên TV
 https://ott3.nethubtv.vn/live/anvien/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.antmediatv.xyz/133.png" , CTV HD | TH Cà Mau
-https://ott3.nethubtv.vn/live/camautv/chunklist_1.m3u8
+https://code.antmediatv.xyz/getplay/livetv/vieon/NlBNNEZNRDNZbGFReGU1TktvVk05eFltMXhKb0N0UExXV1pZM2tzek9aamhTWW9BdWd4OFVnNTdzelZMSjVJOEJ1VHJLbFBDeGU1S3VYUjRhV3BvMlhKY3h1WDBvbTFyS1AzcHcwekdvSW5iWDFsdDZTeGhMcFRVWTNaL0tpTWR5NEZyOWFMT1psNHkvWkZyOWNGc0pRPT0=/1707310520/ca-mau-1/playlist.m3u8
+
 #EXTINF:-1 tvg-id="cantho" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/126.png", THTPCT HD | TH Cần Thơ
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/133.png", ĐNRTV1 HD | TH Đồng Nai
