@@ -33,13 +33,18 @@ http://b4tv.live/b4tv/b4tv/21.m3u8
 
 #----------*-K+-*----------#
 
+#EXTINF:-1 tvg-id="ksport1hd" group-title="⚽| Thể thao" tvg-logo="https://i.ibb.co/MSQHgXV/Khichtivi-ksport1.png", K+ SPORT1 HD
+http://is.am/5nzx/khichtv/ksport1-bep/index.m3u8
+#EXTINF:-1 tvg-id="ksport2hd" group-title="⚽| Thể thao" tvg-logo="https://i.ibb.co/Yjr7dV2/20231125-khich-plus-k-sport2.png ", K+ SPORT2 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://is.am/5nyb/ksport2-khichtv/index.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="🎬| Phim" tvg-logo="https://i.imgur.com/PzlEguH.jpg", K+CINE   
-http://is.am/5mf7/khichtivi/k+3/index.m3u8
+https://hqth.me/KCINE-hd?khichTV/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="🎬| Phim" tvg-logo="https://i.ibb.co/qrrD9GT/Khich-Ti-Vi-K-action.png", K+ ACTION
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 
-http://is.am/5mf8/khichtivi/k+4/index.m3u8
+http://is.am/5kbv/khichtv/k+Action-b4p.m3u8
 #EXTINF:-1 tvg-id="Kkidshd" group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/nogNfPe.jpg", K+ KIDS 
-
+https://hqth.me/Kkids-khichtv?index.m3u8
 
 
 #----------*-VTV-*----------#
@@ -284,28 +289,25 @@ https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u
 https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist_w1515940883.m3u8
 
 #EXTINF:-1 tvg-id="angiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/107.png", ATV HD | TH An Giang
-http://gg.gg/HaNoiIPTV-ATV-Truyen_hinh_An_Giang_HD
+https://wintv.fun/360/35/index.m3u8
 #EXTINF:-1 tvg-id="baria" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/108.png", BRT HD | TH Bà Rịa Vũng Tàu
 https://stream.brt.vn:8081/live/tv2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="baclieu" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/112.png", BLTV HD | TH Bạc Liêu
-
+https://ott3.nethubtv.vn/live/baclieutv/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="bentre" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/113.png", THBT HD | TH Bến Tre
 http://gg.gg/HaNoiIPTV-THBT-Truyen_hinh_Ben_Tre_HD
 #EXTINF:-1 tvg-id="binhduong1" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/115.png", BTV1 HD | TH Bình Dương
-http://gg.gg/HaNoiIPTV-BTV1_HD
+https://wintv.fun/360/42/index.m3u8
 #EXTINF:-1 tvg-id="binhduong2" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/116.png", BTV2 HD | TH Bình Dương
-http://gg.gg/HaNoiIPTV-BTV2_HD
+https://wintv.fun/360/43/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/117.png", BTV3 | TH Bình Dương
-https://code.antmediatv.xyz/getplay/livetv/fptplay/NlBNNEZNRDNZbGFReGU1TktvVk05eFltMXhKb0N0UExXV1pZM2tzek9aamhTWW9BdWd4OFVnNTdzelZMSjVJOEJ1VHJLbFBDeGU1S3VYUjRhV3BvMlhKY3h1WDBvbTFyS1AzcHcwekdvSW5iWDFsdDZTeGhMcFRVWTNaL0tpTWR5NEZyOWFMT1psNHkvWkZyOWNGc0pRPT0=/1707310520/binh-duong-3/chunklist_b2500000.m3u8
-
+http://is.am/5nzy/khichtivi/bìnhuong3hd/index.m3u8
 #EXTINF:-1 tvg-id="binhduong6" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/120.png", BTV6 | TH Bình Dương
 https://code.antmediatv.xyz/getplay/livetv/fptplay/NlBNNEZNRDNZbGFReGU1TktvVk05eFltMXhKb0N0UExXV1pZM2tzek9aamhTWW9BdWd4OFVnNTdzelZMSjVJOEJ1VHJLbFBDeGU1S3VYUjRhV3BvMlhKY3h1WDBvbTFyS1AzcHcwekdvSW5iWDFsdDZTeGhMcFRVWTNaL0tpTWR5NEZyOWFMT1psNHkvWkZyOWNGc0pRPT0=/1707310520/btv6/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/96.png", BTV9 | An Viên TV
-
+https://ott3.nethubtv.vn/live/anvien/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.antmediatv.xyz/133.png" , CTV HD | TH Cà Mau
-https://code.antmediatv.xyz/getplay/livetv/vieon/NlBNNEZNRDNZbGFReGU1TktvVk05eFltMXhKb0N0UExXV1pZM2tzek9aamhTWW9BdWd4OFVnNTdzelZMSjVJOEJ1VHJLbFBDeGU1S3VYUjRhV3BvMlhKY3h1WDBvbTFyS1AzcHcwekdvSW5iWDFsdDZTeGhMcFRVWTNaL0tpTWR5NEZyOWFMT1psNHkvWkZyOWNGc0pRPT0=/1707310520/ca-mau-1/playlist.m3u8
-
+https://wintv.fun/360/46/index.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/126.png", THTPCT HD | TH Cần Thơ
 https://live.canthotv.vn/live/tv/chunklist.m3u8
 #EXTINF:-1 tvg-id="dongnai1" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/133.png", ĐNRTV1 HD | TH Đồng Nai
@@ -321,7 +323,7 @@ https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w517802219.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/147.png", HGTV HD | TH Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 #EXTINF:-1 tvg-id="kiengiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/151.png", KG HD | TH Kiên Giang
-
+https://ott3.nethubtv.vn/live/kiengiangtv/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/158.png", LA34 HD | TH Long An
 https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/171.png", STV1 HD | TH Sóc Trăng
@@ -348,6 +350,7 @@ http://123.31.36.68/live.m3u8?c=vstv369&q=high&type=tv&token=LX-ibJYRUq9pflRtYAx
 #EXTINF:-1 tvg-id="hoabinh" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/148.png", HBTV | TH Hòa Bình
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/150.png", KTV HD | TH Khánh Hòa
+https://ott4.nethubtv.vn/live/khanhhoatv/chunklist_1.m3u8
 
 #EXTINF:-1 tvg-id="namdinh" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/159.png", NTV | TH Nam Định
 http://14.167.74.178:4000/rtp/232.84.3.119:9006
