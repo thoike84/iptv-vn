@@ -17,6 +17,7 @@ https://api.wintv.me/vtv5/index.m3u8
 https://wintv.fun/360/157/index.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/7.png", VTV5 Tây Nguyên
 #http://gg.gg/HaNoiIPTV
+https://wintv.fun/360/207/index.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="🇻🇳| VTV" tvg-logo="https://cdn.hqth.me/logo/thumbs/8.png", VTV Cần Thơ
 #https://e2.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8?|Referer=http://sctvonline.vn/
 https://api.wintv.me/vtv6/index.m3u8
@@ -40,6 +41,15 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8?|Referer=http://s
 #EXTINF:-1 tvg-id=""group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png",TVB VIỆT NAM
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
+https://wintv.fun/360/25/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
+https://wintv.fun/360/26/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
+https://wintv.fun/360/219/index.m3u8
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
+https://wintv.fun/360/220/index.m3u8
+
 #EXTINF:-1 tvg-id="ttqtv" group-title="🇻🇳| Địa phương" tvg-logo="https://www.viettv24.com/main/images/ttqtv_logo.jpg",TTQ
 https://fr-1.galaxyott.com/streamer/ttq/playlist.m3u8
 #EXTINF:-1 tvg-id="hitv" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/98.png", HCATV1 - HiTV HD
@@ -50,12 +60,16 @@ https://code.antmediatv.xyz/getplay/livetv/tv360/NlBNNEZNRDNZbGFReGU1TktvVk05MEk
 #EXTINF:-1 tvg-id="youtv" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png", HCATV2 - YouTV
 https://code.antmediatv.xyz/getplay/livetv/fptplay/NlBNNEZNRDNZbGFReGU1TktvVk05MEk4dlc1ODFFYmtrNzE4OXVlcnFObW1uTkNKSVZ3TzM5RWwrSXVqdEdaa0w2TmV1MEVEUE51RW9VTlFzd0w0d1cyektNaXhPR0p0MDNsRXlrNElpMnFZZU5JeS8vQUJ6Z05Mc1VZaEtRdkg0QXRYbkU5cGRCRVozekNDWmtZb0xnPT0=/1707222260/youtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/103.png", THVL1 HD
-https://wintv.fun/360/25/index.m3u8
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/104.png", THVL2 HD
-https://wintv.fun/360/26/index.m3u8
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/105.png", THVL3 HD
-https://wintv.fun/360/219/index.m3u8
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/106.png", THVL4 HD
-https://wintv.fun/360/220/index.m3u8
+#EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/9wxKmLH/ANTV-BEARTV.png", ANTV HD
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#EXTINF:-1 tvg-id="quochoi" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/qrQ8fJM/qhtv-BEARTV.png",QUỐC HỘI TV
+https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8
+#EXTINF:-1 tvg-id="nhandan" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png",NHÂN DÂN TV
+https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w2032123611.m3u8
+#EXTINF:-1 tvg-id="vovtvhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png", VOVTV HD
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png" ,VNews
+https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist_w1515940883.m3u8
+#EXTINF:-1 tvg-id="qpvnhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
+https://ott4.nethubtv.vn/live/qpvn/chunklist_2.m3u8
 
