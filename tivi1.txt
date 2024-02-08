@@ -72,11 +72,11 @@ https://liveh12.vtvcab.vn/hls/ONQUOCHOI_CL/04.m3u8
 #EXTINF:-1 tvg-id="qpvnhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/SxyVmWr/QPVN-BEARTV.png",QUỐC PHÒNG VIỆT NAM
 https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/03.m3u8
 #EXTINF:-1 tvg-id="nhandan" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/Cwb7y50/NHANDAN-BEARTV.png",NHÂN DÂN TV
-https://video.nhandan.thienvietjsc.net/live/nhandan720/chunklist_w2032123611.m3u8
+https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/03.m3u8
+#EXTINF:-1 tvg-id="ttxvnhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png" ,VNews
+https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/03.m3u8
 #EXTINF:-1 tvg-id="vovtvhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/TMVw5Hw/VOV-BEARTV.png", VOVTV HD
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
-#EXTINF:-1 tvg-id="ttxvnhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.ibb.co/mFj98VJ/VNEWS-BEARTV.png" ,VNews
-https://zjizeoupprliv.vcdn.cloud/live/vnews/chunklist_w1515940883.m3u8
 
 #EXTINF:-1 tvg-id="angiang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/107.png", ATV HD | TH An Giang
 https://wintv.fun/360/35/index.m3u8
@@ -95,7 +95,7 @@ https://wintv.fun/360/43/index.m3u8
 #EXTINF:-1 tvg-id="binhduong6" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/120.png", BTV6 | TH Bình Dương
 
 #EXTINF:-1 tvg-id="anvienhd" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/96.png", BTV9 | An Viên TV
-https://ott3.nethubtv.vn/live/anvien/chunklist_1.m3u8
+https://hqth.me/xxfZ
 #EXTINF:-1 tvg-id="camau" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.antmediatv.xyz/133.png" , CTV HD | TH Cà Mau
 https://wintv.fun/360/46/index.m3u8
 #EXTINF:-1 tvg-id="cantho" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/126.png", THTPCT HD | TH Cần Thơ
@@ -105,7 +105,7 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai2" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/134.png", ĐNRTV2 HD | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="dongnai3" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/135.png", ĐNRTV3 | TH Đồng Nai
-https://code.antmediatv.xyz/getplay/livetv/vieon/NlBNNEZNRDNZbGFReGU1TktvVk05MWxwM1ZvY0VKT01teXU0Yk9lZUJuQk9zbGFNSUY2L3RnR0lVUzBsa09qVWtNYjB1QU9Ua1VHSG1BdGNDNTBTQVVGcmZ6L0hvOGtpWGJmY05OVldwYTZNaGkyWnhaUDlxUDg2VmFvdFRnVjl3cGp1TW8xajMwNGI0V2NSdWROaVl3PT0=/1707287294/dong-nai-3/playlist.m3u8
+https://hqth.me/87lz
 #EXTINF:-1 tvg-id="dongthap" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/136.png", THĐT1 HD | TH Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDT/thdttv/chunklist_w912629269.m3u8
 #EXTINF:-1 tvg-id="dongthap2" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/137.png", THĐT2 HD | TH Đồng Tháp
