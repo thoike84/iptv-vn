@@ -2,8 +2,6 @@
 #EXTINF:0
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="",HCATV1 - HiTV
-#EXTINF:-1 group-title="🇻🇳| FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
 
 
 #----------*-BEARTV-*----------#
@@ -46,7 +44,7 @@ http://is.am/5nyb/ksport2-khichtv/index.m3u8
 https://hqth.me/KCINE-hd?khichTV/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION
 http://is.am/5kbv/khichtv/k+Action-b4p.m3u8
-#EXTINF:-1 tvg-id="Kkidshd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS 
+#EXTINF:-1 tvg-id="Kkidshd" group-title="🌈| Thiếu nhi" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS 
 https://hqth.me/Kkids-khichtv?index.m3u8
 
 
@@ -103,7 +101,7 @@ https://1117141481.vnns.net/VTC8/chunks.m3u8
 https://1117141481.vnns.net/VTC9/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc10hd" group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 HD
 https://1117141481.vnns.net/VTC10/chunks.m3u8
-#EXTINF:-1 tvg-id="vtc11" group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11 HD
+#EXTINF:-1 tvg-id="vtc11" group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11 HD
 https://1117141481.vnns.net/VTC11/chunks.m3u8
 #EXTINF:-1 tvg-id="vtc12" group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/SX9k3hO.png",VTC12 HD
 
@@ -131,7 +129,7 @@ https://api.wintv.me/vtvcab5/index.m3u8
 https://api.wintv.me/vtvcab6/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/18.png", ON O2TV
 https://api.wintv.me/vtvcab7/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab8hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/19.png", ON BiBi
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="🌈| Thiếu nhi" tvg-logo="https://cdn.antmediatv.xyz/19.png", ON BiBi
 https://api.wintv.me/vtvcab8/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/20.png", ON Info TV
 https://api.wintv.me/vtvcab9/index.m3u8
@@ -153,7 +151,7 @@ https://api.wintv.me/vtvcab18/index.m3u8
 https://api.wintv.me/vtvcab19/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/31.png", ON VFamily
 https://api.wintv.me/vtvcab20/index.m3u8
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.antmediatv.xyz/32.png", ON Kids
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="🌈| Thiếu nhi" tvg-logo="https://cdn.antmediatv.xyz/32.png", ON Kids
 https://api.wintv.me/vtvcab21/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab22hd" group-title="🇻🇳| VTVcab" tvg-logo="https://cdn.antmediatv.xyz/33.png", ON Life
 https://api.wintv.me/vtvcab22/index.m3u8
@@ -206,7 +204,7 @@ http://gg.gg/HaNoiIPTV-HTVC_Ca_Nhac
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv2hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/cJmDkTP/SCTV2-cc.webp",SCTV2
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv3hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/7QPYf6D/SCTV3-cc.webp",SCTV3
+#EXTINF:-1 tvg-id="sctv3hd" type="stream" group-title="🌈| Thiếu nhi" tvg-logo="https://i.ibb.co/7QPYf6D/SCTV3-cc.webp",SCTV3
 https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv4hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/FwV83nc/SCTV4-cc.webp",SCTV4
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8?|Referer=http://sctvonline.vn/
@@ -238,7 +236,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8?|Referer=http://
 https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/01.m3u8
 #EXTINF:-1 tvg-id="sctv18hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/fGHtx1M/SCTV18-cc.webp",SCTV18
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="sctv19hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/31xjyg6/SCTV19-cc.webp",SCTV19
+#EXTINF:-1 tvg-id="sctv19hd" type="stream" group-title="🌈| Thiếu nhi" tvg-logo="https://i.ibb.co/31xjyg6/SCTV19-cc.webp",SCTV19
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv20hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/mXBX0sN/SCTV20-cc.webp",SCTV20
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8?|Referer=http://sctvonline.vn/
@@ -248,7 +246,7 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8?|Referer=http://
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctvhdpth" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/23fg0qV/SCTVPhim-cc.webp",SCTV Phim TH
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="happykids"  group-title="🌈| Hoạt hình" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy Kids
+#EXTINF:-1 tvg-id="happykids"  group-title="🌈| Thiếu nhi" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy Kids
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?|Referer=http://sctvonline.vn/
 
 
@@ -325,6 +323,7 @@ https://ott3.nethubtv.vn/live/kiengiangtv/chunklist_1.m3u8
 https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/171.png", STV1 HD | TH Sóc Trăng
 https://wintv.fun/360/84/index.m3u8
+
 #EXTINF:-1 tvg-id="soctrang" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/172.png", STV2 HD | TH Sóc Trăng
 
 #EXTINF:-1 tvg-id="tayninh" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/174.png", TTV11 HD | TH Tây Ninh
@@ -437,9 +436,9 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 #----------*-Hoạt hình-*----------#
 
-#EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png",Animax
+#EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Thiếu nhi" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png",Animax
 http://gg.gg/HaNoiIPTV-Animax_HD
-#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png",Cartoon Network
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Thiếu nhi" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png",Cartoon Network
 http://gg.gg/HaNoiIPTV-Cartoon_Network_HD
 
 
