@@ -1,4 +1,10 @@
-#EXTM3U
+#EXTM3U url-tvg="phattai_phattai@yahoo.com" tvg-shift=0 m3uautoload=1
+#EXTINF:0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
+#EXTINF:-1 tvg-logo="",HCATV1 - HiTV
+#EXTINF:-1 group-title="🇻🇳| FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+
 
 #EXTINF:-1 group-title="🇻🇳| FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",Phim
 https://vod-ali1.tv360.vn/video1/2023/06/05/13/fe117649/fe117649-e63c-45f4-9d99-69dad9bc67d3_5_.m3u8
