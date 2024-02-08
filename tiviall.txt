@@ -1,8 +1,11 @@
 #EXTM3U url-tvg="phattai_phattai@yahoo.com"
 
+
 #EXTINF:-1 group-title="🇻🇳| FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 
 #----------*-BEARTV-*----------#
+
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://i.ibb.co/fD13MRN/BEARTV.png" ,BEAR TV
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg", Phim TM
@@ -34,19 +37,14 @@ http://b4tv.live/b4tv/b4tv/21.m3u8
 #----------*-K+-*----------#
 
 #EXTINF:-1 tvg-id="ksport1hd" group-title="⚽| Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/87.png", K+ SPORT1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://is.am/5nzx/khichtv/ksport1-bep/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="⚽| Thể thao" tvg-logo="https://cdn.hqth.me/logo/thumbs/88.png", K+ SPORT2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://is.am/5nyb/ksport2-khichtv/index.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/85.png", K+ CINE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 https://hqth.me/KCINE-hd?khichTV/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/86.png", K+ ACTION
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://is.am/5kbv/khichtv/k+Action-b4p.m3u8
 #EXTINF:-1 tvg-id="Kkidshd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 https://hqth.me/Kkids-khichtv?index.m3u8
 
 
@@ -444,43 +442,32 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 #----------*-Hoạt hình-*----------#
 
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/196.png",Animax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://gg.gg/HaNoiIPTV-Animax_HD
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://cdn.hqth.me/logo/thumbs/198.png",Cartoon Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://gg.gg/HaNoiIPTV-Cartoon_Network_HD
 
 
 #----------*-Quốc tế-*----------#
 
 #EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/219.png" , Discovery Asia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://live.antmediatv.xyz:1234/stream/qnettv/discoveryasia/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
 
 #EXTINF:-1 tvg-id="bbcearth" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png",BBC Earth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://gg.gg/HaNoiIPTV-BBC_Earth_HD
 #EXTINF:-1 tvg-id="animalhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/203.png",Animal Planet
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://gg.gg/HaNoiIPTV-Animal_Planet_HD
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/204.png",Discovery
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://gg.gg/HaNoiIPTV-Discovery_Channel_HD
 #EXTINF:-1 tvg-id="hbohd" tvg-name="HBO" tvg-logo="https://khanggne.github.io/logo/MSky_TV/hbohd.png" group-title="🎬| Phim",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://gg.gg/HaNoiIPTV-HBO_HD
 #EXTINF:-1 tvg-id="cinemaxhd" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/186.png",Cinemax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://gg.gg/HaNoiIPTV-Cinemax_HD
 #EXTINF:0 tvg-id="axnhd" group-title="🎬| Phim" tvg-logo="https://khanggne.github.io/logo/MSky_TV/axn.png", AXN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 http://gg.gg/HaNoiIPTV-AXN_HD
 
 #EXTINF:-1 tvg-id="inthebox" group-title="🎬| Phim" tvg-logo="https://i.ibb.co/26C0FTb/KARTICA-BOXChannel-V1.jpg",In The Box
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 https://wintv.fun/360/235/index.m3u8
 #EXTINF: -1 tvg-id = "boxhits" group-title = "🎬| Phim" tvg-logo="https://i.ibb.co/BKMsB5N/images.jpg",Box Hits
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36 Edg/118.0.2088.69
 https://wintv.fun/360/239/index.m3u8
 
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| Phim" tvg-logo="https://cdn.hqth.me/logo/thumbs/187.png", Box Movie 1
@@ -507,8 +494,7 @@ https://code.antmediatv.xyz/getplay/livetv/tv360/NlBNNEZNRDNZbGFReGU1TktvVk05MEk
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌏| Quốc tế" tvg-logo="https://www.at-x.com/images/common/logo.png",AMAGI TV
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-id="lovenature" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/C7rMqn6/Love-nature-4k.jpg" , Love Nature 4K
-#https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
 
 #----------*-Thể thao-*----------#
