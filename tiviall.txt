@@ -2,8 +2,6 @@
 #EXTINF:0
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-logo="",HCATV1 - HiTV
-#EXTINF:-1 group-title="🇻🇳| FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
 
 
 #----------*-BEARTV-*----------#
@@ -46,7 +44,7 @@ https://hqth.me/KCINE-hd?khichTV/index.m3u8
 http://is.am/5nzx/khichtv/ksport1-bep/index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
 http://is.am/5nyb/ksport2-khichtv/index.m3u8
-#EXTINF:-1 tvg-id="Kkidshd" group-title="🌈| Thiếu nhi" tvg-logo="https://cdn.hqth.me/logo/thumbs/89.png", K+ KIDS 
+#EXTINF:-1 tvg-id="Kkidshd" group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
 https://hqth.me/Kkids-khichtv?index.m3u8
 
 
@@ -248,8 +246,6 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8?|Referer=http://
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctvhdpth" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/23fg0qV/SCTVPhim-cc.webp",SCTV Phim TH
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="happykids"  group-title="🌈| Thiếu nhi" tvg-logo="https://i.ibb.co/DYFXjGY/Happy-Kids-BEARTV.png",Happy Kids
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?|Referer=http://sctvonline.vn/
 
 
 #----------*-Địa phương-*----------#
@@ -270,7 +266,10 @@ https://wintv.fun/360/220/index.m3u8
 https://fr-1.galaxyott.com/streamer/ttq/playlist.m3u8
 #EXTINF:-1 tvg-id="hitv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 - HiTV HD
 https://hqth.me/JwDYY8
-#EXTINF:-1 tvg-id="youtv" group-title="🇻🇳| Địa phương" tvg-logo="https://cdn.hqth.me/logo/thumbs/99.png",HCATV2 - YouTV
+#EXTINF:-1 tvg-id="youtv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jUl8zK4.png",HCATV2 - YouTV
+http://113.22.129.152:5050/udp/225.1.1.207:30120
+#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/UMToCQ6.png",HCATV5 - Shopping 24h
+http://113.22.129.152:5050/udp/225.1.2.144:30120
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
@@ -467,34 +466,42 @@ https://wintv.fun/360/235/index.m3u8
 #EXTINF: -1 tvg-id = "boxhits" group-title = "🎬| Phim" tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
 https://wintv.fun/360/239/index.m3u8
 
-#EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| Phim" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png",Box Movie 1
+#EXTINF:-1 tvg-id="happykids"  group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| Phim" tvg-logo="https://i.imgur.com/fqjuhB4.png",Box Movie 1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=http://sctvonline.vn
-#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| Phim" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Hollywood%20Classics%20HD.png",Hollywood Classics
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| Phim" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1  tvg-id="planetearthhd" group-title="🌏| Quốc tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Planet%20Earth%20HD.png",Planet Earth
+#EXTINF:-1  tvg-id="planetearthhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
 https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="drfithd" group-title="🌏| Quốc tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Dr.%20Fit%20HD.png",Dr.Fit
+#EXTINF:-1 tvg-id="drfithd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
 https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 tvg-id="woman" group-title="🌏| Quốc tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/WOMAN%20HD.png",Woman
+#EXTINF:-1 tvg-id="woman" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
 https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="musicbox" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?|Referer=https://sctvonline.vn
 
 #EXTINF:-1 tvg-id="afnhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png", Asian Food Network
-https://code.antmediatv.xyz/getplay/livetv/tv360/NlBNNEZNRDNZbGFReGU1TktvVk05MEk4dlc1ODFFYmtrNzE4OXVlcnFObW1uTkNKSVZ3TzM5RWwrSXVqdEdaa0w2TmV1MEVEUE51RW9VTlFzd0w0d1cyektNaXhPR0p0MDNsRXlrNElpMnFZZU5JeS8vQUJ6Z05Mc1VZaEtRdkg0QXRYbkU5cGRCRVozekNDWmtZb0xnPT0=/1707222260/215/2.m3u8
 
 #EXTINF:-1 tvg-id="outdoor" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/x4zXtYX.png", Outdoor Channel HD
 https://wintv.fun/360/216/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="🌏| Quốc tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20HD.png", HGTV
 https://wintv.fun/360/99/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title="🌏| Quốc tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MAN.png" , Man
-https://code.antmediatv.xyz/getplay/livetv/tv360/NlBNNEZNRDNZbGFReGU1TktvVk05MEk4dlc1ODFFYmtrNzE4OXVlcnFObW1uTkNKSVZ3TzM5RWwrSXVqdEdaa0w2TmV1MEVEUE51RW9VTlFzd0w0d1cyektNaXhPR0p0MDNsRXlrNElpMnFZZU5JeS8vQUJ6Z05Mc1VZaEtRdkg0QXRYbkU5cGRCRVozekNDWmtZb0xnPT0=/1707222260/237/2.m3u8
 
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1200px-CGTN_Documentary.svg.png",CGTN Documentaries
 http://premium.cvtv.xyz/CGTN?auth=trial:trial
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌏| Quốc tế" tvg-logo="https://www.at-x.com/images/common/logo.png",AMAGI TV
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 tvg-id="lovenature" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/C7rMqn6/Love-nature-4k.jpg" , Love Nature 4K
+#EXTINF:-1 tvg-id="lovenature" group-title="🌏| Quốc tế" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 
+#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png",Animal Planet
+http://premium.cvtv.xyz/AP?auth=trial:trial
+#EXTINF:-1 group-title="🌏| Quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024px-MTV_Live_2021_logo.svg.png",MTV Live
+http://premium.cvtv.xyz/MTVL?auth=trial:trial
+#EXTINF:-1 tvg-id="mtvhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/238.png", MTV
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 
 #----------*-Thể thao-*----------#
 
@@ -579,6 +586,34 @@ https://7pal.short.gy/sperspllg
 https://7pal.short.gy/spersppsl
 #EXTINF:-1 tvg-id="TENNIS.za" tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" group-title="⚽| Thể thao", Supersport_Tennis-FHD
 https://7pal.short.gy/spersptns
+
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="daznliga" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/DAZN_LaLiga_logo.svg/1000px-DAZN_LaLiga_logo.svg.png",DAZN LaLiga
+http://premium.cvtv.xyz/DLiga?auth=trial:trial
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="dazne1" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/ixqrsj1601112641.png",DAZN Eleven 1
+http://premium.cvtv.xyz/ELV1?auth=trial:trial
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="dazne2" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/i7mjna1601113121.png",DAZN Eleven 2
+http://premium.cvtv.xyz/ELV2?auth=trial:trial
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/2ls4291601118186.png",DAZN Eleven 3
+http://premium.cvtv.xyz/ELV3?auth=trial:trial
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/vdwr2e1601129826.png",DAZN Eleven 4
+http://premium.cvtv.xyz/ELV4?auth=trial:trial
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/net9go1601127537.png",DAZN Eleven 5
+http://premium.cvtv.xyz/ELV5?auth=trial:trial
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/let2ub1601112435.png",DAZN Eleven 6
+http://premium.cvtv.xyz/ELV6?auth=trial:trial
+
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="ss1al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png",Supersport 1 DigitAlb
+http://premium.cvtv.xyz/SS1?auth=trial:trial
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="ss2al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png",Supersport 2 DigitAlb
+http://premium.cvtv.xyz/SS2?auth=trial:trial
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="ss3al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png",Supersport 3 DigitAlb
+http://premium.cvtv.xyz/SS3?auth=trial:trial
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="ss4al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png",Supersport 4 DigitAlb
+http://premium.cvtv.xyz/SS4?auth=trial:trial
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="ss5al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png",Supersport 5 DigitAlb
+http://premium.cvtv.xyz/SS5?auth=trial:trial
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-id="ss6al" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/SuperSport_Albania.svg/1280px-SuperSport_Albania.svg.png",Supersport 6 DigitAlb
+http://premium.cvtv.xyz/SS6?auth=trial:t
 
 
 #----------*-Radio-*----------#
