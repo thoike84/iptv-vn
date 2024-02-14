@@ -441,6 +441,12 @@ https://live.yenbaitv.org.vn/hls/livestream.m3u8
 http://gg.gg/HaNoiIPTV-Animax_HD
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
 http://gg.gg/HaNoiIPTV-Cartoon_Network_HD
+#EXTINF:-1 tvg-id="boomerang" group-title="🌈| Thiếu nhi" tvg-logo="https://static2.vieon.vn/vieplay-image/thumbnail_v4/2021/01/15/ust9ctjd_boomerang_296_168.webp", Boomerang HD ASIA🇱🇷
+https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="babyfirst" group-title="🌈| Thiếu nhi" tvg-logo="https://i.ibb.co/rMbtPD9/supertoonstv.png", supertoonstv
+https://kedoo-supertoonstv-3-fr.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="cbeebies" group-title="🌈| Thiếu nhi" tvg-logo="https://i.ibb.co/F7jddXB/212.jpg", BBC Cbeebies
+https://yamatovideo-yamatoanimation-1-it.samsung.wurl.tv/playlist.m3u8
 
 
 #----------*-Quốc tế-*----------#
@@ -482,23 +488,31 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?|Referer=http://sctvo
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?|Referer=https://sctvonline.vn
 
 #EXTINF:-1 tvg-id="afnhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png", Asian Food Network
-
+https://code.vthanhtivi.pw/getlink/tv360/vHhgAOO8D5De7RQpbchPcA/1707912673/215/playlist.m3u8
 #EXTINF:-1 tvg-id="outdoor" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/x4zXtYX.png", Outdoor Channel HD
 https://wintv.fun/360/216/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="🌏| Quốc tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20HD.png", HGTV
 https://wintv.fun/360/99/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title="🌏| Quốc tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MAN.png" , Man
-https://wintv.fun/360/237/index.m3u
+https://wintv.fun/360/237/index.m3u8
+#EXTINF:-1 tvg-id="davincihd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/202.png", Da Vinci HD
+https://code.vthanhtivi.pw/getlink/tv360/rNDjqOR_LnpnjuXKHks5lA/1707912673/214/playlist.m3u8
+#EXTINF:-1 tvg-id="historyhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png", History HD
+http://fpt.vthanhtivi.pw/history/mpegts
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌏| Quốc tế" tvg-logo="https://www.at-x.com/images/common/logo.png",AMAGI TV
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-id="lovenature" group-title="🌏| Quốc tế" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN
-http://103.130.141.67:81/live/3/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN Documentary
-http://103.130.141.67:81/live/4/playlist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024px-MTV_Live_2021_logo.svg.png",MTV Live
 http://premium.cvtv.xyz/MTVL?auth=trial:trial
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/NxbbQCP.png", movie|fone|mihtv
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1200px-CGTN_Documentary.svg.png",CGTN Documentaries
+http://premium.cvtv.xyz/CGTN?auth=trial:trial
+#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="🌏| Quốc tế",CGTN Documentary (576p)
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1  group-title="🌏| Quốc tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/N%C6%B0%E1%BB%9Bc%20ngo%C3%A0i/CGTN.png",CGTN
+http://gg.gg/HaNoiIPTV-CGTN
 
 
 #----------*-Thể thao-*----------#
