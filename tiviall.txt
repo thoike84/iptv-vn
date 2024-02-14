@@ -632,68 +632,13 @@ https://multi-playlist-zmp3.zmdcdn.me/94rxZ-Dfzro/zhls/playback-realtime/ff294de
 https://multi-playlist-zmp3.zmdcdn.me/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 
-#-------------------MyTV Event------------------#
-#EXTINF:-1 group-title="MyTV Event" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/MyTV_logo.png/revision/latest?cb=20221227022021&path-prefix=vi",MyTV 801
-http://14.167.74.178:4000/rtp/232.84.2.175:10858
-#EXTINF:-1 group-title="MyTV Event" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/MyTV_logo.png/revision/latest?cb=20221227022021&path-prefix=vi",MyTV 802
-http://14.167.74.178:4000/rtp/232.84.2.176:10864
-#EXTINF:-1 group-title="MyTV Event" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/MyTV_logo.png/revision/latest?cb=20221227022021&path-prefix=vi",MyTV 803
-http://14.167.74.178:4000/rtp/232.84.2.195:10954
-#EXTINF:-1 group-title="MyTV Event" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/ec/MyTV_logo.png/revision/latest?cb=20221227022021&path-prefix=vi",MyTV 804
-http://14.167.74.178:4000/rtp/232.84.2.196:10960
 #-------------------TV360 Event------------------#
-#EXTINF:-1 group-title="TV360 Event" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
+#EXTINF:-1 group-title="⚽| TV360 Event" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
 https://wintv.fun/360/2554/index.m3u8
-#EXTINF:-1 group-title="TV360 Event" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png",TV360+ 2
+#EXTINF:-1 group-title="⚽| TV360 Event" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png",TV360+ 2
 https://wintv.fun/360/1/index.m3u8
-#EXTINF:-1 group-title="TV360 Event" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png",TV360+ 3
+#EXTINF:-1 group-title="⚽| TV360 Event" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png",TV360+ 3
 https://wintv.fun/360/148/index.m3u8
-#EXTINF:-1 group-title="TV360 Event" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png",TV360+ 4
+#EXTINF:-1 group-title="⚽| TV360 Event" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png",TV360+ 4
 https://wintv.fun/360/2458/index.m3u8
-#-------------------FPT Play Event------------------#
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 1
-http://58.186.92.139:8888/udp/225.1.1.10:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 2
-http://58.186.92.139:8888/udp/225.1.1.12:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 3
-http://58.186.92.139:8888/udp/225.1.1.15:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 4
-http://58.186.92.139:8888/udp/225.1.1.27:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 5
-http://58.186.92.139:8888/udp/225.1.1.28:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 6
-http://58.186.92.139:8888/udp/225.1.1.30:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 7
-http://58.186.92.139:8888/udp/225.1.1.31:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 8
-http://58.186.92.139:8888/udp/225.1.1.32:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 9
-http://58.186.92.139:8888/udp/225.1.1.33:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 10
-http://58.186.92.139:8888/udp/225.1.1.34:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 11
-http://58.186.92.139:8888/udp/225.1.1.35:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 12
-http://58.186.92.139:8888/udp/225.1.1.37:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 13
-http://58.186.92.139:8888/udp/225.1.1.68:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 14
-http://58.186.92.139:8888/udp/225.1.1.69:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 15
-http://58.186.92.139:8888/udp/225.1.1.71:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 16
-http://58.186.92.139:8888/udp/225.1.1.72:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 17
-http://58.186.92.139:8888/udp/225.1.1.92:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 18
-http://58.186.92.139:8888/udp/225.1.1.93:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 19
-http://58.186.92.139:8888/udp/225.1.1.94:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 20
-http://58.186.92.139:8888/udp/225.1.1.95:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 21
-http://58.186.92.139:8888/udp/225.1.1.96:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 22
-http://58.186.92.139:8888/udp/225.1.1.97:30120
-#EXTINF:0 tvg-id="" group-title="FPT Play Event" tvg-logo="https://i.ibb.co/FsC8nJD/channels4-profile.jpg",F Sports 23
-http://58.186.92.139:8888/udp/225.1.1.101:30120
+
