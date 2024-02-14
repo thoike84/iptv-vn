@@ -38,13 +38,13 @@ http://b4tv.live/b4tv/b4tv/21.m3u8
 #----------*-K+-*----------#
 
 #EXTINF:-1 tvg-id="kaction" group-title="🎬| Phim" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ ACTION
-http://is.am/5kbv/khichtv/k+Action-b4p.m3u8
+http://is.am/5mf8/khichtivi/k+4/index.m3u8
 #EXTINF:-1 tvg-id="kcinehd" group-title="🎬| Phim" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE
-https://hqth.me/KCINE-hd?khichTV/index.m3u8
+http://is.am/5mf7/khichtivi/k+3/index.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/6yiAtRg.png", K+ SPORT1
-http://is.am/5nzx/khichtv/ksport1-bep/index.m3u8
+
 #EXTINF:-1 tvg-id="ksport2hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
-http://is.am/5nyb/ksport2-khichtv/index.m3u8
+
 #EXTINF:-1 tvg-id="Kkidshd" group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
 https://hqth.me/Kkids-khichtv?index.m3u8
 
@@ -339,15 +339,15 @@ https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
 #EXTINF:-1 tvg-id="bacninh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/sPyR9t6.png",BTV HD | TH Bắc Ninh
 http://118.107.85.4:1935/live/smil:BTV.smil/chunklist_w1174814741_b1384000.m3u8
 #EXTINF:-1 tvg-id="baccan" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/6HQeLRw.png",TBK HD | TH Bắc Kạn
-http://123.31.36.68/live.m3u8?c=vstv360&q=high&type=tv&token=1111&time=&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=&pkg=pkg11.hni
+https://wintv.fun/360/37/index.m3u8
 #EXTINF:-1 tvg-id="dienbien" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/hMDRDxN.png",ĐTV | TH Điện Biên
 http://123.31.36.68/live.m3u8?c=vstv362&q=high&type=tv&token=1111&time=&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=&pkg=pkg11.hni
 #EXTINF:-1 tvg-id="haiduong" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/KrYncYX.png",THD HD | TH Hải Dương
-http://123.31.36.68/live.m3u8?c=vstv369&q=high&type=tv&token=LX-ibJYRUq9pflRtYAxfYQ&time=1586395820&gcId=1532&userId=&deviceId=&deviceType=&location=NA&requestTime=1586309420781&pkg=pkg11.hni
+https://wintv.fun/360/59/index.m3u8
 #EXTINF:-1 tvg-id="hoabinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/L8ufYjD.png",HBTV | TH Hòa Bình
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="khanhhoa" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/N2gUYoh.png",KTV HD | TH Khánh Hòa
-http://gg.gg/HaNoiIPTV-KTV-Truyen_hinh_Khanh_Hoa_HD
+https://wintv.fun/360/65/index.m3u8
 
 #EXTINF:-1 tvg-id="namdinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/juBOaJJ.png",NTV | TH Nam Định
 http://14.167.74.178:4000/rtp/232.84.3.119:9006
@@ -392,7 +392,7 @@ https://live.mediatech.vn/live/285361fcafcd0ec47bba2fa3f5870f8dc72/chunklist.m3u
 #EXTINF:-1 tvg-id="hanoi1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/Je3K25E.png",HanoiTV1 HD
 https://cecex9g5cpliv.vcdn.cloud/capture/smil:HN1.smil/chunklist_b3128000_slen.m3u8
 #EXTINF:-1 tvg-id="hanoi2" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/szivqh2.png",HanoiTV2 HD
-http://gg.gg/HaNoiIPTV-Truyen_hinh_Ha_Noi_2_HD
+https://wintv.fun/360/39/index.m3u8
 #EXTINF:-1 tvg-id="hatinh" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/4yIgKKx.png",HTTV HD | TH Hà Tĩnh
 https://wse.hatinhtv.net/live/httv1/playlist.m3u8
 #EXTINF:-1 tvg-id="haiphong" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/iq9JLb9.png",THP HD | TH Hải Phòng
@@ -493,8 +493,10 @@ https://wintv.fun/360/237/index.m3u
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-id="lovenature" group-title="🌏| Quốc tế" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/24/CGTN_Documentary.svg/1200px-CGTN_Documentary.svg.png",CGTN Documentaries
-http://premium.cvtv.xyz/CGTN?auth=trial:trial
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN
+http://103.130.141.67:81/live/3/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png", CGTN Documentary
+http://103.130.141.67:81/live/4/playlist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024px-MTV_Live_2021_logo.svg.png",MTV Live
 http://premium.cvtv.xyz/MTVL?auth=trial:trial
 
@@ -632,7 +634,6 @@ https://multi-playlist-zmp3.zmdcdn.me/94rxZ-Dfzro/zhls/playback-realtime/ff294de
 https://multi-playlist-zmp3.zmdcdn.me/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
 
 
-#-------------------TV360 Event------------------#
 #EXTINF:-1 group-title="⚽| TV360 Event" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
 https://wintv.fun/360/2554/index.m3u8
 #EXTINF:-1 group-title="⚽| TV360 Event" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png",TV360+ 2
@@ -641,4 +642,3 @@ https://wintv.fun/360/1/index.m3u8
 https://wintv.fun/360/148/index.m3u8
 #EXTINF:-1 group-title="⚽| TV360 Event" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png",TV360+ 4
 https://wintv.fun/360/2458/index.m3u8
-
