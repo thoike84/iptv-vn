@@ -3,13 +3,11 @@
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="",HCATV1 - HiTV
-#EXTINF:-1 group-title="🇻🇳| FPT Service" tvg-logo="https://i.imgur.com/MvdzZwM.png",FPT Giới Thiệu Chương Trình
 
 
-#EXTINF:-1 tvg-id="SETTV.us",SET TV 1 (1080p)
+#EXTINF:-1 group-title="🅱️| B4TV"tvg-id="SETTV.us",SET TV 1 (1080p)
 https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="SETTV2.us",SET TV 2 (1080p)
+#EXTINF:-1 group-title="🅱️| B4TV"tvg-id="SETTV2.us",SET TV 2 (1080p)
 https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽| TV360 Event" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
@@ -26,7 +24,6 @@ https://wintv.fun/360/2458/index.m3u8
 
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://i.ibb.co/fD13MRN/BEARTV.png" ,BEAR TV
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
-#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://i.ibb.co/grKqtMt/Up-Da-Te-khich-Tivi-png.jpg", Phim TM
 
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="http://b4tv.live:80/images/f48921dd0505305aff871882567eeca9.png", B4BOX
 http://b4tv.live/b4tv/b4tv/84.m3u8
@@ -55,18 +52,15 @@ http://b4tv.live/b4tv/b4tv/21.m3u8
 #----------*-K+-*----------#
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🎬| Phim" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE
-#http://is.am/5mf7/khichtivi/k+3/index.m3u8
-http://m3u.at/Stream-k3?khich-plus.m3u8
+http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSVYs6YrhkwH3afPZo2oYeQL/m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="🎬| Phim" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ ACTION
-#http://is.am/5mf8/khichtivi/k+4/index.m3u8
-http://m3u.at/Stream-k4?khich-plus.m3u8
+http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSVUS-DJJZrhAcOdXUKKN0Gu/m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/6yiAtRg.png", K+ SPORT1
 http://m3u.at/Khichtv-mytvks2?-index.m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
 http://is.am/5kbw/khichtv/K+sport2.m3u8
 #EXTINF:-1 tvg-id="Kkidshd" group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
-#https://hqth.me/Kkids-khichtv?index.m3u8
-http://m3u.at/Stream-k5?khich-plus.m3u8
+https://hqth.me/Kkids-khichtv?index.m3u8
 
 
 #----------*-VTV-*----------#
@@ -528,15 +522,10 @@ https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
 https://ctrl.laotv.la/live/Discovery/index.m3u8
 #EXTINF:-1 tvg-id="outdoorfhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/isCqVcE.png",Outdoor Channel HD
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png",CGTN
+#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN
 http://103.130.141.67:81/live/3/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/220.png",CGTN Documentary
+#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
 http://103.130.141.67:81/live/4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CGTNDocumentary.cn" tvg-logo="https://i.imgur.com/JHv0WxM.png" group-title="🌏| Quốc tế",CGTN Documentary
-http://premium.cvtv.xyz/CGTN?auth=trial:trial
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/1024px-MTV_Live_2021_logo.svg.png",MTV Live
-http://premium.cvtv.xyz/MTVL?auth=trial:trial
 
 #EXTINF:-1 tvg-id="AlanBeckerTV.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj" group-title="🌈| Thiếu nhi",Alan Becker TV
 https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
@@ -660,70 +649,3 @@ https://multi-playlist-zmp3.zmdcdn.me/Itsn5VCb5Uo/zhls/playback-realtime/4f2980e
 https://multi-playlist-zmp3.zmdcdn.me/94rxZ-Dfzro/zhls/playback-realtime/ff294ded71a898f6c1b9/index.m3u8
 #EXTINF:-1 group-title="📻| Radio" tvg-logo="https://photo-zmp3.zmdcdn.me/cover_rect/3/1/0/d/310df4f53c1026d4cb2844dc96cc01d3.jpg", Zing MP3 - USUK
 https://multi-playlist-zmp3.zmdcdn.me/RckDo1XPsU4/zhls/playback-realtime/111c87d8bb9d52c30b8c/index.m3u8
-
-
-#EXTINF:-1 group-title="📺| B4TV" tvg-logo="http://b4tv.live/logob4select.png", B4SELECT (Kênh chương trình theo yêu cầu)
-http://b4tv.live/b4tv/b4tv/168.m3u8
-#EXTINF:-1 group-title="📺| B4TV" tvg-logo="http://b4tv.live/b4connect.png", B4CONNECT(Kênh kết nối đam mê)
-http://b4tv.live/b4tv/b4tv/76.m3u8
-#EXTINF:-1 group-title="📺| B4TV" tvg-logo="http://b4tv.live/b4men.png", B4MEN (Kênh đàn ông đích thực)
-http://b4tv.live/b4tv/b4tv/1.m3u8
-#EXTINF:-1 group-title="📺| B4TV" tvg-logo="http://b4tv.live/b4box.png", B4BOX (Kênh phim điện ảnh & series)
-http://b4tv.live/b4tv/b4tv/84.m3u8
-#EXTINF:-1 group-title="📺| B4TV" tvg-logo="http://b4tv.live/b4event.png", B4EVENT1 (Kênh sự kiện thể thao)
-http://b4tv.live/b4tv/b4tv/3.m3u8
-#EXTINF:-1 group-title="📺| B4TV" tvg-logo="http://b4tv.live/b4event.png", B4EVENT2 (Kênh sự kiện thể thao)
-http://b4tv.live/b4tv/b4tv/47.m3u8
-#EXTINF:-1 group-title="📺| B4TV" tvg-logo="http://b4tv.live/b4event.png", B4EVENT3 (Kênh sự kiện thể thao)
-http://b4tv.live/b4tv/b4tv/48.m3u8
-#EXTINF:-1 group-title="📺| B4TV" tvg-logo="http://b4tv.live/logotubevent.png", TUBEVENT1 (Kênh sự kiện YOUTUBE & SPORTS)
-http://b4tv.live/b4tv/b4tv/55.m3u8
-#EXTINF:-1 group-title="📺| B4TV" tvg-logo="http://b4tv.live/logotubevent.png", TUBEVENT2 (Kênh sự kiện YOUTUBE & SPORTS)
-http://b4tv.live/b4tv/b4tv/56.m3u8
-#EXTINF:-1 group-title="📺| B4PLUS" tvg-logo="http://b4tv.live/b4sport.png", B4SPORT1 PLUS (Kênh thể thao đỉnh cao)
-http://b4tv.live/b4tv/b4tv/19.m3u8
-#EXTINF:-1 group-title="📺| B4PLUS" tvg-logo="http://b4tv.live/b4sport.png", B4SPORT2 PLUS (Kênh thể thao đỉnh cao)
-http://b4tv.live/b4tv/b4tv/20.m3u8
-#EXTINF:-1 group-title="📺| B4PLUS" tvg-logo="http://b4tv.live/b4sport.png", B4SPORT3 PLUS (Kênh thể thao đỉnh cao)
-http://b4tv.live/b4tv/b4tv/21.m3u8
-#EXTINF:-1 group-title="📺| B4PLUS" tvg-logo="http://b4tv.live/b4boxplus.png", B4BOX PLUS (Kênh phim trực tiếp song song)
-http://b4tv.live/b4tv/b4tv/120.m3u8
-
-#EXTINF:-1,B4MEN
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSWh0HBU3MKZewxlbiYF71xP/m3u8
-#EXTINF:-1,B4EVENT 1
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSXdldAVkbCq-Gv_a2qAnYYH/m3u8
-#EXTINF:-1,B4EVENT 2
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSXhps6TOlAc38nIt8zb_WqZ/m3u8
-#EXTINF:-1,B4EVENT 3
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSWFiDNo6LanZF6HNbriJyPh/m3u8
-#EXTINF:-1,B4CONNECT2
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSVqQ9YLNt7OgvIjmeVzbE3m/m3u8
-#EXTINF:-1,B4BOX
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSVv2lojxoidsU96-kB7LrCc/m3u8
-#EXTINF:-1,B4TUBE
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSUXEw8fcRvB7AtEFz5WXDes/m3u8
-#EXTINF:-1,B4CONNECT
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSWTC3SyfmosnUXyT6scroPd/m3u8
-#EXTINF:-1,B4BOXPLUS
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSXDVz4pJ-xH2vYLS7MlZt0Y/m3u8
-#EXTINF:-1,B4SPORTPLUS1
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSXgUbthVDbbjaIZOowxZKsF/m3u8
-#EXTINF:-1,B4SPORTPLUS2
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSW0GIT4UriPupC-D3A6NOcL/m3u8
-#EXTINF:-1,B4SPORTPLUS3
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSW4xRyI8Sw4uhP5J4-o2qIz/m3u8
-#EXTINF:-1,TUBEVENT 1
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSU4IGWw3kLZdW6uJnIF0S9Y/m3u8
-#EXTINF:-1,TUBEVENT2
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSXrtQIi3-lLoPxGRMDkkppB/m3u8
-#EXTINF:-1,KCINESD
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSVYs6YrhkwH3afPZo2oYeQL/m3u8
-#EXTINF:-1,KLIFESD
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSVUS-DJJZrhAcOdXUKKN0Gu/m3u8
-#EXTINF:-1,KSPORT1SD
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSXYWGVr7Ul03pABrh0GeUAS/m3u8
-#EXTINF:-1,KSPORT2SD
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSWcCv5inBf8nyUok_7AL2IW/m3u8
-#EXTINF:-1,KKIDSSD
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSVN9ETmPL_PRrGKcsm-ceRn/m3u8
