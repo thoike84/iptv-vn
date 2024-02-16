@@ -5,14 +5,12 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
 
-#EXTINF:-1 group-title="🅱️| B4TV"tvg-id="SETTV.us",SET TV 1 (1080p)
+#EXTINF:-1 group-title="🅱️| B4TV"tvg-logo="https://i.imgur.com/MvdzZwM.png",SET TV 1 (1080p)
 https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
-#EXTINF:-1 group-title="🅱️| B4TV"tvg-id="SETTV2.us",SET TV 2 (1080p)
+#EXTINF:-1 group-title="🅱️| B4TV"tvg-logo="https://i.imgur.com/MvdzZwM.png",SET TV 2 (1080p)
 https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ttqtv" group-title="🅱️| B4TV" tvg-logo="https://www.viettv24.com/main/images/ttqtv_logo.jpg",TTQ
 https://fr-1.galaxyott.com/streamer/ttq/playlist.m3u8
-#EXTINF:-1 group-title="🌈| Thiếu nhi",KIDS
-http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
 
 #EXTINF:-1 group-title="⚽| TV360 Event" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
 https://wintv.fun/360/2554/index.m3u8
@@ -28,7 +26,6 @@ https://wintv.fun/360/2458/index.m3u8
 
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://i.ibb.co/fD13MRN/BEARTV.png" ,BEAR TV
 http://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/playlist_1080p.m3u8
-
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="http://b4tv.live:80/images/f48921dd0505305aff871882567eeca9.png", B4BOX
 http://b4tv.live/b4tv/b4tv/84.m3u8
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="http://b4tv.live:80/images/f86b6a1c40ff8ef5cb247f25a5a1b1c8.png" ,B4BOXPLUS
@@ -116,7 +113,7 @@ https://wintv.fun/360/180/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
 https://wintv.fun/360/175/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
-
+http://gg.gg/HaNoiIPTV-ON_Sports_HD
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
 https://wintv.fun/360/181/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
@@ -138,11 +135,11 @@ https://wintv.fun/360/184/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
 https://wintv.fun/360/185/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
-
+http://gg.gg/HaNoiIPTV-ON_Football_HD
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 https://wintv.fun/360/186/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/wpRXpJg.png", ON Sports News 
-
+http://gg.gg/HaNoiIPTV-ON_Sports_News_HD
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://wintv.fun/360/177/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
