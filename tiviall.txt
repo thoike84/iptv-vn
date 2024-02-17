@@ -1,35 +1,5 @@
 #EXTM3U url-tvg="phattai_phattai@yahoo.com" tvg-shift=0 m3uautoload=1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-
-
-#EXTINF:-1 group-title="⚽|Live Sports FHD" group-logo="http://gg.gg/livefhdkkk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 1
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71581&extension=ts&play_token=4FsF0OCajM
-
-#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 2
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71580&extension=ts&play_token=z62h2YhMGz
-
-#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 3
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71579&extension=ts&play_token=w7FmKDstqr
-
-#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 4
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71578&extension=ts&play_token=lBNlOTjb8B
-
-#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport News
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71564&extension=ts&play_token=0BTt1GLKHE
-
-#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport Premier
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71550&extension=ts&play_token=Bb3jfaFB59
-
-#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport Football
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71560&extension=ts&play_token=0JJHMMbnPM
-
-#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport Mix
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71557&extension=ts&play_token=f9ZMz3KMNf
-
-#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",USA Networks
-http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71932&extension=ts&play_token=tY9bkJmrsk
 
 
 #EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="⚽|Sports", TNTSports1-FHD
@@ -57,15 +27,6 @@ https://7pal.short.gy/TNTUltimate
 https://7pal.short.gy/SSF1uhd
 #EXTINF:-1 tvg-id="EUROSPORT.4K.eurosport" tvg-logo="https://www.avcesar.com/source/actualites/00/00/86/99/comment-regarder-les-jeux-olympiques-tokyo-2020-en-ultra-hd-4k_07130411.jpg" group-title="⚽|Sports",EuroSport4K / Testing / Thử nghiệm
 https://7pal.short.gy/eusport4k
-
-#EXTINF:-1 group-title="⚽|Sports" tvg-logo="http://gg.gg/hrd222",4K-UHD Channel
-#https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:2D:84:EB&stream=1299719&extension=ts&play_token=FPfKLl8zwY
-
-#EXTINF:-1 group-title="⚽|Sports" group-logo="http://gg.gg/live4kkkk" tvg-logo="http://gg.gg/logo4kkkk",TNT Ultimate Sports
-http://89.45.13.153:25461/play/live.php?mac=00:1A:79:2D:84:EB&stream=1300442&extension=ts&play_token=OrwX9CmOUD
-
-
 
 #EXTINF:-1 group-title="🅱️| B4TV"tvg-logo="https://i.imgur.com/MvdzZwM.png",SET TV 1
 https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
@@ -99,9 +60,9 @@ http://b4tv.live/b4tv/b4tv/120.m3u8
 #----------*-K+-*----------#
 
 #EXTINF:-1 tvg-id="kcinehd" group-title="🎬| Phim" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSVYs6YrhkwH3afPZo2oYeQL/m3u8
+http://is.am/5mf7/khichtivi/k+3/index.m3u8
 #EXTINF:-1 tvg-id="kaction" group-title="🎬| Phim" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ ACTION
-http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSVUS-DJJZrhAcOdXUKKN0Gu/m3u8
+http://is.am/5mf8/khichtivi/k+4/index.m3u8
 #EXTINF:-1 tvg-id="ksport1hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/6yiAtRg.png", K+ SPORT1
 http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSXYWGVr7Ul03pABrh0GeUAS/m3u8
 #EXTINF:-1 tvg-id="ksport2hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
