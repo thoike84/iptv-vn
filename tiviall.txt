@@ -1,6 +1,71 @@
 #EXTM3U url-tvg="phattai_phattai@yahoo.com" tvg-shift=0 m3uautoload=1
 #EXTINF:0
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+
+
+#EXTINF:-1 group-title="⚽|Live Sports FHD" group-logo="http://gg.gg/livefhdkkk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 1
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71581&extension=ts&play_token=4FsF0OCajM
+
+#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 2
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71580&extension=ts&play_token=z62h2YhMGz
+
+#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 3
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71579&extension=ts&play_token=w7FmKDstqr
+
+#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",TNT Sport 4
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71578&extension=ts&play_token=lBNlOTjb8B
+
+#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport News
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71564&extension=ts&play_token=0BTt1GLKHE
+
+#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport Premier
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71550&extension=ts&play_token=Bb3jfaFB59
+
+#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport Football
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71560&extension=ts&play_token=0JJHMMbnPM
+
+#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",Sky Sport Mix
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71557&extension=ts&play_token=f9ZMz3KMNf
+
+#EXTINF:-1 group-title="⚽|Live Sports FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Full_hd_logo.svg/2553px-Full_hd_logo.svg.png",USA Networks
+http://live.watsits.art:80/play/live.php?mac=00:1A:79:6C:50:E2&stream=71932&extension=ts&play_token=tY9bkJmrsk
+
+
+#EXTINF:-1 tvg-id="BT.Sport.1.HD.uk" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" group-title="⚽|Sports", TNTSports1-FHD
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 tvg-id="BT.Sport.2.HD.uk" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" group-title="⚽|Sports", TNTSports2-FHD
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 tvg-id="BT.Sport.3.HD.uk" tvg-logo="https://media.info/l/o/5/5712.1690027954.png" group-title="⚽|Sports", TNTSports3-FHD
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="⚽|Sports", SkySportsPL-FHD
+https://7pal.short.gy/ssportspl
+#EXTINF:-1 tvg-id="SkySp.Fball.HD.uk" tvg-logo="https://i.imgur.com/TRX5fQr.png" group-title="⚽|Sports", SkySportsFBALL-FHD
+https://7pal.short.gy/ssportsfb
+#EXTINF:-1 tvg-id="USA.Network.HDTV.(East).(USAHD).us" tvg-logo="https://i.pinimg.com/originals/3a/6e/f2/3a6ef23a9908ceb32469f8ad2c2ba44f.jpg" group-title="⚽|Sports", USA_NetWork-FHD
+https://7pal.short.gy/usanetwork
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.1.hk" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="⚽|Sports", NowSportsPL1-FHD
+https://7pal.short.gy/nowhkp1
+#EXTINF:-1 tvg-id="English.-.Now.Sports.Premier.League.2.hk" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="⚽|Sports", NowSportsPL2-FHD
+https://7pal.short.gy/nowhkp2
+
+#EXTINF:-1 tvg-id="4k_DIGITAL_Mono_EN.bein" tvg-logo="https://www.universfreebox.com/wp-content/uploads/2022/11/beinsport4k-800x450-c-default.jpg" group-title="⚽|Sports",beINUHD
+https://7pal.short.gy/bein-uhd
+#EXTINF:-1 tvg-id="BT.Sport.Ultimate.uk" tvg-logo="https://media.info/l/o/5/5824.1689874022.png" group-title="⚽|Sports",TNTSportUltimate
+https://7pal.short.gy/TNTUltimate
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-logo="https://i.imgur.com/9wrgXyy.png" group-title="⚽|Sports",SkySportsF1UHD
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 tvg-id="EUROSPORT.4K.eurosport" tvg-logo="https://www.avcesar.com/source/actualites/00/00/86/99/comment-regarder-les-jeux-olympiques-tokyo-2020-en-ultra-hd-4k_07130411.jpg" group-title="⚽|Sports",EuroSport4K / Testing / Thử nghiệm
+https://7pal.short.gy/eusport4k
+
+#EXTINF:-1 group-title="⚽|Sports" tvg-logo="http://gg.gg/hrd222",4K-UHD Channel
+#https://seeklogo.com/images/1/4k-logo-BAB18EC622-seeklogo.com.png
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:2D:84:EB&stream=1299719&extension=ts&play_token=FPfKLl8zwY
+
+#EXTINF:-1 group-title="⚽|Sports" group-logo="http://gg.gg/live4kkkk" tvg-logo="http://gg.gg/logo4kkkk",TNT Ultimate Sports
+http://89.45.13.153:25461/play/live.php?mac=00:1A:79:2D:84:EB&stream=1300442&extension=ts&play_token=OrwX9CmOUD
+
 
 
 #EXTINF:-1 group-title="🅱️| B4TV"tvg-logo="https://i.imgur.com/MvdzZwM.png",SET TV 1
@@ -193,51 +258,51 @@ https://hqth.me/jcU2s
 #----------*-SCTV-*----------#
 
 #EXTINF:-1 tvg-id="sctv1hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/6FB7zBz/SCTV1-cc.webp", SCTV1
-https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8?|Referer=http://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv1/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv2hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/cJmDkTP/SCTV2-cc.webp",SCTV2
-https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8?|Referer=http://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv2/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv3hd" type="stream" group-title="🌈| Thiếu nhi" tvg-logo="https://i.ibb.co/7QPYf6D/SCTV3-cc.webp",SCTV3
-https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8?|Referer=http://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv3/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv4hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/FwV83nc/SCTV4-cc.webp",SCTV4
-https://e8.endpoint.cdn.sctvonline.vn/hls/sctv4/index.m3u8?|Referer=http://sctvonline.vn/
+https://e8.endpoint.cdn.sctvonline.vn/channel/sctv4/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv5hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/mbDHVPr/SCTV5-cc.webp",SCTV5
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv5/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv6hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/g4rNcCM/SCTV6-cc.webp",SCTV6
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8?|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv6/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv7hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/VJJ953X/SCTV7-cc.webp",SCTV7
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8?|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv7/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv8hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/VxHFKfh/SCTV8-cc.webp",SCTV8
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8?|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv8/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv9hd" type="stream" group-title="🎬| Phim" tvg-logo="https://i.ibb.co/x6dMJWH/SCTV9-cc.webp",SCTV9
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8?|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv10hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/9tKmzD5/SCTV10-cc.webp",SCTV10
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8?|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv10/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv11hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/0YC4B8t/SCTV11-cc.webp",SCTV11
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8?|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv11/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv12hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/JR8LKdR/SCTV12-cc.webp",SCTV12
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8?|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv12/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv13hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/bz9xjYz/SCTV13-cc.webp",SCTV13
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8?|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv14hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/ThjNn6H/SCTV14-cc.webp",SCTV14
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8|Referer=http://sctvonline.vn/
+https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8?|Referer=https:/sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv15hd" type="stream" group-title="⚽| Thể thao" tvg-logo="https://i.ibb.co/q1GPVFM/SCTV15-SSport-cc.webp",SCTV15
-https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/01.m3u8
+https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/01.m3u8?|Referer=https://www.vthanhnetwork.com/
 #EXTINF:-1 tvg-id="sctv16hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/934CHgk/SCTV16-cc.webp",SCTV16
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8?|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv17hd" type="stream" group-title="⚽| Thể thao" tvg-logo="https://i.ibb.co/DK7fS8T/SCTV17-cc.webp",SCTV17
-https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/01.m3u8
+https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/01.m3u8?|Referer=https://www.vthanhnetwork.com/
 #EXTINF:-1 tvg-id="sctv18hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/fGHtx1M/SCTV18-cc.webp",SCTV18
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8?|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv19hd" type="stream" group-title="🌈| Thiếu nhi" tvg-logo="https://i.ibb.co/31xjyg6/SCTV19-cc.webp",SCTV19
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/index.m3u8?|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv19/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv20hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/mXBX0sN/SCTV20-cc.webp",SCTV20
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8?|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv20/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="ssctv21hd" type="stream" group-title="🇻🇳| SCTV" tvg-logo="https://i.ibb.co/q7XSnwX/SCTV21-cc.webp",SCTV21
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8?|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv21/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctv22hd" type="stream" group-title="⚽| Thể thao" tvg-logo="https://i.ibb.co/zxDw1L7/SCTV22-cc.webp",SCTV22
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8?|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctv22/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="sctvhdpth" type="stream" group-title="🎬| Phim" tvg-logo="https://i.ibb.co/23fg0qV/SCTVPhim-cc.webp",SCTV Phim TH
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8?|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8?|Referer=https://sctvonline.vn/
 
 
 #----------*-Địa phương-*----------#
@@ -453,17 +518,17 @@ https://wintv.fun/360/235/index.m3u8
 https://wintv.fun/360/239/index.m3u8
 
 #EXTINF:-1 tvg-id="happykids"  group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
-https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| Phim" tvg-logo="https://i.imgur.com/fqjuhB4.png",Box Movie 1
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| Phim" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1  tvg-id="planetearthhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
-https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8?|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="drfithd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
-https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8?|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="woman" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?|Referer=http://sctvonline.vn/
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="musicbox" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?|Referer=https://sctvonline.vn
 
