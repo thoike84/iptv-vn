@@ -1,6 +1,5 @@
 #EXTM3U url-tvg="phattai_phattai@yahoo.com" tvg-shift=0 m3uautoload=1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
+#EXTINF:0
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
 
@@ -25,13 +24,13 @@ https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
 https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ttqtv" group-title="🅱️| B4TV" tvg-logo="https://www.viettv24.com/main/images/ttqtv_logo.jpg",TTQ
 https://fr-1.galaxyott.com/streamer/ttq/playlist.m3u8
-#EXTINF:-1 tvg-id=""group-title="🅱️| B4TV" tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png",TVB VIỆT NAM
+#EXTINF:-1 tvg-id=""group-title="🎬| Phim" tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png",TVB VIỆT NAM
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://i.ibb.co/fD13MRN/BEARTV.png" ,BEAR TV
 
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="http://b4tv.live/logob4select.png", B4SELECT
 http://b4tv.live/b4tv/b4tv/168.m3u8
-#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="http://b4tv.live:80/images/f48921dd0505305aff871882567eeca9.png", B4BOX
+#EXTINF:-1 group-title="🎬| Phim" tvg-logo="http://b4tv.live:80/images/f48921dd0505305aff871882567eeca9.png", B4BOX
 http://b4tv.live/b4tv/b4tv/84.m3u8
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="http://b4tv.live:80/images/f86b6a1c40ff8ef5cb247f25a5a1b1c8.png" ,B4BOXPLUS
 http://b4tv.live/b4tv/b4tv/120.m3u8
@@ -281,9 +280,8 @@ https://wintv.fun/360/220/index.m3u8
 #EXTINF:-1 tvg-id="hitv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 - HiTV HD
 https://hqth.me/JwDYY8
 #EXTINF:-1 tvg-id="youtv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jUl8zK4.png",HCATV2 - YouTV
-http://58.186.92.139:8888/udp/225.1.1.207:30120
+
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/UMToCQ6.png",HCATV5 - Shopping 24h
-http://58.186.92.139:8888/udp/225.1.2.144:30120
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
@@ -568,51 +566,18 @@ https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 #EXTINF:-1 tvg-id="Unbeaten.us" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="⚽| Thể thao",Unbeaten 
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="⚽| Thể thao",Glory Kickboxing 
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AllSports.br" tvg-logo="https://i.imgur.com/wULpnYR.png" group-title="⚽| Thể thao",All Sports (720p)
-https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-id="FightBox.nl" tvg-logo="https://i.imgur.com/mRsnztA.png" group-title="⚽| Thể thao",FightBox
-http://stream01.vnet.am/Fightbox/mono.m3u8
-#EXTINF:-1 tvg-id="GloryKickboxing.us" tvg-logo="https://i.imgur.com/AQbc1ER.jpg" group-title="⚽| Thể thao",Glory Kickboxing (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxglorykickboxing/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" group-title="⚽| Thể thao",Бокс ТВ
+http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 tvg-id="MasCiclismoTV.cr" tvg-logo="https://i.imgur.com/UFtqUbB.jpg" group-title="⚽| Thể thao",Más Ciclismo TV (720p)
 https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
 #EXTINF:-1 tvg-id="SwerveSports.us" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="⚽| Thể thao",Swerve Sports (1080p)
 https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="TSports7.th" tvg-logo="https://i.imgur.com/Xuo2fMZ.png" group-title="⚽| Thể thao" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36",T Sports 7 (720p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
-https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport/index.m3u8
 #EXTINF:-1 tvg-id="WAPADT2.pr" tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="⚽| Thể thao",WAPA-DT2 (WAPA Deportes) (1080p)
 https://live.field59.com/wapa/wapa2/playlist.m3u8
-#EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" group-title="⚽| Thể thao",Бокс ТВ
-http://stream01.vnet.am/BoksTv/mono.m3u8
-
-#EXTINF:-1 tvg-id="K19.at" tvg-logo="https://i.imgur.com/l4atkvs.png" group-title="⚽| Thể thao",K19
-https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NitroCircus.us" tvg-logo="https://i.imgur.com/Ri0sB6I.jpg" group-title="⚽| Thể thao",Nitro Circus (720p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="SanMarinoRTVSport.sm" tvg-logo="https://i.imgur.com/PGm944g.png" group-title="⚽| Thể thao",San Marino RTV Sport (720p)
-https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
-#EXTINF:-1 tvg-id="SportenFrance.fr" tvg-logo="https://i.imgur.com/1IXQoWq.png" group-title="⚽| Thể thao",Sport En France (1080p)
-https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
-#EXTINF:-1 tvg-id="SportsConnect.za" tvg-logo="https://i.imgur.com/0sNWg54.png" group-title="⚽| Thể thao",Sports Connect (720p)
-https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
-#EXTINF:-1 tvg-id="SportsTV.tr" tvg-logo="https://i.imgur.com/tGTVcVe.jpg" group-title="⚽| Thể thao",Sports TV (720p) [Geo-blocked]
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-#EXTINF:-1 tvg-id="SportyStuffTV.uk" tvg-logo="https://i.imgur.com/6s1YGSV.png" group-title="⚽| Thể thao",SportyStuff TV (1080p)
-https://cdn.rtmp1.vodhosting.com/hls/SportyStuffTV.m3u8
 #EXTINF:-1 tvg-id="TraceSportStars.fr" tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="⚽| Thể thao",Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="TVPSport.pl" tvg-logo="https://i.imgur.com/JUZDOCO.png" group-title="⚽| Thể thao",TVP Sport (720p)
-https://cdn-main.lolokoko.tv/TVPSport.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Start.ru" tvg-logo="https://i.imgur.com/VBqVkno.png" group-title="⚽| Thể thao",Старт (1080p) [Geo-blocked]
-https://strm.yandex.ru/kal/start/start0.m3u8
-
 #EXTINF:-1 tvg-id="Strongman.de" tvg-logo="https://i.imgur.com/4eAFuKI.png" group-title="⚽| Thể thao",Strongman Champions League
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="bein" tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-es1.png" group-title="⚽| Thể thao",BEIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/1280px-Sky_Sport_Premier_League_Logo_2022.svg.png" group-title="⚽| Thể thao", SkySport8-PremierLeague_NZ-FHD
