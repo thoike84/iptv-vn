@@ -2,6 +2,7 @@
 #EXTINF:0
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
 
 #-------------------TV360 Event------------------#
@@ -507,23 +508,8 @@ https://code.vthanhtivi.pw/channel/NzN3L3RWVFVLOGdaRWxjTEZXNGorcy81QzlGMVZ1d0RhQ
 http://fpt.vthanhtivi.pw/history/mpegts
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌏| Quốc tế" tvg-logo="https://www.at-x.com/images/common/logo.png",AMAGI TV
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="🌏| Quốc tế",National Geographic Wild
-http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 tvg-id="lovenature" group-title="🌏| Quốc tế" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
-#EXTINF:-1 tvg-id="animalhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/x1hHQwk.png",Animal Planet SEA
-https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
-#EXTINF:-1 tvg-id="discoveryhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery Channel SEA
-https://ctrl.laotv.la/live/Discovery/index.m3u8
-#EXTINF:-1 tvg-id="outdoorfhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel HD
-https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN
-http://103.130.141.67:81/live/3/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
-http://103.130.141.67:81/live/4/playlist.m3u8
-#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/234.png", CGTN
-https://live.cgtn.com/1000/prog_index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://www.omediach.info/wp-content/uploads/2021/09/MTV-Live-Id-loyalkaspar.jpg", MTV Live
 https://code.vthanhtivi.pw/channel/NzN3L3RWVFVLOGdaRWxjTEZXNGorcy81QzlGMVZ1d0RhQVJMUkFWNVRRUHNZN3FiTU5JeVVmUWRVSWJGc09XZFlvVEQvdlFBc2MzYW1vUzZvSGk4dHc9PQ==/master.m3u8
