@@ -20,9 +20,9 @@ https://wintv.fun/360/2458/index.m3u8
 
 
 #----------*-BEARTV-*----------#
-#EXTINF:-1 group-title="🅱️| B4TV"tvg-logo="https://i.imgur.com/MvdzZwM.png",SET TV 1
+#EXTINF:-1 group-title="🅱️| B4TV"tvg-logo="https://i.ytimg.com/vi/kifc_4Y-W8U/maxresdefault.jpg",SET TV 1
 https://5dcab9aed5331.streamlock.net/SET1/livestream/playlist.m3u8
-#EXTINF:-1 group-title="🅱️| B4TV"tvg-logo="https://i.imgur.com/MvdzZwM.png",SET TV 2
+#EXTINF:-1 group-title="🅱️| B4TV"tvg-logo="https://i.ytimg.com/vi/kifc_4Y-W8U/maxresdefault.jpg",SET TV 2
 https://5dcabf026b188.streamlock.net/SET22/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ttqtv" group-title="🅱️| B4TV" tvg-logo="https://www.viettv24.com/main/images/ttqtv_logo.jpg",TTQ
 https://fr-1.galaxyott.com/streamer/ttq/playlist.m3u8
@@ -32,7 +32,7 @@ https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/63144
 
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="http://b4tv.live/logob4select.png", B4SELECT
 http://b4tv.live/b4tv/b4tv/168.m3u8
-#EXTINF:-1 group-title="B4TV" tvg-logo="http://b4tv.live:80/images/f48921dd0505305aff871882567eeca9.png", B4BOX
+#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="http://b4tv.live:80/images/f48921dd0505305aff871882567eeca9.png", B4BOX
 http://b4tv.live/b4tv/b4tv/84.m3u8
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="http://b4tv.live:80/images/f86b6a1c40ff8ef5cb247f25a5a1b1c8.png" ,B4BOXPLUS
 http://b4tv.live/b4tv/b4tv/120.m3u8
@@ -71,7 +71,7 @@ http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSXYWGVr7Ul03pA
 #EXTINF:-1 tvg-id="ksport2hd" group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
 http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSWcCv5inBf8nyUok_7AL2IW/m3u8
 #EXTINF:-1 tvg-id="Kkidshd" group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
-https://hqth.me/Kkids-khichtv?index.m3u8
+http://b4tv.live:80/play/EM62iloZZPzRWQ9ZF6W8rG_PEVWHlUivTAo1jwOUbSVN9ETmPL_PRrGKcsm-ceRn/m3u8
 
 
 #----------*-VTV-*----------#
@@ -282,7 +282,7 @@ https://wintv.fun/360/220/index.m3u8
 #EXTINF:-1 tvg-id="hitv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 - HiTV HD
 https://wintv.fun/360/32/index.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jUl8zK4.png",HCATV2 - YouTV
-
+https://code.vthanhtivi.pw/channel/NzN3L3RWVFVLOGdaRWxjTEZXNGorcy81QzlGMVZ1d0RhQVJMUkFWNVRRTVMvZWkwWEx5MmxyRUdsSkZGZ2tOTWVvQ3pMZVFyNkh2N3I3MzVxQndadnc9PQ==/master.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/UMToCQ6.png",HCATV5 - Shopping 24h
 
 #EXTINF:-1 tvg-id="antvhd" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
@@ -481,7 +481,7 @@ https://wintv.fun/360/239/index.m3u8
 
 #EXTINF:-1 tvg-id="happykids"  group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?|Referer=https://sctvonline.vn/
-#EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| Phim" tvg-logo="https://i.imgur.com/fqjuhB4.png",Box Movie 1
+#EXTINF:-1 tvg-id="boxmovie1" group-title="🎬| Phim" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png",Box Movie 1
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 tvg-id="hollywoodclassics" group-title="🎬| Phim" tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?|Referer=http://sctvonline.vn/
@@ -495,21 +495,21 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?|Referer=https://sctv
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?|Referer=https://sctvonline.vn
 
 #EXTINF:-1 tvg-id="afnhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
-
+https://code.vthanhtivi.pw/channel/NzN3L3RWVFVLOGdaRWxjTEZXNGorcy81QzlGMVZ1d0RhQVJMUkFWNVRRTjMvNFJtTDNubG5WcGxLZG04NzhiS2FYeE45bkRGenRtZFdxcEJDNGl5RXc9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="outdoor" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel HD
 https://wintv.fun/360/216/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="🌏| Quốc tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20HD.png",HGTV
 https://wintv.fun/360/99/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title="🌏| Quốc tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MAN.png",Man
 https://wintv.fun/360/237/index.m3u8
-#EXTINF:-1 tvg-id="davincihd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/202.png",Da Vinci HD
-
+#EXTINF:-1 tvg-id="davincihd" group-title="🌏| Quốc tế" tvg-logo="https://images.fptplay.net/media/channels/icon_channel_da-vinci-learning_165655659384.png",Da Vinci HD
+https://code.vthanhtivi.pw/channel/NzN3L3RWVFVLOGdaRWxjTEZXNGorcy81QzlGMVZ1d0RhQVJMUkFWNVRRTjMvNFJtTDNubG5WcGxLZG04NzhiS0FNckdtaE9kN2haLzB1SlpYckZ2UWc9PQ==/master.m3u8
 #EXTINF:-1 tvg-id="historyhd" group-title="🌏| Quốc tế" tvg-logo="https://www.history.ca/wp-content/themes/history-child/assets/icons/sitelogo.png",History HD
 http://fpt.vthanhtivi.pw/history/mpegts
-#EXTINF:-1 tvg-id="fashionhd" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/HCsCfZC/Fashion-TV.png",Fashion TV
-https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌏| Quốc tế" tvg-logo="https://www.at-x.com/images/common/logo.png",AMAGI TV
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 tvg-id="NationalGeographicWild.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png" group-title="🌏| Quốc tế",National Geographic Wild
+http://stream02.vnet.am/NatGeoWild/mono.m3u8
 #EXTINF:-1 tvg-id="lovenature" group-title="🌏| Quốc tế" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
@@ -517,19 +517,24 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
 #EXTINF:-1 tvg-id="discoveryhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery Channel SEA
 https://ctrl.laotv.la/live/Discovery/index.m3u8
-#EXTINF:-1 tvg-id="outdoorfhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/isCqVcE.png",Outdoor Channel HD
+#EXTINF:-1 tvg-id="outdoorfhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel HD
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN
 http://103.130.141.67:81/live/3/playlist.m3u8
 #EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/JHv0WxM.png",CGTN Documentary
 http://103.130.141.67:81/live/4/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://cdn.antmediatv.xyz/234.png", CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://www.omediach.info/wp-content/uploads/2021/09/MTV-Live-Id-loyalkaspar.jpg", MTV Live
+https://code.vthanhtivi.pw/channel/NzN3L3RWVFVLOGdaRWxjTEZXNGorcy81QzlGMVZ1d0RhQVJMUkFWNVRRUHNZN3FiTU5JeVVmUWRVSWJGc09XZFlvVEQvdlFBc2MzYW1vUzZvSGk4dHc9PQ==/master.m3u8
+#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://m.media-amazon.com/images/M/MV5BZGU1NzUxOGEtMmIzZC00ODJiLTlhNTMtYTdmY2RjMzFlZjgyXkEyXkFqcGdeQXVyMTM2MzAwOA@@._V1_.jpg", MTV 90s
+https://code.vthanhtivi.pw/channel/NzN3L3RWVFVLOGdaRWxjTEZXNGorcy81QzlGMVZ1d0RhQVJMUkFWNVRRUHNZN3FiTU5JeVVmUWRVSWJGc09XZEFQVSsrK20wZUQrNS80R256RGNudXc9PQ==/master.m3u8
 
 #EXTINF:-1 tvg-id="AlanBeckerTV.us" tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj" group-title="🌈| Thiếu nhi",Alan Becker TV
 https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
 #EXTINF:-1 tvg-id="CartoonNetworkScandinavia.uk" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="🌈| Thiếu nhi",Cartoon Network (576p)
 http://89.254.128.5:22280/cartoon_network/index.m3u8
-#EXTINF:-1 tvg-id="boomerang" group-title="🌈| Thiếu nhi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/512px-Boomerang_2014_logo.svg.png",Boomerang HD
-https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="NicktoonsScandinavia.nl" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="🌈| Thiếu nhi",Nicktoons Scandinavia
 http://89.254.128.5:22280/nicktoons/video.m3u8
 #EXTINF:-1 tvg-id="babyfirst" group-title="🌈| Thiếu nhi" tvg-logo="https://i.ibb.co/rMbtPD9/supertoonstv.png",Super Toons TV
@@ -564,8 +569,6 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/e91bb2e1-a137-4a5f-9dfb-3f334b1fa0eb.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2023/08/boxing-tv-thumbnail.png",BOXING TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
-#EXTINF:-1 tvg-id="Unbeaten.us" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="⚽| Thể thao",Unbeaten 
-https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="BoksTV.ru" tvg-logo="https://i.imgur.com/R1UjyfX.png" group-title="⚽| Thể thao",Бокс ТВ
 http://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 tvg-id="MasCiclismoTV.cr" tvg-logo="https://i.imgur.com/UFtqUbB.jpg" group-title="⚽| Thể thao",Más Ciclismo TV (720p)
@@ -578,6 +581,8 @@ https://live.field59.com/wapa/wapa2/playlist.m3u8
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Strongman.de" tvg-logo="https://i.imgur.com/4eAFuKI.png" group-title="⚽| Thể thao",Strongman Champions League
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Unbeaten.us" tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="⚽| Thể thao",Unbeaten 
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="bein" tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-es1.png" group-title="⚽| Thể thao",BEIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-id="SKY.Sport.8.nz" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Sky_Sport_Premier_League_Logo_2022.svg/1280px-Sky_Sport_Premier_League_Logo_2022.svg.png" group-title="⚽| Thể thao", SkySport8-PremierLeague_NZ-FHD
