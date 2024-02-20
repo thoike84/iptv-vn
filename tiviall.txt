@@ -2,7 +2,7 @@
 #EXTINF:0
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile 
 
 #-------------------TV360 Event------------------#
 
@@ -140,15 +140,15 @@ https://wintv.fun/360/180/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
 https://wintv.fun/360/175/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
-http://gg.gg/HaNoiIPTV-ON_Sports_HD
+https://api.wintv.me/vtvcab3/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
 https://wintv.fun/360/181/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
 https://wintv.fun/360/184/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
-http://gg.gg/HaNoiIPTV-ON_Sports_Plus_HD
+https://api.wintv.me/vtvcab6/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
-http://gg.gg/HaNoiIPTV-ON_O2TV_HD
+https://api.wintv.me/vtvcab7/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
 https://wintv.fun/360/178/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
@@ -158,15 +158,15 @@ https://wintv.fun/360/176/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
 https://wintv.fun/360/184/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab13hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/OSK4RXT.png",VTVcab 13
-
+https://api.wintv.me/vtvcab13/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
 https://wintv.fun/360/185/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
-http://gg.gg/HaNoiIPTV-ON_Football_HD
+https://api.wintv.me/vtvcab16/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 https://wintv.fun/360/186/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/wpRXpJg.png", ON Sports News 
-http://gg.gg/HaNoiIPTV-ON_Sports_News_HD
+https://api.wintv.me/vtvcab18/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://wintv.fun/360/177/index.m3u8
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
@@ -205,16 +205,16 @@ https://wintv.fun/360/15/index.m3u8
 https://wintv.fun/360/11/index.m3u8
 #EXTINF:-1 tvg-id="htvcphunuhd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/LFqj48k.png",HTVC Phụ Nữ
 https://wintv.fun/360/12/index.m3u8
+#EXTINF:-1 tvg-id="htvcplushd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC PLUS
+https://wintv.fun/360/132/index.m3u8
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/LFL1x49.png",HTVC Thuần Việt
+https://wintv.fun/360/13/index.m3u8
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC DU LỊCH & CUỘC SỐNG
+https://wintv.fun/360/133/index.m3u8
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/DowOolr.png",HTVC Ca Nhạc
+https://wintv.fun/360/14/index.m3u8
 #EXTINF:-1 tvg-id="htvcoop" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://hqth.me/buqo
-#EXTINF:-1 tvg-id="htvcplushd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC PLUS
-https://hqth.me/8ECXB
-#EXTINF:-1 tvg-id="htvcthuanviet" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/LFL1x49.png",HTVC Thuần Việt
-https://hqth.me/rt5e
-#EXTINF:-1 tvg-id="htvcdulichhd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC DU LỊCH & CUỘC SỐNG
-https://hqth.me/kCjOt
-#EXTINF:-1 tvg-id="htvccanhachd" group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/DowOolr.png",HTVC Ca Nhạc
-https://hqth.me/jcU2s
 
 
 #----------*-SCTV-*----------#
@@ -279,7 +279,7 @@ https://wintv.fun/360/219/index.m3u8
 https://wintv.fun/360/220/index.m3u8
 
 #EXTINF:-1 tvg-id="hitv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 - HiTV HD
-https://hqth.me/JwDYY8
+https://wintv.fun/360/32/index.m3u8
 #EXTINF:-1 tvg-id="youtv" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jUl8zK4.png",HCATV2 - YouTV
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/UMToCQ6.png",HCATV5 - Shopping 24h
@@ -302,7 +302,7 @@ https://wintv.fun/360/35/index.m3u8
 #EXTINF:-1 tvg-id="baria" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/WEMfHas.png",BRT HD | TH Bà Rịa Vũng Tàu
 https://stream.brt.vn:8081/live/tv2.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="baclieu" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
-
+https://ott3.nethubtv.vn/live/baclieutv/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="bentre" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/l8Ae26m.png",THBT HD | TH Bến Tre
 https://wintv.fun/360/40/index.m3u8
 #EXTINF:-1 tvg-id="binhduong1" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/Soe6MC8.png",BTV1 HD | TH Bình Dương
@@ -332,7 +332,7 @@ https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w517802219.m3u8
 #EXTINF:-1 tvg-id="haugiang" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HGTV HD | TH Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/chunklist_w1285809548.m3u8
 #EXTINF:-1 tvg-id="kiengiang" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jCTogPb.png",KG HD | TH Kiên Giang
-
+https://ott3.nethubtv.vn/live/kiengiangtv/chunklist_1.m3u8
 #EXTINF:-1 tvg-id="longan" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/j6T7sqT.png",LA34 HD | TH Long An
 https://live.mediatech.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-1 tvg-id="soctrang" group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/VcDV4Bv.png",STV1 HD | TH Sóc Trăng
@@ -494,7 +494,7 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?|Referer=https://sctv
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?|Referer=https://sctvonline.vn
 
 #EXTINF:-1 tvg-id="afnhd" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
-https://code.vthanhtivi.pw/getlink/tv360/vHhgAOO8D5De7RQpbchPcA/1707912673/215/playlist.m3u8
+
 #EXTINF:-1 tvg-id="outdoor" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel HD
 https://wintv.fun/360/216/index.m3u8
 #EXTINF:-1 tvg-id="hgtv" group-title="🌏| Quốc tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20HD.png",HGTV
@@ -502,12 +502,12 @@ https://wintv.fun/360/99/index.m3u8
 #EXTINF:-1 tvg-id="man" group-title="🌏| Quốc tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MAN.png",Man
 https://wintv.fun/360/237/index.m3u8
 #EXTINF:-1 tvg-id="davincihd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/202.png",Da Vinci HD
-https://code.vthanhtivi.pw/getlink/tv360/rNDjqOR_LnpnjuXKHks5lA/1707912673/214/playlist.m3u8
+
 #EXTINF:-1 tvg-id="historyhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/209.png",History HD
 http://fpt.vthanhtivi.pw/history/mpegts
-#EXTINF:-1 tvg-id="kix" group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/zWcUAdb.png",KIX HD
-http://210.210.155.37/dr9445/h/h07/01.m3u8
-#EXTINF:-1 tvg-id="fashionhd" group-title="🌏| Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/232.png",Fashion TV
+#EXTINF:0 tvg-id="" tvg-logo="https://i.ibb.co/Sy3YTxJ/hits-movies-logo.png" group-title="🌏| Quốc tế",HITS
+https://wintv.fun/360/107/index.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/HCsCfZC/Fashion-TV.png",Fashion TV
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌏| Quốc tế" tvg-logo="https://www.at-x.com/images/common/logo.png",AMAGI TV
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
