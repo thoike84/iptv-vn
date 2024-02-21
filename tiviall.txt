@@ -188,18 +188,7 @@ https://api.wintv.me/vtvcab22/index.m3u8
 https://api.wintv.me/vtvcab23/index.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="⚽| Thể thao" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onaction1.jpg",BTV5 - ON Sports Action
 https://wintv.fun/360/2380/index.m3u8
-#EXTINF:0 tvg-id="vtvcab17hd" group-title="⚽| Thể thao" tvg-logo="https://i.ibb.co/C6bRbMq/vtvcab-khichtv.png" ,ON+
-https://live-on-v2-cdnetwork.sigmaott.com/manifest/btv5/playlist_480p.m3u8
-#EXTINF:0 tvg-id="vtvcab17hd" group-title="⚽| Thể thao" tvg-logo="https://cdn-web.onlive.vn/onlive/logo/logo-dark.png" ,ON+ 1
-https://pc-web.stream.onlive.vn/live-stm-01/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.SEx-IErRDE0qzf1Pk2vwPd7YKfnnK3CM7L2uhXtQnLDSC17BfyrxHZH5choEcj04MjrxLYPTgVRMUI9bJP1NQQ
-#EXTINF:0 tvg-id="vtvcab17hd" group-title="⚽| Thể thao" tvg-logo="https://cdn-web.onlive.vn/onlive/logo/logo-dark.png" ,ON+ 2
-https://pc-web.stream.onlive.vn/live-stm-01/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.pT6EOnLTB18dxaAHW3UMJnbkiGcmqIEviZgcdiBc8tQRG40QGk6ni1LB7xJMRiVvjvM0Zr0QRGga3-wgJAUmfg
-#EXTINF:0 tvg-id="vtvcab17hd" group-title="⚽| Thể thao" tvg-logo="https://cdn-web.onlive.vn/onlive/logo/logo-dark.png" ,ON+ 3
-https://pc-web.stream.onlive.vn/live-stm-01/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.kN3ZLoVLY1ymbn3bnQ8z4yVkYBiV7WWAhq9FyLaOuZpeDh8N3S850RBgHn2kk9YYArwe8dAn8oI38Ev0RPaPfg
-#EXTINF:0 tvg-id="vtvcab17hd" group-title="⚽| Thể thao" tvg-logo="https://cdn-web.onlive.vn/onlive/logo/logo-dark.png" ,ON+ 4
-https://pc-web.stream.onlive.vn/live-stm-01/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.YzHN7kOB98iTwYwYgfPtZb5uxtFCaMZQFGr9vURQFyb-zObP9ioeDDciibcIe9W_T92HuasP9C8jV6KvkdLXsg
-#EXTINF:0 tvg-id="vtvcab17hd" group-title="⚽| Thể thao" tvg-logo="https://cdn-web.onlive.vn/onlive/logo/logo-dark.png" ,ON+ 5
-https://pc-web.stream.onlive.vn/live-stm-01/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.1u8UHCjbWsRU2vV9F_Fu8VVycnoM1LZUTHEvYDbKyFCxoaMOaTyOLFqAVVBzep96ZtV4hL3aSQUg0Rwo1GOkDw
+
 
 #----------*-HTV&HTVC-*----------#
 
@@ -523,12 +512,12 @@ https://wintv.fun/360/237/index.m3u8
 http://gg.gg/HaNoiIPTV-Da_Vinci_HD
 #EXTINF:-1 tvg-id="historyhd" group-title="🌏| Quốc tế" tvg-logo="https://www.history.ca/wp-content/themes/history-child/assets/icons/sitelogo.png",History HD
 http://fpt.vthanhtivi.pw/history/mpegts
-#EXTINF:-1 tvg-id="ngchd" group-title="🌏| Quốc tế" tvg-logo="https://i.upanh.org/2024/01/11/1200px-DMAX_-_Logo_2016.svg5e31b8ce089544f6.png", DMAX HD
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=164004
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌏| Quốc tế" tvg-logo="https://www.at-x.com/images/common/logo.png",AMAGI TV
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 tvg-id="lovenature" group-title="🌏| Quốc tế" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 tvg-id="fashiontv" group-title="🌏| Quốc tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/a/a4/Fashion_TV_2017.png/revision/latest?cb=20230609191955&path-prefix=vi",Fashion TV 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://www.omediach.info/wp-content/uploads/2021/09/MTV-Live-Id-loyalkaspar.jpg", MTV Live
 https://code.vthanhtivi.pw/channel/NzN3L3RWVFVLOGdaRWxjTEZXNGorcy81QzlGMVZ1d0RhQVJMUkFWNVRRUHNZN3FiTU5JeVVmUWRVSWJGc09XZFlvVEQvdlFBc2MzYW1vUzZvSGk4dHc9PQ==/master.m3u8
