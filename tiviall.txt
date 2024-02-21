@@ -1,5 +1,4 @@
 #EXTM3U url-tvg="phattai_phattai@yahoo.com" tvg-shift=0 m3uautoload=1
-#EXTINF:0
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
