@@ -4,8 +4,6 @@
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
-
-
 #-------------------TV360 Event------------------#
 
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png",TV360 Cửu Long
@@ -19,7 +17,6 @@ https://wintv.fun/360/148/index.m3u8
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png",TV360+ 4
 https://wintv.fun/360/2458/index.m3u8
 
-
 #----------*-K+-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE 
@@ -31,8 +28,6 @@ http://vcis.nekocdn.xyz/ksport1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
 
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
-
-
 
 #----------*-VTV-*----------#
 
@@ -58,7 +53,6 @@ https://wintv.fun/360/6/index.m3u8
 https://wintv.fun/360/115/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://wintv.fun/360/8/index.m3u8
-
 
 #----------*-VTC-*----------#
 
@@ -92,7 +86,6 @@ https://1117141481.vnns.net/VTC11/chunks.m3u8
 https://1117141481.vnns.net/VTC14/chunks.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD
 https://1117141481.vnns.net/VTC16/chunks.m3u8
-
 
 #----------*-VTVCAB-*----------#
 
@@ -141,7 +134,6 @@ https://api.wintv.me/vtvcab23/index.m3u8
 #EXTINF:-1 tvg-id="btv5hd" group-title="⚽| Thể thao" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onaction1.jpg",BTV5 - ON Sports Action
 https://wintv.fun/360/2380/index.m3u8
 
-
 #----------*-HTV&HTVC-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
@@ -174,7 +166,6 @@ https://wintv.fun/360/133/index.m3u8
 https://wintv.fun/360/14/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://hqth.me/Khichtivi-htv-htvc-coop-hd?/index.m3u8
-
 
 #----------*-SCTV-*----------#
 
@@ -336,7 +327,6 @@ https://60acee235f4d5.streamlock.net:443/THTV/travinhtv/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/FVmICGp.png",THTV2 HD | TH Trà Vinh
 https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
 
-
 #----------*-Quốc tế-*----------#
 
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
@@ -359,8 +349,6 @@ http://live.antmediatv.xyz:1234/stream/qnettv/discoveryasia/master.m3u8?u=viewer
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
 
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://www.history.ca/wp-content/themes/history-child/assets/icons/sitelogo.png",History HD
-
-
 
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png",In The Box
 https://wintv.fun/360/235/index.m3u8
@@ -403,14 +391,10 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8 
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png",BBC Earth
 https://lnc-bbc-earth.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png",BBC Earth
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176867
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/ZWWqiCb.png",EarthxTV
 https://ov.ottera.tv/live/master.m3u8?channel=earth_et
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/Vhv5gjN.png",Wild Earth
 https://wildearth-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/Vhv5gjN.png",Wild Earth
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
@@ -471,7 +455,6 @@ https://edge1.laotv.la/live/THD7/index.m3u8
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png", Bein Sports 2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
-
 
 #----------*-Radio-*----------#
 
