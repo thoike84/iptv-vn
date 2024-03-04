@@ -401,24 +401,23 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?|Referer=https://s
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Da%20Vinci%20HD.png",Da Vinci HD
 http://gg.gg/HaNoiIPTV-Da_Vinci_HD
 
+#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
+https://code.vthanhtivi.pw/channel/S01pQ3FCV0F2RkZ6U0JoQXE0SDhuc3RoVUN5eTNMSStsZ2YzMHRZdXhKeHJKdElHTGVJYWNZMjJuSXg1dzZneVNxWWVmd2Y2V0IzZHBNbDhNY3hVRmc9PQ==/master.m3u8
+
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrtzTDoLXs7g-7qpD1-5Z-V9nWlnwgvMmU2Q&usqp=CAU",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png",BBC Earth
-https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176867
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://www.at-x.com/images/common/logo.png",AMAGI TV
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj" group-title="🌈| Thiếu nhi",Alan Becker TV
 https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="🌈| Thiếu nhi",Baby Shark TV (1080p)
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
-https://code.vthanhtivi.pw/channel/S01pQ3FCV0F2RkZ6U0JoQXE0SDhuc3RoVUN5eTNMSStsZ2YzMHRZdXhKeHJKdElHTGVJYWNZMjJuSXg1dzZneVNxWWVmd2Y2V0IzZHBNbDhNY3hVRmc9PQ==/master.m3u8
 
 
 #----------*-Thể thao-*----------#
