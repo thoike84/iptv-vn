@@ -416,9 +416,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj" group-title="🌈| Thiếu nhi",Alan Becker TV
 https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="🌈| Thiếu nhi",Baby Shark TV (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="🌈| Thiếu nhi",Baby Shark TV
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
-
+#EXTINF:-1 group-title="🌈| Thiếu nhi" tvg-logo="https://i.ibb.co/n1wXc9P/Khich-TV-live-dremon.png",Doremon
+http://is.am/5mpe/Doremon/KhichTiVi.m3u8
 
 #----------*-Thể thao-*----------#
 
