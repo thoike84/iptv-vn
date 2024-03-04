@@ -33,19 +33,14 @@ http://b4tv.live/b4tv/b4tv/120.m3u8
 #----------*-K+-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE 
-https://code.antmediatv.xyz/channel/L2pVRmJLVmpDUy81TXlLN3o2Qk1HRm4xNHFQRjVEZllUWWdZQ3R0M0grMkpnNDdlT0FsTmJESVIzZWNaUXFUV0lpQ0d2Zk9ZSHluNnUvazRxQnlJK3RONWc1RmlwT0ZPMkd1d09hdTdmek1xRHprUmJWNjBwaGcwVDY2dVlqZDVSbms1TzBPdnpweGg2Mzgxemg1U2pIT1pKbEtLOGgwMU52cmduZXJUNlJaVkx3cGJIT2hBaDJnRzMxbVBEQWN5Q05SbDhEVzdyUGdSSlQ4eTdxbWF5S04yQlYyNEcyU3B2QStNWERWR3Z1VTlNUkRPUEJldEhYc01NK0tJaHVueA==/index.m3u8
-
+http://vcis.nekocdn.xyz/kcine/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ ACTION 
-https://code.antmediatv.xyz/channel/L2pVRmJLVmpDUy81TXlLN3o2Qk1HSWVzVmE5R1JhRG1zbkpReCt3eEpvSFhFN0d2elFOR2M5TWJTU1B1ZFVwaHhCcU95SXhwNUE0M0NvSlRYaW85aTNkeHFldGlOU1JmM0Fwamk5TmtKRTZuVFZ6OHk5M1d0UVZyOG52WW9CbitzWmxEdFAyeXRrZlczWjQ2QUIxUkthT0RYYnFtWmxEOHgyWlFzUHpyd2dvUmUxblpkMkZnSWhKMkpBRkZIcU5nZyt0RzM2a0xzcXZndVgyeFZ2V0JDdjlJaHExcTVPTzNFRld2d1ZVQk9yOHd0aWFtcWdMQ1FjSE9SUDlnK0RYYQ==/index.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png", K+ SPORT1
-https://code.antmediatv.xyz/channel/L2pVRmJLVmpDUy81TXlLN3o2Qk1HS1VNKzhnTTM0RDA1VlBrL3RGd3lwVldsM21BRjRBUmV6QjFxTUIxZEx1S2xJNGJZMXVMa25oREhBb1MrV3NFUHNIRXVkWFNiVEpZYTV2NXNydnd5UFZ5NkNROVBFcXlJeUxzU0ZxbGNvT3hMQWVlTldLT0ZaUzZEcjkrWTF5WFNJQ1Rha0ZUR0tGbFFaMVZVVnRqYlJOQVZCZlVOVkFsQVZsSVFaT3ByZVZIVWY2YVZMbE02ckhLTy9OREhoYzZIZXBKY0tJWFgrQkVwdGx3R01OakQ4WERBZWpyV3p0cDZzajVWS0FraHA3bw==/index.m3u8
-
+http://vcis.nekocdn.xyz/ksport1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
-https://code.antmediatv.xyz/channel/L2pVRmJLVmpDUy81TXlLN3o2Qk1HT1MzbU5iUnlWTmhOajZNRDhLczFVS29qT0E0a2ljSDhzVURLYUZ5aFNTSTlubFN4SG42VC9TallUYXowOXNMMWZnZHNaaitBVlRjL1lpbkE3NExHeVZEMmdNZUhIV3VtN0ZzU1pTSTdTY0pnZHQvQTRZZjJ4M0tyeXBZZGpkM2k2NG05Uzh0RWNKdkxyYU40MWhWOStBSDhqSGJqemN6OUZZQ3lETG54UFMvR3ljaVEzVmNuYmdGb1JpbDFJMTlrRXJtcWNSak1RdEdWNU9QRy9NK3dRSFNBM0dpbDJmRUxMb1M3ZTQ4N3NRVw==/index.m3u88
 
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
-https://code.antmediatv.xyz/channel/L2pVRmJLVmpDUy81TXlLN3o2Qk1HQ1docDJ1TXA3N01lVUpXU1NjY3dHcWY1RDlMb3pkdWRWQTVqa1VOUEtwSWdVQjZHc2x1aVlRV3F3SUphTzZQWklUZENXRmlGOG1qZGd2c0pwZVd5VnA2SENiK3NSOEZSWjM5YVJTbTlCUXd4bkE3aFRuWHhBSjl6Mmpra2tGa3E0YTNQNGlONWFGZEExamJYQkYyenB2Zy95K3oxSlZ1ZXpvdmRvNk1WVVZ5R0UrYitWeml3aGNWN0hSWUtFRzZkbDNhbkYzTk92SWxKVTlDamhCbGJpcGUyL3VNT3hiZUVFS0Ruall1WmRFSw==/index.m3u8
 
 
 
@@ -354,27 +349,28 @@ https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
 
 #----------*-Quốc tế-*----------#
 
+#EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
+http://live.antmediatv.xyz:1234/stream/qnettv/animax/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
+http://live.antmediatv.xyz:1234/stream/qnettv/cartoonnetwork/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
+http://live.antmediatv.xyz:1234/stream/qnettv/hbo/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
+http://live.antmediatv.xyz:1234/stream/qnettv/cinemax/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
+http://live.antmediatv.xyz:1234/stream/qnettv/axn/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
 http://live.antmediatv.xyz:1234/stream/qnettv/discoveryasia/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
 
-#EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
-http://viettel.nekocdn.xyz/Animax/index.m3u8
-#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
-http://viettel.nekocdn.xyz/AnimalPlanet/index.m3u8
+
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-http://viettel.nekocdn.xyz/BBCEarth/index.m3u8
+
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
-http://viettel.nekocdn.xyz/Discovery/index.m3u8
+
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://www.history.ca/wp-content/themes/history-child/assets/icons/sitelogo.png",History HD
-http://viettel.nekocdn.xyz/History/index.m3u8
-#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-http://viettel.nekocdn.xyz/HBO/index.m3u8
-#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
-http://viettel.nekocdn.xyz/Cinemax/index.m3u8
-#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-http://viettel.nekocdn.xyz/AXN/index.m3u8
+
+
 
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png",In The Box
 https://wintv.fun/360/235/index.m3u8
@@ -405,26 +401,24 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?|Referer=https://s
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Da%20Vinci%20HD.png",Da Vinci HD
 http://gg.gg/HaNoiIPTV-Da_Vinci_HD
 
+#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrtzTDoLXs7g-7qpD1-5Z-V9nWlnwgvMmU2Q&usqp=CAU",Fashion TV
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png",BBC Earth
+https://cbsn-dal.cbsnstream.cbsnews.com/out/v1/ffa98bbf7d2b4c038c229bd4d9122708/master.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://www.at-x.com/images/common/logo.png",AMAGI TV
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://company.fashiontv.com/wp-content/themes/fashiontv2015/images/fashiontv_logo_356_55.png",Fashion TV 4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj" group-title="🌈| Thiếu nhi",Alan Becker TV
 https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="🌈| Thiếu nhi",Cartoon Network (576p)
-http://89.254.128.5:22280/cartoon_network/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/Nicktoons_UK_Logo_2014.png" group-title="🌈| Thiếu nhi",Nicktoons Scandinavia
-http://89.254.128.5:22280/nicktoons/video.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MaFtbM5.png" group-title="🌈| Thiếu nhi",Kidoodle TV
-https://kidoodletv-kdtv-1-ca.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SbBKr8L.png" group-title="🌈| Thiếu nhi",Baby Shark TV (1080p)
 https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
-https://code.antmediatv.xyz/channel/QkoxZnFZcW9PTk9Dd1N3QlFLNllwQ3hhT05yM0orTWl0TnZZVnpCa21VdGRnZGxnbjIrNmUzNHF2Mnk3bzRDcW1ROCs0dVI0SjdmeitqbmtNMzQxN1p5bFdMVmxGRlJ5TkZoMGtnZGppU0Zhcjg3UGxXbU04aHR2VDFZcGNEYlNkUU8wdytuU1dTNmNxK2VDMGlWR2puU2lueEVOTjRDbW5EUkc4cTl1UDhwdTBncHJGSjJiTjhGZ1BPZEJSUGh0cFV6aUNXZm9NTzhBOVlRdStnZTNnQT09/chunks.m3u8
+https://code.vthanhtivi.pw/channel/S01pQ3FCV0F2RkZ6U0JoQXE0SDhuc3RoVUN5eTNMSStsZ2YzMHRZdXhKeHJKdElHTGVJYWNZMjJuSXg1dzZneVNxWWVmd2Y2V0IzZHBNbDhNY3hVRmc9PQ==/master.m3u8
 
 
 #----------*-Thể thao-*----------#
@@ -449,20 +443,16 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/e91bb2e1-a137-4a5f-9dfb-3f334b1fa0eb.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2023/08/boxing-tv-thumbnail.png",BOXING TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/R1UjyfX.png" group-title="⚽| Thể thao",Бокс ТВ
-http://stream01.vnet.am/BoksTv/mono.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UFtqUbB.jpg" group-title="⚽| Thể thao",Más Ciclismo TV (720p)
-https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="⚽| Thể thao",Swerve Sports (1080p)
 https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="⚽| Thể thao",WAPA-DT2 (WAPA Deportes) (1080p)
 https://live.field59.com/wapa/wapa2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="⚽| Thể thao",Trace Sports Stars
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4eAFuKI.png" group-title="⚽| Thể thao",Strongman Champions League
-https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="⚽| Thể thao",Unbeaten 
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4eAFuKI.png" group-title="⚽| Thể thao",Strongman Champions League
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-es1.png" group-title="⚽| Thể thao",BEIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
