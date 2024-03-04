@@ -406,7 +406,11 @@ https://code.vthanhtivi.pw/channel/S01pQ3FCV0F2RkZ6U0JoQXE0SDhuc3RoVUN5eTNMSStsZ
 
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrtzTDoLXs7g-7qpD1-5Z-V9nWlnwgvMmU2Q&usqp=CAU",Fashion TV
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV Asia
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
+#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet SEA
+https://ctrl.laotv.la/live/AnimalPlanet/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png",BBC Earth
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=176867
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://www.at-x.com/images/common/logo.png",AMAGI TV
