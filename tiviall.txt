@@ -16,7 +16,7 @@ https://wintv.fun/360/1/index.m3u8
 https://wintv.fun/360/148/index.m3u8
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png",TV360+ 4
 https://wintv.fun/360/2458/index.m3u8
-#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png",TV360+ 4
+#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png",TV360+ 5
 https://wintv.fun/360/9837/index.m3u8
 
 #----------*-K+-*----------#
@@ -75,11 +75,11 @@ https://wintv.fun/360/201/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8 HD
 https://wintv.fun/360/202/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9 HD
-https://wintv.fun/360/206/index.m3u8
+https://wintv.fun/360/203/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10 HD
-https://wintv.fun/360/207/index.m3u8
+https://wintv.fun/360/204/index.m3u8
 #EXTINF:-1 group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11 HD
-https://wintv.fun/360/208/index.m3u8
+https://wintv.fun/360/205/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14 HD
 https://wintv.fun/360/17/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC HD" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16 HD
@@ -220,7 +220,6 @@ https://hqth.me/Khichtv-live-sctv-4k?token/playlist.m3u8
 
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png",TVB VIỆT NAM
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
-
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/lARtNRO.png",VOVTV HD
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
@@ -233,7 +232,6 @@ https://wintv.fun/360/19/index.m3u8
 https://wintv.fun/360/23/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews
 https://wintv.fun/360/24/index.m3u8
-
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/KhfdJDs/THVL1-HD.png",THVL1 | TH Vĩnh Long
 https://wintv.fun/360/25/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/L5cYQkR/THVL2-HD.png",THVL2 | TH Vĩnh Long
@@ -242,11 +240,8 @@ https://wintv.fun/360/26/index.m3u8
 https://wintv.fun/360/219/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/PghhYWR/THVL4-HD.png",THVL4 | TH Vĩnh Long
 https://wintv.fun/360/220/index.m3u8
-
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 - HiTV HD
 https://wintv.fun/360/32/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jUl8zK4.png",HCATV2 - YouTV
-
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/0TkI4Ar.png",ATV HD | TH An Giang
 https://wintv.fun/360/35/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
@@ -267,8 +262,6 @@ https://wintv.fun/360/47/index.m3u8
 https://wintv.fun/360/53/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/8qlDA5N.png",ĐNRTV2 HD | TH Đồng Nai
 https://wintv.fun/360/255/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/iiY2dI1.png",ĐNRTV3 | TH Đồng Nai
-https://s.id/Khichtivi-Dong-Nai-3-m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/TqAz7ET.png",THĐT1 HD | TH Đồng Tháp
 https://wintv.fun/360/54/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/PfETBEp.png",THĐT2 HD | TH Đồng Tháp
@@ -291,7 +284,6 @@ https://wintv.fun/360/91/index.m3u8
 https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/WEMfHas.png",BRT HD | TH Vũng Tàu
 https://wintv.fun/360/94/index.m3u8
-
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/Je3K25E.png",HanoiTV1 HD
 https://wintv.fun/360/33/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/szivqh2.png",HanoiTV2 HD
