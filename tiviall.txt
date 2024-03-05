@@ -330,15 +330,20 @@ https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
 #----------*-Quốc tế-*----------#
 
 #EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
-http://live.antmediatv.xyz:1234/stream/qnettv/animax/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+#http://live.antmediatv.xyz:1234/stream/qnettv/animax/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+http://viettel.nekocdn.xyz/Animax/index.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-http://live.antmediatv.xyz:1234/stream/qnettv/cartoonnetwork/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+#http://live.antmediatv.xyz:1234/stream/qnettv/cartoonnetwork/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-http://live.antmediatv.xyz:1234/stream/qnettv/hbo/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+#http://live.antmediatv.xyz:1234/stream/qnettv/hbo/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+http://viettel.nekocdn.xyz/HBO/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
-http://live.antmediatv.xyz:1234/stream/qnettv/cinemax/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+#http://live.antmediatv.xyz:1234/stream/qnettv/cinemax/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-http://live.antmediatv.xyz:1234/stream/qnettv/axn/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+#http://live.antmediatv.xyz:1234/stream/qnettv/axn/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+http://viettel.nekocdn.xyz/AXN/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
 http://live.antmediatv.xyz:1234/stream/qnettv/discoveryasia/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
 
@@ -404,14 +409,6 @@ http://is.am/5mpe/Doremon/KhichTiVi.m3u8
 
 #----------*-Thể thao-*----------#
 
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.ibb.co/nbzFr2k/tennischannel.png",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?cc
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.ibb.co/PTnQPdp/ccEdge.png",Edge Sport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5L2KxmL/racing-com-BEARTV.jpg" group-title="⚽| Thể thao",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vDb6ZGV/REDBULL-BEARTV.png" group-title="⚽| Thể thao",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Y3DD8XX/WWE-khich-TV.png" group-title="⚽| Thể thao",WWE
 https://ctrl.laotv.la/live/WWE/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="⚽| Thể thao",IMPACT Wrestling 
@@ -424,16 +421,9 @@ https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/e91bb2e1-a137-4a5f-9dfb-3f334b1fa0eb.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2023/08/boxing-tv-thumbnail.png",BOXING TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="⚽| Thể thao",Swerve Sports (1080p)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="⚽| Thể thao",Swerve Sports
 https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5WNBFmp.png" group-title="⚽| Thể thao",WAPA-DT2 (WAPA Deportes) (1080p)
-https://live.field59.com/wapa/wapa2/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FabFP5A.png" group-title="⚽| Thể thao",Trace Sports Stars
-https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LmkNt3v.png" group-title="⚽| Thể thao",Unbeaten 
-https://unbeaten-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4eAFuKI.png" group-title="⚽| Thể thao",Strongman Champions League
-https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-es1.png" group-title="⚽| Thể thao",BEIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
