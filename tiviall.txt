@@ -4,6 +4,9 @@
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
+#EXTINF:-1 tvg-id="vthanhchannel" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhchannel_thumb.png", VThanh Channel
+http://viettel.nekocdn.xyz/vthanhchannel/index.m3u8
+
 #-------------------TV360 Event------------------#
 
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png",TV360 Cửu Long
@@ -16,8 +19,6 @@ https://wintv.fun/360/1/index.m3u8
 https://wintv.fun/360/148/index.m3u8
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png",TV360+ 4
 https://wintv.fun/360/2458/index.m3u8
-#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png",TV360+ 5
-https://wintv.fun/360/9837/index.m3u8
 
 #----------*-K+-*----------#
 
@@ -196,11 +197,11 @@ https://e1.endpoint.cdn.sctvonline.vn/channel/sctv13/index.m3u8?|Referer=https:/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.ibb.co/ThjNn6H/SCTV14-cc.webp",SCTV14
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8?|Referer=https:/sctvonline.vn/
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.ibb.co/q1GPVFM/SCTV15-SSport-cc.webp",SCTV15
-https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/01.m3u8?|Referer=https://www.vthanhnetwork.com/
+https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/01.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.ibb.co/934CHgk/SCTV16-cc.webp",SCTV16
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv16/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.ibb.co/DK7fS8T/SCTV17-cc.webp",SCTV17
-https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/01.m3u8?|Referer=https://www.vthanhnetwork.com/
+https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/01.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.ibb.co/fGHtx1M/SCTV18-cc.webp",SCTV18
 https://e1.endpoint.cdn.sctvonline.vn/channel/sctv18/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.ibb.co/31xjyg6/SCTV19-cc.webp",SCTV19
@@ -265,7 +266,7 @@ https://wintv.fun/360/255/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/TqAz7ET.png",THĐT1 HD | TH Đồng Tháp
 https://wintv.fun/360/54/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/PfETBEp.png",THĐT2 HD | TH Đồng Tháp
-https://64d0d74b76158.streamlock.net/THDT2/thdttv2/chunklist_w517802219.m3u8
+https://e8.endpoint.cdn.sctvonline.vn/hls/thdt2/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HGTV HD | TH Hậu Giang
 https://wintv.fun/360/61/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jCTogPb.png",KG HD | TH Kiên Giang
