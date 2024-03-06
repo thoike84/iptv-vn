@@ -438,11 +438,11 @@ http://viettel.nekocdn.xyz/History/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
 http://live.antmediatv.xyz:1234/stream/qnettv/discoveryasia/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
 
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet SEA
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet US
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8 
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png",BBC Earth SEA
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png",BBC Earth US
 https://lnc-bbc-earth.tubi.video/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/colorLogoPNG.png",Nature Time
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/colorLogoPNG.png",Nature Time 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgdk/playlist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Xplore.png",Xplore
 http://xlpore-samsungus.amagi.tv/playlist1080p.m3u8
