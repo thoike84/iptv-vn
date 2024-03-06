@@ -4,8 +4,133 @@
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
-#EXTINF:-1 tvg-id="vthanhchannel" group-title="⚜️| VThanh Network" tvg-logo="https://cdn.hqth.me/vthanhchannel_thumb.png", VThanh Channel
-http://viettel.nekocdn.xyz/vthanhchannel/index.m3u8
+
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE 
+http://hcm.nekocdn.xyz/KCINE/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ ACTION 
+http://hcm.nekocdn.xyz/KACTION/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png", K+ SPORT1 
+http://hcm.nekocdn.xyz/KSPORT1/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
+http://hcm.nekocdn.xyz/KSPORT2/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
+http://hcm.nekocdn.xyz/KKIDS/index.m3u8
+
+#EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
+http://hcm.nekocdn.xyz/HBO/index.m3u8
+#EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
+http://hcm.nekocdn.xyz/Cinemax/index.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
+http://hcm.nekocdn.xyz/AnimalPlanet/index.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery 
+http://hcm.nekocdn.xyz/Discovery/index.m3u8
+#EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax 
+http://hcm.nekocdn.xyz/Animax/index.m3u8
+
+===========FASHION==========
+#EXTINF:0 group-title="🌏| Quốc tế"tvg-logo="https://i.ibb.co/LYbF1Wt/fashionok.png",Fashion TV 1
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/fcnRf1f.png",Fashion TV 2
+https://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV 3
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="SwerveSports.us" tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="Sports",Swerve Sports
+https://dai.google.com/linear/hls/event/5qa-mJF2R0iBw8S1JwF7FQ/master.m3u8
+#EXTINF:-1 format="auto" tvg-name="" tvg-id="fashiontvhd.tv.vodafone.pt" group-title="Celebrities" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png",Fashion Parisᴴᴰ 🇺🇸
+https://bit.ly/3om0rKg?profile=inspirationlivetv.m3u8
+#EXTINF:-1 format="auto" tvg-id="" tvg-name="" group-title="Celebrities" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/c/c7/Fashion_TV_Logo.png/280px-Fashion_TV_Logo.png",Fashion Midnightᴴᴰ 🇺🇸
+https://bit.ly/3WlaQCx?profile=inspirationlivetv.m3u8
+
+# 🔰  🐅 Vida selvagem  🔰 
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WIld Life" tvg-logo="",Safari Wonders 4K 🇺🇸 ▶️
+https://livestream.zazerconer.workers.dev/channel/UCY37Xz08LtI_RXR-_Viz5cQ.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WIld Life" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/birderking.jpg",Birder King 🇺🇸 ▶️
+https://livestream.zazerconer.workers.dev/channel/UC7wafFu5c8AO0YF5U7R7xFA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WIld Life" tvg-logo="https://yt3.googleusercontent.com/ytc/AIf8zZQUMyEoteXzQmupztuHuVAyVvHab9CF_6tezc0BYg=s176-c-k-c0x00ffffff-no-rj",Nat Geo Wild 🇺🇸 ▶️
+https://livestream.zazerconer.workers.dev/channel/UCDPk9MG2RexnOMGTD-YnSnA.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WIld Life" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/wildearth.webp",Wild Earthᴴᴰ 🇺🇸🇧🇷 🟤
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 group-title="WIld Life" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/BBCEarth.webp",BBC Earth 🇬🇧 🟤
+https://bit.ly/3smxcco?profile=inspirationFreeTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WIld Life" tvg-logo="https://www.earthtouch.tv/media/1954995/logo-big.png",Earth Touch tv 🇺🇸 🟤
+https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="WIld Life" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1200px-2018_Animal_Planet_logo.svg.png",Animal Planet HD 🇮🇳🇺🇸
+https://github.com/inspirationlinks/m3u/raw/live/Streams/AniPlanet.m3u8
+#EXTINF:-1 tvg-id="" group-title="WIld Life" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Animal%20Planet.png",Animal Planet 🇺🇸🇨🇳
+http://198.16.100.90:8278/AnimalPlanet/playlist.m3u8?tid=MD5D8455808984558089&ct=19254&tsum=899db3292c39fbba53680601a57ee552
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WIld Life" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png",Love Natureᴴᴰ ² 🇪🇸🇺🇸 🟤
+https://bit.ly/3kKVLIy?profile=inspirationFreeTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WIld Life" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Inwild.webp",Inwild tvᴴᴰ 🇺🇸 🟤
+https://bit.ly/49tJIYf?profile=inspirationFreeTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WIld Life" tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/colorLogoPNG.png",Nature Time 🇺🇸 🟤
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01576-blueskyeenterta-naturetimeemea-lgdk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WIld Life" tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/colorLogoPNG.png",Nature Time 🇫🇷 🟤
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="WIld Life" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1a5f2eb3-3df9-4ef7-af45-56ef0f7f44dd/Adventure_Earth_ChannelLogo_White_1500x1000_Tilman.png",Adventure Earth 🇺🇸 🟤
+https://bit.ly/3TdgLKh?profile=inspirationFreeTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WIld Life" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CABC2300001X9_20230426T031131SQUARE.png_20230426031132.png",The Jack Hanna Channel 🇺🇸 🟤
+https://bit.ly/47IBNVt?profile=inspirationFreeTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WIld Life" tvg-logo="https://bit.ly/wildplanett",Wild Planetᴴᴰ 🇺🇸 🟤
+https://bit.ly/41ykXoq?profile=inspirationFreeTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WIld Life" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png",Animals tv  🇺🇸 🟤
+https://bit.ly/AnimalsPluto?profile=inspirationFreeTV.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WIld Life" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/32/USBA3000043LH_20201007T012217.png",Wildlife tvᴴᴰ 🇺🇸 🟤
+https://d1vp12yk4i8ou5.cloudfront.net/playlist720p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WIld Life" tvg-logo="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/colorLogoPNG.png",Animaux 🇫🇷 🟤
+https://bit.ly/animaux_inspiration_m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="WIld Life" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/Xplore.png",Xplore 🇺🇸 🟤
+http://xlpore-samsungus.amagi.tv/playlist1080p.m3u8
+
+# 🔰  🇺🇸🇷🇺 🥊 Ufc Fight & Wrestling   🔰 
+#EXTINF:-1 format="auto" tvg-name="" tvg-id="" group-title="Combat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/200px-Fight_network_logo.svg.png",Fight Network 🇨🇦
+http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="⚽| Thể thao", Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 format="auto" tvg-name="" tvg-id="" group-title="Combat" tvg-logo="https://pbs.twimg.com/profile_images/1305918437496164354/UbULc0Jx_400x400.jpg",XFC MMA 🇺🇸 🟤
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+#EXTINF:-1 format="auto" tvg-name="" tvg-id="" group-title="Combat" tvg-logo="https://images.pluto.tv/channels/6334a574605f140007e233c4/colorLogoPNG.png",PFL MMA 🇧🇷🇺🇸 🟤
+https://r.mjh.nz/PlutoTV/64f6180130ab3300083d896b-alt.m3u8
+#EXTINF:-1 format="auto" tvg-name="" tvg-id="" group-title="Combat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg",WWE Network 🇺🇸 
+http://193.58.152.27:7788/WWE/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Y3DD8XX/WWE-khich-TV.png" group-title="⚽| Thể thao",WWE
+https://ctrl.laotv.la/live/WWE/index.m3u8
+
+#EXTINF:-1 format="auto" tvg-name="" tvg-id="" group-title="Combat" tvg-logo="https://www.primefight.tv/wp-content/uploads/2020/04/prime_fight_logo.png",Prime Fight 🇺🇸
+https://edge-fast2.evrideo.tv/313fc62f-0109-43fc-85ab-650abfaa9d12_0_HLS/manifest.m3u8
+#EXTINF:-1 format="auto" tvg-name="" tvg-id="" group-title="Combat" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/ProfessionalFightersLeagueShieldLogo.png",Professional Fighters League 🇺🇸 🟤
+https://bit.ly/3NjCdK6?profile=inspirationlivetv.m3u8~
+#EXTINF:-1 format="auto" tvg-name="" tvg-id="" group-title="Combat" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png",Fite 24/7 🇺🇸 🟤
+https://bit.ly/4aYnRZC?profile=inspirationlivetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4w95NZQ.png" group-title="⚽| Thể thao",Fite 
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+
+#EXTINF:-1 format="auto" tvg-name="" tvg-id="" group-title="Combat" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SwerveCombat.webp",Swerve Combat 🇺🇸 🟤
+https://bit.ly/47jr7N2?profile=inspirationlivetv.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GT0Yi2T.png" group-title="⚽| Thể thao",Swerve Sports
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+
+#EXTINF:-1 format="auto" tvg-name="" group-title="Combat" tvg-id="5e20b730f2f8d5003d739db7-606605549dbfca002d2ae877" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/fightnetwork.webp",MFight Network 🇺🇸 🟤
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=778
+#EXTINF:-1 format="auto" tvg-name="" tvg-id="" group-title="Combat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knock Fighting 🇺🇸 🟤
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knocks Fighting
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/e91bb2e1-a137-4a5f-9dfb-3f334b1fa0eb.m3u8
+
+#EXTINF:-1 format="auto" tvg-name="" tvg-id="" group-title="Combat" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp",Impact! Wrestling 🇺🇸 🟤
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XO8u1V7.png" group-title="⚽| Thể thao",IMPACT Wrestling 
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 format="auto" tvg-name="" tvg-id="" group-title="Combat" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ImpactWrestling.webp",Impact! Wrestling 🇺🇸 🟤
+https://d2tuwvs0ja335j.cloudfront.net/hls/1080p/playlist.m3u8
+
 
 #-------------------TV360 Event------------------#
 
