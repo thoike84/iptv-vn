@@ -90,17 +90,17 @@ https://wintv.fun/360/18/index.m3u8
 https://wintv.fun/360/180/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
 https://wintv.fun/360/175/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
+#EXTINF:-1 group-title="🇻🇳| VTVcab,⚽| Thể thao" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
 https://code.vthanhtivi.pw/getlink/onlive/onsports/86421.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
 https://wintv.fun/360/181/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
 https://wintv.fun/360/184/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
+#EXTINF:-1 group-title="🇻🇳| VTVcab,⚽| Thể thao" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
 https://code.vthanhtivi.pw/getlink/onlive/onsportsplus/86420.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
 https://code.vthanhtivi.pw/getlink/onlive/o2tvvtvcab/86431.m3u8
-#EXTINF:-1 group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
+#EXTINF:-1 group-title="🇻🇳| VTVcab,🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
 https://wintv.fun/360/178/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
 https://wintv.fun/360/189/index.m3u8
@@ -112,23 +112,23 @@ https://wintv.fun/360/184/index.m3u8
 https://wintv.fun/360/27/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
 https://wintv.fun/360/185/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
+#EXTINF:-1 group-title="🇻🇳| VTVcab,⚽| Thể thao" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
 https://code.vthanhtivi.pw/getlink/onlive/onfootball/86423.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 https://wintv.fun/360/186/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/wpRXpJg.png", ON Sports News 
+#EXTINF:-1 group-title="🇻🇳| VTVcab,⚽| Thể thao" tvg-logo="https://i.imgur.com/wpRXpJg.png", ON Sports News 
 https://code.vthanhtivi.pw/getlink/onlive/onsportsnews/86422.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://wintv.fun/360/177/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 https://wintv.fun/360/187/index.m3u8
-#EXTINF:-1 group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids
+#EXTINF:-1 group-title="🇻🇳| VTVcab,🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids
 https://wintv.fun/360/179/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
 https://wintv.fun/360/188/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
+#EXTINF:-1 group-title="🇻🇳| VTVcab,⚽| Thể thao" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
 https://wintv.fun/360/169/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onaction1.jpg",BTV5 - ON Sports Action
+#EXTINF:-1 group-title="🇻🇳| VTVcab,⚽| Thể thao" tvg-logo="https://assets-vtvcab.gviet.vn/images/hq/posters/onaction1.jpg",BTV5 - ON Sports Action
 https://wintv.fun/360/2380/index.m3u8
 
 #----------*-HTV&HTVC-*----------#
