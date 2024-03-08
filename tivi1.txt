@@ -4,107 +4,39 @@
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
-
-#EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://wintv.fun/360/2/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://wintv.fun/360/3/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://wintv.fun/360/4/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-https://wintv.fun/360/108/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://wintv.fun/360/110/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-https://wintv.fun/360/98/index.m3u8
-
-#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
-https://wintv.fun/360/190/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
-https://wintv.fun/360/191/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-https://wintv.fun/360/192/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
-https://wintv.fun/360/9/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 
-https://wintv.fun/360/193/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
-https://wintv.fun/360/194/index.m3u8
-
-#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://i.ibb.co/x6dMJWH/SCTV9-cc.webp",SCTV9
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctv9/index.m3u8?|Referer=https://sctvonline.vn/
-#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://i.ibb.co/23fg0qV/SCTVPhim-cc.webp",SCTV Phim TH
-https://e1.endpoint.cdn.sctvonline.vn/channel/sctvphimtonghop/index.m3u8?|Referer=https://sctvonline.vn/
-#EXTINF:-1 group-title="🎬| Phim" tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png",TVB VIỆT NAM
-https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
-
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/lARtNRO.png",VOVTV HD
-https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
-https://wintv.fun/360/19/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
-https://wintv.fun/360/20/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/7zgsFIK.png",NHÂN DÂN TV
-https://wintv.fun/360/23/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews
-https://wintv.fun/360/24/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/YtZGuSy.png",QUỐC HỘI TV
-https://wintv.fun/360/290/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 - HiTV HD
-https://wintv.fun/360/32/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/KhfdJDs/THVL1-HD.png",THVL1 | TH Vĩnh Long
-https://wintv.fun/360/25/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/L5cYQkR/THVL2-HD.png",THVL2 | TH Vĩnh Long
-https://wintv.fun/360/26/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/bKkbSTZ/THVL3-HD.png",THVL3 | TH Vĩnh Long
-https://wintv.fun/360/219/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/PghhYWR/THVL4-HD.png",THVL4 | TH Vĩnh Long
-https://wintv.fun/360/220/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/0TkI4Ar.png",ATV HD | TH An Giang
-https://wintv.fun/360/35/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
-https://wintv.fun/360/38/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/l8Ae26m.png",THBT HD | TH Bến Tre
-https://wintv.fun/360/40/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/Soe6MC8.png",BTV1 HD | TH Bình Dương
-https://wintv.fun/360/42/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pEaPECX.png",BTV2 HD | TH Bình Dương
-https://wintv.fun/360/43/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 | An Viên TV
-https://wintv.fun/360/151/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/sXQHPZM.png",BPTV1 HD | TH Bình Phước
-https://wintv.fun/360/44/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/tW0pGBM.png",BTV HD | TH Bình Thuận
-https://wintv.fun/360/45/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ZKV1ok2.png",CTV HD | TH Cà Mau
-https://wintv.fun/360/46/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/0fGI8cJ.png",THTPCT HD | TH Cần Thơ
-https://wintv.fun/360/47/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/DCLUAqZ.png",ĐNRTV1 HD | TH Đồng Nai
-https://wintv.fun/360/53/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/8qlDA5N.png",ĐNRTV2 HD | TH Đồng Nai
-https://wintv.fun/360/255/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/TqAz7ET.png",THĐT1 HD | TH Đồng Tháp
-https://wintv.fun/360/54/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/PfETBEp.png",THĐT2 HD | TH Đồng Tháp
-https://e8.endpoint.cdn.sctvonline.vn/hls/thdt2/index.m3u8?|Referer=https://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HGTV HD | TH Hậu Giang
-https://wintv.fun/360/61/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jCTogPb.png",KG HD | TH Kiên Giang
-https://wintv.fun/360/66/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/iaexSxL.png",LTV HD | TH Lâm Đồng
-https://wintv.fun/360/69/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/j6T7sqT.png",LA34 HD | TH Long An
-https://wintv.fun/360/72/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/VcDV4Bv.png",STV1 HD | TH Sóc Trăng
-https://wintv.fun/360/84/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/8rGiYuk.png",TTV11 HD | TH Tây Ninh
-https://wintv.fun/360/86/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/UTSrapf.png",THTG HD | TH Tiền Giang
-https://wintv.fun/360/90/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/IhAFIHH.png",THTV1 HD | TH Trà Vinh
-https://wintv.fun/360/91/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/FVmICGp.png",THTV2 HD | TH Trà Vinh
-https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/WEMfHas.png",BRT HD | TH Vũng Tàu
-https://wintv.fun/360/94/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 1
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_8dfb2b09b996398a/d4526ccb/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 2
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_ffe18e6a86f64dce/7ecb8be3/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 3
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_626d1e00d4c192a4/6a0f79d8/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 4
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_fc81b3e184e28c97/365ed498/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 5
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_69c40991192a2958/ec1ea62a/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 6
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_e1065838ed934813/ad1d8505/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 7
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_48d007a3eaa6e686/d62e4909/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 8
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_881b65a04b25162a/46aa68aa/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 9
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_4d16e19383a9d277/a9cb237e/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 10
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_0202b62613d6756d/77ce30f8/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 11
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_2f6c275bc8493e56/98912f6a/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 12
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_74d1cf52b6c0dfc7/6e5e7405/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 13
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_38685fe27f231d8e/d7996369/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 14
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_296cc1a78db1b55e/6654fdbe/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 15
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_4d4fbf188bd5d755/c175ae91/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 16
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_3f400da84e259777/396c5940/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 17
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_7d32e1ffce32804e/c35a29c2/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 18
+https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_c57598042f3208bb/2d508f56/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
