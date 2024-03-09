@@ -4,6 +4,26 @@
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Documentary",Animal Planet Multi Audio(BD)
+https://api.bongohub.pw/bdsajibx/Animal_Planet_hindi.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Documentary",Animal Planet Multi Audio(Subir)
+https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Animal-Planet.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Documentary",Animal Planet Multi Audio(BD)
+https://raw.githubusercontent.com/kaziemamul/html1/main/KaziTV/Animal_Planet.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Documentary",Animal Planet Multi Audio(BD)
+https://od.lk/s/ODRfNzIxOTE5NjFf/Animal_Plannet.m3u8
+#EXTINF:-1 tvg-id="55" tvg-name="Animal Planet HD" tvg-country="IN" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" tvg-chno="55" group-title="Documentary",Animal Planet HD
+https://api.bongohub.pw/playlist/aayna.php?id=55&e=.m3u8|User-Agent=bdsajib
+#EXTINF: -1 tvg-name="Documentary" tvg-logo="https://i.postimg.cc/g28Z2QmT/download-8.png" group-title="Documentary", Animal Planet Toffe
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1707873115:KeyName=prod_linear:Signature=F-K0ZrXwLd1lcZMgmfQfUA0k9Y1jmPRCAa4TpF-KboTX5YRoSg6Cie07FbBcvtUXXN306QtHp3YzLT30uvy3Dg"}
+https://bldcmprod-cdn.toffeelive.com/cdn/live/animal_planet_hd/playlist.m3u8
+#EXTINF: -1 tvg-name="Documentary" tvg-logo="https://i.postimg.cc/g28Z2QmT/download-8.png" group-title="Documentary", Animal Planet 2
+https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u
+#EXTINF:-1 tvg-name="Documentary" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/cb8043b5-b057-4b08-8389-970f9225cdd9_180x180_animal_planet_hd.jpg" tvg-id="40" group-title="Documentary",Animal Planet HD
+https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=animal_planet_hd
+
 #-------------------TV360 Event------------------#
 
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png",TV360 Cửu Long
