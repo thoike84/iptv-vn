@@ -19,23 +19,16 @@ https://wintv.fun/360/2458/index.m3u8
 
 #----------*-K+-*----------#
 
-#EXTINF:-1 group-title="🍭| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ ACTION 
-https://hqth.me/Klife-hd?/playlist.m3u8
-#EXTINF:-1 group-title="🍭| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE 
-https://hqth.me/KCINE-hd?khichTV/index.m3u8
-#EXTINF:-1 group-title="🍭| K+" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
-https://hqth.me/Kkids-khichtv?index.m3u8
-#EXTINF:-1 group-title="🍭| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png", K+ SPORT1 
-https://hqth.me/KhichTV-k-SPORT-1-HD?/index.m3u8
-#EXTINF:-1 group-title="🍭| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
-https://hqth.me/KhichTV-k-SPORT-2-HD?/index.m3u8
-
-#EXTINF:-1 group-title="🍭| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ ACTION 
-http://is.am/5mf8/khichtivi/k+4/index.m3u8
-#EXTINF:-1 group-title="🍭| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE 
-https://hqth.me/testchannel1
-#EXTINF:-1 group-title="🍭| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE 
-http://is.am/5mf7/khichtivi/k+3/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ ACTION 
+http://hcm.nekocdn.xyz/KACTION/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE 
+http://hcm.nekocdn.xyz/KCINE/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
+http://hcm.nekocdn.xyz/KKIDS/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png", K+ SPORT1 
+http://hcm.nekocdn.xyz/KSPORT1/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
+http://hcm.nekocdn.xyz/KSPORT2/index.m3u8
 
 #----------*-VTV-*----------#
 
@@ -219,8 +212,6 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/index.m3u8?|Referer=https://sct
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.ibb.co/23fg0qV/SCTVPhim-cc.webp",SCTV Phim TH
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?|Referer=https://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://pipitv.top/logo/sctv4k.png",SCTV4K
-https://hqth.me/Khichtv-live-sctv-4k?token/playlist.m3u8
 
 #EXTINF:-1 group-title="❤| SCTV"tvg-logo="https://pipitv.top/logo/sctv1.png" tvg-id="sctv1hd", SCTV1
 https://live.pipitv.top/stream/channelid/295291418
