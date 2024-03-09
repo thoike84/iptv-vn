@@ -231,10 +231,6 @@ https://live.pipitv.top/stream/channelid/1212742398
 https://live.pipitv.top/stream/channelid/1722538888
 #EXTINF:-1 group-title="❤| SCTV"tvg-logo="https://pipitv.top/logo/sctv9.png" tvg-id="sctv9hd", SCTV9
 https://live.pipitv.top/stream/channelid/1063147237
-#EXTINF:-1 group-title="❤| SCTV"tvg-logo="https://pipitv.top/logo/sctv4k.png" tvg-id="sctv10hd",SCTV 4K
-https://live.pipitv.top/stream/channelid/431270084
-#EXTINF:-1 group-title="❤| SCTV"tvg-logo="https://pipitv.top/logo/sctvpth.png" tvg-id="sctvhdpth",SCTV PHIM TONG HOP
-https://live.pipitv.top/stream/channelid/126151085
 #EXTINF:-1 group-title="❤| SCTV"tvg-logo="https://pipitv.top/logo/sctv10.png" tvg-id="sctv10hd",SCTV10
 https://live.pipitv.top/stream/channelid/1979522808
 #EXTINF:-1 group-title="❤| SCTV"tvg-logo="https://pipitv.top/logo/sctv11.png" tvg-id="sctv11hd",SCTV11
@@ -261,13 +257,17 @@ https://live.pipitv.top/stream/channelid/895927052
 https://live.pipitv.top/stream/channelid/1693994072
 #EXTINF:-1 group-title="❤| SCTV"tvg-logo="https://pipitv.top/logo/sctv22.png" tvg-id="sctv22hd",SCTV22
 https://live.pipitv.top/stream/channelid/985985550
-#EXTINF:-1 group-title="❤| SCTV"tvg-logo="https://pipitv.top/logo/thvl1.png" tvg-id="vinhlong1hd",THVL1
+#EXTINF:-1 group-title="❤| SCTV"tvg-logo="https://pipitv.top/logo/sctv4k.png" tvg-id="sctv10hd",SCTV 4K
+https://live.pipitv.top/stream/channelid/431270084
+#EXTINF:-1 group-title="❤| SCTV"tvg-logo="https://pipitv.top/logo/sctvpth.png" tvg-id="sctvhdpth",SCTV PHIM TONG HOP
+https://live.pipitv.top/stream/channelid/126151085
+#EXTINF:-1 group-title="❤| THVL"tvg-logo="https://pipitv.top/logo/thvl1.png" tvg-id="vinhlong1hd",THVL1
 https://live.pipitv.top/stream/channelid/801784418
-#EXTINF:-1 group-title="❤| SCTV"tvg-logo="https://pipitv.top/logo/thvl2.png" tvg-id="vinhlong2hd",THVL2
+#EXTINF:-1 group-title="❤| THVL"tvg-logo="https://pipitv.top/logo/thvl2.png" tvg-id="vinhlong2hd",THVL2
 https://live.pipitv.top/stream/channelid/82976081
-#EXTINF:-1 group-title="❤| SCTV"tvg-logo="https://pipitv.top/logo/thvl3.png" tvg-id="vinhlong3hd",THVL3
+#EXTINF:-1 group-title="❤| THVL"tvg-logo="https://pipitv.top/logo/thvl3.png" tvg-id="vinhlong3hd",THVL3
 https://live.pipitv.top/stream/channelid/1846281399
-#EXTINF:-1 group-title="❤| SCTV"tvg-logo="https://pipitv.top/logo/thvl4.png" tvg-id="vinhlong4hd",THVL4
+#EXTINF:-1 group-title="❤| THVL"tvg-logo="https://pipitv.top/logo/thvl4.png" tvg-id="vinhlong4hd",THVL4
 https://live.pipitv.top/stream/channelid/1399711815
 
 #----------*-Địa phương-*----------#
