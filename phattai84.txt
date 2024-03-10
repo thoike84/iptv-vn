@@ -447,11 +447,11 @@ https://wintv.fun/360/95/index.m3u8
 
 #----------*-Quốc tế-*----------#
 
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/HGTV%20HD.png",HGTV
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://www.threenow.co.nz/dam/hgtv/logos/hgtv-desktop-logo.png",HGTV
 https://wintv.fun/360/99/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
 https://wintv.fun/360/135/index.m3u8
-#EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Box%20Movie%201%20HD.png",Box Movie 1
+#EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.ibb.co/m84rscz/Box-Movie1-cc.webp",Box Movie 1
 https://wintv.fun/360/159/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
 https://wintv.fun/360/160/index.m3u8
@@ -461,15 +461,15 @@ https://wintv.fun/360/162/index.m3u8
 https://wintv.fun/360/163/index.m3u8
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
 https://wintv.fun/360/212/index.m3u8
-#EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Da%20Vinci%20HD.png",Da Vinci HD
+#EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci HD
 https://wintv.fun/360/214/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
 https://wintv.fun/360/215/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel HD
 https://wintv.fun/360/216/index.m3u8
-#EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/InTheBox%20Channel.png",In The Box
+#EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.ibb.co/tQTc0r0/Box-Channel-cc.webp",In The Box
 https://wintv.fun/360/235/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/MAN.png",Man
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.ibb.co/Yj6BTzZ/Man-cc.webp",Man
 https://wintv.fun/360/237/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
 https://wintv.fun/360/239/index.m3u8
@@ -492,7 +492,8 @@ http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 #http://live.antmediatv.xyz:1234/stream/qnettv/axn/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
 http://viettel.nekocdn.xyz/AXN/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-http://live.antmediatv.xyz:1234/stream/qnettv/discoveryasia/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57
+http://live.antmediatv.xyz:1234/stream/qnettv/discoveryasia/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57|user-agent=ANTmedia
+
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
 http://viettel.nekocdn.xyz/AnimalPlanet/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
