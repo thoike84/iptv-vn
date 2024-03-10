@@ -4,39 +4,116 @@
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 1
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_8dfb2b09b996398a/d4526ccb/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 2
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_ffe18e6a86f64dce/7ecb8be3/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 3
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_626d1e00d4c192a4/6a0f79d8/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 4
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_fc81b3e184e28c97/365ed498/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 5
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_69c40991192a2958/ec1ea62a/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 6
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_e1065838ed934813/ad1d8505/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 7
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_48d007a3eaa6e686/d62e4909/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 8
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_881b65a04b25162a/46aa68aa/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 9
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_4d16e19383a9d277/a9cb237e/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 10
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_0202b62613d6756d/77ce30f8/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 11
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_2f6c275bc8493e56/98912f6a/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 12
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_74d1cf52b6c0dfc7/6e5e7405/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 13
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_38685fe27f231d8e/d7996369/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 14
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_296cc1a78db1b55e/6654fdbe/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 15
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_4d4fbf188bd5d755/c175ae91/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 16
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_3f400da84e259777/396c5940/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 17
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_7d32e1ffce32804e/c35a29c2/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🇻🇳| SCTV Online",NHÂN GIAN KỲ TRUYỆN - Tập 18
-https://endpoint.cdn.sctvonline.vn/tenants/notenant/transcode/202111/ott_nhan_gian_ky_truyen_hdgc_0_c57598042f3208bb/2d508f56/hls/playlist.m3u8?|Referer=http://sctvonline.vn/
+#----------*-Thể thao-*----------#
+
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-es1.png",BEIN SPORTS XTRA
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/Vtk2cGI.png",Bein Sports 1
+https://ctrl.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/vUJZSvs.png",Bein Sports 2
+https://ctrl.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/goTVVel.png",True Premier Football 1
+https://edge2.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EodqrAZ.png",True Premier Football 2
+https://edge2.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/JGXzw5v.png",True Sport 1
+https://edge1.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/l11xhF2.png",True Sport 2
+https://edge1.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/rsAqjtw.png",True Sport 3
+https://edge2.laotv.la/live/TrueSport3/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/bW79Nal.png",True Sport 7
+https://edge1.laotv.la/live/THD7/index.m3u8
+
+#----------*-Thể thao-*----------#
+
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://sender.epglogos.de/302x190_w/12181.png",Sky Sports Premier League
+https://kusnadipepenk.github.io/ntn/skyprem.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png",Super Sports Premier League
+https://kusnadipepenk.github.io/ntn/superprem.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png",beIN Sports 1
+https://kusnadipepenk.github.io/ntn/bs1.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png",beIN Sports 2
+https://kusnadipepenk.github.io/ntn/bs2.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg",Sport TV 1
+https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg",Sport TV 2
+https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg",Sport TV 3
+https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png",TNT Sports 1
+https://kusnadipepenk.github.io/ntn/bt1.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png",TNT Sports 2
+https://kusnadipepenk.github.io/ntn/bt2.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png",TNT Sports 3
+https://kusnadipepenk.github.io/ntn/bt3.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",Astro Supersport 1
+https://kusnadipepenk.github.io/ntn/asp1.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",Astro Supersport 2
+https://kusnadipepenk.github.io/ntn/asp2.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",Astro Supersport 3
+https://kusnadipepenk.github.io/ntn/asp3.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png",Astro Supersport 4
+https://kusnadipepenk.github.io/ntn/asp4.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",ESPN 1
+http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",ESPN 2 
+http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",FOX SPORTS 1
+http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",FOX SPORTS 2
+http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",FOX SPORTS 3
+http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+
+#----------*-Thể thao-*----------#
+
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/200px-Fight_network_logo.svg.png",Fight Network
+http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://pbs.twimg.com/profile_images/1305918437496164354/UbULc0Jx_400x400.jpg",XFC MMA
+https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/WWE_Network_logo.svg",WWE Network
+http://193.58.152.27:7788/WWE/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://provider-static.plex.tv/epg/cms/production/a12045b8-c4b0-46f1-a480-97b5fceb9db9/FITE24-7_Channel_Logo_for_PLEX_1800x1200.png",Fite 24/7
+https://bit.ly/4aYnRZC?profile=inspirationlivetv.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SwerveCombat.webp",Swerve Combat
+https://bit.ly/47jr7N2?profile=inspirationlivetv.m3u8
+
+#----------*-Thể thao-*----------#
+
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/nbzFr2k/tennischannel.png",Tennis Channel
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?cc
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/PTnQPdp/ccEdge.png",Edge Sport
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/5L2KxmL/racing-com-BEARTV.jpg",Racing.com
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/vDb6ZGV/REDBULL-BEARTV.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/Y3DD8XX/WWE-khich-TV.png",WWE
+https://ctrl.laotv.la/live/WWE/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/XO8u1V7.png",IMPACT Wrestling 
+#https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",Fight Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/4w95NZQ.png",Fite 
+https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knocks Fighting
+#https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/e91bb2e1-a137-4a5f-9dfb-3f334b1fa0eb.m3u8
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099396/8d216b41-1,96b-49d2-afb2-46cb9916f903.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2023/08/boxing-tv-thumbnail.png",BOXING TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
+http://stream01.vnet.am/BoksTv/mono.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/UFtqUbB.jpg",Más Ciclismo TV (720p)
+https://ssh101.bozztv.com/ssh101/masciclismo/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SwerveCombat.webp",Swerve Combat
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/5WNBFmp.png",WAPA-DT2
+https://live.field59.com/wapa/wapa2/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/FabFP5A.png",Trace Sports Stars
+https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/4eAFuKI.png",Strongman Champions League
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/LmkNt3v.png",Unbeaten 
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
