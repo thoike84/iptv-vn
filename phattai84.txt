@@ -511,19 +511,19 @@ https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-es1.png",BEIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png", True Premier Football 1
-https://ctrl.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png", True Premier Football 2
-https://ctrl.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png",True Sport 1
-https://ctrl.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/1e8bbb60-f973-11e9-91cd-2f79be09d2b3_original.png",True Sport 2
-https://ctrl.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png",True Sport 3
-https://ctrl.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/e52c8980-f972-11e9-a1fc-5dda12c8d080_320.png", True Sport 7
-https://edge1.laotv.la/live/THD7/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png", Bein Sports 1
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/Vtk2cGI.png",Bein Sports 1
 https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Logo_bein_sports_2.png/1200px-Logo_bein_sports_2.png", Bein Sports 2
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/vUJZSvs.png",Bein Sports 2
 https://ctrl.laotv.la/live/Bsport2/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/goTVVel.png",True Premier Football 1
+https://edge2.laotv.la/live/TSport1/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EodqrAZ.png",True Premier Football 2
+https://edge2.laotv.la/live/TSport2/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/JGXzw5v.png",True Sport 1
+https://edge1.laotv.la/live/TrueSport6/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/l11xhF2.png",True Sport 2
+https://edge1.laotv.la/live/TrueSport2/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/rsAqjtw.png",True Sport 3
+https://edge2.laotv.la/live/TrueSport3/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/bW79Nal.png",True Sport 7
+https://edge1.laotv.la/live/THD7/index.m3u8
