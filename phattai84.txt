@@ -422,13 +422,16 @@ https://wintv.fun/360/289/index.m3u8
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
 http://viettel.nekocdn.xyz/Animax/index.m3u8
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
+#http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
+http://s4.nihontv.net:21585/cartoon/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-http://viettel.nekocdn.xyz/HBO/index.m3u8
+#http://viettel.nekocdn.xyz/HBO/index.m3u8
+http://s4.nihontv.net:21585/hbo/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
 http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-http://viettel.nekocdn.xyz/AXN/index.m3u8
+#http://viettel.nekocdn.xyz/AXN/index.m3u8
+http://s4.nihontv.net:21585/axn/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
 http://live.antmediatv.xyz:1234/stream/qnettv/discoveryasia/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57|user-agent=ANTmedia
 
@@ -437,7 +440,8 @@ http://viettel.nekocdn.xyz/AnimalPlanet/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
 http://viettel.nekocdn.xyz/BBCEarth/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
-http://viettel.nekocdn.xyz/Discovery/index.m3u8
+#http://viettel.nekocdn.xyz/Discovery/index.m3u8
+http://s4.nihontv.net:21585/discovery/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://www.history.ca/wp-content/themes/history-child/assets/icons/sitelogo.png",History HD
 http://viettel.nekocdn.xyz/History/index.m3u8
 
