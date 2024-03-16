@@ -4,6 +4,11 @@
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 
+#-*-- Livestream -*--#
+
+#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="http://b4tv.live:80/images/f48921dd0505305aff871882567eeca9.png", B4BOX
+http://b4tv.live/b4tv/b4tv/84.m3u8
+
 #-------------------TV360 Event------------------#
 
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png",TV360 Cửu Long
@@ -162,7 +167,7 @@ https://wintv.fun/360/133/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/DowOolr.png",HTVC Ca Nhạc
 https://wintv.fun/360/14/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
-https://hqth.me/Khichtivi-htv-htvc-coop-hd?/index.m3u8
+
 
 #----------*-SCTV-*----------#
 
@@ -433,7 +438,6 @@ http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 #http://viettel.nekocdn.xyz/AXN/index.m3u8
 http://s4.nihontv.net:21585/axn/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-http://live.antmediatv.xyz:1234/stream/qnettv/discoveryasia/master.m3u8?u=viewer&p=ebe757e561faad05ea02332fb7579564cd23e6d943f86b82fb414846511fdc57|user-agent=ANTmedia
 
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
 http://viettel.nekocdn.xyz/AnimalPlanet/index.m3u8
