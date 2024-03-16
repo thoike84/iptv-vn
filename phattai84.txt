@@ -8,13 +8,13 @@
 
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="http://b4tv.live:80/images/f48921dd0505305aff871882567eeca9.png", B4BOX
 http://b4tv.live/b4tv/b4tv/84.m3u8
-#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://webapi.mytv.vn/static/channel/267.png?ver=19", MyTV 801 
+#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://mytv.com.vn/_next/image/?url=%2Fimages%2FLogo.png&w=64&q=75", MyTV 801 
 http://is.am/5mnw/801mytv
-#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://webapi.mytv.vn/static/channel/349.png?ver=19", MyTV 802
+#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://mytv.com.vn/_next/image/?url=%2Fimages%2FLogo.png&w=64&q=75", MyTV 802
 http://is.am/5mnm/802mytv
-#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://webapi.mytv.vn/static/channel/447.png?ver=19", MyTV 803
+#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://mytv.com.vn/_next/image/?url=%2Fimages%2FLogo.png&w=64&q=75", MyTV 803
 http://is.am/5mnn/803mytv
-#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/2a/MyTV.png/revision/latest?cb=20220122012620&path-prefix=vi", MyTV 804
+#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://mytv.com.vn/_next/image/?url=%2Fimages%2FLogo.png&w=64&q=75", MyTV 804
 http://is.am/5mnx/804mytv
 
 #-------------------TV360 Event------------------#
