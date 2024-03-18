@@ -9,13 +9,13 @@
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="http://b4tv.live:80/images/f48921dd0505305aff871882567eeca9.png", B4BOX
 http://b4tv.live/b4tv/b4tv/84.m3u8
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://mytv.com.vn/_next/image/?url=%2Fimages%2FLogo.png&w=64&q=75", MyTV 801 
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.175:10858
+http://113.160.152.31:5050/rtp/232.84.2.175:10858
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://mytv.com.vn/_next/image/?url=%2Fimages%2FLogo.png&w=64&q=75", MyTV 802
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.176:10864
+http://113.160.152.31:5050/rtp/232.84.2.176:10864
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://mytv.com.vn/_next/image/?url=%2Fimages%2FLogo.png&w=64&q=75", MyTV 803
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.195:10954
+http://113.160.152.31:5050/rtp/232.84.2.195:10954
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://mytv.com.vn/_next/image/?url=%2Fimages%2FLogo.png&w=64&q=75", MyTV 804
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.196:10960
+http://113.160.152.31:5050/rtp/232.84.2.196:10960
 
 #-------------------TV360 Event------------------#
 
@@ -440,35 +440,35 @@ https://wintv.fun/360/239/index.m3u8
 https://wintv.fun/360/289/index.m3u8
 
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
-http://iptvzin.asuscomm.com:9876/rtp/232.84.1.18:8082
+http://iptvquan.duckdns.org:9876/udp/225.1.1.135:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
-http://iptvzin.asuscomm.com:9876/rtp/232.84.1.90:10398
+http://iptvquan.duckdns.org:9876/udp/225.1.1.134:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.222:11254
+http://iptvquan.duckdns.org:9876/udp/225.1.1.138:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.144:10684
+http://iptvquan.duckdns.org:9876/udp/225.1.2.231:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.227:11284
+http://iptvquan.duckdns.org:9876/udp/225.1.1.136:30120
 
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.140:10660
+http://iptvquan.duckdns.org:9876/udp/225.1.2.225:30120
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.117:10654
+http://113.160.152.31:5050/rtp/232.84.3.117:10654
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World 
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.172:10840
+http://113.160.152.31:5050/rtp/232.84.2.172:10840
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.138:10648
+http://iptvquan.duckdns.org:9876/udp/225.1.4.90:30120
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV 
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.51:10516
+http://iptvquan.duckdns.org:9876/udp/225.1.1.139:30120
 
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.139:10702
+http://iptvquan.duckdns.org:9876/udp/225.1.1.231:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.226:11278
+http://iptvquan.duckdns.org:9876/udp/225.1.2.24:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.219:11236
+http://iptvquan.duckdns.org:9876/udp/225.1.2.223:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.53:10528
+http://iptvquan.duckdns.org:9876/udp/225.1.1.238:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://www.history.ca/wp-content/themes/history-child/assets/icons/sitelogo.png",History HD
 http://viettel.nekocdn.xyz/History/index.m3u8
 
