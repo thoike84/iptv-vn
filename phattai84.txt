@@ -8,18 +8,6 @@
 
 #EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="http://b4tv.live:80/images/f48921dd0505305aff871882567eeca9.png", B4BOX
 http://b4tv.live/b4tv/b4tv/84.m3u8
-#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://imgur.com/O0Zof4Z.png",Mosaic 1
-http://113.160.152.31:5050/rtp/232.84.1.242:9426
-#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://imgur.com/O0Zof4Z.png",Mosaic 2
-http://113.160.152.31:5050/rtp/232.84.1.243:9432
-#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://imgur.com/O0Zof4Z.png",MyTV 801 
-http://113.160.152.31:5050/rtp/232.84.2.175:10858
-#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://imgur.com/O0Zof4Z.png",MyTV 802
-http://113.160.152.31:5050/rtp/232.84.2.176:10864
-#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://imgur.com/O0Zof4Z.png",MyTV 803
-http://113.160.152.31:5050/rtp/232.84.2.195:10954
-#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="https://imgur.com/O0Zof4Z.png",MyTV 804
-http://113.160.152.31:5050/rtp/232.84.2.196:10960
 
 #-------------------TV360 Event------------------#
 
