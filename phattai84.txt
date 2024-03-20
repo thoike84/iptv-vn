@@ -6,8 +6,14 @@
 
 #-*-- Livestream -*--#
 
-#EXTINF:-1 group-title="🅱️| B4TV" tvg-logo="http://b4tv.live:80/images/f48921dd0505305aff871882567eeca9.png", B4BOX
+#EXTINF:-1 group-title="🅱️| B4TV"tvg-logo="http://b4tv.live:80/images/f48921dd0505305aff871882567eeca9.png",B4BOX
 http://b4tv.live/b4tv/b4tv/84.m3u8
+#EXTINF:-1 group-title="🅱️| B4TV"tvg-logo="https://images.fptplay.net/media/photo/OTT/2024/02/26/1708914022_P5N.png",Sự Kiện 1
+http://livecdn.fptplay.net/tvc/sukien01_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🅱️| B4TV"tvg-logo="https://images.fptplay.net/media/photo/OTT/2024/02/26/1708914022_P5N.png",Sự Kiện 2
+http://livecdn.fptplay.net/tvc/sukien02_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="🅱️| B4TV"tvg-logo="https://images.fptplay.net/media/photo/OTT/2024/02/26/1708914022_P5N.png",Sự Kiện 3
+http://livecdn.fptplay.net/tvc/sukien03_2000.stream/chunklist.m3u8
 
 #-------------------TV360 Event------------------#
 
@@ -167,7 +173,7 @@ https://wintv.fun/360/133/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/DowOolr.png",HTVC Ca Nhạc
 https://wintv.fun/360/14/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
-
+http://m3u.at/-HTVCOOP?/index.m3u8
 
 #----------*-SCTV-*----------#
 
@@ -237,8 +243,6 @@ https://wintv.fun/360/290/index.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 - HiTV HD
 https://wintv.fun/360/32/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jUl8zK4.png",HCATV2 - YouTV
-http://iptvquan.duckdns.org:9876/udp/225.1.1.207:30120
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jUl8zK4.png",HCATV2 - YouTV
 http://iptvquan.duckdns.org:9876/udp/225.1.4.222:30120
 
