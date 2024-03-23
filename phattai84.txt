@@ -25,9 +25,9 @@ https://wintv.fun/360/2458/index.m3u8
 #----------*-K+-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION 
-http://is.am/5n4k
+http://is.am/5n86
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE 
-http://is.am/5n4j
+http://is.am/5n87
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS 
 http://is.am/5n4w
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 
@@ -444,15 +444,15 @@ http://iptvquan.duckdns.org:9876/udp/225.1.2.231:30120
 http://iptvquan.duckdns.org:9876/udp/225.1.1.136:30120
 
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-http://iptvquan.duckdns.org:9876/udp/225.1.2.225:30120
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.121:10660
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
 http://iptvzin.asuscomm.com:9876/rtp/232.84.3.117:10654
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
 http://iptvzin.asuscomm.com:9876/rtp/232.84.2.172:10840
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-http://iptvquan.duckdns.org:9876/udp/225.1.4.90:30120
+http://iptvzin.asuscomm.com:9876/rtp/232.84.2.138:10648
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV 
-http://iptvquan.duckdns.org:9876/udp/225.1.1.139:30120
+http://iptvzin.asuscomm.com:9876/rtp/232.84.2.51:10516
 
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
 http://iptvquan.duckdns.org:9876/udp/225.1.1.231:30120
@@ -464,8 +464,3 @@ http://iptvquan.duckdns.org:9876/udp/225.1.2.223:30120
 http://iptvquan.duckdns.org:9876/udp/225.1.1.238:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://www.history.ca/wp-content/themes/history-child/assets/icons/sitelogo.png",History HD
 http://viettel.nekocdn.xyz/History/index.m3u8
-
-#EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://yt3.googleusercontent.com/ytc/AOPolaSk8jLwTPTZ9tnSWr0coUk1-VJLYQCi2muftdUyHw=s100-c-k-c0x00ffffff-no-rj",Alan Becker TV
-https://ythls.armelin.one/channel/UCbKWv2x9t6u8yZoB3KcPtnw.m3u8
-#EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/SbBKr8L.png",Baby Shark TV
-https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
