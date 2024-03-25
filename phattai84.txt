@@ -38,7 +38,7 @@ http://is.am/5n87
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE 
 http://is.am/5n86
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS 
-http://is.am/5n4w
+http://is.am/5n88
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 
 http://103.82.27.170:80/pk790509/Khaihh1234/24.ts
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2
@@ -130,13 +130,13 @@ https://wintv.fun/360/185/index.m3u8
 http://is.am/5mnt/vtvcab16
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 https://wintv.fun/360/186/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/wpRXpJg.png", ON Sports News 
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
 http://is.am/5mnu/vtvcab18
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://wintv.fun/360/177/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 https://wintv.fun/360/187/index.m3u8
-#EXTINF:-1 group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids
+#EXTINF:-1 group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/3XEFbua.png",ON Kids
 https://wintv.fun/360/179/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
 https://wintv.fun/360/188/index.m3u8
@@ -176,11 +176,11 @@ https://wintv.fun/360/133/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/DowOolr.png",HTVC Ca Nhạc
 https://wintv.fun/360/14/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
-http://m3u.at/-HTVCOOP?/index.m3u8
+
 
 #----------*-SCTV-*----------#
 
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.ibb.co/6FB7zBz/SCTV1-cc.webp", SCTV1
+#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.ibb.co/6FB7zBz/SCTV1-cc.webp",SCTV1
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv1/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.ibb.co/cJmDkTP/SCTV2-cc.webp",SCTV2
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv2/index.m3u8?|Referer=https://sctvonline.vn/
@@ -329,7 +329,7 @@ https://wintv.fun/360/55/index.m3u8
 https://wintv.fun/360/63/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/N2gUYoh.png",KTV HD | TH Khánh Hòa
 https://wintv.fun/360/65/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/PKyIRIJ.png", KRT HD | TH Kon Tum
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/PKyIRIJ.png",KRT HD | TH Kon Tum
 https://wintv.fun/360/67/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/9bFk5Lj.png",NTV HD | TH Ninh Thuận
 https://wintv.fun/360/76/index.m3u8
@@ -439,15 +439,16 @@ https://wintv.fun/360/239/index.m3u8
 https://wintv.fun/360/289/index.m3u8
 
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
-http://iptvquan.duckdns.org:9876/udp/225.1.1.135:30120
+http://iptvzin.asuscomm.com:9876/rtp/232.84.1.18:8082
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
-http://iptvquan.duckdns.org:9876/udp/225.1.1.134:30120
+http://iptvzin.asuscomm.com:9876/rtp/232.84.1.90:10398
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
-http://iptvquan.duckdns.org:9876/udp/225.1.1.138:30120
+#EXTINF:-1 tvg-name="Bloomberg" group-title="Quốc Tế (HD)" tvg-logo="",Bloomberg (HD 9Mbps)
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.157:10696
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-http://iptvquan.duckdns.org:9876/udp/225.1.2.231:30120
+http://iptvzin.asuscomm.com:9876/rtp/232.84.2.144:10684
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks 
-http://iptvquan.duckdns.org:9876/udp/225.1.1.136:30120
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.227:11284
 
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 http://iptvzin.asuscomm.com:9876/rtp/232.84.3.121:10660
@@ -461,12 +462,12 @@ http://iptvzin.asuscomm.com:9876/rtp/232.84.2.138:10648
 http://iptvzin.asuscomm.com:9876/rtp/232.84.2.51:10516
 
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
-http://iptvquan.duckdns.org:9876/udp/225.1.1.231:30120
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.139:10702
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-http://iptvquan.duckdns.org:9876/udp/225.1.2.24:30120
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.226:11278
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-http://iptvquan.duckdns.org:9876/udp/225.1.2.223:30120
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.219:11236
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
-http://iptvquan.duckdns.org:9876/udp/225.1.1.238:30120
+http://iptvzin.asuscomm.com:9876/rtp/232.84.2.53:10528
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://www.history.ca/wp-content/themes/history-child/assets/icons/sitelogo.png",History HD
 http://viettel.nekocdn.xyz/History/index.m3u8
