@@ -32,10 +32,7 @@ http://iptvzin.asuscomm.com:9876/rtp/232.84.2.195:10954
 http://iptvzin.asuscomm.com:9876/rtp/232.84.2.196:10960
 
 #----------*-K+-*----------#
-#EXTINF:-1 tvg-id="kcinehd" group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE 
-http://m3u.at/Stream-k3?khich-plus.m3u8
-#EXTINF:-1 tvg-id="kaction" group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ ACTION 
-http://m3u.at/Stream-k4?khich-plus.m3u8
+
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION 
 http://is.am/5n87
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE 
