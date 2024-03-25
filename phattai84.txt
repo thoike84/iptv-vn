@@ -443,8 +443,7 @@ http://iptvzin.asuscomm.com:9876/rtp/232.84.1.18:8082
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
 http://iptvzin.asuscomm.com:9876/rtp/232.84.1.90:10398
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
-#EXTINF:-1 tvg-name="Bloomberg" group-title="Quốc Tế (HD)" tvg-logo="",Bloomberg (HD 9Mbps)
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.157:10696
+http://iptvzin.asuscomm.com:9876/rtp/232.84.3.222:11254
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
 http://iptvzin.asuscomm.com:9876/rtp/232.84.2.144:10684
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks 
