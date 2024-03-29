@@ -22,15 +22,6 @@ https://wintv.fun/360/148/index.m3u8
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png",TV360+ 4
 https://wintv.fun/360/2458/index.m3u8
 
-#EXTINF:-1 group-title="⚽| MyTV Service" tvg-logo="https://mytv.com.vn/_next/image/?url=%2Fimages%2FLogo.png&w=64&q=75",801
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.175:10858
-#EXTINF:-1 group-title="⚽| MyTV Service" tvg-logo="https://mytv.com.vn/_next/image/?url=%2Fimages%2FLogo.png&w=64&q=75",802
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.176:10864
-#EXTINF:-1 group-title="⚽| MyTV Service" tvg-logo="https://mytv.com.vn/_next/image/?url=%2Fimages%2FLogo.png&w=64&q=75",803
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.195:10954
-#EXTINF:-1 group-title="⚽| MyTV Service" tvg-logo="https://mytv.com.vn/_next/image/?url=%2Fimages%2FLogo.png&w=64&q=75",804
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.196:10960
-
 #----------*-K+-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION #1
@@ -257,7 +248,7 @@ https://wintv.fun/360/290/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 - HiTV HD
 https://wintv.fun/360/32/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jUl8zK4.png",HCATV2 - YouTV
-http://iptvquan.duckdns.org:9876/udp/225.1.4.222:30120
+http://mangxom.mikrotik.id.vn:2023/udp/225.1.4.222:30120
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/KhfdJDs/THVL1-HD.png",THVL1 | TH Vĩnh Long
 https://wintv.fun/360/25/index.m3u8
@@ -449,34 +440,34 @@ https://wintv.fun/360/239/index.m3u8
 https://wintv.fun/360/289/index.m3u8
 
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
-http://iptvzin.asuscomm.com:9876/rtp/232.84.1.18:8082
+http://14.226.177.254:4025/rtp/232.84.1.18:8082
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
-http://iptvzin.asuscomm.com:9876/rtp/232.84.1.90:10398
+http://14.226.177.254:4025/rtp/232.84.1.90:10398
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.222:11254
+http://14.226.177.254:4025/rtp/232.84.3.222:11254
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.144:10684
+http://14.226.177.254:4025/rtp/232.84.2.144:10684
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks 
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.227:11284
+http://14.226.177.254:4025/rtp/232.84.3.227:11284
 
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.121:10660
+http://14.226.177.254:4025/rtp/232.84.3.121:10660
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.117:10654
+http://14.226.177.254:4025/rtp/232.84.3.117:10654
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.172:10840
+http://14.226.177.254:4025/rtp/232.84.2.172:10840
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.138:10648
+http://14.226.177.254:4025/rtp/232.84.2.138:10648
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV 
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.51:10516
+http://14.226.177.254:4025/rtp/232.84.2.51:10516
 
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.139:10702
+http://14.226.177.254:4025/rtp/232.84.3.139:10702
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.226:11278
+http://14.226.177.254:4025/rtp/232.84.3.226:11278
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-http://iptvzin.asuscomm.com:9876/rtp/232.84.3.219:11236
+http://14.226.177.254:4025/rtp/232.84.3.219:11236
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
-http://iptvzin.asuscomm.com:9876/rtp/232.84.2.53:10528
+http://14.226.177.254:4025/rtp/232.84.2.53:10528
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://www.history.ca/wp-content/themes/history-child/assets/icons/sitelogo.png",History HD
 http://viettel.nekocdn.xyz/History/index.m3u8
