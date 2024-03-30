@@ -210,11 +210,11 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/index.m3u8?|Referer=https://sct
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.ibb.co/ThjNn6H/SCTV14-cc.webp",SCTV14
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/chunklist_b1692000.m3u8?|Referer=https:/sctvonline.vn/
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/q1GPVFM/SCTV15-SSport-cc.webp",SCTV15
-https://uy7qk2oykpliv.vcdn.cloud/hls/sctv15/index.m3u8?|Referer=https://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.ibb.co/934CHgk/SCTV16-cc.webp",SCTV16
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.ibb.co/DK7fS8T/SCTV17-cc.webp",SCTV17
-https://uy7qk2oykpliv.vcdn.cloud/hls/sctv17/index.m3u8?|Referer=https://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.ibb.co/fGHtx1M/SCTV18-cc.webp",SCTV18
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.ibb.co/31xjyg6/SCTV19-cc.webp",SCTV19
