@@ -440,34 +440,34 @@ https://wintv.fun/360/239/index.m3u8
 https://wintv.fun/360/289/index.m3u8
 
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
-http://14.226.177.254:4025/rtp/232.84.1.18:8082
+http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.135:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
-http://14.226.177.254:4025/rtp/232.84.1.90:10398
+http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.134:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
-http://14.226.177.254:4025/rtp/232.84.3.222:11254
+http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.138:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-http://14.226.177.254:4025/rtp/232.84.2.144:10684
+http://mangxom.mikrotik.id.vn:2023/udp/225.1.2.231:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks 
-http://14.226.177.254:4025/rtp/232.84.3.227:11284
+http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.136:30120
 
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-http://14.226.177.254:4025/rtp/232.84.3.121:10660
+http://mangxom.mikrotik.id.vn:2023/udp/225.1.2.225:30120
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
 http://14.226.177.254:4025/rtp/232.84.3.117:10654
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
 http://14.226.177.254:4025/rtp/232.84.2.172:10840
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-http://14.226.177.254:4025/rtp/232.84.2.138:10648
+http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.112:30120
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV 
-http://14.226.177.254:4025/rtp/232.84.2.51:10516
+http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.139:30120
 
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
-http://14.226.177.254:4025/rtp/232.84.3.139:10702
+http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.231:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-http://14.226.177.254:4025/rtp/232.84.3.226:11278
+http://mangxom.mikrotik.id.vn:2023/udp/225.1.2.24:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-http://14.226.177.254:4025/rtp/232.84.3.219:11236
+http://mangxom.mikrotik.id.vn:2023/udp/225.1.2.223:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
-http://14.226.177.254:4025/rtp/232.84.2.53:10528
+http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.238:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://www.history.ca/wp-content/themes/history-child/assets/icons/sitelogo.png",History HD
 http://viettel.nekocdn.xyz/History/index.m3u8
