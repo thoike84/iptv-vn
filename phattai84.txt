@@ -40,10 +40,14 @@ http://is.am/5n88
 https://edge1.laotv.la/live/K+Sport1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 #2
 http://103.82.27.170:80/pk790509/Khaihh1234/24.ts
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 #3
+http://is.am/5n89
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2 #1
 https://edge1.laotv.la/live/K+Sport2/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2 #2
 http://is.am/5n85
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2 #3
+http://is.am/5n4v
 
 #----------*-VTV-*----------#
 
@@ -440,34 +444,34 @@ https://wintv.fun/360/239/index.m3u8
 https://wintv.fun/360/289/index.m3u8
 
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.135:30120
+http://viettel.nekocdn.xyz/Animax/index.m3u8
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
 http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.134:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
 http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.138:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.2.231:30120
+http://viettel.nekocdn.xyz/CartoonNetwork/index.m3u8
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks 
 http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.136:30120
 
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.2.225:30120
+http://viettel.nekocdn.xyz/AXN/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
-http://14.226.177.254:4025/rtp/232.84.3.117:10654
+http://viettel.nekocdn.xyz/Cinemax/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
 http://14.226.177.254:4025/rtp/232.84.2.172:10840
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.112:30120
+http://viettel.nekocdn.xyz/HBO/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV 
 http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.139:30120
 
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.231:30120
+http://viettel.nekocdn.xyz/AnimalPlanet/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.2.24:30120
+http://viettel.nekocdn.xyz/BBCEarth/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
 http://mangxom.mikrotik.id.vn:2023/udp/225.1.2.223:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.238:30120
+http://viettel.nekocdn.xyz/Discovery/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://www.history.ca/wp-content/themes/history-child/assets/icons/sitelogo.png",History HD
 http://viettel.nekocdn.xyz/History/index.m3u8
