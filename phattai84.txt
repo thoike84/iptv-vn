@@ -241,7 +241,7 @@ https://tthd.site/360/219/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/PghhYWR/THVL4-HD.png",THVL4 | TH Vĩnh Long
 https://tthd.site/360/220/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/0TkI4Ar.png",ATV HD | TH An Giang
-https://wtthd.site/360/35/index.m3u8
+https://tthd.site/360/35/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
 https://tthd.site/360/38/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/l8Ae26m.png",THBT HD | TH Bến Tre
@@ -255,7 +255,7 @@ https://tthd.site/360/151/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/sXQHPZM.png",BPTV1 HD | TH Bình Phước
 https://tthd.site/360/44/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/7WTixVS.png",BPTV2 HD | TH Bình Phước
-https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/chunklist.m3u8
+https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/tW0pGBM.png",BTV HD | TH Bình Thuận
 https://tthd.site/360/45/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ZKV1ok2.png",CTV HD | TH Cà Mau
@@ -272,7 +272,7 @@ https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/TqAz7ET.png",THĐT1 HD | TH Đồng Tháp
 https://tthd.site/360/54/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/PfETBEp.png",THĐT2 HD | TH Đồng Tháp
-https://e8.endpoint.cdn.sctvonline.vn/hls/thdt2/index.m3u8?|Referer=https://sctvonline.vn/
+https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HGTV HD | TH Hậu Giang
 https://tthd.site/360/61/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jCTogPb.png",KG HD | TH Kiên Giang
@@ -292,7 +292,7 @@ https://tthd.site/360/90/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/IhAFIHH.png",THTV1 HD | TH Trà Vinh
 https://tthd.site/360/91/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/FVmICGp.png",THTV2 HD | TH Trà Vinh
-https://618b88f69e53b.streamlock.net:443/THTV2/travinhtv2/chunklist.m3u8
+https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/WEMfHas.png",BRT HD | TH Vũng Tàu
 https://tthd.site/360/94/index.m3u8
 
@@ -301,7 +301,7 @@ https://tthd.site/360/41/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/EdXvjrH.png",DaNangTV1 HD
 https://tthd.site/360/49/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/6SujuqZ.png",DaNangTV2 HD
-https://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+https://live.danangtv.vn/livestream/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pP17qVw.png",PTD HD | TH Đắk Nông
 https://tthd.site/360/50/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jtyDVU5.png",DRT HD | TH Đắk Lắk
@@ -422,34 +422,34 @@ https://tthd.site/360/239/index.m3u8
 https://tthd.site/360/289/index.m3u8
 
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
-https://iptvquan.duckdns.org:9876/udp/225.1.1.135:30120
+http://iptvquan.duckdns.org:9876/udp/225.1.1.135:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
-https://iptvquan.duckdns.org:9876/udp/225.1.1.134:30120
+http://iptvquan.duckdns.org:9876/udp/225.1.1.134:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
-https://iptvquan.duckdns.org:9876/udp/225.1.1.138:30120
+http://iptvquan.duckdns.org:9876/udp/225.1.1.138:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-https://mangxom.mikrotik.id.vn:2023/udp/225.1.2.231:30120
+http://mangxom.mikrotik.id.vn:2023/udp/225.1.2.231:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks 
-https://mangxom.mikrotik.id.vn:2023/udp/225.1.1.136:30120
+http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.136:30120
 
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-https://iptvquan.duckdns.org:9876/udp/225.1.2.225:30120
+http://iptvquan.duckdns.org:9876/udp/225.1.2.225:30120
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
-https://14.226.177.254:4025/rtp/232.84.3.117:10654
+http://14.226.177.254:4025/rtp/232.84.3.117:10654
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
-https://14.226.177.254:4025/rtp/232.84.2.172:10840
+http://14.226.177.254:4025/rtp/232.84.2.172:10840
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-https://iptvquan.duckdns.org:9876/udp/225.1.1.112:30120
+http://iptvquan.duckdns.org:9876/udp/225.1.1.112:30120
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV 
-https://iptvquan.duckdns.org:9876/udp/225.1.1.139:30120
+http://iptvquan.duckdns.org:9876/udp/225.1.1.139:30120
 
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
-https://iptvquan.duckdns.org:9876/udp/225.1.1.231:30120
+http://iptvquan.duckdns.org:9876/udp/225.1.1.231:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-https://iptvquan.duckdns.org:9876/udp/225.1.2.24:30120
+http://iptvquan.duckdns.org:9876/udp/225.1.2.24:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-https://iptvquan.duckdns.org:9876/udp/225.1.2.223:30120
+http://iptvquan.duckdns.org:9876/udp/225.1.2.223:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
-https://iptvquan.duckdns.org:9876/udp/225.1.1.238:30120
+http://iptvquan.duckdns.org:9876/udp/225.1.1.238:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://www.history.ca/wp-content/themes/history-child/assets/icons/sitelogo.png",History HD
-https://viettel.nekocdn.xyz/History/index.m3u8
+http://viettel.nekocdn.xyz/History/index.m3u8
