@@ -20,30 +20,12 @@ https://tthd.site/360/2458/index.m3u8
 
 #----------*-K+-*----------#
 
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION #1
-http://is.am/5n4k
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION #2
-http://is.am/5n87
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE #1
-http://is.am/5n4j
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE #2
-http://is.am/5n86
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS #1
-http://is.am/5n4w
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS #2
-http://is.am/5n88
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 #1
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS 
+https://is.am/5n4w
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 
 https://edge1.laotv.la/live/K+Sport1/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 #2
-http://103.82.27.170:80/pk790509/Khaihh1234/24.ts
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 #3
-http://is.am/5n89
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2 #1
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2 
 https://edge1.laotv.la/live/K+Sport2/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2 #2
-http://is.am/5n85
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2 #3
-http://is.am/5n4v
 
 #----------*-VTV-*----------#
 
@@ -106,13 +88,13 @@ https://tthd.site/360/180/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
 https://tthd.site/360/175/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
-http://is.am/5mns/vtvcab3
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
 https://tthd.site/360/181/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
 https://tthd.site/360/184/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
-http://is.am/5mnr/vtvcab6
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
@@ -128,11 +110,11 @@ https://tthd.site/360/27/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
 https://tthd.site/360/185/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
-http://is.am/5mnt/vtvcab16
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 https://tthd.site/360/186/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
-http://is.am/5mnu/vtvcab18
+
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://tthd.site/360/177/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
@@ -248,7 +230,7 @@ https://tthd.site/360/290/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 - HiTV HD
 https://tthd.site/360/32/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jUl8zK4.png",HCATV2 - YouTV
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.4.222:30120
+https://iptvquan.duckdns.org:9876/udp/225.1.4.222:30120
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/KhfdJDs/THVL1-HD.png",THVL1 | TH Vĩnh Long
 https://tthd.site/360/25/index.m3u8
@@ -319,7 +301,7 @@ https://tthd.site/360/41/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/EdXvjrH.png",DaNangTV1 HD
 https://tthd.site/360/49/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/6SujuqZ.png",DaNangTV2 HD
-http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+https://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pP17qVw.png",PTD HD | TH Đắk Nông
 https://tthd.site/360/50/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jtyDVU5.png",DRT HD | TH Đắk Lắk
@@ -392,7 +374,7 @@ https://tthd.site/360/77/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/KVia0uU.png",QTV1 HD | TH Quảng Ninh
 https://tthd.site/360/82/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ci6kzgL.png",QTV3 HD | TH Quảng Ninh
-http://vncdn.mediatech.vn/qtvlive/tv3live.m3u8
+https://vncdn.mediatech.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/xjkm6Zg.png",STV HD | TH Sơn La
 https://tthd.site/360/85/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/gwOQBas.png",TBTV HD | TH Thái Bình
@@ -440,34 +422,34 @@ https://tthd.site/360/239/index.m3u8
 https://tthd.site/360/289/index.m3u8
 
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.135:30120
+https://iptvquan.duckdns.org:9876/udp/225.1.1.135:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.134:30120
+https://iptvquan.duckdns.org:9876/udp/225.1.1.134:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.138:30120
+https://iptvquan.duckdns.org:9876/udp/225.1.1.138:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.2.231:30120
+https://mangxom.mikrotik.id.vn:2023/udp/225.1.2.231:30120
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks 
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.136:30120
+https://mangxom.mikrotik.id.vn:2023/udp/225.1.1.136:30120
 
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.2.225:30120
+https://iptvquan.duckdns.org:9876/udp/225.1.2.225:30120
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
-http://14.226.177.254:4025/rtp/232.84.3.117:10654
+https://14.226.177.254:4025/rtp/232.84.3.117:10654
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
-http://14.226.177.254:4025/rtp/232.84.2.172:10840
+https://14.226.177.254:4025/rtp/232.84.2.172:10840
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.112:30120
+https://iptvquan.duckdns.org:9876/udp/225.1.1.112:30120
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV 
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.139:30120
+https://iptvquan.duckdns.org:9876/udp/225.1.1.139:30120
 
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.231:30120
+https://iptvquan.duckdns.org:9876/udp/225.1.1.231:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.2.24:30120
+https://iptvquan.duckdns.org:9876/udp/225.1.2.24:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.2.223:30120
+https://iptvquan.duckdns.org:9876/udp/225.1.2.223:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
-http://mangxom.mikrotik.id.vn:2023/udp/225.1.1.238:30120
+https://iptvquan.duckdns.org:9876/udp/225.1.1.238:30120
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://www.history.ca/wp-content/themes/history-child/assets/icons/sitelogo.png",History HD
-http://viettel.nekocdn.xyz/History/index.m3u8
+https://viettel.nekocdn.xyz/History/index.m3u8
