@@ -20,11 +20,9 @@ https://tthd.site/360/2458/index.m3u8
 
 #----------*-K+-*----------#
 
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ KIDS 
-https://is.am/5n4w
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 
 https://edge1.laotv.la/live/K+Sport1/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2 
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2 
 https://edge1.laotv.la/live/K+Sport2/index.m3u8
 
 #----------*-VTV-*----------#
@@ -88,13 +86,13 @@ https://tthd.site/360/180/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt 
 https://tthd.site/360/175/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
-
+https://tth.vn/onsport
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies 
 https://tthd.site/360/181/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel 
 https://tthd.site/360/184/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
-
+https://tth.vn/onsportplus
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab7/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
@@ -110,11 +108,11 @@ https://tthd.site/360/27/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music 
 https://tthd.site/360/185/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
-
+https://tth.vn/onfootball
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
 https://tthd.site/360/186/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
-
+https://tth.vn/onsportnews
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
 https://tthd.site/360/177/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
@@ -215,7 +213,7 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?|Referer=ht
 #EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png",TVB VIỆT NAM
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/lARtNRO.png",VOVTV HD
-https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
 https://tthd.site/360/19/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
@@ -230,7 +228,7 @@ https://tthd.site/360/290/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/78fQx65.png",HCATV1 - HiTV HD
 https://tthd.site/360/32/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/jUl8zK4.png",HCATV2 - YouTV
-https://iptvquan.duckdns.org:9876/udp/225.1.4.222:30120
+http://iptvquan.duckdns.org:9876/udp/225.1.1.207:30120
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/KhfdJDs/THVL1-HD.png",THVL1 | TH Vĩnh Long
 https://tthd.site/360/25/index.m3u8
