@@ -30,17 +30,13 @@ http://is.am/5ngq
 https://edge1.laotv.la/live/K+Sport1/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2 
 https://edge1.laotv.la/live/K+Sport2/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://onplus.com.vn/logo/logo.png",ON Live 1
-https://pc-web.stream.onlive.vn/live-stm-01/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.jKKosnGnUUsWaVHJsWc8133oUXRx7E0kLZS9zUSA7TYExpIFi7jLBaa9x1wjCk2kZ4XKF3kPAtWbctMeyQcuQw
 
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://onplus.com.vn/logo/logo.png",ON Live 1
 https://pc-web.stream.onlive.vn/live-stm-01/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.jKKosnGnUUsWaVHJsWc8133oUXRx7E0kLZS9zUSA7TYExpIFi7jLBaa9x1wjCk2kZ4XKF3kPAtWbctMeyQcuQw
-
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://onplus.com.vn/logo/logo.png",ON Live 2
+https://pc-web.stream.onlive.vn/live-stm-01/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq._4zcJrKbIgMEUD4XhLp1LfqFjwCpcSitvSWv3bDF56ea10pLhQQ3Xt5AudUfQKs5koxENZtQpRhp1VVY59P5dw
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://onplus.com.vn/logo/logo.png",ON Live 2
 https://pc-web.stream.onlive.vn/live-stm-04/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.kkm_Z4D_eAU2qNCsVisBbn79YdtCUwjbnyicOIf309MX50HaJdUxmpz_OhbvLO_7VxSoumcoyW_23-fFGdW9Gg
-
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
-https://sgn-fpt-002-livecdn-vthcm-vnd.vieon.vn/28ee805e671b2c2996b2d0d6de73e31d/1712637801043/livetv/enc2/49a416d60c7f00fc6ee84091c30e85e2/playlist.m3u8?dvr=1&c=a
 
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
 https://pc-web.stream.onlive.vn/live-stm-01/auth_playlist.m3u8?aid=.A32.9XuqmqmA9oBIj4mq.YZjoqt9-8rmfSuj8dm9Fdq1YBZmv78I_GMaVDFHhzKFTbRK-0haUHzS19oXtdqOugvCQXWAJ3mq3hYD0X7BkYA
