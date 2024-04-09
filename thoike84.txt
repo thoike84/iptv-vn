@@ -39,54 +39,20 @@ https://edge1.laotv.la/live/THD7/index.m3u8
 #----------*-Thể thao-*----------#
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-es1.png",BEIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",ESPN 1
-http://168.227.22.18:1935/live/mobile-032/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://1000logos.net/wp-content/uploads/2021/05/ESPN-logo.png",ESPN 2 
-http://168.227.22.18:1935/live/mobile-033/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",FOX SPORTS 1
-http://168.227.22.18:1935/live/mobile-010/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",FOX SPORTS 2
-http://168.227.22.18:1935/live/mobile-031/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png",FOX SPORTS 3
-http://168.227.22.18:1935/live/mobile-108/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ArenaSport.png",Arena Premium Liga
+http://91.132.74.4:7374/play/a00k/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://www.premiersport.sk/wp-content/uploads/2021/10/PREMIER-SPORT-logo-colour.svg",Premier Sport
+http://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",Bein SportXtra
+https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 
-#----------*-Thể thao-*----------#
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport/Football", Sport TV 1 (kusna)
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport/Football", Sport TV 2 (kusna)
-https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.e-konomista.pt/uploads/2019/07/sport-tv-lanca-canal-gratuito-850x514.jpg" group-title="Sport/Football", Sport TV 3 (kusna)
-https://kusnadipepenk.github.io/ntn/sprtv3.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Sport/Football", Eleven Sports 1 (kusna)
-https://kusnadipepenk.github.io/ntn/elesp1.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Sport/Football", Eleven Sports 2 (kusna)
-https://kusnadipepenk.github.io/ntn/elesp2.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ee/eleven-sports-network-uk.png" group-title="Sport/Football", Eleven Sports 3 (kusna)
-https://kusnadipepenk.github.io/ntn/elesp3.m3u8
-#EXTINF:-1 tvg-logo="https://sender.epglogos.de/302x190_w/12181.png" group-title="EPL/UCL Special (no vpn)", Sky Sports Premier League (kusna)
-https://kusnadipepenk.github.io/ntn/skyprem.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png" group-title="EPL/UCL Special (no vpn)", Super Sports Premier League (kusna)
-https://kusnadipepenk.github.io/ntn/superprem.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 1 (kusna)
-https://kusnadipepenk.github.io/ntn/bt1.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 2 (kusna)
-https://kusnadipepenk.github.io/ntn/bt2.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png" group-title="EPL/UCL Special (no vpn)", TNT Sports 3 (kusna)
-https://kusnadipepenk.github.io/ntn/bt3.m3u8
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="EPL/UCL Special (no vpn)", beIN Sports 1 (kusna)
-https://kusnadipepenk.github.io/ntn/bs1.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/bein-sports-2-logo-56F85DDE25-seeklogo.com.png" group-title="EPL/UCL Special (no vpn)", beIN Sports 2 (kusna)
-https://kusnadipepenk.github.io/ntn/bs2.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png" group-title="Sport", Astro Supersport 1 (kusna)
-https://kusnadipepenk.github.io/ntn/asp1.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png" group-title="Sport", Astro Supersport 2 (kusna)
-https://kusnadipepenk.github.io/ntn/asp2.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png" group-title="Sport", Astro Supersport 3 (kusna)
-https://kusnadipepenk.github.io/ntn/asp3.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="Sport", Astro Supersport 4 (kusna)
-https://kusnadipepenk.github.io/ntn/asp4.m3u8
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png" group-title="UFC/One Championship/WWE", UFC/One Fight-TNT Sports 1 (kusna)
-https://kusnadipepenk.github.io/ntn/bt1.m3u8
+#EXTINF:-1 group-title="⚽| Thể thaotvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",Bein Sports 1
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=683139&extension=ts&play_token=Z0asmpTRTL
+#EXTINF:-1 group-title="⚽| Thể thaotvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",Bein Sports 2
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=683138&extension=ts&play_token=Z0asmpTRTL
+#EXTINF:-1 group-title="⚽| Thể thaotvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",Bein Sports 3
+http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=941567&extension=ts&play_token=BbebWVmK2D
+
 
 #----------*-Thể thao-*----------#
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/nbzFr2k/tennischannel.png",Tennis Channel
@@ -122,6 +88,8 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/LmkNt3v.png",Unbeaten 
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",WWE Network HD
+http://50.7.234.10:8278/Wwe/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.postimg.cc/hthmbthK/UFC-Network.jpg",UFC Network
 https://da.gd/ufcfreetv
 
