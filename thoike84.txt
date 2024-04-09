@@ -37,22 +37,10 @@ https://edge2.laotv.la/live/TrueSport3/index.m3u8
 https://edge1.laotv.la/live/THD7/index.m3u8
 
 #----------*-Thể thao-*----------#
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://epg-pp.beinsports.com/us_sports/beinx-es1.png",BEIN SPORTS XTRA
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",BEIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/ArenaSport.png",Arena Premium Liga
-http://91.132.74.4:7374/play/a00k/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://www.premiersport.sk/wp-content/uploads/2021/10/PREMIER-SPORT-logo-colour.svg",Premier Sport
-http://olam.telka.uk/premiersport_JnD4eF8ALBI4HWrUOpDMUj9sqakB/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",Bein SportXtra
 https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="⚽| Thể thaotvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",Bein Sports 1
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=683139&extension=ts&play_token=Z0asmpTRTL
-#EXTINF:-1 group-title="⚽| Thể thaotvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",Bein Sports 2
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=683138&extension=ts&play_token=Z0asmpTRTL
-#EXTINF:-1 group-title="⚽| Thể thaotvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/beinSports.png",Bein Sports 3
-http://cam.access.ly/play/live.php?mac=00:1a:79:b4:af:19&stream=941567&extension=ts&play_token=BbebWVmK2D
-
 
 #----------*-Thể thao-*----------#
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/nbzFr2k/tennischannel.png",Tennis Channel
