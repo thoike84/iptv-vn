@@ -122,6 +122,8 @@ https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/LmkNt3v.png",Unbeaten 
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.postimg.cc/hthmbthK/UFC-Network.jpg",UFC Network
+https://da.gd/ufcfreetv
 
 #----------*-Quốc tế-*----------#
 
