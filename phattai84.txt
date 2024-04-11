@@ -229,7 +229,7 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/8qlDA5N.png",ĐNRTV2 HD | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/iiY2dI1.png",ĐNRTV3 | TH Đồng Nai
-https://code.vthanhtivi.pw/getlink/dnlive/dnrtv3/playlist.m3u8
+https://s.id/Khichtivi-Dong-Nai-3-m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/TqAz7ET.png",THĐT1 HD | TH Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/PfETBEp.png",THĐT2 HD | TH Đồng Tháp
