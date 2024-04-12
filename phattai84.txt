@@ -284,6 +284,10 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?|Referer=https://s
 
 #----------*-Quốc tế-*----------#
 
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.ibb.co/tQTc0r0/Box-Channel-cc.webp",In The Box
+http://171.238.181.86:18080/187.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5zKf/qtV1FuvUd8MMpvGKwi/PqbvgRG3j2qe/gF9p/aJdefDiv2u0USKDrAhYhDWV3fItjwH0u/Re6RHtuuLa9iR6UPqtcOhqoSbok1MeF1aYEJDxKayW3nUJ9FB4JftYPxgYxCQ2/SfAOdhKLBxRGmPFjreB+0ocoEPxbY3bmb&uid=49662730
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
+http://171.238.181.86:18080/189.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/9kBkFrtU9D03qrQk7OdMpugfKcXnJqWJIgtYfiWrkUSFk//hnzmesYffJSc1txx4AKD+BkeecyBKFFSiMzNnxa6q4kbm3q9tAkw7wzD41D2HdSXBK3xSFZGtCDTiOuEWCca5bvDqktZQFPIVF8LfOUEc3jRFBtWEaJlrpifABiE&uid=49662730
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
 http://s4.nihontv.net:21585/cartoon/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
