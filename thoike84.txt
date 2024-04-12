@@ -74,6 +74,30 @@ https://kusnadipepenk.github.io/ntn/skyprem.m3u8
 
 #----------*-Thể thao-*----------#
 
+#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="[PL] Polsat Sport Premium 1 FHD" tvg-logo="https://i.imgur.com/gVpTwny.png" group-title="📡|Sports",[PL] Polsat Sport Premium 1
+https://cdn-nvm-london.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="[PL] Polsat Sport Premium 2 FHD" tvg-logo="https://i.imgur.com/13yZF7f.png" group-title="📡|Sports",[PL] Polsat Sport Premium 2
+https://cdn-nvm-london.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR:* RMC Sport 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/2560px-Logo_RMC_Sport_1_2018.svg.png" group-title="📡|Sports",FR: RMC Sport 1
+http://145.239.5.177:8080/524/index.m3u8
+#EXTINF:-1 tvg-id="CanalplusSport2.pl" tvg-name="[PL] Canal+ Sport 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/640px-Canal%2B_Sport_2_PL.png" group-title="📡|Sports", Canal+ Sport 2
+http://145.239.5.177:8080/538/index.m3u8
+#EXTINF:-1 tvg-id="CanalplusSport2.pl" tvg-name="[PL] Canal+ Sport 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/640px-Canal%2B_Sport_2_PL.png" group-title="📡|Sports", Canal+ Sport2 HD
+https://cdn-nvm-london.lolokoko.tv/canalplussport2.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="CanalplusSport3.pl" tvg-name="[PL] Canal+ Sport 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Canal%2B_Sport_3_PL.svg/800px-Canal%2B_Sport_3_PL.svg.png" group-title="📡|Sports", Canal+ Sport 3
+https://cdn-nvm-london.lolokoko.tv/canalplussport3.stream/chunks.m3u8
+#EXTINF:-1 tvg-id="CanalplusSport4.pl" tvg-name="[PL] Canal+ Sport 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Canal%2B_Sport_4_PL.png" group-title="📡|Sports", Canal+ Sport 4
+https://cdn-nvm-london.lolokoko.tv/canalplussport4.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-id="premiersports2" tvg-name="PS2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Premier_Sports_2_2021.svg/revision/latest?cb=20210709144618" group-title="📡|Sports", PremierSports2
+http://202.21.104.6:88/sps-play/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="📡|Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", SPOTV
+http://202.150.161.68/spotv1/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="📡|Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", SPOTV2
+http://202.150.161.68/spotv2/index.m3u8
+
+#----------*-Thể thao-*----------#
+
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/nbzFr2k/tennischannel.png",Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?cc
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/PTnQPdp/ccEdge.png",Edge Sport
