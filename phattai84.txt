@@ -118,7 +118,7 @@ https://live-bd2.tv360.vn/RMtVi36ngkVaImlXyoOESQ/1713019713/manifest/VTVCab21/ma
 #----------*-HTV&HTVC-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
-https://htvc271120.cdn.vnns.io/9f7e1510dd467bef22bc8aec3e9c9f431713536096/htv1.720p.nimble.tms/playlist.m3u8
+https://live-bd2.tv360.vn/UACOOrPwqLxN8Hhp0tzXOA/1713052893/manifest/HTV1/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=71043469
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
@@ -132,7 +132,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?|Referer=https://sctvo
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://1011337676.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
-https://htvc271120.cdn.vnns.io/f161597768e2b6828d12c4d0e5c63bbf1713536302/htvthethao.adm.720p.tms/playlist.m3u8
+https://ec04-pop3-hht.tv360.vn/bpk-token/b6hpgmgah7gtbb7rziea5dxtgahy54zq/bpk-tv/304/output/master.m3u8
 
 #----------*-SCTV-*----------#
 
@@ -185,10 +185,16 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?|Referer=ht
 
 #----------*-Địa phương-*----------#
 
-#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png",TV360 Cửu Long
-https://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/master.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/Bg3c8KL/TVBVN-BEARTV.png",TVB VIỆT NAM
 https://bcovlive-a.akamaihd.net/07d9c30456d94f3dbbcd39af064fdefa/us-west-2/6314468039001/0914b33308e3498da3b00fe2c050764e/playlist_ssaiM.m3u8
+
+#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png",TV360 Cửu Long
+https://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/test/master.m3u8
+#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png",TV360 Đồng bào 
+https://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/vung-cao/master.m3u8
+#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/07/10/1680838724438/c7c3f80ee314_640_360.png",TV360 CINE
+https://livestream-zlr1.tv360.vn/origin01/fast-channel/manifest/Cine360/master.m3u8
+
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/lARtNRO.png",VOVTV HD
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
@@ -207,9 +213,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8?|Referer=https://sctv
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/L5cYQkR/THVL2-HD.png",THVL2 | TH Vĩnh Long
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/bKkbSTZ/THVL3-HD.png",THVL3 | TH Vĩnh Long
-https://live-zlr1.tv360.vn/manifest/VinhLong3_HD/master.m3u8?timestamp=1712946441&token=91d4bf028d3695bf1d0a749853ddfe36&manifestfilter=video_bitrate:1-5767168&uid=71043469
+https://live-evg4.tv360.vn/nBnDeIu3pM57odfVF0rc_w/1713050577/manifest/VinhLong3_HD/master.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/PghhYWR/THVL4-HD.png",THVL4 | TH Vĩnh Long
-https://live-zlr1.tv360.vn/manifest/VinhLong4_HD/master.m3u8?timestamp=1712946483&token=3251b82cd3a74bdc9a61db287c5fb858&manifestfilter=video_bitrate:1-5767168&uid=71043469
+https://live-evg4.tv360.vn/Wj7_vIbOfISjAcdbSvcKNg/1713050979/manifest/VinhLong4_HD/master.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/0TkI4Ar.png",ATV HD | TH An Giang
 https://1011337676.vnns.net/CDN-FPT02/ANGIANG-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
@@ -322,9 +328,9 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?|Referer=https://s
 #----------*-Quốc tế-*----------#
 
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.ibb.co/tQTc0r0/Box-Channel-cc.webp",In The Box
-http://171.238.181.86:18080/187.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/5zKf/qtV1FuvUd8MMpvGKwi/PqbvgRG3j2qe/gF9p/aJdefDiv2u0USKDrAhYhDWV3fItjwH0u/Re6RHtuuLa9iR6UPqtcOhqoSbok1MeF1aYEJDxKayW3nUJ9FB4JftYPxgYxCQ2/SfAOdhKLBxRGmPFjreB+0ocoEPxbY3bmb&uid=49662730
+https://live-bd2.tv360.vn/5alks4rRWNVyn5X8ewREeA/1713051648/manifest/IntheBox_HD/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=71043469
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
-http://171.238.181.86:18080/189.m3u8?AdaptiveType=HLS&VOD_RequestID=/0BqRzl1VbsZ/VFgXjcv/9kBkFrtU9D03qrQk7OdMpugfKcXnJqWJIgtYfiWrkUSFk//hnzmesYffJSc1txx4AKD+BkeecyBKFFSiMzNnxa6q4kbm3q9tAkw7wzD41D2HdSXBK3xSFZGtCDTiOuEWCca5bvDqktZQFPIVF8LfOUEc3jRFBtWEaJlrpifABiE&uid=49662730
+https://live-bd2.tv360.vn/a8bNFSNHLW43Jq_lWvsC3w/1713053094/manifest/BoxHits_HD/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=71043469
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
 http://s4.nihontv.net:21585/cartoon/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
