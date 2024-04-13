@@ -132,7 +132,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?|Referer=https://sctvo
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://1011337676.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
-https://ec03-pop3-hht.tv360.vn/bpk-token/3b6qoic4zq4sb7k4hemns7ihedmh2bza/bpk-tv/304/output/304-audio_133600_eng=131600-video=6730000.m3u8
+https://fo-hlc.tv360.vn/bpk-tv/304/output/index.m3u8?auth=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3MTI5OTE0NzEsInVyaSI6Ii9icGstdHYvMzA0L291dHB1dC9pbmRleC5tM3U4In0.-4GA63_BOjesusmwlTvZ9SWLgcIK-cNxWyyw_SDvask&manifestfilter=video_bitrate:1-5767168&uid=71043469
 
 #----------*-SCTV-*----------#
 
