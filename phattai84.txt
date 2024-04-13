@@ -132,7 +132,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?|Referer=https://sctvo
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://1011337676.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
-https://ec04-pop3-hht.tv360.vn/bpk-token/b6hpgmgah7gtbb7rziea5dxtgahy54zq/bpk-tv/304/output/master.m3u8
+https://ec03-pop3-hht.tv360.vn/bpk-token/3b6qoic4zq4sb7k4hemns7ihedmh2bza/bpk-tv/304/output/304-audio_133600_eng=131600-video=6730000.m3u8
 
 #----------*-SCTV-*----------#
 
@@ -228,7 +228,7 @@ https://1011337676.vnns.net/CDN-FPT02/BINHDUONG1-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pEaPECX.png",BTV2 HD | TH Bình Dương
 https://htvc271120.cdn.vnns.io/a9f35e8a7adbc9518e94ee4fcc1893811713530946/btv2.480p.tms/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 | An Viên TV
-
+https://btv11011220.cdn.vnns.io/46f4f94f007e45b050bccaaa9f82b6e51712977390/btv11.720p.tms/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/sXQHPZM.png",BPTV1 HD | TH Bình Phước
 http://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/7WTixVS.png",BPTV2 HD | TH Bình Phước
@@ -331,11 +331,3 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?|Referer=https://s
 https://live-bd2.tv360.vn/5alks4rRWNVyn5X8ewREeA/1713051648/manifest/IntheBox_HD/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=71043469
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
 https://live-bd2.tv360.vn/a8bNFSNHLW43Jq_lWvsC3w/1713053094/manifest/BoxHits_HD/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=71043469
-#EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
-http://s4.nihontv.net:21585/cartoon/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-http://s4.nihontv.net:21585/axn/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
-http://s4.nihontv.net:21585/hbo/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
-http://s4.nihontv.net:21585/discovery/index.m3u8
