@@ -118,7 +118,7 @@ https://live-zlr1.tv360.vn/manifest/VTVCab21/master.m3u8?timestamp=1713080901&to
 #----------*-HTV&HTVC-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
-https://htvc271120.cdn.vnns.io/dc91bf6f46aa0374203503bbe0815eb01713663985/htv1.720p.nimble.tms/playlist.m3u8
+http://iptv.mikrotik.id.vn:2024/udp/225.1.1.180:30120
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
@@ -132,7 +132,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?|Referer=https://sctvo
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://1011337676.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
-https://htvc271120.cdn.vnns.io/f50590ae9c87cd0a4ca16a81b53a0cff1713615812/htvthethao.adm.720p.tms/playlist.m3u8
+http://iptv.mikrotik.id.vn:2024/udp/225.1.1.165:30120
 
 #----------*-SCTV-*----------#
 
@@ -213,9 +213,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8?|Referer=https://sctv
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/L5cYQkR/THVL2-HD.png",THVL2 | TH Vĩnh Long
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/bKkbSTZ/THVL3-HD.png",THVL3 | TH Vĩnh Long
-https://live-zlr1.tv360.vn/manifest/VinhLong3_HD/master.m3u8?timestamp=1713080964&token=8250c6ca2838cb41f6b702b0b8b5caf3&manifestfilter=video_bitrate:1-5767168&uid=71043469
+http://iptv.mikrotik.id.vn:2024/udp/225.1.1.235:30120
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/PghhYWR/THVL4-HD.png",THVL4 | TH Vĩnh Long
-https://live-zlr1.tv360.vn/manifest/VinhLong4_HD/master.m3u8?timestamp=1713081024&token=b992184927c7c91ced12dd649e690ba3&manifestfilter=video_bitrate:1-5767168&uid=71043469
+http://iptv.mikrotik.id.vn:2024/udp/225.1.2.25:30120
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/0TkI4Ar.png",ATV HD | TH An Giang
 https://1011337676.vnns.net/CDN-FPT02/ANGIANG-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
