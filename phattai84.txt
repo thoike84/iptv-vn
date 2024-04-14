@@ -113,12 +113,12 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab19/index.m3u8?|Referer=https://s
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/3XEFbua.png",ON Kids
-https://live-bd2.tv360.vn/RMtVi36ngkVaImlXyoOESQ/1713019713/manifest/VTVCab21/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=71043469
+https://live-zlr1.tv360.vn/manifest/VTVCab21/master.m3u8?timestamp=1713080901&token=7a5a6aa3fa4371749438d856f092689b&manifestfilter=video_bitrate:1-5767168&uid=71043469
 
 #----------*-HTV&HTVC-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
-https://live-evg4.tv360.vn/cDY0la0_FI3AUPdGEYYKfg/1713100371/manifest/HTV1/master.m3u8
+https://htvc271120.cdn.vnns.io/dc91bf6f46aa0374203503bbe0815eb01713663985/htv1.720p.nimble.tms/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
@@ -213,9 +213,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8?|Referer=https://sctv
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/L5cYQkR/THVL2-HD.png",THVL2 | TH Vĩnh Long
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/bKkbSTZ/THVL3-HD.png",THVL3 | TH Vĩnh Long
-https://live-evg4.tv360.vn/nBnDeIu3pM57odfVF0rc_w/1713050577/manifest/VinhLong3_HD/master.m3u8
+https://live-zlr1.tv360.vn/manifest/VinhLong3_HD/master.m3u8?timestamp=1713080964&token=8250c6ca2838cb41f6b702b0b8b5caf3&manifestfilter=video_bitrate:1-5767168&uid=71043469
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/PghhYWR/THVL4-HD.png",THVL4 | TH Vĩnh Long
-https://live-evg4.tv360.vn/Wj7_vIbOfISjAcdbSvcKNg/1713050979/manifest/VinhLong4_HD/master.m3u8
+https://live-zlr1.tv360.vn/manifest/VinhLong4_HD/master.m3u8?timestamp=1713081024&token=b992184927c7c91ced12dd649e690ba3&manifestfilter=video_bitrate:1-5767168&uid=71043469
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/0TkI4Ar.png",ATV HD | TH An Giang
 https://1011337676.vnns.net/CDN-FPT02/ANGIANG-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
@@ -226,7 +226,7 @@ https://1011337676.vnns.net/CDN-FPT02/BENTRE-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/Soe6MC8.png",BTV1 HD | TH Bình Dương
 https://1011337676.vnns.net/CDN-FPT02/BINHDUONG1-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pEaPECX.png",BTV2 HD | TH Bình Dương
-
+https://htvc271120.cdn.vnns.io/9240882199d1a3942b6429e3c84be4b01713664415/btv2.480p.tms/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/sXQHPZM.png",BPTV1 HD | TH Bình Phước
 http://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/7WTixVS.png",BPTV2 HD | TH Bình Phước
@@ -320,6 +320,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?|Referer=https://s
 #----------*-Quốc tế-*----------#
 
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.ibb.co/tQTc0r0/Box-Channel-cc.webp",In The Box
-https://live-evg4.tv360.vn/5owUbMCFQPeUHgfyY_1XYA/1713105186/manifest/IntheBox_HD/master.m3u8
+https://live-bd2.tv360.vn/nahRKrTqfc1qfE9Jae2Low/1713145884/manifest/IntheBox_HD/master.m3u8?manifestfilter=video_bitrate:1-5767168&uid=71043469
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
-https://live-evg4.tv360.vn/eUYRYEpYCO_eHSv1iPJ8NA/1713105267/manifest/BoxHits_HD/master.m3u8
+https://live-zlr1.tv360.vn/manifest/BoxHits_HD/master.m3u8?timestamp=1713081177&token=bb9330e6046b246df646a68b140e6f25&manifestfilter=video_bitrate:1-5767168&uid=71043469
