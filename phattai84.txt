@@ -25,21 +25,21 @@ http://is.am/5nvt
 #----------*-VTV-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8?|Referer=https://sctvonline.vn/
+http://171.238.181.52:18080/154.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8?|Referer=https://sctvonline.vn/
+http://171.238.180.25:18080/192.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://e2.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8?|Referer=https://sctvonline.vn/
+http://171.238.180.25:18080/155.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
 https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8?|Referer=https://sctvonline.vn/
+http://171.238.181.52:18080/194.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
 http://171.238.181.52:18080/308.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5_tnb/index.m3u8?|Referer=https://sctvonline.vn/
+http://171.238.181.52:18080/307.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-https://e8.endpoint.cdn.sctvonline.vn/hls/vtv6/index.m3u8?|Referer=https://sctvonline.vn/
+http://171.238.181.52:18080/156.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
 https://e2.endpoint.cdn.sctvonline.vn/hls/vtv7/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
@@ -122,7 +122,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?|Referer=https://sctvo
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://1011337676.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
-https://htvc271120.cdn.vnns.io/0089c7b2f3d1cda981625a19641f553a1714293293/htvthethao.adm.720p.tms/playlist.m3u8
+http://171.238.180.25:18080/304.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/LFL1x49.png",HTVC Thuần Việt
 https://1011337676.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
@@ -214,7 +214,7 @@ https://cloudvodqh.tek4tv.vn/live/quochoi_abr.m3u8
 https://zjizeoupprliv.vcdn.cloud/live/smil:vnews.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/KhfdJDs/THVL1-HD.png",THVL1 | TH Vĩnh Long
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8?|Referer=https://sctvonline.vn/
+http://171.238.180.25:18080/252.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/L5cYQkR/THVL2-HD.png",THVL2 | TH Vĩnh Long
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.ibb.co/bKkbSTZ/THVL3-HD.png",THVL3 | TH Vĩnh Long
@@ -384,3 +384,12 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/woman/index.m3u8?|Referer=https://sctv
 https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/kPJktTH.png",Music Box
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?|Referer=https://sctvonline.vn
+
+#EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network
+http://s4.nihontv.net:21585/cartoon/index.m3u8
+#EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
+http://s4.nihontv.net:21585/hbo/index.m3u8
+#EXTINF:-1 group-title="🎬| Phim"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
+http://s4.nihontv.net:21585/axn/index.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
+http://s4.nihontv.net:21585/discovery/index.m3u8
