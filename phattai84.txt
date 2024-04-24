@@ -112,9 +112,9 @@ https://e3.endpoint.cdn.sctvonline.vn/hls/vtvcab20/index.m3u8?|Referer=https://s
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
 https://htvc271120.cdn.vnns.io/6e46ae8e04f08d150b73e1f3ccea94591714293258/htv1.720p.nimble.tms/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
-https://1011337676.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
-https://1011337676.vnns.net/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 
@@ -122,24 +122,24 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8?|Referer=https://sctvo
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
-https://1011337676.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVCOOP-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
 http://171.238.180.25:18080/304.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/LFL1x49.png",HTVC Thuần Việt
-https://1011337676.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/fRSFr9h.png",HTVC Gia đình
-https://1011337676.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/LFqj48k.png",HTVC Phụ nữ
-https://1011337676.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/DowOolr.png",HTVC Ca nhạc
-https://1011337676.vnns.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/SKeH11N.png",HTVC Phim HD
-https://1011337676.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC Plus
-https://1011337676.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du lịch & Cuộc sống
-https://1011337676.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
 
 #----------*-SCTV-*----------#
 
@@ -224,13 +224,13 @@ http://tth.vn/THVL3FHD
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4 | TH Vĩnh Long
 http://tth.vn/THVL4FHD
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/0TkI4Ar.png",ATV HD | TH An Giang
-https://1011337676.vnns.net/CDN-FPT02/ANGIANG-SD-ABR/playlist.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
-https://1011337676.vnns.net/htvc/baclieu1.480p.adm.tms/playlist.m3u8
+https://ott3.nethubtv.vn/live/baclieutv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/l8Ae26m.png",THBT HD | TH Bến Tre
-https://1011337676.vnns.net/CDN-FPT02/BENTRE-SD-ABR/playlist.m3u8
+https://1012163901.vnns.net/bentre.adm.480p.tms/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/Soe6MC8.png",BTV1 HD | TH Bình Dương
-https://1011337676.vnns.net/CDN-FPT02/BINHDUONG1-SD-ABR/playlist.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pEaPECX.png",BTV2 HD | TH Bình Dương
 https://oipf0znpmnliv.vcdn.cloud/hls/btv2/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 | An Viên TV
@@ -258,7 +258,7 @@ https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HGTV HD | TH Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jCTogPb.png",KG HD | TH Kiên Giang
-https://1011337676.vnns.net/CDN-FPT02/KIENGIANG-SD-ABR/playlist.m3u8
+https://ott3.nethubtv.vn/live/kiengiangtv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/iaexSxL.png",LTV HD | TH Lâm Đồng
 http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/j6T7sqT.png",LA34 HD | TH Long An
@@ -344,7 +344,7 @@ https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ldwQU4L.png",THLC HD | TH Lào Cai
 https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/juBOaJJ.png",NTV | TH Nam Định
-https://1011337676.vnns.net/htvc/namdinh.480p.fpt.tms/playlist.m3u8
+https://1011154949.vnns.net/htvc/namdinh.480p.fpt.tms/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/FLvFSLS.png",NTV HD | TH Nghệ An
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pL4NqYO.png",NTV HD | TH Ninh Bình
