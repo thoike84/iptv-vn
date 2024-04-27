@@ -1,154 +1,199 @@
-#EXTM3U url-tvg="phattai_phattai@yahoo.com" tvg-shift=0 m3uautoload=1
-#EXTINF:0
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.15.1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTM3U
+#EXTINF:-1 group-title="KhichTivi Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt13017168.jpg",? http://iptvh.it/iptvkhichtivi xem tivi? 
+#EXTVLCOPT:http-user-agent="khicTV
+http://vod-zlr2.tv360.vn/video1/2020/06/16/09/f751f76a/f751f76a-68ea-4ae4-a6f7-288d642c7725_2_.m3u8
+#EXTINF:-1 group-title="KhichTivi Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt14810692.jpg",?Phím Ngòi Nổ - Flash Point
+http://vod-zlr2.tv360.vn/video1/2021/09/14/23/8c7c779c/8c7c779c-1ee2-4b15-a89f-6e0b10daeccf_2_.m3u8
 
-#----------*-Thể thao-*----------#
+#EXTINF:-1 group-title="KhichTivi Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt7991608.jpg",?Phim Băng Phong Hiệp
+http://vod-zlr2.tv360.vn/video1/2021/10/01/10/9383adae/9383adae-ff9e-424b-8b4c-934e9ae5eed6_2_.m3u8
+#EXTINF:-1 group-title="KhichTivi Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt10665338.jpg",?Phim Huyền Thoại Muay Thái: 9 Mảnh Ghép Thần Kỳ
+http://vod-zlr2.tv360.vn/video1/2020/12/05/23/60be1693/60be1693-aec1-4f28-8ada-e80d0fc05bff_3_.m3u8
+EXTINF:-1 tvg-logo="https://i.postimg.cc/XND3DXrB/IMG-20210919-183732.jpg",?Phím khich tivi PHIM Đô Rê Mon: Đôi Bạn Thân
+http://vod-zlr2.tv360.vn/video1/2020/09/23/10/d4f76633/d4f76633-8be2-4146-b3f3-8ecf8e07d76b_1_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XND3DXrB/IMG-20210919-183732.jpg",? Movies khich tivi PHIM 2 Bí Mật To Lớn
+http://vod-zlr2.tv360.vn/video1/2022/02/28/01/2fdffe51/2fdffe51-14dc-4d18-a94f-1daa126d57d9_1_.m3u8
+#EXTINF:-1 group-title="KhichTivi Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt14810692.jpg",?Phim Bẫy Cá Mập 
+http://vod-zlr2.tv360.vn/video1/2020/10/13/14/7efe7cfb/7efe7cfb-8019-4a15-92f2-ee4c37afdcc3_4_.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XND3DXrB/IMG-20210919-183732.jpg",? Movies khich tivi PHIM 3 Hoắc Nguyên Giáp Xông Pha Giang Hồ - Tập 1
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2022/03/30/23/59054911/59054911-17d4-4d1e-a5d5-9719d9d99b7d_1_.m3u8
+#EXTINF:-1 group-title="KhichTivi Phím Hãy" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",?MOVIES 1 khich tivi PHIM 4 Hoắc Nguyên Giáp Xông Pha Giang Hồ - Tập 2
+http://vod-zlr2.tv360.vn/video1/2022/03/31/00/28ff7b12/28ff7b12-8239-49ef-99e3-859dcd2506cc_3_.m3u8
+#EXTINF:-1 group-title="KhichTivi Phím Hãy" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",?MOVIES 2 khich tivi PHIM 5 Hoàng Phi Hồng Và Dì Thập Tam - Tập 1
+http://vod-zlr2.tv360.vn/video1/2022/04/26/09/637441d1/637441d1-8209-4e85-90fa-597976d0d06b_1_.m3u8
+#EXTINF:-1 group-title="KhichTivi Phím Hãy" tvg-logo="https://i.postimg.cc/JnZ4BFtx/MOVIES-TV.png",?MOVIES 3 khich tivi PHIM 6 Hoàng Phi Hồng Và Dì Thập Tam - Tập 2
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2022/04/26/09/83fc0a44/83fc0a44-af98-49b0-8fb4-f88c0bfe0b80_2_.m3u8
+EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="AFLAM",?Phím Hãy khich tivi PHIM Cuối Tuần Của Mọi Cô Gái
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2020/03/16/21/673d51b5/673d51b5-146a-45be-a88c-e43d68d2f692_4_.m3u8
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="AFLAM",?Phím Hãy khich tivi PHIM 8 Trần Chân Trở Lại
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2017/09/21/14/af3b5b71/af3b5b71-4410-4406-a769-c710228a3150_2_.m3u8
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="AFLAM",?Phím Hãy khich tivi PHIM 9 Lửa Chiến - 4K
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2018/07/30/15/7582a1ba/7582a1ba-3c8a-45b4-86c0-c37a1610ed1a_1_.m3u8
+#EXTINF:-1 tvg-logo="https://www.alroeya.com/uploads/images/2020/10/05/947122.jpg" group-title="AFLAM",?MOVIES khich tivi PHIM 10 Chiến Dịch Của Bầy Sói
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2021/12/24/16/c838682c/c838682c-a45a-4b85-9ab7-de758c7ed9b2_2_.m3u8
+#EXTINF:-1 tvg-id="Phím Hãy"group-title="khichTivi Phím Hãy" tvg-logo="http://hoaiptv.duckdns.org:8080/index.php/s/v2r3QaKEIuiW8Sy/download",? khich tivi PHIM 11 Vũ Khí Khiêu Gợi - Naked Weapon
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2021/07/19/09/18c3927c/18c3927c-44bc-4d70-94ab-2dcceef6a858_2_.m3u8
+#EXTINF:-1 tvg-id="Khích? Phím Hãy"group-title="khichTivi Phím Hãy" tvg-logo="http://hoaiptv.duckdns.org:8080/index.php/s/v2r3QaKEIuiW8Sy/download", khich tivi PHIM 13 Riddick Thống Lĩnh Bóng Tối
+#EXTINF:-1 tvg-id="Phím Hãy"group-title="khichTivi Phím Hãy" tvg-logo="http://hoaiptv.duckdns.org:8080/index.php/s/v2r3QaKEIuiW8Sy/download",? khich tivi PHIM 14 Tội Ác Hoàn Hảo - The Entitled
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2021/06/03/16/9b5f2ba2/9b5f2ba2-d3d5-44a0-9858-588e302a319f_2_.m3u8
+#EXTINF:-1 tvg-id="Khích? Phím Hãy"group-title="khichTivi Phím Hãy" tvg-logo="http://hoaiptv.duckdns.org:8080/index.php/s/v2r3QaKEIuiW8Sy/download",? khich tivi PHIM Ma Tốc Độ 2: Linh Hồn Báo Thù
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2019/11/01/14/295fa317/295fa317-30ca-4917-bf14-5fb6bcb6b52d_2_.m3u8
+#EXTINF:-1 tvg-id="Khích? PHIMCHIEURAP"group-title="khichTivi Phím Hãy" tvg-logo="http://hoaiptv.duckdns.org:8080/index.php/s/v2r3QaKEIuiW8Sy/download",? khich tivi PHIM Vũ Khí Khiêu Gợi - Naked Weapon
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2021/07/19/09/18c3927c/18c3927c-44bc-4d70-94ab-2dcceef6a858_3_.m3u8
+#EXTINF:-1 tvg-id="KhichTivi Phím Hãy"group-title="khichTivi Phím Hãy" tvg-logo="http://hoaiptv.duckdns.org:8080/index.php/s/v2r3QaKEIuiW8Sy/download",? khich tivi Cá Mập 3 Đầu - 3 Headed Shark Attack
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2022/01/19/22/783840b0/783840b0-16de-4425-b751-848474fe5098_3_.m3u8
+#EXTINF:-1 tvg-id="KhichTivi Phím Hãy"group-title="khichTivi Phím Hãy" tvg-logo="http://hoaiptv.duckdns.org:8080/index.php/s/v2r3QaKEIuiW8Sy/download",?phim Quái Vật Sói - Monsterwolf / Firefight 
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2021/10/27/17/a543314c/a543314c-21a4-4213-8653-0604b87ff2a0_1_.m3u8
+#EXTINF:-1 group-title="https://fimhay.club/public/media/thumb/film_bo/linh-lung-lang-tam-156x230.jpg",Phim Tối Cường Hỷ Sự
+http://vod-zlr2.tv360.vn/video1/2021/09/14/23/f206b7dd/f206b7dd-7f99-4b54-aa6f-e6acd24dba09_3_.m3u8
+EXTINF:-1 group-title="https://fimhay.club/public/media/thumb/film/vung-chien-su-hiem-nguy-156x230.jpg",Phim Phi Vụ Rắc Rối 
+http://vod-zlr2.tv360.vn/video1/2021/09/21/14/365b0aac/365b0aac-d894-43d6-a2b8-647b39f2b6de_2_.m3u8
+EXTINF:-1 group-title="https://fimhay.club/public/media/thumb/film/cuu-long-bat-bai-156x230.jpg",HUYẾT CHIẾN TẬP FULL
+https://aa.nguonphimmoi.com/20220629/22810_3ced23cd/1200k/hls/index.m3u8
+#EXTINF:-1 group-title="?|khichTivi Phím Hãy" tvg-logo="https://cdn.hqth.me/cvmedia.png",?Phim Tuổi Thơ Dữ Dội - Tập 1
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2018/12/03/19/a890ebf5/a890ebf5-27f5-4fc3-bb72-9c28336e3dcb_3_.m3u8
+#EXTINF:-1 group-title="?|khichTivi Phím Hãy" tvg-logo="https://cdn.hqth.me/cvmedia.png",?Phim Tuổi Thơ Dữ Dội - Tập 2
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2018/12/03/20/27b25b36/27b25b36-ebe7-49b6-b764-917ebecde46c_2_.m3u8
+#EXTINF:-1 group-title="?|khichTivi Phím Hãy" tvg-logo="https://cdn.hqth.me/cvmedia.png",?Phim Riddick Thống Lĩnh Bóng Tối 
+http://vod-zlr2.tv360.vn/s2-video3/2019/09/28/03/cbc0d7c9/cbc0d7c9-ebb4-490e-ab7c-2f5055fbda45_2_.m3u8
+#EXTINF:-1 group-title="?|khichTivi Phím Hãy" tvg-logo="https://cdn.hqth.me/cvmedia.png",?phim Mật Mã Sống - Safe
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2021/07/26/17/520b8686/520b8686-7daa-4f6f-b2d5-9d7ca60bec56_2_.m3u8
+#EXTINF:-1 group-title="?|khichTivi Phím Hãy" tvg-logo="https://cdn.hqth.me/cvmedia.png",?Phim Sát Thủ Xã Hội Đen Mexico
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2020/03/22/10/b3522f67/b3522f67-20b0-4423-9638-e4604e6e9556_2_.m3u8
+#EXTINF:-1 group-title="?|khichTivi Phím Hãy" tvg-logo="https://cdn.hqth.me/cvmedia.png",?Phim Liên Hoàn Pháo
+http://vod-zlr2.tv360.vn/video1/2021/12/30/17/82cfdc34/82cfdc34-3016-4700-9f34-88a9f985fad9_1_.m3u8
+#EXTINF:-1 group-title="?|khichTivi Phím Hãy" tvg-logo="https://cdn.hqth.me/cvmedia.png",?Phím Hãy Sát Thủ Thợ Máy
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/s2-video3/2019/09/27/21/46023956/46023956-166a-4589-8b65-640685ae014f_3_.m3u8
+EXTINF:-1 tvg-logo="khichTivi Phím Hãy" group-title="Phím Hãy",https://fimhay.club/public/media/thumb/film/diep-van-3-tran-chien-cuoi-cung-260x340.jpg",? Phim Diệp Vấn 3 - Trận Chiến Cuối Cùng
+#EXTVLCOPT:http-user-agent="khicTV
+http://vod-zlr2.tv360.vn/video1/2021/09/15/00/4ed31685/4ed31685-1bff-4c6f-af16-3d8f006982e3_2_.m3u8
+#EXTINF:-1 group-title="khichTivi Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt7097896.jpg",?Phm  Nữ Võ Sĩ
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2019/11/27/12/8608a45f/8608a45f-c9da-4554-a03b-233f1141a2cc_2_.m3u8
+#EXTINF:-1 group-title="khichTivi Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt1160419.jpg",?Phim Sứ Mệnh Nội Gián
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2021/04/29/19/59662d3a/59662d3a-abbc-4eff-98c8-e0a6867a5b47_3_.m3u8
+#EXTINF:-1 group-title="khichTivi Phím Hãy" tvg-logo="https://www.adintrend.tv/movies_movies/icon/2019-10-003.jpg",?Phim Mối Thù Truyền Kiếp
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2022/06/24/14/d6c18a46/d6c18a46-4d71-48a9-a366-88f946323d4d_1_.m3u8
+EXTINF:-1 group-title="khichTivi Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt9376612.jpg",?Phim Cô Nàng Quyền Anh - A Girl Boxer
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2021/11/29/14/9663f7ca/9663f7ca-3b2c-4432-8afd-4669c8f7dd0a_2_.m3u8
+#EXTINF:-1 group-title="khichTivi Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt7991608.jpg",?Phim Cẩm Y Vệ
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2019/11/20/13/7127e5e2/7127e5e2-658b-493a-9704-8d8da2288906_2_.m3u8
+#EXTINF:-1 group-title="KhichTiviWEST Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt11041106.jpg",?Phim Tử Chiến Đài 
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2021/06/15/15/f48bd8c4/f48bd8c4-e3e4-4104-ad26-a15a7605e460_2_.m3u8
+#EXTINF:-1 group-title="khichTivi Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt14810692.jpg",?Phim 360tv
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2021/06/03/17/08f10706/08f10706-9fb6-431c-90d3-acc521b93ab8_1_.m3u8
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="?|khichTiviPhím Hãy" tvg-logo="https://cdn.hqth.me/logo/thumbs/60.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htvcmovieshd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8",?Phim Ma Kinh Dị Siêu Hay Đứa Trẻ Ma
+http://vod-zlr2.tv360.vn/video1/2018/12/12/14/d2e8587b/d2e8587b-9810-4178-8af9-0afd5d34e4bc_3_.m3u8
+EXTINF:-1 group-title="khichTivi Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt13017168.jpg",?Phim Cặp Đôi Huyền Thoại
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2022/03/12/22/7acb9a0b/7acb9a0b-f1dd-426c-a4f0-cf69f13f2ed0_1_.m3u8
+#EXTINF:-1 group-title="khichTivi Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt7097896.jpg",?Phim Cao Thủ Ẩn Danh 
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2021/08/17/11/91d914d1/91d914d1-090e-4b93-8652-58969d34d573_2_.m3u8
+#EXTINF:-1 group-title="khichTivi Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt0870154.jpg",?Phim75
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2020/08/27/18/e5bd44bb/e5bd44bb-dabe-41bb-84e9-f3ce7dede4c5_2_.m3u8
+#EXTINF:-1 group-title="khichTivi Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt10665338.jpg",?Phim Người Hobbit: Đại Chiến Với Rồng Lửa 
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2021/12/24/00/cb08b624/cb08b624-5be3-404a-8cfc-df231d169135_2_.m3u8
+#EXTINF:-1 group-title="khichTivi Phím Hãy" tvg-logo="https://image.filemanager.work/poster/tt1160419.jpg",?Phim Thử Thách Sinh Tồn
+#EXTVLCOPT:http-user-agent=khichTivi
+http://vod-zlr2.tv360.vn/video1/2020/10/12/17/2f7b9e59/2f7b9e59-95f5-44d8-b491-da8cf7dfd1a4_2_.m3u8
 
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/q1GPVFM/SCTV15-SSport-cc.webp",SCTV15
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?|Referer=https://sctvonline.vn/
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.ibb.co/DK7fS8T/SCTV17-cc.webp",SCTV17
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?|Referer=https://sctvonline.vn/
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/zxDw1L7/SCTV22-cc.webp",SCTV22
-https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8?|Referer=https://sctvonline.vn/
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ SPORT1 
-https://edge1.laotv.la/live/K+Sport1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ SPORT2 
-https://edge1.laotv.la/live/K+Sport2/index.m3u8
+#???? ???? ??????!-List nhạc bolero nhạc trẻ #
 
-#----------*-Thể thao-*----------#
-
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png",Sports TV 
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png",Bein SportXtra
-https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",Bein SportXtra
-https://bein-esp-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/Vtk2cGI.png",Bein Sports 1
-https://ctrl.laotv.la/live/Bsport1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/vUJZSvs.png",Bein Sports 2
-https://ctrl.laotv.la/live/Bsport2/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/goTVVel.png",True Premier Football 1
-https://edge2.laotv.la/live/TSport1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EodqrAZ.png",True Premier Football 2
-https://edge2.laotv.la/live/TSport2/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/JGXzw5v.png",True Sport 1
-https://edge1.laotv.la/live/TrueSport6/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/l11xhF2.png",True Sport 2
-https://edge1.laotv.la/live/TrueSport2/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/rsAqjtw.png",True Sport 3
-https://edge2.laotv.la/live/TrueSport3/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/bW79Nal.png",True Sport 7
-https://edge1.laotv.la/live/THD7/index.m3u8
-
-#----------*-Thể thao-*----------#
-
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/U8pfdBx.png",🇫🇷 beIN SPORTS 1
-https://kusnadipepenk.github.io/ntn/bs1.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/Q3RKGkX.png",🇫🇷 beIN SPORTS 2
-https://kusnadipepenk.github.io/ntn/bs2.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/lFtywj2.png",🇵🇹 Sport TV 1
-https://kusnadipepenk.github.io/ntn/sprtv1.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/PEWdBRu.png",🇵🇹 Sport TV 2
-https://kusnadipepenk.github.io/ntn/sprtv2.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/qXLp3Bc.png",🇵🇱 Eleven Sports 1
-https://kusnadipepenk.github.io/ntn/elesp1.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/S5gjVIf.png",🇵🇱 Eleven Sports 2
-https://kusnadipepenk.github.io/ntn/elesp2.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/EIpwawS.png",🇵🇱 Eleven Sports 3
-https://kusnadipepenk.github.io/ntn/elesp3.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/Y2XYrCY.png",Arena Sport 1
-https://kusnadipepenk.github.io/ntn/arns1.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/SQlsmmH.png",Arena Sport 2
-https://kusnadipepenk.github.io/ntn/arns2.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/b8SGccn.png",Arena Sport 4
-https://kusnadipepenk.github.io/ntn/arns4.m3u8
-
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/5O6xiIq.png",🇬🇧 Sky Sport Arena
-https://kusnadipepenk.github.io/ntn/skyare.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/zkmhvvm.png",🇬🇧 Sky Sport Football
-https://kusnadipepenk.github.io/ntn/skyfut.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/wmHxrz2.png",🇬🇧 Sky Sport Premier
-https://kusnadipepenk.github.io/ntn/skyprem.m3u8
-
-#----------*-Thể thao-*----------#
-
-#EXTINF:-1 tvg-id="PolsatSportPremium1.pl" tvg-name="[PL] Polsat Sport Premium 1 FHD" tvg-logo="https://i.imgur.com/gVpTwny.png" group-title="📡|Sports",[PL] Polsat Sport Premium 1
-https://cdn-nvm-london.lolokoko.tv/polsatsportp1.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="PolsatSportPremium2.pl" tvg-name="[PL] Polsat Sport Premium 2 FHD" tvg-logo="https://i.imgur.com/13yZF7f.png" group-title="📡|Sports",[PL] Polsat Sport Premium 2
-https://cdn-nvm-london.lolokoko.tv/polsatsportp2.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="FR:* RMC Sport 1 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/2560px-Logo_RMC_Sport_1_2018.svg.png" group-title="📡|Sports",FR: RMC Sport 1
-http://145.239.5.177:8080/524/index.m3u8
-#EXTINF:-1 tvg-id="CanalplusSport2.pl" tvg-name="[PL] Canal+ Sport 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/640px-Canal%2B_Sport_2_PL.png" group-title="📡|Sports", Canal+ Sport 2
-http://145.239.5.177:8080/538/index.m3u8
-#EXTINF:-1 tvg-id="CanalplusSport2.pl" tvg-name="[PL] Canal+ Sport 2 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Canal%2B_Sport_2_PL.png/640px-Canal%2B_Sport_2_PL.png" group-title="📡|Sports", Canal+ Sport2 HD
-https://cdn-nvm-london.lolokoko.tv/canalplussport2.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="CanalplusSport3.pl" tvg-name="[PL] Canal+ Sport 3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Canal%2B_Sport_3_PL.svg/800px-Canal%2B_Sport_3_PL.svg.png" group-title="📡|Sports", Canal+ Sport 3
-https://cdn-nvm-london.lolokoko.tv/canalplussport3.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="CanalplusSport4.pl" tvg-name="[PL] Canal+ Sport 4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Canal%2B_Sport_4_PL.png" group-title="📡|Sports", Canal+ Sport 4
-https://cdn-nvm-london.lolokoko.tv/canalplussport4.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-id="premiersports2" tvg-name="PS2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/be/Premier_Sports_2_2021.svg/revision/latest?cb=20210709144618" group-title="📡|Sports", PremierSports2
-http://202.21.104.6:88/sps-play/mono.m3u8
-#EXTINF:-1 tvg-id="" group-title="📡|Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", SPOTV
-http://202.150.161.68/spotv1/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="📡|Sports" tvg-logo="https://linear-poster.astro.com.my/prod/logo/SPOTV.png", SPOTV2
-http://202.150.161.68/spotv2/index.m3u8
-
-#----------*-Thể thao-*----------#
-
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/nbzFr2k/tennischannel.png",Tennis Channel
-https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8?cc
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/PTnQPdp/ccEdge.png",Edge Sport
-https://edgesport-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/5L2KxmL/racing-com-BEARTV.jpg",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co/vDb6ZGV/REDBULL-BEARTV.png",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#----------*-Thể thao-*----------#
-
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://pbs.twimg.com/profile_images/1305918437496164354/UbULc0Jx_400x400.jpg",XFC MMA
-https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/XO8u1V7.png",IMPACT Wrestling 
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",Fight Network
-https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/4w95NZQ.png",Fite 
-https://cdn-cf.fite.tv/linear/fite247/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knocks Fighting
-https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/e91bb2e1-a137-4a5f-9dfb-3f334b1fa0eb.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2023/08/boxing-tv-thumbnail.png",BOXING TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/R1UjyfX.png",Бокс ТВ
-http://stream01.vnet.am/BoksTv/mono.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SwerveCombat.webp",Swerve Combat
-https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/FabFP5A.png",Trace Sports Stars
-https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/4eAFuKI.png",Strongman Champions League
-https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/LmkNt3v.png",Unbeaten 
-https://unbeaten-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/556px-WWE_Network_logo.svg.png",WWE Network HD
-http://50.7.234.10:8278/Wwe/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.postimg.cc/hthmbthK/UFC-Network.jpg",UFC Network
-https://da.gd/ufcfreetv
-
-#----------*-Quốc tế-*----------#
-
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet US
-https://dplus.gammacdn.workers.dev/videos/99.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.ibb.co/bWMMncB/bbcearth-cc.png",BBC Earth US
-https://d14kv1o37h8tfu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-lnty50u34issh/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/colorLogoPNG.png",Nature Time (Francia) 
-https://amg00090-blueantmedia-naturetime-samsungfr-yakbf.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://images.pluto.tv/channels/61eeb4a701020c00075676ef/colorLogoPNG.png",Destination Nature (Francia) 
-https://d2lkb3wuytha2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-1sf8g3d5udmzh-ssai-prd/master.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/Vhv5gjN.png",Wild Planet
-https://d3c7duantorcb1.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jpfvel38m2ce0-prod/amgwildplanetuk/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/Vhv5gjN.png",Adventure Earth (USA)
-https://autentic-adventure-earth-1-gb.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.ibb.co/C7rMqn6/Love-nature-4k.jpg",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Lê Bảo Bình"tvg-logo="http://img-zlr1.tv360.vn/image1/2021/11/01/14/4e0565b9/4e0565b9-49b3-4494-889f-1f54344537bc_640_360.png",Bỏ lỡ một người|Lê Bảo Bình
+http://vod-zlr2.tv360.vn/video1/2021/11/01/14/bf135fd8/bf135fd8-7865-4a21-883e-396ddab341d9_3_.m3u8
+#EXTINF:-1 tvg-id="Lê Bảo Bình"tvg-logo="http://img-zlr1.tv360.vn/image1/2021/11/01/14/a410140e/a410140e-aa93-49bc-8bde-430c1724c7cf_640_360.png",Sai cách yêu|Lê Bảo Bình
+http://vod-zlr2.tv360.vn/video1/2021/11/01/14/ea479a79/ea479a79-be10-4b9f-b1d9-81c5a0a2495a_2_.m3u8
+#EXTINF:-1 tvg-id="Lê Bảo Bình"tvg-logo="http://img-zlr1.tv360.vn/image1/2021/11/01/14/7701bcc2/7701bcc2-d003-492a-85b3-8eb799e333a7_640_360.png",Níu duyên|Lê Bảo Bình
+http://vod-zlr2.tv360.vn/video1/2021/11/01/14/82d2ba54/82d2ba54-a863-45e6-9974-0b6d4d120922_3_.m3u8
+#EXTINF:-1 tvg-id="Lê Bảo Bình"tvg-logo="http://img-zlr1.tv360.vn/image1/2021/11/01/14/2c6a212d/2c6a212d-8411-47f2-b15b-728e7509f904_640_360.png",Vợ ơi|Lê Bảo Bình
+http://vod-zlr2.tv360.vn/video1/2021/11/01/14/faa7caa4/faa7caa4-d7e1-4cb8-9a38-f7be0e1fcab4_3_.m3u8
+#EXTINF:-1 tvg-id="Lê Bảo Bình"tvg-logo="http://img-zlr1.tv360.vn/image1/2021/11/01/14/a410140e/a410140e-aa93-49bc-8bde-430c1724c7cf_640_360.png",Thích thì đến|Lê Bảo Bình
+http://vod-zlr2.tv360.vn/video1/2021/11/01/14/b3f5b882/b3f5b882-b98b-4547-8d4f-0bff59d0fb2f_3_.m3u8
+#EXTINF:-1 tvg-id="Lê Bảo Bình"tvg-logo="http://img-zlr1.tv360.vn/image1/2021/11/01/14/55c6df82/55c6df82-5fa1-4b48-a530-2081264d95a5_640_360.png",Lá xa lìa cành|Lê Bảo Bình
+http://vod-zlr2.tv360.vn/video1/2021/11/01/14/37911afa/37911afa-8b62-44bf-8f63-2f49324c5870_3_.m3u8
+#EXTINF:-1 tvg-id="Lê Bảo Bình"tvg-logo="http://img-zlr1.tv360.vn/image1/2021/11/01/14/7701bcc2/7701bcc2-d003-492a-85b3-8eb799e333a7_640_360.png",Bỏ lỡ một người|Lê Bảo Bình
+http://vod-zlr2.tv360.vn/video1/2021/11/01/14/bf135fd8/bf135fd8-7865-4a21-883e-396ddab341d9_3_.m3u8
+#EXTINF:-1 tvg-id="Lê Bảo Bình"tvg-logo="http://img-zlr1.tv360.vn/image1/2021/11/01/14/a14313e2/a14313e2-a5ed-450f-85fd-1b20db4e154c_640_360.png",Tình yêu chân thật|Lê Bảo Bình
+http://vod-zlr2.tv360.vn/video1/2021/11/01/14/f0ea384d/f0ea384d-7c9d-484b-848b-edc4ae10088e_3_.m3u8
+#EXTINF:-1 tvg-id="Lê Bảo Bình"tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/24/02/43946431/43946431-cd9f-40f2-9e56-4f7ce1e40389_640_360.png",Em Giờ Ra Sao|Lê Bảo Bình
+http://vod-zlr2.tv360.vn/video1/2021/10/24/02/1a5ae551/1a5ae551-1533-4720-8883-91e2152c09df_3_.m3u8
+#EXTINF:-1 tvg-id="Lê Bảo Bình"tvg-logo="https://we25.vn/media2018/Img_News/2018/12/28/kenh-truyen-hinh-am-nhac-tuong-tac-itv-music-ngung-hoat-dong-1_20181228144503.jpg",Quên rồi saoAlbum Yêu Nhầm Người - Liên khúc nhạc trẻ ft DJ Việt Anh
+http://vod-zlr2.tv360.vn/video1/2021/10/27/14/c9db33db/c9db33db-21f0-4bb6-ab2f-523fbe00b49a_5_.m3u8
+#EXTINF:-1 tvg-id=""tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/24/02/82438d08/82438d08-83de-49b4-8b3e-665017efa704_640_360.png",người phản bội Remix Lê Bảo Bình
+http://vod-zlr2.tv360.vn/video1/2021/10/23/17/51ac3e1d/51ac3e1d-01de-4798-9a82-bb0150cab69e_1_.m3u8
+#EXTINF:-1 tvg-id="Lê Bảo Bình"tvg-logo="http://img-zlr1.tv360.vn/image1/2021/10/23/17/9d9051e0/9d9051e0-6f55-4d49-ac37-560dead0e8eb_640_360.png",Album Yêu Nhầm Người-Liên khúc nhạc trẻ Album Yêu Nhầm Người|Lê Bảo Bình
+http://vod-zlr2.tv360.vn/video1/2021/10/23/17/64da2c86/64da2c86-4c6c-4e4f-8140-e98aebcaa5d1_3_.m3u8
+#EXTINF:-1 tvg-id="Tuyển tập nhạc trẻ hay"tvg-logo="https://we25.vn/media2018/Img_News/2018/12/28/kenh-truyen-hinh-am-nhac-tuong-tac-itv-music-ngung-hoat-dong-1_20181228144503.jpg",Tuyển tập nhạc trẻ hay ngất ngây
+http://vod-zlr2.tv360.vn/video1/2022/05/27/09/4fcf9363/4fcf9363-f21d-4045-81b8-473212cb9752_4_.m3u8
+#EXTINF:-1 tvg-id="List nhạc trẻ ballad việt 2022"tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_itv_145578605209.png",List nhạc Vpop hot 
+http://vod-zlr2.tv360.vn/video1/2022/05/20/10/f58a5eee/f58a5eee-272d-430b-a20c-91648fbbeed4_2_.m3u8
+#EXTINF:-1 tvg-id="List nhạc trẻ ballad việt 2022"tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/75/e9/95/75e99597-61de-3171-897f-7edd451be6d5/source/512x512bb.jpg",nhạc chill cho ngày
+http://vod-zlr2.tv360.vn/video1/2022/04/12/10/bf386344/bf386344-056f-4d58-8b35-67e0a892d5b1_5_.m3u8
+#EXTINF:-1 tvg-id="Lofi"tvg-logo="https://we25.vn/media2018/Img_News/2018/12/28/kenh-truyen-hinh-am-nhac-tuong-tac-itv-music-ngung-hoat-dong-2_20181228144503.jpg",nhạc Lofi chill
+http://vod-zlr2.tv360.vn/video1/2021/11/10/11/cd9eeded/cd9eeded-ee7d-40ff-a886-7a7896168597_4_.m3u8
+#EXTINF:-1 tvg-id="List nhạc bolero"tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/08/08/385f5fb5/385f5fb5-629e-42a4-85cb-636a8c024b33_640_360.png",List nhạc bolero ai nghe cũng
+http://vod-zlr2.tv360.vn/video1/2022/06/29/10/90f3897d/90f3897d-c14b-4e7d-9f4b-7a537b6617f8_2_.m3u8
+#EXTINF:-1 tvg-id="List nhạc bolero"tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/13/17/0a528e3a/0a528e3a-0724-4af8-8acc-3942a04ece9f_640_360.png",List nhạc bolero bất
+http://vod-zlr2.tv360.vn/video1/2022/06/28/16/ebbed11a/ebbed11a-1022-4e0a-bcc2-c072c368aea6_2_.m3u8
+#EXTINF:-1 tvg-id="List nhạc bolero"tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/28/08/7f5d5a25/7f5d5a25-3070-4be8-b869-5928b36fd367_640_360.jpg",Nhạc sống thôn quê
+http://vod-zlr2.tv360.vn/video1/2022/06/20/13/25ea07c4/25ea07c4-e841-4117-a6cf-ad041046b8a9_3_.m3u8
+#EXTINF:-1 tvg-id="List nhạc bolero"tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/28/08/5b407823/5b407823-48ac-4117-80f4-b26920577b15_640_360.jpg",Nhạc sống trữ tình mở lên cả xóm vui
+http://vod-zlr2.tv360.vn/video1/2022/06/28/08/86666c55/86666c55-d99f-4f65-8a8f-b0045d1d2bbe_1_.m3u8
+#EXTINF:-1 tvg-id="List nhạc bolero"tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/06/13/75dab769/75dab769-e3c4-4488-be36-854060bdba1d_640_360.jpg",Nhạc sống 2022 mới đét cực sôi động
+http://vod-zlr2.tv360.vn/video1/2022/06/06/13/7dc8b4ba/7dc8b4ba-7645-47d8-8da2-176fc69f583d_2_.m3u8
+#EXTINF:-1 tvg-id="List nhạc bolero"tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/13/13/da9ff102/da9ff102-cfaa-40f3-9ee2-4fbca663ef4f_640_360.jpg",Nhạc sống disco cực hay sôi động quá
+http://vod-zlr2.tv360.vn/video1/2022/06/13/13/7983edb2/7983edb2-8849-4052-80c7-fd4e805388f2_1_.m3u8
+#EXTINF:-1 tvg-id="List nhạc bolero"tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/13/13/45f412d7/45f412d7-d8b7-49df-a751-539f612280c6_640_360.jpg",Karaoke nhạc sống hát cực hay hát mãi không chán
+http://vod-zlr2.tv360.vn/video1/2021/10/06/22/751b0b51/751b0b51-b652-4510-8e37-2595f4425446_4_.m3u8
+#EXTINF:-1 tvg-id="List nhạc bolero"tvg-logo="http://img-zlr1.tv360.vn/image1/2022/05/30/14/cbe556c5/cbe556c5-5645-45ad-8bba-d0e1666b70db_640_360.jpg",Nhạc sống organ không lời hay nhất
+http://vod-zlr2.tv360.vn/video1/2022/05/30/14/ebbf192f/ebbf192f-64c3-42d2-9ced-20acdeaf8728_3_.m3u8
+#EXTINF:-1 tvg-id="List nhạc bolero"tvg-logo="http://img-zlr1.tv360.vn/image1/2022/05/23/13/d39377a0/d39377a0-cfcf-402c-9169-d3169a155074_640_360.jpg",Liên khúc modern talking cực bốc
+http://vod-zlr2.tv360.vn/video1/2022/05/23/13/9006e38d/9006e38d-44a7-4a6e-8264-7207f95a929d_1_.m3u8
+#EXTINF:-1 tvg-id="List nhạc bolero"tvg-logo="http://img-zlr1.tv360.vn/image1/2022/05/09/13/a73bb478/a73bb478-1e19-4c95-8795-f251f6eb70db_640_360.jpg",Liên khúc remix dj cực bốc lửa
+http://vod-zlr2.tv360.vn/video1/2022/05/09/13/3eb83917/3eb83917-4ff4-439c-862b-11ca8114217a_1_.m3u8
+#EXTINF: -1 tvg-id = "htvccanhachd" group-title = "?Khích?|nhạc bolero trữ tình" tvg-logo = "https://avg.vn/wp-content/uploads/2022/04/z3360046388668_650a0d1d9a9932b50fa1a17658b6d453.png",Tuyệt đỉnh bolero 2022 - Khánh Bình và Ánh Linh
+#EXTVLCOPT: http-user-agent = KhichTivi
+http://vod-zlr2.tv360.vn/video1/2022/04/25/15/bcd3a044/bcd3a044-1886-4cf5-b9ab-45fc9585b94f_3_.m3u8
+#EXTINF: -1 tvg-id = "htvccanhachd" group-title = "?Khích?|nhạc bolero trữ tình" tvg-logo = "http://img-zlr1.tv360.vn/image1/2022/06/29/10/0ea7e525/0ea7e525-202e-4a62-8ae2-7091b20be4b3_640_360.png",Khánh An bolero và Thục Trinh hát quá hay - List nhạc bolero xưa
+#EXTVLCOPT: http-user-agent = KhichTivi
+http://vod-zlr2.tv360.vn/video1/2022/06/29/10/a72ea729/a72ea729-68a9-4c96-b132-5d6be52e978e_3_.m3u8
+#EXTINF: -1 tvg-id = "htvccanhachd" group-title = "?Khích?|nhạc bolero trữ tình" tvg-logo = "http://img-zlr1.tv360.vn/image1/2022/06/11/16/3dd5a863/3dd5a863-42bf-4726-8150-d7a7c538a113_640_360.png",Vừa nghe nhạc bolero trữ tình vừa ngắm mẫu xinh vui chơi bên vườn
+#EXTVLCOPT: http-user-agent = KhichTivi
+http://vod-zlr2.tv360.vn/video1/2022/06/11/16/37be752b/37be752b-c8c0-4cbe-9b06-fd95ee6c3078_3_.m3u8
+#EXTINF: -1 tvg-id = "htvccanhachd" group-title = "?Khích?|" tvg-logo = "http://img-zlr1.tv360.vn/image1/2022/06/28/16/3ede795e/3ede795e-2fa6-4258-8307-64b1478c9d38_640_360.png",Những bài hát bất hủ hay thế hệ 8x 9x đời đầu - Tuyển tập ca khúc
+#EXTVLCOPT: http-user-agent = KhichTivi
+http://vod-zlr2.tv360.vn/video1/2022/06/28/16/bc2b7f8f/bc2b7f8f-170f-4e9e-85ef-b316ae25d7cd_3_.m3u8
+#EXTINF:-1 tvg-id="List Karaoke"tvg-logo="http://img-zlr1.tv360.vn/image1/2022/05/30/14/b6cdaee8/b6cdaee8-af07-4483-8a56-1ad92ddb7142_640_360.jpg",Liên khúc karaoke nhạc sến hay nhất
+http://vod-zlr2.tv360.vn/video1/2021/10/07/22/86900d2f/86900d2f-83ae-476a-813b-f85ca6325bbd_1_.m3u8
+#EXTINF:-1 tvg-id="List Karaoke"tvg-logo="http://img-zlr1.tv360.vn/image1/2022/04/12/13/7dd0f373/7dd0f373-1e87-41bc-a690-b408f5caf7d7_640_360.jpg",Karaoke liên khúc nhạc sống dễ hát
+http://vod-zlr2.tv360.vn/video1/2022/04/12/13/47c306d3/47c306d3-3ab4-4504-b4f8-393242c4099a_1_.m3u8
+#EXTINF:-1 tvg-id="List Karaoke"tvg-logo="http://img-zlr1.tv360.vn/image1/2022/06/28/08/cae4bd19/cae4bd19-35a0-4bf6-9c1e-63c4eec42473_640_360.jpg",Karaoke tuyệt đỉnh nhạc sống cha cha cha
+http://vod-zlr2.tv360.vn/video1/2022/06/28/08/251b6ace/251b6ace-b9f8-41ea-8a92-5f06defe5179_1_.m3u8
+#EXTINF:-1 tvg-id="List nhạc Nhạc đỏ"tvg-logo="http://img-zlr1.tv360.vn/image1/2022/05/04/13/e08305f5/e08305f5-2027-4ea1-b5d7-c5a633f78b58_640_360.jpg",Nhạc đỏ remix bốc lửa
+http://vod-zlr2.tv360.vn/video1/2022/05/04/13/c1411693/c1411693-2d80-4dcd-a0b0-e2b3e4c80c00_3_.m3u8
