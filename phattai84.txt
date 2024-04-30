@@ -6,11 +6,11 @@
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
 http://171.238.180.25:18080/198.m3u8
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png",TV360+ 2
-https://dethich.pw/360/1/index.m3u8
+
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png",TV360+ 3
-https://dethich.pw/360/148/index.m3u8
+
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png",TV360+ 4
-https://dethich.pw/360/2458/index.m3u8
+
 
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION
 http://is.am/5ngp
@@ -26,15 +26,15 @@ http://is.am/5nvt
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
 http://iptvzin.asuscomm.com:9876/rtp/232.84.3.242:11374
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
-https://dethich.pw/vtvcab6/index.m3u8
+https://tth.vn/onsportplus
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
-https://dethich.pw/vtvcab16/index.m3u8
+https://tth.vn/onfootball
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
-https://dethich.pw/vtvcab18/index.m3u8
+https://tth.vn/onsportnews
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf 
-https://dethich.pw/360/169/index.m3u8
+
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/Sqo9Luk.png",BTV5 - ON Sports Action
-https://dethich.pw/360/2380/index.m3u8
+
 
 #----------*-VTV-*----------#
 
@@ -126,7 +126,7 @@ https://dethich.pw/360/188/index.m3u8
 #----------*-HTV&HTVC-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
-https://dethich.pw/360/190/index.m3u8
+http://iptvzin.asuscomm.com:9876/rtp/232.84.1.35:8184
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
@@ -415,12 +415,10 @@ http://s4.nihontv.net:21585/axn/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
 http://s4.nihontv.net:21585/discovery/index.m3u8
 
-#EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci HD
-https://dethich.pw/360/214/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_640_360.png",In The Box
-https://dethich.pw/360/235/index.m3u8
+https://tth.vn/intheboxhd
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
-https://dethich.pw/360/239/index.m3u8
+http://iptvzin.asuscomm.com:9876/rtp/232.84.1.77:8436
 
 #EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CBeeBies
 http://iptvzin.asuscomm.com:9876/rtp/232.84.1.90:10398
