@@ -8,11 +8,11 @@
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
 http://171.238.180.25:18080/198.m3u8
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png",TV360+ 2
-
+https://tth.vn/tv360plus2
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/02/10/15/1676017385349/790530ec477b_640_360.png",TV360+ 3
-
+https://tth.vn/tv360plus3
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/03/21/13/1679381719416/902f0862cc9b_640_360.png",TV360+ 4
-
+https://tth.vn/tv360plus4
 
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION
 http://is.am/5ngp
@@ -284,7 +284,7 @@ http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 https://cdn.la34.com.vn/live/2851dc2c9af68834814a89e61db0faee561/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/VcDV4Bv.png",STV1 HD | TH Sóc Trăng
 
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/VcDV4Bv.png",STV2 HD | TH Sóc Trăng
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/bobGAVN.png",STV2 HD | TH Sóc Trăng
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/8rGiYuk.png",TTV11 HD | TH Tây Ninh
 http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
@@ -420,3 +420,23 @@ http://s4.nihontv.net:21585/discovery/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_640_360.png",In The Box
 https://tth.vn/intheboxhd
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaCI72L.png",ON Plus 01
+http://liveh34.vtvcab.vn/hls/ONSPORT01/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaCI72L.png",ON Plus 02
+http://liveh34.vtvcab.vn/hls/ONSPORT02/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaCI72L.png",ON Plus 03
+http://liveh34.vtvcab.vn/hls/ONSPORT03/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaCI72L.png",ON Plus 04
+http://liveh34.vtvcab.vn/hls/ONSPORT04/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaCI72L.png",ON Plus 05
+http://liveh34.vtvcab.vn/hls/ONSPORT05/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaCI72L.png",ON Plus 06
+http://liveh34.vtvcab.vn/hls/ONSPORT06/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaCI72L.png",ON Plus 07
+http://liveh34.vtvcab.vn/hls/ONSPORT07/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaCI72L.png",ON Plus 08
+http://liveh34.vtvcab.vn/hls/ONSPORT08/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaCI72L.png",ON Plus 09
+http://liveh34.vtvcab.vn/hls/ONSPORT09/04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IaCI72L.png",ON Plus 10?
+http://liveh34.vtvcab.vn/hls/ONSPORT10/04.m3u8
