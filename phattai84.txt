@@ -263,7 +263,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pEaPECX.png",BTV2 HD | TH Bình Dương
 https://oipf0znpmnliv.vcdn.cloud/hls/btv2/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 | An Viên TV
-https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/ba853e0c04426f95e39dc569719b02eb/1715041027764/livetv/enc2/45ef7f63082488218aa1a8c93bb7c185/playlist.m3u8?h=720\u0026c=a
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/ba853e0c04426f95e39dc569719b02eb/1715041027764/livetv/enc2/45ef7f63082488218aa1a8c93bb7c185/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/sXQHPZM.png",BPTV1 HD | TH Bình Phước
 http://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/7WTixVS.png",BPTV2 HD | TH Bình Phước
@@ -279,7 +279,7 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/8qlDA5N.png",ĐNRTV2 HD | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/iiY2dI1.png",ĐNRTV3 | TH Đồng Nai
-https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/0de76e5737456b90d426d0da6866c186/1715041194789/livetv/enc/43ec53af7a809687be1a97622aec2eff/playlist.m3u8?dvr=1\u0026h=720\u0026t=0\u0026d=0\u0026c=a
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/0de76e5737456b90d426d0da6866c186/1715041194789/livetv/enc/43ec53af7a809687be1a97622aec2eff/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/TqAz7ET.png",THĐT1 HD | TH Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/PfETBEp.png",THĐT2 HD | TH Đồng Tháp
