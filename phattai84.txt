@@ -249,9 +249,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8?|Referer=https://sctv
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2 | TH Vĩnh Long
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3 | TH Vĩnh Long
-http://tth.vn/THVL3FHD
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/8a5458df56ba9a538791f85f188c2f68/1715131310384/livetv/enc/d163c8c091b5c937a0b5789d2be251b4/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4 | TH Vĩnh Long
-http://tth.vn/THVL4FHD
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/b47aa4f5eda41f3fff24b1a7dcfd40c9/1715131370480/livetv/enc/759df25e7b439639ed0c2588b776735b/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/0TkI4Ar.png",ATV HD | TH An Giang
 https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
@@ -263,7 +263,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pEaPECX.png",BTV2 HD | TH Bình Dương
 https://oipf0znpmnliv.vcdn.cloud/hls/btv2/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 | An Viên TV
-https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/ba853e0c04426f95e39dc569719b02eb/1715041027764/livetv/enc2/45ef7f63082488218aa1a8c93bb7c185/playlist.m3u8
+https://sgn-vtt-001-livecdn-vthcm-vnd.vieon.vn/489d37802558ae2da57df2f31d7e7251/1715131034358/livetv/enc2/45ef7f63082488218aa1a8c93bb7c185/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/sXQHPZM.png",BPTV1 HD | TH Bình Phước
 http://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/7WTixVS.png",BPTV2 HD | TH Bình Phước
@@ -271,7 +271,7 @@ https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlis
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/tW0pGBM.png",BTV HD | TH Bình Thuận
 https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ZKV1ok2.png",CTV HD | TH Cà Mau
-https://ott3.nethubtv.vn/live/camautv/playlist.m3u8
+https://vtvgolive-dp.vtvdigital.vn/fWdjb7HrJf3hDsBYjr96xQ/1715179001/live/camautv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/0fGI8cJ.png",THTPCT HD | TH Cần Thơ
 https://live.canthotv.vn/live/tv_web/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/DCLUAqZ.png",ĐNRTV1 HD | TH Đồng Nai
@@ -279,7 +279,7 @@ http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/8qlDA5N.png",ĐNRTV2 HD | TH Đồng Nai
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/iiY2dI1.png",ĐNRTV3 | TH Đồng Nai
-https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/0de76e5737456b90d426d0da6866c186/1715041194789/livetv/enc/43ec53af7a809687be1a97622aec2eff/playlist.m3u8
+https://sgn-vtt-002-livecdn-vthcm-vnd.vieon.vn/f9df35890ffd145b8a4e277a6f79fd22/1715130645084/livetv/enc/43ec53af7a809687be1a97622aec2eff/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/TqAz7ET.png",THĐT1 HD | TH Đồng Tháp
 https://618b88f69e53b.streamlock.net/THDT/thdttv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/PfETBEp.png",THĐT2 HD | TH Đồng Tháp
