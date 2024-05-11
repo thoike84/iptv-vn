@@ -40,7 +40,7 @@ https://dethich.pw/vtvcab3/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
 https://dethich.pw/vtvcab6/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
-https://dethich.pw/vtvcab16/index.m3u8
+https://tth.vn/onfootball
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
 https://dethich.pw/vtvcab18/index.m3u8
 
