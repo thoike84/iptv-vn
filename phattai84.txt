@@ -5,9 +5,6 @@
 
 #----------*-K+-*----------#
 
-#EXTINF:-1 group-title="🇻🇳| K+"tvg-logo="https://pipitv.top/logo/PPTV.png" tvg-id="681eee7a797815fa3ec207afbca0c7ed",  [Live Event HD]
-https://hqth.me/cMs
-
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
 http://171.238.180.25:18080/198.m3u8
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png",TV360+ 2
@@ -46,11 +43,6 @@ https://tth.vn/onsportplus
 https://tth.vn/onfootball
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
 https://tth.vn/onsportplus
-
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ ACTION
-https://live.pipitv.top/stream/channelid/196678339
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ CINE
-https://live.pipitv.top/stream/channelid/2102043759
 
 #----------*-VTV-*----------#
 
@@ -444,55 +436,35 @@ http://s4.nihontv.net:21585/discovery/index.m3u8
 
 #----------*-Thể thao-*----------#
 
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5sgMLTpsoAI5C21zEGINl-02W79ZeUYfJ3Q&usqp=CAU",beIN Sport 1
-http://iptvtree.net:8080/F14995/a84c0963/165105
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5sgMLTpsoAI5C21zEGINl-02W79ZeUYfJ3Q&usqp=CAU",beIN Sport 3 
-http://iptvtree.net:8080/F14995/a84c0963/298506
-
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg",beIN Sports 1 
-http://iptvkita.my.id:25461/direct/hometv/1826
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg",beIN Sports 2 
-http://iptvkita.my.id:25461/direct/hometv/1827
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg",beIN Sports 3 
-http://iptvkita.my.id:25461/direct/hometv/1828
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg",beIN Sports 4 
-http://iptvkita.my.id:25461/direct/hometv/1829
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg",beIN Sports 5 
-http://iptvkita.my.id:25461/direct/hometv/1830
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg",beIN Sports 6 
-http://iptvkita.my.id:25461/direct/hometv/1831
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://raw.githubusercontent.com/eepunx/logo/main/download.jpg",beIN Sports 7 
-http://iptvkita.my.id:25461/direct/hometv/1832
-
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png",Bein SportXtra
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_plain_55537aef6c.png&w=375&q=100",Bein SportXtra
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://epg-pp.beinsports.com/us_sports/xtra.png",Bein SportXtra
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_plain_55537aef6c.png&w=375&q=100",Bein SportXtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://hubdeportivo.com/wp-content/uploads/2022/09/Bein-Sports-Xtra-773x380.png",Bein SportXtra
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_espanol_plain_dfc8c8970b.png&w=375&q=100",Bein SportXtra
 #https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="",beIN SPORT 1 🇬🇧
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORT 1 🇬🇧
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/237237.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="",beIN SPORT 2 🇬🇧
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORT 2 🇬🇧
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/237254.m3u8
 
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="",beIN SPORTS 1 🇸🇦
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORTS 1 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="",beIN SPORTS 2 🇸🇦
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORTS 2 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="",beIN SPORTS 3 🇸🇦
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORTS 3 🇸🇦
 http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
 
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="",beIN SPORT 01 SD 🇸🇦
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORT 01 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242881.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="",beIN SPORT 02 SD 🇸🇦
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORT 02 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242882.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="",beIN SPORT 03 SD 🇸🇦
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORT 03 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242883.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="",beIN SPORT 04 SD 🇸🇦
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORT 04 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242884.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="",beIN SPORT 05 SD 🇸🇦
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORT 05 SD 🇸🇦
 http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242885.m3u8
 
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png",Premier Sports 1
