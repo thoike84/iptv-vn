@@ -53,7 +53,7 @@ http://171.238.180.25:18080/192.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 http://171.238.180.25:18080/155.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-http://s4.nihontv.net:21585/vtv4/index.m3u8
+http://123.21.223.9:8081/sctv/s1.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e3.endpoint.cdn.sctvonline.vn/nginx.s1.edge.cdn.sctvonline.vn/hls/vtv4/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 http://171.238.181.52:18080/194.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
@@ -216,8 +216,6 @@ http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpo
 http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s8.edge.cdn.sctvonline.vn/hls/sctv22/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV Phim TH
 http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s5.edge.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://pipitv.top/logo/sctv4k.png",SCTV 4K
-https://live.pipitv.top/stream/channelid/2065651843
 
 #----------*-Địa phương-*----------#
 
@@ -262,7 +260,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
 https://ott3.nethubtv.vn/live/baclieutv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/l8Ae26m.png",THBT HD | TH Bến Tre
-https://ott3.nethubtv.vn/live/bentretv/playlist.m3u8
+http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/thbt/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/Soe6MC8.png",BTV1 HD | TH Bình Dương
 https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pEaPECX.png",BTV2 HD | TH Bình Dương
@@ -286,7 +284,7 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/iiY2dI1.png",ĐNRTV3 | TH Đồng Nai
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/TqAz7ET.png",THĐT1 HD | TH Đồng Tháp
-https://1011154949.vnns.net/CDN-FPT02/DONGTHAP-SD-ABR/playlist.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/thdongthap/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/PfETBEp.png",THĐT2 HD | TH Đồng Tháp
 http://123.21.223.9:8081/sctv/s5.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s7.edge.cdn.sctvonline.vn/hls/thdt2/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HGTV HD | TH Hậu Giang
@@ -312,7 +310,7 @@ https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/FVmICGp.png",THTV2 HD | TH Trà Vinh
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/WEMfHas.png",BRT HD | TH Vũng Tàu
-https://1011154949.vnns.net/CDN-FPT02/BRVT-SD-ABR/playlist.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/brvt/index.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/EdXvjrH.png",DaNangTV1 HD
 https://live.danangtv.vn/livedrt1/playlist.m3u8
