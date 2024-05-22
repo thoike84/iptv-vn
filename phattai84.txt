@@ -188,7 +188,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/index.m3u8?|Referer=https://sctv
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/qDJ9Cke.png",SCTV8
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/9dUXDYr.png",SCTV9
-http://s4.nihontv.net:21585/sctv9/index.m3u8
+https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/GHcVQkB.png",SCTV10
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/G8By4lM.png",SCTV11
@@ -216,7 +216,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/index.m3u8?|Referer=https://sct
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV Phim TH
-http://s4.nihontv.net:21585/sctvpth/index.m3u8
+https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?|Referer=https://sctvonline.vn/
 
 #----------*-Địa phương-*----------#
 
@@ -285,9 +285,9 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/iiY2dI1.png",ĐNRTV3 | TH Đồng Nai
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/TqAz7ET.png",THĐT1 HD | TH Đồng Tháp
-https://oipf0znpmnliv.vcdn.cloud/hls/thdongthap/index.m3u8
+http://118.69.169.41:1935/THDT/thdttv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/PfETBEp.png",THĐT2 HD | TH Đồng Tháp
-https://oipf0znpmnliv.vcdn.cloud/hls/thdt2/index.m3u8
+https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HGTV HD | TH Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jCTogPb.png",KG HD | TH Kiên Giang
@@ -311,7 +311,7 @@ https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/FVmICGp.png",THTV2 HD | TH Trà Vinh
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/WEMfHas.png",BRT HD | TH Vũng Tàu
-https://oipf0znpmnliv.vcdn.cloud/hls/brvt/index.m3u8
+http://113.163.216.23:1935/live/tv2.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/EdXvjrH.png",DaNangTV1 HD
 https://live.danangtv.vn/livedrt1/playlist.m3u8
