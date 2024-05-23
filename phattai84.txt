@@ -35,9 +35,6 @@ http://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8
 #EXTINF:-1 group-title="⚽| ON Live" tvg-logo="https://i.imgur.com/IaCI72L.png",ON Plus 10
 http://liveh34.vtvcab.vn/hls/ONSPORT10/index.m3u8
 
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://raw.githubusercontent.com/Hannstcott/SunshineTr/main/logo%20k%2B/MyK%252B_Live_1.png",K+ LIVE
-http://is.am/5nv4
-
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
 http://hoatv001.ddns.net:9981/stream/mux/892b3d1af461c12cfc533d720742365c
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
@@ -144,13 +141,13 @@ https://tth.vn/vtvcab22
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
 https://1011154949.vnns.net/htvc/htv1.720p.nimble.adm.tms/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
-http://103.82.21.118:9981/stream/mux/f67d131f3e6f8fcba942789f53f2f9f4?ticket=CB8A3D545029A9D65090CDB13CCA2058FA65848B
+https://htvc271120.cdn.vnns.io/3679724ec72f4f5c972c21daf6f55cc71717063818/htv2.cat.720p.tms/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 https://1011154949.vnns.net/htvc/htv3.720p.nimble.adm.tms/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8?|Referer=https://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8?|Referer=https://sctvonline.vn/
+https://htvc271120.cdn.vnns.io/658c840b4257f2d5d1245016095d42f21717049772/htv7.cat.720p.tms/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
 http://s4.nihontv.net:21585/htv9/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
