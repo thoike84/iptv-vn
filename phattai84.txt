@@ -381,7 +381,7 @@ https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ldwQU4L.png",THLC HD | TH Lào Cai
 https://ott4.nethubtv.vn/live/laocaitv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/juBOaJJ.png",NTV | TH Nam Định
-
+https://1011154949.vnns.net/htvc/namdinh.480p.fpt.tms/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/FLvFSLS.png",NTV HD | TH Nghệ An
 https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pL4NqYO.png",NTV HD | TH Ninh Bình
@@ -442,40 +442,6 @@ https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_espanol_plain_dfc8c8970b.png&w=375&q=100",Bein SportXtra
 #https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORT 1 🇬🇧
-http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/237237.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORT 2 🇬🇧
-http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/237254.m3u8
-
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORTS 1 🇸🇦
-http://85.237.89.6:9590/ar-s/B-S-pre-1-stop-TimeSheft/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORTS 2 🇸🇦
-http://85.237.89.6:9590/ar-s/B-S-pre-2-stop-TimeSheft/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORTS 3 🇸🇦
-http://85.237.89.6:9590/ar-s/B-S-pre-3-stop-TimeSheft/index.m3u8
-
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORT 01 SD 🇸🇦
-http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242881.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORT 02 SD 🇸🇦
-http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242882.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORT 03 SD 🇸🇦
-http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242883.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORT 04 SD 🇸🇦
-http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242884.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://media-connect.apac.beiniz.biz/Assets/images/logo_header_v3.png",beIN SPORT 05 SD 🇸🇦
-http://mixbix.xyz:8080/live/3CMxWqrPS9wp/8f9CymgKYLDG/242885.m3u8
-
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://www.goplus.mn/images/repository/110/110-LOGO-m.png",Premier Sports 1
-http://202.21.104.6:88/sps-prime/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://www.goplus.mn/images/repository/847/847-LOGO-m.png",Premier Sports 2
-http://202.21.104.6:88/sps-play/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://www.goplus.mn/images/repository/848/848-LOGO-m.png",Premier Sports 3
-http://202.21.104.6:88/sps-world/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://www.goplus.mn/images/repository/849/849-LOGO-m.png",Premier Sports 4
-http://202.21.104.6:88/sps-action/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://www.goplus.mn/images/repository/850/850-LOGO-m.png",Premier Sports 5
-http://202.21.104.6:88/sps-plus/index.m3u8
 
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://pbs.twimg.com/profile_images/1305918437496164354/UbULc0Jx_400x400.jpg",XFC MMA
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
