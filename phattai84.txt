@@ -35,9 +35,6 @@ http://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8
 #EXTINF:-1 group-title="⚽| ON Live" tvg-logo="https://i.imgur.com/IaCI72L.png",ON Plus 10
 http://liveh34.vtvcab.vn/hls/ONSPORT10/index.m3u8
 
-#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://raw.githubusercontent.com/Hannstcott/SunshineTr/main/logo%20k%2B/MyK%252B_Live_1.png",K+ LIVE
-http://is.am/5nv4
-
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
 http://hoatv001.ddns.net:9981/stream/mux/892b3d1af461c12cfc533d720742365c
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
@@ -144,7 +141,7 @@ https://tth.vn/vtvcab22
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
 https://1011154949.vnns.net/htvc/htv1.720p.nimble.adm.tms/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
-https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8|Referer=http://sctvonline.vn/
+http://203.162.123.188:8080/htv2/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 https://1011154949.vnns.net/htvc/htv3.720p.nimble.adm.tms/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
@@ -153,6 +150,8 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8|Referer=http://sctvonl
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
 http://s4.nihontv.net:21585/htv9/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9 #2
+http://203.162.123.188:8080/sctv9/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
 http://171.238.180.25:18080/304.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
@@ -192,6 +191,10 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv7/index.m3u8|Referer=http://sctvon
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv8/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/9dUXDYr.png",SCTV9
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv9/index.m3u8|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/9dUXDYr.png",SCTV9 #2
+http://203.162.123.188:8080/sctv9/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/9dUXDYr.png",SCTV9 #3
+http://s4.nihontv.net:21585/sctv9/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/GHcVQkB.png",SCTV10
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv10/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/G8By4lM.png",SCTV11
