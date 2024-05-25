@@ -253,9 +253,9 @@ http://171.238.180.25:18080/252.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2 | TH Vĩnh Long
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3 | TH Vĩnh Long
-https://bom.so/Khich-tv-thvl3-hd-playlistm3u8-
+https://tth.vn/99-thvl3-hd?key/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4 | TH Vĩnh Long
-https://bom.so/Khichtivi-thvl4-hd-index-m3u8
+https://tth.vn/98-thvl4-hd?key/playlis.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/0TkI4Ar.png",ATV HD | TH An Giang
 https://1011154949.vnns.net/CDN-FPT02/ANGIANG-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
