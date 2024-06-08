@@ -70,31 +70,31 @@ https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e2.endpoint.cdn.sctvonline.vn/
 #----------*-VTC-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
-https://1236573804.pop.vnptcdn.com/VTC1/playlist.m3u8
+https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
-https://1236573804.pop.vnptcdn.com/VTC2/playlist.m3u8
+https://devsy.pw/tvhd/196/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/hS4bgHe.png",VTC3
-https://1236573804.pop.vnptcdn.com/VTC3/playlist.m3u8
+https://devsy.pw/tvhd/197/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/5cwYPTt.png",VTC4
-https://1236573804.pop.vnptcdn.com/VTC4/playlist.m3u8
+https://devsy.pw/tvhd/198/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/VvfiwPJ.png",VTC5
-https://1236573804.pop.vnptcdn.com/VTC5/playlist.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/vtc5/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/LPdjM0z.png",VTC6
-https://1236573804.pop.vnptcdn.com/VTC5/playlist.m3u8
+https://devsy.pw/tvhd/200/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/Y5FUbsY.png",VTC7
-https://1236573804.pop.vnptcdn.com/VTC7/playlist.m3u8
+https://devsy.pw/tvhd/201/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/4k57giG.png",VTC8
-https://1236573804.pop.vnptcdn.com/VTC8/playlist.m3u8
+https://devsy.pw/tvhd/202/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/cnAht7i.png",VTC9
-https://1236573804.pop.vnptcdn.com/VTC9/playlist.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/vtc9/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/PaVbyxg.png",VTC10
-https://1236573804.pop.vnptcdn.com/VTC10/playlist.m3u8
+https://oipf0znpmnliv.vcdn.cloud/hls/vtc10/index.m3u8
 #EXTINF:-1 group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/0ovZkYb.png",VTC11
-https://1236573804.pop.vnptcdn.com/VTC11/playlist.m3u8
+https://devsy.pw/tvhd/205/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/phXvB0t.png",VTC14
-https://1236573804.pop.vnptcdn.com/VTC14/playlist.m3u8
+https://devsy.pw/tvhd/17/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16
-https://1236573804.pop.vnptcdn.com/VTC16/playlist.m3u8
+https://devsy.pw/tvhd/18/index.m3u8
 
 #----------*-VTVCAB-*----------#
 
@@ -149,20 +149,20 @@ http://203.162.123.188:8080/htv9/index.m3u8
 http://171.238.180.25:18080/304.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://1011154949.vnns.net/htvc/htvcoopsd.720p.nb.adm.tms/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/LFL1x49.png",HTVC Thuần Việt
-
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/fRSFr9h.png",HTVC Gia đình
-
+https://devsy.pw/tvhd/11/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/LFqj48k.png",HTVC Phụ nữ
-
+https://devsy.pw/tvhd/12/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/LFL1x49.png",HTVC Thuần Việt
+https://devsy.pw/tvhd/13/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/DowOolr.png",HTVC Ca nhạc
-
+https://devsy.pw/tvhd/14/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/SKeH11N.png",HTVC Phim HD
-
+https://devsy.pw/tvhd/15/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC Plus
-
+https://devsy.pw/tvhd/132/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du lịch & Cuộc sống
-
+https://devsy.pw/tvhd/133/index.m3u8
 
 #----------*-SCTV-*----------#
 
