@@ -3,6 +3,9 @@
 
 #----------*-K+-*----------#
 
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.upanh.org/2024/06/08/1000007253edb1fd664d337159.jpeg",TT1
+https://tth.vn/thể-thao-hàng-ngày
+
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
 http://171.238.180.25:18080/198.m3u8
 #EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686794009990/d06c292dfa18_640_360.png",TV360+ 2
@@ -202,7 +205,7 @@ https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/
 https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv17/index.m3u8|user-agent=ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18
 https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv18/index.m3u8|user-agent=ExoPlayerLib/2.15.1
-#EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV19
+#EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/GKqfMnC.png",SCTV19
 https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv19/index.m3u8|user-agent=ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/DyDeccA.png",SCTV20
 https://s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e1.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/sctv20/index.m3u8|user-agent=ExoPlayerLib/2.15.1
@@ -424,6 +427,21 @@ http://s4.nihontv.net:21585/discovery/index.m3u8
 
 #----------*-Thể thao-*----------#
 
+#EXTINF:-1 tvg-id="⚽| Thể thao" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport1-FHD
+http://85.237.89.6:9590/ar-s/bein-1-stop-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="⚽| Thể thao" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport2-FHD
+http://85.237.89.6:9590/ar-s/bein-2-stop-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="⚽| Thể thao" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport3-FHD
+http://85.237.89.6:9590/ar-s/bein-3-stop-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="⚽| Thể thao" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport4-FHD
+http://85.237.89.6:9590/ar-s/bein-4-stop-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="⚽| Thể thao" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport5-FHD
+http://85.237.89.6:9590/ar-s/bein-5-stop-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="⚽| Thể thao" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport6-FHD
+http://85.237.89.6:9590/ar-s/bein-6-stop-TimeSheft/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="⚽| Thể thao" tvg-logo="https://img.upanh.tv/2024/05/15/1000006902.jpg" group-title="Sports", Beinsport7-FHD
+http://85.237.89.6:9590/ar-s/bein-7-stop-TimeSheft/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_plain_55537aef6c.png&w=375&q=100",Bein SportXtra
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01334-beinsportsllc-beinxtra-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_plain_55537aef6c.png&w=375&q=100",Bein SportXtra
@@ -450,3 +468,5 @@ https://stream01.vnet.am/BoksTv/mono.m3u8
 https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png",Unifi (UFC live) 
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/IMG_20200801_085604.jpg/revision/latest?cb=20200801005853",One Sport+ HD
+https://qp-pldt-live-grp-03-prod.akamaized.net/out/u/onesportsplushd_qp.m3u8
