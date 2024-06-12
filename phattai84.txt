@@ -47,7 +47,7 @@ https://api.wintv.me/vtvcab18/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 http://s4.nihontv.net:21585/vtv1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-http://118.107.85.4:1935/live/smil:VTV2.smil/playlist.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8?|User-agent=ExoPlayerLib/2.15.
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 http://s4.nihontv.net:21585/vtv3/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
@@ -120,7 +120,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8?|User-agent=ExoPlayerL
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
 http://203.162.123.188:8080/htv9/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
-
+http://api.wintv.me/360/195/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://vc.101vn.com/htv/htvcmb.php?id=31973
 
@@ -196,9 +196,9 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8?|User-agent=ExoPlayer
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2 | TH Vĩnh Long
 https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3 | TH Vĩnh Long
-https://tth.vn/truyenhinhvinhlong3
+https://api.wintv.me/360/219/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4 | TH Vĩnh Long
-https://tth.vn/truyenhinhvinhlong4
+https://api.wintv.me/360/220/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/0TkI4Ar.png",ATV HD | TH An Giang
 https://1011154949.vnns.net/CDN-FPT02/ANGIANG-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
