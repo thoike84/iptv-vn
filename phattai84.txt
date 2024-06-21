@@ -47,13 +47,13 @@ https://api.wintv.me/360/2380/index.m3u8
 #----------*-VTV-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-http://s4.nihontv.net:21585/vtv1/index.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8?|User-agent=ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://api.wintv.me/360/3/index.m3u8
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8?|User-agent=ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-http://s4.nihontv.net:21585/vtv3/index.m3u8
+https://e8.endpoint.cdn.sctvonline.vn/hls/vtv3/index.m3u8?|User-agent=ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4
-http://s4.nihontv.net:21585/vtv4/index.m3u8
+https://e3.endpoint.cdn.sctvonline.vn/hls/vtv4/index.m3u8?|User-agent=ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 https://e8.endpoint.cdn.sctvonline.vn/hls/vtv5/index.m3u8?|User-agent=ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
@@ -114,7 +114,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab20/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
 https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
-http://203.162.123.188:8080/htv2/index.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?|User-agent=ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8?|User-agent=ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
@@ -122,7 +122,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8?|User-agent=ExoPlayerL
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8?|User-agent=ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
-http://203.162.123.188:8080/htv9/index.m3u8
+https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?|User-agent=ExoPlayerLib/2.15.1
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
 http://api.wintv.me/360/195/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
@@ -208,7 +208,7 @@ https://oipf0znpmnliv.vcdn.cloud/hls/thangiang/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
 https://ott3.nethubtv.vn/live/baclieutv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/l8Ae26m.png",THBT HD | TH Bến Tre
-https://1011154949.vnns.net/CDN-FPT02/BENTRE-SD-ABR/playlist.m3u8
+https://ott3.nethubtv.vn/live/bentretv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/Soe6MC8.png",BTV1 HD | TH Bình Dương
 https://oipf0znpmnliv.vcdn.cloud/hls/btv1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pEaPECX.png",BTV2 HD | TH Bình Dương
@@ -222,7 +222,7 @@ https://cdn.baobinhphuoc.com.vn/live/28550d6213460634105b0bae21016f68bce/playlis
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/tW0pGBM.png",BTV HD | TH Bình Thuận
 https://64d0d74b76158.streamlock.net/BTVTV/binhthuantv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ZKV1ok2.png",CTV HD | TH Cà Mau
-https://api.wintv.me/360/46/index.m3u8
+https://ott3.nethubtv.vn/live/camautv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/0fGI8cJ.png",THTPCT HD | TH Cần Thơ
 https://live.canthotv.vn/live/tv_web/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/DCLUAqZ.png",ĐNRTV1 HD | TH Đồng Nai
@@ -285,7 +285,7 @@ https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/FTyvVYO.png",PTQ | TH Quảng Ngãi
 https://stream.thingnet.vn/live/smil:PTQ.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/xl4m2mn.png",QRTV HD | TH Quảng Trị
-http://mediatech.vncdn.vn/qrtvlive/tv1live.m3u8
+http://quangtritv.vn/tv/tvvnpt2024.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/Je3K25E.png",HanoiTV1 HD
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8
