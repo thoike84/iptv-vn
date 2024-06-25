@@ -108,6 +108,10 @@ https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab17/index.m3u8
 https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab19/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab20/index.m3u8
+#EXTINF:-1 group-title="🌈| Thiếu nhi" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids
+http://api.wintv.me/360/179/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
+http://api.wintv.me/360/188/index.m3u8
 
 #----------*-HTV&HTVC-*----------#
 
@@ -374,20 +378,29 @@ http://s4.nihontv.net:21585/hbo/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
 http://s4.nihontv.net:21585/discovery/index.m3u8
 
-#EXTINF:-1 group-title="🌈| Thiếu nhi"tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax
-http://103.77.241.152:1234/stream/animax/stream.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
+https://api.wintv.me/360/239/index.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_640_360.png",In The Box
+https://api.wintv.me/360/235/index.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822040158/9eca53663279_640_360.png",HGTV
+https://api.wintv.me/360/99/index.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
+https://api.wintv.me/360/215/index.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel HD
+https://api.wintv.me/360/216/index.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.ibb.co/Yj6BTzZ/Man-cc.webp",Man
+https://api.wintv.me/360/237/index.m3u8
+
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 http://103.77.241.152:1234/stream/axnhd/stream.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
 http://103.77.241.152:1234/stream/cinemaxhd/stream.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
 http://103.77.241.152:1234/stream/cinemaworld/stream.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/03/17/1627985890695/59bf29fc7eeb_640_360.png",In The Box
-https://api.wintv.me/360/235/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/kL9ubfw.png",Box Hits
-http://103.77.241.166/wseQUBR4GQ/3zxpjdnHrK/38.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
 http://103.77.241.152:1234/stream/animalplanet/stream.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
+http://103.77.241.152:1234/stream/bbcearth/stream.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
 http://103.77.241.152:1234/stream/discoveryasia/stream.m3u8
 
