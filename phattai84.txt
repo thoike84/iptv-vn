@@ -202,9 +202,9 @@ https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1 | TH Vĩnh Long
-https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8?|User-agent=ExoPlayerLib/2.15.1
+https://e8.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8?|User-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2 | TH Vĩnh Long
-https://oipf0znpmnliv.vcdn.cloud/hls/thvl2/index.m3u8
+https://e8.endpoint.cdn.sctvonline.vn/hls/thvl2/index.m3u8?|User-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/44c1Yoz.png",THVL3 | TH Vĩnh Long
 https://api.wintv.me/360/219/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4 | TH Vĩnh Long
@@ -390,21 +390,21 @@ https://api.wintv.me/360/99/index.m3u8
 https://api.wintv.me/360/215/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel HD
 https://api.wintv.me/360/216/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.ibb.co/Yj6BTzZ/Man-cc.webp",Man
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://img-zlr1.tv360.vn/image1/2021/08/02/18/1627902182400/125faee2618c_640_360.png",Man
 https://api.wintv.me/360/237/index.m3u8
 
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
-http://103.77.241.152:1234/stream/axnhd/stream.m3u8
+
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/NzROY7r.png",Cinemax
-http://103.77.241.152:1234/stream/cinemaxhd/stream.m3u8
+
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/vFVxJx4.png",Cinema World
-http://103.77.241.152:1234/stream/cinemaworld/stream.m3u8
+
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet
-http://103.77.241.152:1234/stream/animalplanet/stream.m3u8
+
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth
-http://103.77.241.152:1234/stream/bbcearth/stream.m3u8
+
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-http://103.77.241.152:1234/stream/discoveryasia/stream.m3u8
+
 
 #----------*-Thể thao-*----------#
 
