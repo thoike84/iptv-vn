@@ -142,7 +142,7 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8?|Referer=http://sctvon
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv4/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 
-https://e8.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8?|Referer=http://sctvonline.vn/
+https://cdn3.tvmienphi.xyz:8444/sctv/s9.edge.cdn.sctvonline.vn/cdn-cgi/edge/v2/e8.endpoint.cdn.sctvonline.vn/nginx.s9.edge.cdn.sctvonline.vn/hls/htv7/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
