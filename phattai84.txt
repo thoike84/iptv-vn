@@ -34,13 +34,13 @@ https://liveh34.vtvcab.vn/hls/ONSPORT09/index.m3u8
 https://liveh34.vtvcab.vn/hls/ONSPORT10/index.m3u8
 
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports 
-https://api.wintv.me/vtvcab3/index.m3u8
+https://tth.vn/onsport
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+ 
-https://api.wintv.me/vtvcab6/index.m3u8
+https://tth.vn/onsportplus
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football 
-https://api.wintv.me/vtvcab16/index.m3u8
+https://tth.vn/onfootball
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News 
-https://api.wintv.me/vtvcab18/index.m3u8
+https://tth.vn/onsportnews
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/Sqo9Luk.png",BTV5 - ON Sports Action
 
 
