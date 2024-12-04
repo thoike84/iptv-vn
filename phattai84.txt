@@ -1,25 +1,6 @@
 #EXTM3U url-tvg="phattai_phattai2003@yahoo.com" tvg-shift=0 m3uautoload=1
 
-#----------*-K+-*----------#
 
-#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
-https://tv.ctvcamau.vn/live/tv/tv.m3u8
-#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
-https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
-#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
-https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
-#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
-https://pa.thst.vn/liveevent.m3u8
-#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
-https://pa.thst.vn/liveeventstv2.m3u8
-#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
-https://tv.ktv.org.vn/ktv.m3u8
-#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
-https://tv.kontumtv.vn/live/kontumtv/kontumtv.m3u8
-#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
-https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
-#EXTINF:-1 group-title="⚽| TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/06/15/08/1686793977173/462bf48b67aa_640_360.png",TV360+ 1
-https://live.yenbaitv.org.vn/hls/livestream.m3u8
 #----------*-VTV-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
@@ -338,7 +319,7 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/UwTCbZ5.png",TTV HD | TH Thanh Hóa
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/qPZeGPa.png",TTV HD | TH Tuyên Quang
-https://live.fptplay53.net/fnxsd1/tuyenquang_hls.smil/chunklist.m3u8
+https://streaming.tuyenquangtv.vn/channel/tuyenquang/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/CXUvMX2.png",VP HD | TH Vĩnh Phúc
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/WKneY2w.png",YTV HD | TH Yên Bái
