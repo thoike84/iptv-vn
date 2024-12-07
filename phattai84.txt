@@ -1,8 +1,21 @@
 #EXTM3U url-tvg="phattai_phattai2003@yahoo.com" tvg-shift=0 m3uautoload=1
 
 
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE 
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1946352900?profile=pass
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ ACTION 
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/916837844?profile=pass
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png", K+ SPORT1 
+https://hodam:66668888@tvh.hothanhdam.dsmynas.com/stream/channelid/556914677?profile=pass
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/541337809?profile=pass
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
+http://113.160.152.31:5050/udp/232.84.3.42:11800
+
 #----------*-VTV-*----------#
 
+#EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://e4.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
@@ -28,6 +41,8 @@ https://e2.endpoint.cdn.sctvonline.vn/hls/vtv9/index.m3u8?|Referer=http://sctvon
 
 #----------*-VTC-*----------#
 
+#EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
+https://ott1.nethubtv.vn/live/vtc1/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
 https://liveh12.vtvcab.vn/hls/ONVTC1_CL/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
@@ -84,26 +99,28 @@ https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab19/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab20/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/3XEFbua.png", ON Kids
-
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=179
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
-
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=188
 
 #----------*-HTV&HTVC-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
-https://live.fptplay53.net/epzhd1/htv1_vhls.smil/chunklist.m3u8
+https://vc.101vn.com/htv/htvcmb.php?id=2631?|Referer=https://hplus.com.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv2/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv3/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
-https://live.fptplay53.net/epzhd1/htv4_vhls.smil/chunklist.m3u8
+https://vc.101vn.com/htv/htvcmb.php?id=2528?|Referer=https://hplus.com.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 
 https://e8.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
+https://vc.101vn.com/htv/htvcmb.php?id=31973?|Referer=https://hplus.com.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
-
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 
 #----------*-SCTV-*----------#
 
