@@ -113,7 +113,7 @@ https://live2cloud.sgchill.io.vn/hls/v2/uid:vmttv/ip:122:46:728:99/play/vtvcab/v
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf
 
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/Sqo9Luk.png",BTV5
-https://509942876.r.vtvcdn.com/BTV5/v2_index.m3u8
+https://live2cloud.sgchill.io.vn/hls/v2/uid:vmttv/ip:122:46:728:99/play/vtvcab/btv5.smil/index.m3u8
 
 #----------*-HTV&HTVC-*----------#
 
@@ -399,3 +399,22 @@ https://tracetv-tracesportstar-lgau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2023/02/sportstak.png",SportStak
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-sportstak-sportstribal/playlist.m3u8
 
+#EXTINF:-1 tvg-id="kcinehd" group-title="K+" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/01/04/1680297664931/fb287ae7a7ad_640_360.png", K+CINE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://125hvt.ddns.net:21585/kcine/index.m3u8
+#EXTINF:-1 tvg-id="hbohd" tvg-name="HBO HD" tvg-logo="https://i.imgur.com/w5u4IrO.png" group-title="Quốc tế",HBO HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://125hvt.ddns.net:21585/hbo/index.m3u8
+#EXTINF:-1 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/227.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
+#http://hoatv001.ddns.net:9981/stream/mux/f619fe796448b873e5cdfdda975e6eb9?
+http://125hvt.ddns.net:21585/axn/index.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/218.png", CNN
+http://125hvt.ddns.net:21585/cnn/index.m3u8
+#EXTINF:-1 tvg-id="tlchd" group-title="Quốc tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/236.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/travelliving_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", TLC
+http://125hvt.ddns.net:21585/tlc/index.m3u8
+#EXTINF:0 tvg-id="vtv4hd" group-title="📦🍬 VTV💯🔔" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4  ᴼᴺᴸᵞ ᶠᴾᵀ
+http://125hvt.ddns.net:21585/vtv4/index.m3u8
+#EXTINF:0 tvg-id="warnertvhd" group-title="🔍🔒ᴹᵒᵛⁱᵉˢ📣🎬😜" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
+http://125hvt.ddns.net:21585/wbtv/index.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+http://125hvt.ddns.net:21585/discovery/index.m3u8
