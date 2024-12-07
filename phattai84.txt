@@ -102,6 +102,18 @@ https://oipf0znpmnliv.vcdn.cloud/hls/vtvcab20/index.m3u8
 https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=179
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/2xT5HFx.png",ON Life
 https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=188
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports
+http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/627753454?profile=pass
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+
+https://live2cloud.sgchill.io.vn/hls/v2/uid:vmttv/ip:122:46:728:99/play/vtvcab/vtvcab6.smil/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football
+
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News
+
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf
+
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/Sqo9Luk.png",BTV5
+https://509942876.r.vtvcdn.com/BTV5/v2_index.m3u8
 
 #----------*-HTV&HTVC-*----------#
 
@@ -153,7 +165,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/index.m3u8?|Referer=http://sctv
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14
 https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV14.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
-https://e7.endpoint.cdn.sctvonline.vn/live/smil:SCTV15.smil/playlist.m3u8
+https://live2cloud.sgchill.io.vn/hls/v2/uid:vmttv/ip:122:46:728:99/play/sctv/sctv15.smil/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
