@@ -17,6 +17,8 @@ http://113.160.152.31:5050/udp/232.84.3.42:11800
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://ott1.nethubtv.vn/live/vtv1/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=vtv1
+#EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://e4.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
 https://e8.endpoint.cdn.sctvonline.vn/hls/vtv2/index.m3u8?|Referer=http://sctvonline.vn/
@@ -131,8 +133,10 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/htv7/index.m3u8?|Referer=http://sctvon
 https://e2.endpoint.cdn.sctvonline.vn/hls/htv9/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://vc.101vn.com/htv/htvcmb.php?id=31973?|Referer=https://hplus.com.vn/
-#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao HD
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.165/test/123/playlist.mpegts
+#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
+http://dapho.xyz/wp-content/themes/PsyPlay/vid/linktv.php?go=htvthethao&sct
 
 #----------*-SCTV-*----------#
 
@@ -374,6 +378,8 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=http://sct
 
 #----------*-Thể thao-*----------#
 
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png",Bian Sports
+http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_plain_55537aef6c.png&w=375&q=100",Bein SportXtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_espanol_plain_dfc8c8970b.png&w=375&q=100",Bein SportXtra
@@ -418,3 +424,10 @@ http://125hvt.ddns.net:21585/vtv4/index.m3u8
 http://125hvt.ddns.net:21585/wbtv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SAMSUNG SM-A505F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/22.0 Chrome/111.0.5563.116 Mobile Safari/537.36 ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
 http://125hvt.ddns.net:21585/discovery/index.m3u8
+#EXTINF:-1 tvg-id="davincihd" group-title="⚗KhichTivi| Khoa học" tvg-logo="https://img-zlr1.tv360.vn/image1/2020_09_23/1600822040158/9eca53663279_640_360.png", HGTV HD
+#EXTVLCOPT:http-user-agent=khichTivi
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=99
+#EXTINF:-1 tvg-id="animalhd" group-title="🌿KhichTivi| Khám phá" tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/Hybris/VC400038_1_image01.png",History HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=9856
