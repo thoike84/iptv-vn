@@ -12,7 +12,7 @@ https://hodam:66668888@tvh.hothanhdam.dsmynas.com/stream/channelid/556914677?pro
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
 http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/541337809?profile=pass
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
-http://14.172.223.172:1024/rtp/232.84.3.43:11794
+
 
 #----------*-VTV-*----------#
 
@@ -381,26 +381,20 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8|Referer=http://sct
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/VoCJAcN.png",AXN
 http://125hvt.ddns.net:21585/axn/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/suciWNF.png",HBO
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/wWoUsKD.png",WBTV
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
 http://125hvt.ddns.net:21585/wbtv/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/EGjNXZA.png",Discovery
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
 http://125hvt.ddns.net:21585/discovery/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN
 http://125hvt.ddns.net:21585/cnn/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/KZqwTe4.png",TLC
 http://125hvt.ddns.net:21585/tlc/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/vabPaRG.png",DaVinci
-https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=99
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://res.cloudinary.com/dnaoyj/image/upload/c_pad,dpr_auto,f_auto,h_500,q_auto,w_500/v1/Assets/Hybris/VC400038_1_image01.png",History HD
-https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=9856
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/F0N0TmU.jpg",Cinemax
-http://hodam:66668888@hothanhdam.dsmynas.com:9981/stream/channelid/1426505434?profile=pass
 
 #----------*-Thể thao-*----------#
 
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.ibb.co.com/55m2FM2/unnamed-1.png",Bian Sports
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/bein-Logo.png",BeIN Sports 
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_plain_55537aef6c.png&w=375&q=100",Bein SportXtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
