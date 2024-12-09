@@ -1,24 +1,6 @@
 #EXTM3U url-tvg="phattai_phattai2003@yahoo.com" tvg-shift=0 m3uautoload=1
 
 
-#EXTINF:-1 group-title="🇻🇳| Sự kiện trực tiếp" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189720461/dc4ee8910c25_480_270.png",TV360+ 1
-http://hoatv001.ddns.net:8002/ott/tv360.php?id=2554
-#EXTINF:-1 group-title="🇻🇳| Sự kiện trực tiếp" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_480_270.png",TV360+ 2
-https://th88vip.x10.bz/getlink/play/ott/tv360.php?id=2554
-#EXTINF:-1 group-title="🇻🇳| Sự kiện trực tiếp" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_480_270.png",TV360+ 3
-
-#EXTINF:-1 group-title="🇻🇳| Sự kiện trực tiếp" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_480_270.png",TV360+ 4
-
-#EXTINF:-1 group-title="🇻🇳| Sự kiện trực tiếp" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_480_270.png",TV360+ 5
-
-#EXTINF:-1 group-title="🇻🇳| Sự kiện trực tiếp" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_480_270.png",TV360+ 6
-
-#EXTINF:-1 group-title="🇻🇳| Sự kiện trực tiếp" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_480_270.png",TV360+ 7
-
-#EXTINF:-1 group-title="🇻🇳| Sự kiện trực tiếp" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_480_270.png",TV360+ 8
-
-#EXTINF:-1 group-title="🇻🇳| Sự kiện trực tiếp" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_480_270.png",TV360+ 9
-
 
 #----------*-K+-*----------#
 
@@ -163,11 +145,11 @@ https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
 https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/3WanRsM.png",HTVC Gia Đình
+#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
 https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/W16kIQP.png",HTVC Phim
+#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
 https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/MyyovVe.png",HTVC Phụ Nữ
+#EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
@@ -1041,3 +1023,136 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220130/almosthum
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210211/ballerina_1080p_2016_france_tm_logofptplay/ee7953a20dc0a520b340dc57812250a0.smil/chunklist_b4628000.m3u8?cc
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://www1.showbizchaua.com/wp-content/uploads/2018/01/TMM-BANNER.jpg",🇺🇸| Ác Quỷ Lúc Nửa Đêm
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220401/themidnightman_2016_ca_1080p_sub_logofptplay/bee18ecfccfa2c32ca2b11ccda851be3.smil/chunklist_b4628000.m3u8?cc
+
+
+#-------------------K+-------------------#
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/QPkuBRi.png",K+ Action (DRM)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.6:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/As4bwUs.png",K+ Cine (DRM)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.5:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (DRM)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.76:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/6yiAtRg.png",K+ Sport 1 (DRM)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.73:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/EFeyqYX.png",K+ Sport 2 (DRM)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.77:30120/test/123/playlist.mpegts
+
+
+#-------------------Quốc tế-------------------#
+#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.21:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.231:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="animaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.135:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.198:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.225:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.134:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.24:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.52:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.74:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.91:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.231:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.138:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.202:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.242:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.197:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.223:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.238:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.136:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.46:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.227:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.211:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.112:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.233:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.196:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.47:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.2.215:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.236:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.200:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.139:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="arirang" group-title="Quốc Tế (SD)" tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.1.201:30120/test/123/playlist.mpegts
+
+#EXTINF:0 tvg-id="abcaustralia" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/UI80qhw.png",ABC Australia (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.91:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="animalhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/TBgGuJy.png",Animal Planet (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.27:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="animaxhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/bLjwPFU.png",Animax (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.38:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="afnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.47:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="axnhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.18:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/0t99xJZ.png",BBC CbeeBies (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.79:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="bbcearth" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/qUiM77S.png",BBC Earth (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.55:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="bbclifestyle" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/i7aYwdZ.png",BBC Lifestyle (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.66:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="bbcworldnews" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/hsByQfe.png",BBC News (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.87:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="bloomberg" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/rxFZgIK.png",Bloomberg (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.95:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="cartoonhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/6oXQdBZ.png",Cartoon Network (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.17:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="boomerang" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.63:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.86:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.90:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.51:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="discoveryasiahd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.45:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="discoveryhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery Channel (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.40:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="dreamworks" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/N69Cori.png",Dreamworks (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.39:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="dw" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Ppi36a4.png",DW (English) (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.94:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="fashionhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ALDt1JX.png",Fashion TV (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.72:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="france24eng" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24 (English) (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.29:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="hbohd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.10:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="kbsworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.93:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="nhkworld" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.92:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="outdoorhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor Channel (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.85:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="tlchd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.57:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="tv5monde" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.70:30120/test/123/playlist.mpegts
+#EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
+http://bentre5.hoangai.vn:8086/stream/dotrethap/225.1.3.26:30120/test/123/playlist.mpegts
