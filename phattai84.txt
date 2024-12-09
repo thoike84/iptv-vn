@@ -1,3 +1,4 @@
+
 #EXTM3U url-tvg="phattai_phattai2003@yahoo.com" tvg-shift=0 m3uautoload=1
 
 
@@ -395,8 +396,6 @@ https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/index.m3u8?|Referer=http://sc
 https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/D8zXF7p.png",TV5 Monde Asie
 https://e4.endpoint.cdn.sctvonline.vn/hls/tv5/index.m3u8?|Referer=http://sctvonline.vn/
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
-https://e8.endpoint.cdn.sctvonline.vn/hls/arirang/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24
 https://e8.endpoint.cdn.sctvonline.vn/hls/france24_eng/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA
@@ -419,8 +418,18 @@ http://125hvt.ddns.net:21585/cnn/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/KZqwTe4.png",TLC
 http://125hvt.ddns.net:21585/tlc/index.m3u8
 
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/DZNTBjC.png",Arirang
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=111
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=215
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://teohdtv.github.io/thumbs/INT/CNBC.png",CNBC Asia
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=9855
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=214
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://imgur.com/XjokfTR.png",History
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=9856
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor
+http://hoatv001.ddns.net:8002/ott/tv360.php?id=216
 
 #----------*-Thể thao-*----------#
 
@@ -876,4 +885,3 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220130/almosthum
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210211/ballerina_1080p_2016_france_tm_logofptplay/ee7953a20dc0a520b340dc57812250a0.smil/chunklist_b4628000.m3u8?cc
 #EXTINF:0 group-title="📹 Film" tvg-logo="https://www1.showbizchaua.com/wp-content/uploads/2018/01/TMM-BANNER.jpg",🇺🇸| Ác Quỷ Lúc Nửa Đêm
 https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20220401/themidnightman_2016_ca_1080p_sub_logofptplay/bee18ecfccfa2c32ca2b11ccda851be3.smil/chunklist_b4628000.m3u8?cc
-
