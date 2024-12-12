@@ -425,8 +425,11 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=216
 
 #----------*-Thể thao-*----------#
 
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2021/01/sportstv.png",Sports TV 
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/O9BapV9.png",FS 1 SPORT 🇺🇸
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/tGTVcVe.jpg",,Sports TV 
+#http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+https://live.sportstv.com.tr/hls/low/sportstv.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",BeIN Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/Q3RKGkX.png",BeIN Sports 2
@@ -439,6 +442,8 @@ https://amg01334-beinsportsllc-beinxtraesp-localnow-aekzc.amagi.tv/playlist.m3u8
 https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-east-1.amazonaws.com/v1/channel/XFC_TV/index-xfctv.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/XO8u1V7.png",IMPACT Wrestling 
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/XO8u1V7.png",TNA Wrestling (1080p)
+https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",Fight Network
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knocks Fighting
@@ -455,36 +460,39 @@ https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 https://tracetv-tracesportstar-lgau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2023/02/sportstak.png",SportStak
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-sportstak-sportstribal/playlist.m3u8
-
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",Star Sports 1 HD
-http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",MU TV
-https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",Bein Sports 🇬🇧
-http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",Fast Sports 🇦🇲
-http://stream01.vnet.am/Channel_131/mono.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",BEIN SPORT EXTRA Ñ 🇪🇸
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",BEIN SPORT EXTRA Ñ 🇪🇸
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",ESPN VIVO 🇦🇷
-http://hzcdn.vood.top:80/hls/309458_.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",CBS SPORT 🇺🇸
-https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",FS 1 SPORT 🇺🇸
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",SPOTV 🇲🇾
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/mRsnztA.png" ,FightBox
+http://stream01.vnet.am/Fightbox/mono.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/ESV6qgH.png",FITE 24/7 (1080p)
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/HaoVsm5.png",SPOTV 🇲🇾
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",SPOTV 2 🇲🇾
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/YD8fbTH.png",SPOTV 2 🇲🇾
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="",Star Sports 1 HD
+http://41.205.93.154/STARSPORTS1/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="",MU TV
+https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="",Bein Sports 🇬🇧
+http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="",Fast Sports 🇦🇲
+http://stream01.vnet.am/Channel_131/mono.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="",BEIN SPORT EXTRA Ñ 🇪🇸
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="",BEIN SPORT EXTRA Ñ 🇪🇸
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="",ESPN VIVO 🇦🇷
+http://hzcdn.vood.top:80/hls/309458_.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="",CBS SPORT 🇺🇸
+https://fl2.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",TENNIS
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist1080_p.m3u8
 
-#EXTM3U
 
+
+#EXTM3U
 
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/uJb4VOc.png",BEK TV Sports West (720p)
 https://cdn3.wowza.com/5/ZWQ1K2NYTmpFbGsr/BEK-WOWZA-1/smil:BEKPRIMEW.smil/playlist.m3u8
@@ -510,14 +518,6 @@ http://88.212.15.27/live/test_ctsport_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="FastFunBox.nl" tvg-logo="https://i.imgur.com/XLBfoed.png",Fast&Fun Box (480p) [Not 24/7]
 http://ott-cdn.ucom.am/s79/index.m3u8
 
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/mRsnztA.png" ,FightBox
-http://stream01.vnet.am/Fightbox/mono.m3u8
-
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/ESV6qgH.png",FITE 24/7 (1080p)
-https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
-
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/O9BapV9.png",Fox Sports 1
-http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
 
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/Lj69WbR.png",Game+ (720p)
 https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
@@ -618,17 +618,8 @@ https://sp1564435593.mytvchain.info/live/sp1564435593/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/0sNWg54.png",Sports Connect (720p)
 https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/tGTVcVe.jpg",Sports TV (720p) [Geo-blocked]
-https://live.sportstv.com.tr/hls/low/sportstv.m3u8
-
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/ulGKX30.png",SportsGrid (1080p)
 https://sportsgrid-tribal.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/YD8fbTH.png",SPOTV 2 (Indonesia)
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
-
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/HaoVsm5.png",SPOTV (Indonesia)
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/dM7GQXG.png",SSC 1 (720p)
 https://af.ayassport.ir/hls2/ssc1.m3u8
@@ -641,9 +632,6 @@ https://acceso.radiosportstv.online:3795/stream/play.m3u8
 
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/512px-Tigo_Sports_logo.svg.png",Tigo Sports (Guatemala)
 https://cnm-tsl.otteravision.com/cnm/tsl/tsl.m3u8
-
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/XO8u1V7.png",TNA Wrestling (1080p)
-https://d3mwqwqfak7y2q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ImpactWrestling-prod/hls/main.m3u8
 
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/ELXmaqg.png",TR Sport (480p)
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
