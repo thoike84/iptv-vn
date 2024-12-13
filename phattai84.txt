@@ -430,7 +430,7 @@ https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/j5W7n5Lq/images.jpg",Xplore TV
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/DzZsrvqk/love-nature.png",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist1080p.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist1080p_1.m3u8
 
 #----------*-Thể thao-*----------#
 
