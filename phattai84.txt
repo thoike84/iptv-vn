@@ -423,70 +423,14 @@ http://hoatv001.ddns.net:8002/ott/tv360.php?id=9856
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor
 http://hoatv001.ddns.net:8002/ott/tv360.php?id=216
 
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/WzWWfb69/Bounce-XL.jpg",Bounce XL
-https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Bounce-XL.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/vBw4YKM5/unnamed.jpg",Bloody Disgusting
-https://bloodydisgusting-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/kXnycQvR/logo-f6cdd43d04f802ee0e61.png",Discover Pakistan TV
-https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/rsDHB9yB/Discovery-Channel-Logo.jpg",Discovery
-http://38.96.178.201/live/Discovery/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/RZmWZprL/image_83.jpg",Food Food
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/1tHMpZdR/Gusto-TV.png",Gusto TV
-https://amg01077-gusto-gustous-distro.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/sxQ76NY8/haunt-tv-logo.png",Haunt TV
-https://bamca-haunttv-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/zfcbR2zb/Heritage.jpg",Heritage+ [SamsungTVPlus]
-https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg02132-sofast-heritage-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/rwYpZyk7/Historytv.jpg",History TV
-http://38.96.178.201/live/History/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/sfHtM6Th/Hunt-Stream.png",HuntStream
-https://huntstream-viewlift.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/ydxCGwf7/Insight-TV.png",Insight TV
-https://insighttv-samsung-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/PJ666czf/Jewellery-Maker-new-logo.jpg",Jewellery Maker
-https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/XvMydNyd/image_34.png",Law and Crime Trial Network
-https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/X7r5cq4v/Mob-TV.png",Mob TV
-https://mobtv-lg-eu.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/G27NvJsM/Real-Crime-TV.jpg",Real Crime
-https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/rsGfQ1dX/image.jpg",Real Stories
-https://lds-realstories-plex.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/hG6hqDrH/image.jpg",Sewing Street
-https://lo2-1.gemporia.com/abrsewingstreetukgfx/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/1zqCsCDg/dac0f37721f1ee652942a29b1c22cd8fec596cd45cd5747c533b27e916bcd25c.png",So… Real
-https://soreal-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/pXMbTZMP/Tastemade.png",Tastemade Australia
-https://tastemade-aus-tmina-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/xj4SLzJ4/110b229663a135a0abf87413c41f22f1f12c8cef7c1fc752e4fb572d71476693.png",The Bob Ross Channel
-https://cinedigm-bobross-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/Dfs5QxgD/The-Jamie-Oliver-Channel.png",The Jamie Oliver Channel
-https://jamieoliver-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/8PVjfqLn/image.jpg",Timeline
-https://timeline-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/0yjXWsXr/KLBorkM.png",Travel XP HD
-https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/0yjXWsXr/KLBorkM.png",Travel XP HD
-https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/gknDKJrT/outside-tv-logo-vector.png",Outside TV
-https://outsidetv-oando.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/yYrqgVTB/image.jpg",Pet Club TV
-https://petclub-samsungaus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/j5BPQzs5/image.jpg",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/pXvC7QWZ/1200px-2018-Travel-Channel-logo-svg.png",Trvl Channel
-https://dplus.gammacdn.workers.dev/videos/110.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/N0CxLJbN/Wild-Earth.png",Wild Earth
 https://wildearth-adsfree-ono.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/K4SyQW7q/image_86.jpg",Wonder
-https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/j5W7n5Lq/images.jpg",Xplore TV
 http://xlpore-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.postimg.cc/DzZsrvqk/love-nature.png",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist720p.m3u8
+https://d18dyiwu97wm6q.cloudfront.net/playlist1080p.m3u8
 
 #----------*-Thể thao-*----------#
 
