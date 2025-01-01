@@ -468,8 +468,6 @@ https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/OxbIla4.png",RightNow TV 
 https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/mRsnztA.png" ,FightBox
-http://stream01.vnet.am/Fightbox/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/ESV6qgH.png",FITE 24/7
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://imgur.com/kwS76Ag.png",Redbull TV
@@ -480,12 +478,6 @@ https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/SsewrHz.png",TENNIS
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="",Fast Sports 🇦🇲
-http://stream01.vnet.am/Channel_131/mono.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/dCXl0rq.png",CampusLore
-https://linear-235.frequency.stream/dist/glewedtv/235/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/A144MfR.png",Champion TV
-https://canal.mediaserver.com.co/live/ChampionTv.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/ZeUgLCa.png",ColimdoT TV
 https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/Lj69WbR.png",Game+
@@ -496,8 +488,6 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
 https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/47X44DD.png",MadeinBO TV 
 https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/SLrjImc.png",More Than Sports TV 
-https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/2ByDyzL.png",Nautical Channel
 https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/7JhaEW5.png",One Golf 
