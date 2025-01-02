@@ -6,8 +6,10 @@
 
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE 
 http://125hvt.ddns.net:21585/kcine/index.m3u8
+#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE 
+https://e4.endpoint.cdn.sctvonline.vn/hls/KPlusCine/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ ACTION 
-
+https://e4.endpoint.cdn.sctvonline.vn/hls/KPlusAction/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png", K+ SPORT1 
 
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
@@ -178,7 +180,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/index.m3u8?|Referer=http://sctv
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
-
+https://e9.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
