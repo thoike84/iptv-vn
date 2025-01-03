@@ -462,6 +462,10 @@ https://rr2---sn-npoe23nsr.creativehub.sbs/ESPN_2_Live_TV/index.m3u8
 https://rr2---sn-npoe23nsr.creativehub.sbs/Fox_Sports_1_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="http://epg.ophion.feralhosting.com/logos/USA/FoxSports2.us.png",FS 2
 
+#EXTINF:-1 group-title="⚽| Thể thao",Setanta Sports 1
+http://82.215.111.227/1263/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao",Setanta Sports 2
+http://82.215.111.227/1264/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg",Bein Sports HD
 https://rr2---sn-npoe23nsr.creativehub.sbs/Bein_Sports_USA_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein Sports 2
@@ -508,30 +512,10 @@ https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/SsewrHz.png",TENNIS
 https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/ZeUgLCa.png",ColimdoT TV
-https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/Lj69WbR.png",Game+
-https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/9lctpnP.png",HorseTV 
-https://a-cdn.klowdtv.com/live2/horsetv_720p/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/l4atkvs.png",K19
-https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/47X44DD.png",MadeinBO TV 
-https://srvx1.selftv.video/dmchannel/live/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/2ByDyzL.png",Nautical Channel
-https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/7JhaEW5.png",One Golf 
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/736QREy.png",Pac 12 Insider 
 https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/VTrKSxt.png",Poker Night in America
-https://d2njbreu8qyfxo.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-PokerNightInAmerica/216.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/tArvcvj.png",Poker TV 
 https://hls.pokertvfa.live/hls/stream.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/Q55HX1O.png",Racing.com 
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.postimg.cc/CMrRr0x6/h-c.jpg",Horse & Country TV
-https://hncfree-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.postimg.cc/nzV9PY9v/Origin-Sports.jpg",Origin Sports
-https://raycoms-originsports.amagi.tv/playlist.m3u8
 
