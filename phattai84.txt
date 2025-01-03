@@ -436,16 +436,6 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://rr2---sn-npoe23nsr.creativehub.sbs/CBS_Sports_Network_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao",Premier Sports 1
 https://rr2---sn-npoe23nsr.creativehub.sbs/Premier_Sports_1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao",Premier Sports 2
-https://rr2---sn-npoe23nsr.creativehub.sbs/Premier_Sports_2/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-premier-league-za.png",SuperSport Premier League
-https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Premier_League_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-football-za.png",SuperSport Football
-https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Football_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-la-liga-za.png",SuperSport Laliga 
-https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="tvg-logo="http://epg.ophion.feralhosting.com/logos/South_Africa/SuperSportCricket.za.png",Super Sports Cricket 
-https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao",Sky_Sports_Plus  
 https://rr2---sn-npoe23nsr.creativehub.sbs/DAZN_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png?raw=true",Sky Sports Main Event
@@ -471,7 +461,7 @@ https://rr2---sn-npoe23nsr.creativehub.sbs/ESPN_2_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="http://epg.ophion.feralhosting.com/logos/USA/FoxSports1.us.png",FS 1
 https://rr2---sn-npoe23nsr.creativehub.sbs/Fox_Sports_1_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="http://epg.ophion.feralhosting.com/logos/USA/FoxSports2.us.png",FS 2
-https://rr2---sn-npoe23nsr.creativehub.sbs/Fox_Sports_2_Live_TV/index.m3u8
+
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg",Bein Sports HD
 https://rr2---sn-npoe23nsr.creativehub.sbs/Bein_Sports_USA_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein Sports 2
