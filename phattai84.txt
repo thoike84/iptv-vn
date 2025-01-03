@@ -516,6 +516,6 @@ https://d3qg0hadt0dkov.cloudfront.net/amgtennisus/playlist.m3u8
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/736QREy.png",Pac 12 Insider 
 https://pac12-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/tArvcvj.png",Poker TV 
-https://hls.pokertvfa.live/hls/stream.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/VTrKSxt.png",Poker Night in America
+https://d2njbreu8qyfxo.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/STIRR-MuxIP-PokerNightInAmerica/216.m3u8
 
