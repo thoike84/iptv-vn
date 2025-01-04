@@ -432,24 +432,16 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #----------*-Thể thao-*----------#
 
-#EXTINF:-1 group-title="⚽| Thể thao",Футбол 1 HD 🇷🇺
-http://iptv-hls.idc.md:8200/hls/77/live1.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao",Setanta Sports 1 🇺🇦
+#EXTINF:-1 group-title="⚽| Thể thao",Setanta Sports 1
 https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao",EUROSPORT 1 🇪🇸
-http://185.189.225.157/EuroSport1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao",EUROSPORT 2 🇪🇸
-http://185.189.225.157/EuroSport2/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao",SPORT ITALIA 🇮🇹
-https://di-kzbhv8pw.vo.lswcdn.net/sportitalia/sihd/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao",PERSIANA SPORT 🇮🇷
-https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao",PERSIANA SPORT 🇮🇷
-https://stream.sainaertebat.com/hls2/persianas.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao",NETO SPORTS 🇶🇦
+#EXTINF:-1 group-title="⚽| Thể thao",NETO SPORTS
 https://netohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao",SKY SPORT CALCIO 🇮🇹
+#EXTINF:-1 group-title="⚽| Thể thao",SKY SPORT CALCIO
 http://103.205.18.143:23000/live/Fratellogianna/Yh45tN2qd2/39.ts
+#EXTINF:-1 group-title="⚽| Thể thao",EUROSPORT 1
+http://185.189.225.157/EuroSport1/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao",EUROSPORT 2
+http://185.189.225.157/EuroSport2/index.m3u8
 
 #EXTINF:-1 group-title="⚽| Thể thao",CBS Sports Network
 https://rr2---sn-npoe23nsr.creativehub.sbs/CBS_Sports_Network_Live_TV/index.m3u8
@@ -488,7 +480,7 @@ http://82.215.111.227/1264/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg",Bein Sports HD
 https://rr2---sn-npoe23nsr.creativehub.sbs/Bein_Sports_USA_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein Sports 2
-https://rr2---sn-npoe23nsr.creativehub.sbs/Bein_Sports_English_2_Live_TV/index.m3u8
+
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",BeIN Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/Q3RKGkX.png",BeIN Sports 2
