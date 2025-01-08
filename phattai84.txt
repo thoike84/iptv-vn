@@ -429,9 +429,9 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://netohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao",CBS Sports Network
 https://rr2---sn-npoe23nsr.creativehub.sbs/CBS_Sports_Network_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.postimg.cc/BZDsY3pr/Premier_Sports_1.png",Premier Sports 1
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.postimg.cc/BZDsY3pr/Premier-Sports-1.png",Premier Sports 1
 https://rr2---sn-npoe23nsr.creativehub.sbs/Premier_Sports_1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.postimg.cc/vHsyCKSc/Premier_Sports_2.png",Premier Sports 2
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.postimg.cc/vHsyCKSc/Premier-Sports-2.png",Premier Sports 2
 https://rr2---sn-npoe23nsr.creativehub.sbs/Premier_Sports_2/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao",Sky_Sports_Plus  
 https://rr2---sn-npoe23nsr.creativehub.sbs/DAZN_Live_TV/index.m3u8
@@ -443,13 +443,13 @@ https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Football_BU/index.m3u8
 https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-hz-uk.png?raw=true",Sky Sports Cricket
 https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png",TNT Sports 1
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png",TNT Sports 2
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_2/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png",TNT Sports 3
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_3/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png",TNT Sports 4
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_4/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.multicominc.com/wp-content/uploads/espn.jpg", ESPN 1
 https://rr2---sn-npoe23nsr.creativehub.sbs/ESPN_Live_TV/index.m3u8
@@ -491,9 +491,9 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knocks Fighting
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/e91bb2e1-a137-4a5f-9dfb-3f334b1fa0eb.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://a.jsrdn.com/hls/22964/boxing-tv/logo_20220301_212732_68.png",BOXING TV
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2024/04/boxing-tv-logo-white.png",BOXING TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://github.com/inspirationlinks/m3u/raw/live/Logos/SwerveCombat.webp",Swerve Combat
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://swerve.tv/wp-content/uploads/2023/03/Swerve-Combat-Logo_Swerve-Combat_Primary_970x260-1536x412.png",Swerve Combat
 https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png",Unifi (UFC live) 
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
