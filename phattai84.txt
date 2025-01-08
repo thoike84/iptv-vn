@@ -425,15 +425,15 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #----------*-Thể thao-*----------#
 
-#EXTINF:-1 group-title="⚽| Thể thao",NETO SPORTS
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.nerosports.co.uk/wp-content/uploads/2020/06/Nero-Sport-Logo-260x91.png",NETO SPORTS
 https://netohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao",CBS Sports Network
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png?20160210014203",CBS Sports Network
 https://rr2---sn-npoe23nsr.creativehub.sbs/CBS_Sports_Network_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.postimg.cc/BZDsY3pr/Premier-Sports-1.png",Premier Sports 1
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo_TV_Premier_Sport_1.png?20220313174448",Premier Sports 1
 https://rr2---sn-npoe23nsr.creativehub.sbs/Premier_Sports_1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.postimg.cc/vHsyCKSc/Premier-Sports-2.png",Premier Sports 2
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_TV_Premier_Sport_2.png?20220313174530",Premier Sports 2
 https://rr2---sn-npoe23nsr.creativehub.sbs/Premier_Sports_2/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao",Sky_Sports_Plus  
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sky_Sports_UK_logo_2020.png/800px-Sky_Sports_UK_logo_2020.png",Sky_Sports_Plus  
 https://rr2---sn-npoe23nsr.creativehub.sbs/DAZN_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png?raw=true",Sky Sports Main Event
 https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Main_Event/index.m3u8
@@ -459,11 +459,11 @@ https://rr2---sn-npoe23nsr.creativehub.sbs/ESPN_2_Live_TV/index.m3u8
 https://rr2---sn-npoe23nsr.creativehub.sbs/Fox_Sports_1_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="http://epg.ophion.feralhosting.com/logos/USA/FoxSports2.us.png",FS 2
 https://rr2---sn-npoe23nsr.creativehub.sbs/Fox_Sports_2_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao",Setanta Sports
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",Setanta Sports
 https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao",Setanta Sports 1
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",Setanta Sports 1
 http://82.215.111.227/1263/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao",Setanta Sports 2
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",Setanta Sports 2
 http://82.215.111.227/1264/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/HaoVsm5.png",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
