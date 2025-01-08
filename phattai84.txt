@@ -443,13 +443,13 @@ https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Football_BU/index.m3u8
 https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-hz-uk.png?raw=true",Sky Sports Cricket
 https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-1-uk.png",TNT Sports 1
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-2-uk.png",TNT Sports 2
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_2/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-3-uk.png",TNT Sports 3
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_3/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-4-uk.png",TNT Sports 4
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_4/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.multicominc.com/wp-content/uploads/espn.jpg", ESPN 1
 https://rr2---sn-npoe23nsr.creativehub.sbs/ESPN_Live_TV/index.m3u8
