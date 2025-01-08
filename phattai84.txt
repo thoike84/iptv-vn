@@ -7,9 +7,9 @@
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE 
 http://125hvt.ddns.net:21585/kcine/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE 
-http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusCine/01.m3u8?|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/QPkuBRi.png", K+ ACTION 
-http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusAction/01.m3u8?|Referer=http://sctvonline.vn/
+
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/6yiAtRg.png", K+ SPORT1 
 
 #EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/EFeyqYX.png", K+ SPORT2
@@ -423,12 +423,12 @@ https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://imgur.com/XjokfTR.png",History
 
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://w7.pngwing.com/pngs/390/91/png-transparent-love-nature-illustration-love-nature-4k-resolution-television-blue-ant-media-18-miscellaneous-text-trademark.png",Love Nature
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Love-Nature-TV.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #----------*-Thể thao-*----------#
 
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.aparatchi.com/images/TV/netotv.png",NETO SPORTS
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.parsatv.com/index_files/channels/netochannel.png",NETO SPORTS
 https://netohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png?20160210014203",CBS Sports Network
 https://rr2---sn-npoe23nsr.creativehub.sbs/CBS_Sports_Network_Live_TV/index.m3u8
