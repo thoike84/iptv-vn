@@ -1,56 +1,31 @@
-#EXTM3U
-
-<============================ BEESPORTS========================>
-
-
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1
-https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1/index.m3u8?googlekey=48dc0ad028117f5c52f162481b0056509cd6e84aa12a1d01e070ac4d2ca10c00&keyhash=48dc0ad028117f5c52f162481b0056509cd6e84aa12a1d01e070ac4d2ca10c00
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2
-https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_2/index.m3u8?googlekey=ccccd92ef229da2226ea15e6bf6f7e8e397e4c1fce4c465875afd3c95b944c7d&keyhash=ccccd92ef229da2226ea15e6bf6f7e8e397e4c1fce4c465875afd3c95b944c7d
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/l/o/5/5712.1690027954.png",TNT Sports 3
-https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_3/index.m3u8?googlekey=bc66202a1a3e93cc0c369c3e73a347e267846053014a9c89f49d55c6377cf404&keyhash=bc66202a1a3e93cc0c369c3e73a347e267846053014a9c89f49d55c6377cf404
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4
-https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_4/index.m3u8?googlekey=2248b6c38b6cce0d0e229701f76561652fcbadd827214c6163baf9d2e5613755&keyhash=2248b6c38b6cce0d0e229701f76561652fcbadd827214c6163baf9d2e5613755
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://shorturl.at/fixL1",Sky Sports Main Event
-https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Main_Event/index.m3u8?googlekey=edaf40928cba1a951814d86b48c84d4eb87326ac11d77e62cbf38667720e67a8&keyhash=edaf40928cba1a951814d86b48c84d4eb87326ac11d77e62cbf38667720e67a8
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://shorturl.at/ivGI9",Sky Sports Football
-https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Football_BU/index.m3u8?googlekey=0750a8f883b340614e67449f2ff5122ff4aa0203106f7ffc61eda8383e7fa0df&keyhash=0750a8f883b340614e67449f2ff5122ff4aa0203106f7ffc61eda8383e7fa0df
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://shorturl.at/ivGI9",Sky Sports Premier League
-https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8?googlekey=f666ea8ced389363744021964f2ed298f4c5cfd4321d4213eaaab495278294f5&keyhash=f666ea8ced389363744021964f2ed298f4c5cfd4321d4213eaaab495278294f5 
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://shorturl.at/ivGI9",Super Sports Premier League
-https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Premier_League_Live_TV/index.m3u8?googlekey=62de9e20384fbd3f8cbc8508b0f9db8567919c4b356de872a9ca0bd16b03a717&keyhash=62de9e20384fbd3f8cbc8508b0f9db8567919c4b356de872a9ca0bd16b03a717
-#EXTINF:-1 tvg-logo="https://www.kemifilani.ng/wp-content/uploads/2020/12/Premier-League-EPL-2033.jpg" group-title="BEE Sports", EPL 1
-
-#EXTINF:-1 tvg-logo="https://www.kemifilani.ng/wp-content/uploads/2020/12/Premier-League-EPL-2033.jpg" group-title="BEE Sports", EPL 2
-https://rr2---sn-npoe23nsr.creativehub.sbs/EPL_02/index.m3u8?googlekey=426a705f8393ccc221cfe96bb5499ca8d0530f3de2a024d20cd42587e6a6fcd6&keyhash=426a705f8393ccc221cfe96bb5499ca8d0530f3de2a024d20cd42587e6a6fcd6
-#EXTINF:-1 tvg-logo="https://www.kemifilani.ng/wp-content/uploads/2020/12/Premier-League-EPL-2033.jpg" group-title="BEE Sports", EPL 3
-https://rr2---sn-npoe23nsr.creativehub.sbs/Optus_3/index.m3u8?googlekey=0cbd98e1e429de4a46d41979eaffdf7046371842acb3206f0a8e70d822f23d8c&keyhash=0cbd98e1e429de4a46d41979eaffdf7046371842acb3206f0a8e70d822f23d8c
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://media.info/i/lf/300/1507600280/1134.png",Sky Sports Cricket
-https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8?googlekey=e6bd6a055fc14cace56d5f3babc38294481b2cfc0bea2d069ea8d3704e9f2cd6&keyhash=e6bd6a055fc14cace56d5f3babc38294481b2cfc0bea2d069ea8d3704e9f2cd6
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://shorturl.at/muxQ3",Super Sports Cricket 
-https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8?googlekey=b77b29b1d4e6094b971ff7c97c26f93c6296c4b3cd2a63168de81b8b0b2a2526&keyhash=b77b29b1d4e6094b971ff7c97c26f93c6296c4b3cd2a63168de81b8b0b2a2526
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein Sports HD
-https://rr2---sn-npoe23nsr.creativehub.sbs/Bein_Sports_USA_Live_TV/index.m3u8?googlekey=dfa31f2c3855b07bb9b93a85f2303599d456c46a26ed3ed351c17ada2c5f714f&keyhash=dfa31f2c3855b07bb9b93a85f2303599d456c46a26ed3ed351c17ada2c5f714f
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein Sports 
-
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png",Bein Sports 2
-https://rr2---sn-npoe23nsr.creativehub.sbs/Bein_Sports_English_2_Live_TV/index.m3u8?googlekey=a601b0eff400c5e05b73dc8ef7036d3981004b732708e32f85d061d7b0d4ae33&keyhash=a601b0eff400c5e05b73dc8ef7036d3981004b732708e32f85d061d7b0d4ae33
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/faa723dac3eece2c865473edd83d65c9.png",LaLiga TV  
-https://rr2---sn-npoe23nsr.creativehub.sbs/DAZN_Live_TV/index.m3u8?googlekey=d3633acbc7be9273b5933801b6f3b6e0b5008eafc7a421754d5a686ea0cbf2bf&keyhash=d3633acbc7be9273b5933801b6f3b6e0b5008eafc7a421754d5a686ea0cbf2bf
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/faa723dac3eece2c865473edd83d65c9.png",Super Sports Laliga 
-https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8?googlekey=a99211ebc111bcade4106b58abfea5c5c5d5ec5dc434bb99bca00c7628a93911&keyhash=a99211ebc111bcade4106b58abfea5c5c5d5ec5dc434bb99bca00c7628a93911
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBh7B8Yh26JiqbPty0wOGDH2l9HNHFE3QQUA&usqp=CAU",Premier Sports 1
-https://rr2---sn-npoe23nsr.creativehub.sbs/Premier_Sports_1/index.m3u8?googlekey=75804abcc869f388713fc157b0c19541ddf3b4fc76781ee540d13e92f1bd9e49&keyhash=75804abcc869f388713fc157b0c19541ddf3b4fc76781ee540d13e92f1bd9e49
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f1dc481ba9bdb4f1d02734d80a5c8f99.png", CBS Sports Network
-https://rr2---sn-npoe23nsr.creativehub.sbs/CBS_Sports_Network_Live_TV/index.m3u8?googlekey=0608b69344928777d95d7d951173f00f1f52d99bbd241cf204d5fa4a09ba52ec&keyhash=0608b69344928777d95d7d951173f00f1f52d99bbd241cf204d5fa4a09ba52ec
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://www.multicominc.com/wp-content/uploads/espn.jpg", ESPN 1
-https://rr2---sn-npoe23nsr.creativehub.sbs/ESPN_Live_TV/index.m3u8?googlekey=80000bf6bb228461660293bdc3e62405c0d2d2f34b392eb0d5e7c084141d5ffb&keyhash=80000bf6bb228461660293bdc3e62405c0d2d2f34b392eb0d5e7c084141d5ffb
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://www.multicominc.com/wp-content/uploads/espn.jpg", ESPN 2
-https://rr2---sn-npoe23nsr.creativehub.sbs/ESPN_2_Live_TV/index.m3u8?googlekey=475dde60c11e7d819ba104826f5628817cadd06ab4c98294008aec847dd2a132&keyhash=475dde60c11e7d819ba104826f5628817cadd06ab4c98294008aec847dd2a132
-
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FS1-1040x585.jpg", FS 1
-https://rr2---sn-npoe23nsr.creativehub.sbs/Fox_Sports_1_Live_TV/index.m3u8?googlekey=a7665274045eb410a68c6382878c1f84119e7976e90e5c9f66ee1f8306382fef&keyhash=a7665274045eb410a68c6382878c1f84119e7976e90e5c9f66ee1f8306382fef
-#EXTINF:-1 group-title="BEE Sports" tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-2FE1B4E44B-seeklogo.com.png", FS 2
-https://rr2---sn-npoe23nsr.creativehub.sbs/Fox_Sports_2_Live_TV/index.m3u8?googlekey=582225cbeb7f7923352ecdaf02174f8d6cd1544c53726b5f837fa4fccb43ee59&keyhash=582225cbeb7f7923352ecdaf02174f8d6cd1544c53726b5f837fa4fccb43ee59
-
-
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml"
+#EXTINF:0 tvg-id="vtv1hd" group-title="Regular" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 (HD 8Mbps)
+http://125hvt.ddns.net:21585/vtv1/index.m3u8
+#EXTINF:0 tvg-id="vtv2hd" group-title="Regular" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2 (HD 8Mbps)
+http://125hvt.ddns.net:21585/vtv2/index.m3u8
+#EXTINF:0 tvg-id="vtv3hd" group-title="Regular" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3 (HD 8Mbps)
+http://125hvt.ddns.net:21585/vtv3/index.m3u8
+#EXTINF:0 tvg-id="vtv4hd" group-title="Regular" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 (HD 8Mbps)
+http://125hvt.ddns.net:21585/vtv4/index.m3u8
+#EXTINF:0 tvg-id="vtv5hd" group-title="Regular" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5 (HD 8Mbps)
+http://125hvt.ddns.net:21585/vtv5/index.m3u8
+#EXTINF:0 tvg-id="vtv6hd" group-title="Regular" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ (HD 8Mbps)
+http://125hvt.ddns.net:21585/vtv6/index.m3u8
+#EXTINF:0 tvg-id="vtv7hd" group-title="Regular" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7 (HD 8Mbps)
+http://125hvt.ddns.net:21585/vtv7/index.m3u8
+#EXTINF:0 tvg-id="vtv8hd" group-title="Regular" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8 (HD 8Mbps)
+http://125hvt.ddns.net:21585/vtv8/index.m3u8
+#EXTINF:0 tvg-id="vtv9hd" group-title="Regular" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9 (HD 8Mbps)
+http://125hvt.ddns.net:21585/vtv9/index.m3u8
+#EXTINF:0 tvg-id="vinhlong1hd" group-title="Regular" tvg-logo="https://i.imgur.com/gvPtTR2.png",THVL1 HD _ TH Vĩnh Long (HD 8Mbps)
+http://125hvt.ddns.net:21585/thvl1/index.m3u8
+#EXTINF:0 tvg-id="vinhlong2hd" group-title="Regular" tvg-logo="https://i.imgur.com/wYadDFn.png",THVL2 HD _ TH Vĩnh Long (HD 8Mbps)
+http://125hvt.ddns.net:21585/thvl2/index.m3u8
+#EXTINF:0 tvg-id="vinhlong3hd" group-title="Regular" tvg-logo="https://i.imgur.com/B8S0dyG.png",THVL3 HD _ TH Vĩnh Long (HD 8Mbps)
+http://125hvt.ddns.net:21585/thvl3/index.m3u8
+#EXTINF:0 tvg-id="vinhlong4hd" group-title="Regular" tvg-logo="https://i.imgur.com/xYalJzh.png",THVL4 HD _ TH Vĩnh Long (HD 8Mbps)
+http://125hvt.ddns.net:21585/thvl4/index.m3u8
+#EXTINF:0 tvg-id="htv7hd" group-title="Regular" tvg-logo="https://i.imgur.com/RSlvzAs.png",HTV7 HD (HD 8Mbps)
+http://125hvt.ddns.net:21585/htv7/index.m3u8
+#EXTINF:0 tvg-id="htv9hd" group-title="Regular" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9 HD (HD 8Mbps)
+http://125hvt.ddns.net:21585/htv9/index.m3u8
