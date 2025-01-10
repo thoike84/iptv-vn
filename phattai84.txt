@@ -432,13 +432,15 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.parsatv.com/index_files/channels/netochannel.png",NETO SPORTS
 https://netohls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://bioact.ir/wp-content/uploads/2024/11/Persiana-Sport-Logo-in-bioact.r.png",PERSIANA SPORT
+https://spstr.abntv.live/hls/psstream.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png?20160210014203",CBS Sports Network
 https://rr2---sn-npoe23nsr.creativehub.sbs/CBS_Sports_Network_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/Boxa3qc.png",Supersport Premier League 
 https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Premier_League_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png",Super Sports Laliga 
 https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png",Super Sports Cricket 
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/srtijz1643382350.png",Super Sports Cricket 
 https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo_TV_Premier_Sport_1.png?20220313174448",Premier Sports 1
 https://rr2---sn-npoe23nsr.creativehub.sbs/Premier_Sports_1/index.m3u8
@@ -462,6 +464,12 @@ https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_2/index.m3u8
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_3/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_4/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?20210816020428",ESPN
+http://hzcdn.vood.top:80/hls/309458_.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?20210816020428",ESPN1 LIVE
+https://marcosdos@fs.anonup.net/espn/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?20210816020428",ESPN2 LIVE
+https://marcosdos@fs.anonup.net/espn2/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.multicominc.com/wp-content/uploads/espn.jpg", ESPN 1
 https://rr2---sn-npoe23nsr.creativehub.sbs/ESPN_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.multicominc.com/wp-content/uploads/espn.jpg", ESPN 2
@@ -473,9 +481,9 @@ https://rr2---sn-npoe23nsr.creativehub.sbs/Fox_Sports_2_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",Setanta Sports
 https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",Setanta Sports 1
-http://82.215.111.227/1263/index.m3u8
+https://stream2.cinerama.uz/1263/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",Setanta Sports 2
-http://82.215.111.227/1264/index.m3u8
+https://stream2.cinerama.uz/1264/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/HaoVsm5.png",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/YD8fbTH.png",SPOTV 2
