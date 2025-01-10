@@ -481,9 +481,9 @@ https://rr2---sn-npoe23nsr.creativehub.sbs/Fox_Sports_2_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",Setanta Sports
 https://hls.sweet.tv/stream/qfq2fp954aui9guc8e4d5526tu8uudcnyj342af9kxq8sry8g7n44bwe5rw4k6q68mxhy99h7z5abid8gkju2pcund6c4x89hq96789999.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",Setanta Sports 1
-https://stream2.cinerama.uz/1263/index.m3u8
+http://82.215.111.227/1263/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Setanta_sports_hd.png/800px-Setanta_sports_hd.png?20180924035612",Setanta Sports 2
-https://stream2.cinerama.uz/1264/index.m3u8
+http://82.215.111.227/1264/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/HaoVsm5.png",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/YD8fbTH.png",SPOTV 2
@@ -513,7 +513,7 @@ https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2024/04/boxing-tv-logo-white.png",BOXING TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://swerve.tv/wp-content/uploads/2023/03/Swerve-Combat-Logo_Swerve-Combat_Primary_970x260-1536x412.png",Swerve Combat
-https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist_1280x720.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png",Unifi (UFC live) 
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png",Trace Sports Stars TV
@@ -530,3 +530,18 @@ https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://imgur.com/kwS76Ag.png",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTINF:-1, Setanta Sports 1 🇷🇺
+http://82.215.111.227/1263/index.m3u8
+#EXTINF:-1, Setanta Sports 2 🇷🇺
+http://82.215.111.227/1264/index.m3u8
+#EXTINF:-1,ESPN VIVO 🇦🇷
+http://82.215.111.227/1263/index.m3u8
+#EXTINF:-1, ESPN1 LIVE 🇺🇸
+http://82.215.111.227/1264/index.m3u8
+#EXTINF:-1, ESPN2 LIVE 🇺🇸
+http://82.215.111.227/1263/index.m3u8
+#EXTINF:-1, PERSIANA SPORT 🇮🇷
+http://82.215.111.227/1264/index.m3u8
+#EXTINF:-1, LAX SPORTS 🇺🇸
+http://82.215.111.227/1263/index.m3u8
