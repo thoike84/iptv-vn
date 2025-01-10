@@ -430,10 +430,10 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #----------*-Thể thao-*----------#
 
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.parsatv.com/index_files/channels/netochannel.png",NETO SPORTS
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://imgur.com/kwS76Ag.png",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.parsatv.com/index_files/channels/netochannel.png",Neto Sports
 https://netohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.aparatchi.com/images/TV/psports.png",PERSIANA SPORT
-https://stream.sainaertebat.com/hls2/persianas.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?20210816020428",ESPN1 LIVE
 https://marcosdos@fs.anonup.net/espn/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?20210816020428",ESPN2 LIVE
@@ -472,23 +472,19 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/HK_Logo_Wiki.png",Hard Knocks Fighting
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099397/e91bb2e1-a137-4a5f-9dfb-3f334b1fa0eb.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2024/04/boxing-tv-logo-white.png",BOXING TV
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2024/04/boxing-tv-logo-white.png",Boxing TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://swerve.tv/wp-content/uploads/2023/03/Swerve-Combat-Logo_Swerve-Combat_Primary_970x260-1536x412.png",Swerve Combat
 https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist_1024x576.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png",Unifi (UFC live) 
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/150px-UnifiSports2023.png",Unifi (UFC live) 
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/ESV6qgH.png",FITE 24/7
+https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png",Stadium
+https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png",Trace Sports Stars TV
 https://tracetv-tracesportstar-lgau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.sportstribal.tv/home/wp-content/uploads/2023/02/sportstak.png",SportStak
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00585-sportstribaltv-sportstak-sportstribal/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png",Stadium
-https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://iili.io/J1kV1Bn.png",ITV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/ESV6qgH.png",FITE 24/7
-https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/OxbIla4.png",RightNow TV 
-https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://imgur.com/kwS76Ag.png",Redbull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
