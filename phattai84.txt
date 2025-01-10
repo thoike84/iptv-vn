@@ -432,30 +432,20 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.parsatv.com/index_files/channels/netochannel.png",NETO SPORTS
 https://netohls.wns.live/hls/stream.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://bioact.ir/wp-content/uploads/2024/11/Persiana-Sport-Logo-in-bioact.r.png",PERSIANA SPORT
-https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png?20160210014203",CBS Sports Network
-https://rr2---sn-npoe23nsr.creativehub.sbs/CBS_Sports_Network_Live_TV/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.aparatchi.com/images/TV/psports.png",PERSIANA SPORT
+https://stream.sainaertebat.com/hls2/persianas.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?20210816020428",ESPN1 LIVE
+https://marcosdos@fs.anonup.net/espn/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?20210816020428",ESPN2 LIVE
+https://marcosdos@fs.anonup.net/espn2/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/Boxa3qc.png",Supersport Premier League 
 https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Premier_League_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png",Super Sports Laliga 
 https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/srtijz1643382350.png",Super Sports Cricket 
-https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo_TV_Premier_Sport_1.png?20220313174448",Premier Sports 1
-https://rr2---sn-npoe23nsr.creativehub.sbs/Premier_Sports_1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_TV_Premier_Sport_2.png?20220313174530",Premier Sports 2
-https://rr2---sn-npoe23nsr.creativehub.sbs/Premier_Sports_2/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Sky_Sports_UK_logo_2020.png/800px-Sky_Sports_UK_logo_2020.png",Sky_Sports_Plus  
-https://rr2---sn-npoe23nsr.creativehub.sbs/DAZN_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png?raw=true",Sky Sports Main Event
-https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Main_Event/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-football-hz-uk.png?raw=true",Sky Sports Football
 https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Football_BU/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png?raw=true",Sky Sports Premier League
 https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Premier_League/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-hz-uk.png?raw=true",Sky Sports Cricket
-https://rr2---sn-npoe23nsr.creativehub.sbs/Sky_Sports_Cricket_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://media.info/l/o/1/1539.1690027797.png",TNT Sports 1
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_1/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://media.info/l/o/1/1540.1690027877.png",TNT Sports 2
@@ -464,32 +454,12 @@ https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_2/index.m3u8
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_3/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://media.info/l/o/1/1491.1690027975.png",TNT Sports 4
 https://rr2---sn-npoe23nsr.creativehub.sbs/TNT_Sports_4/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?20210816020428",ESPN
-http://hzcdn.vood.top:80/hls/309458_.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?20210816020428",ESPN1 LIVE
-https://marcosdos@fs.anonup.net/espn/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png?20210816020428",ESPN2 LIVE
-https://marcosdos@fs.anonup.net/espn2/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.multicominc.com/wp-content/uploads/espn.jpg", ESPN 1
-https://rr2---sn-npoe23nsr.creativehub.sbs/ESPN_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.multicominc.com/wp-content/uploads/espn.jpg", ESPN 2
-https://rr2---sn-npoe23nsr.creativehub.sbs/ESPN_2_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="http://epg.ophion.feralhosting.com/logos/USA/FoxSports1.us.png",FS 1
-https://rr2---sn-npoe23nsr.creativehub.sbs/Fox_Sports_1_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="http://epg.ophion.feralhosting.com/logos/USA/FoxSports2.us.png",FS 2
-https://rr2---sn-npoe23nsr.creativehub.sbs/Fox_Sports_2_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://logowik.com/content/uploads/images/bein-sports-hd.jpg",Bein Sports HD
 https://rr2---sn-npoe23nsr.creativehub.sbs/Bein_Sports_USA_Live_TV/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/QWo0x7S.jpg",beIN Sports Haber
-https://canlitvulusal3.xyz/live/beinsportshaber/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/U8pfdBx.png",BeIN Sports 1
 http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/Q3RKGkX.png",BeIN Sports 2
 http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/HaoVsm5.png",SPOTV
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/YD8fbTH.png",SPOTV 2
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_plain_55537aef6c.png&w=375&q=100",Bein SportXtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_espanol_plain_dfc8c8970b.png&w=375&q=100",Bein SportXtra Ñ
@@ -505,7 +475,7 @@ https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://streamstak.com/boxingtv/wp-content/uploads/sites/17/2024/04/boxing-tv-logo-white.png",BOXING TV
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://swerve.tv/wp-content/uploads/2023/03/Swerve-Combat-Logo_Swerve-Combat_Primary_970x260-1536x412.png",Swerve Combat
-https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist_1920x1080.m3u8
+https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist_1024x576.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png",Unifi (UFC live) 
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png",Trace Sports Stars TV
