@@ -434,8 +434,12 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 https://netohls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/CBS_Sports_Network_Logo.png?20160210014203",CBS Sports Network
 https://rr2---sn-npoe23nsr.creativehub.sbs/CBS_Sports_Network_Live_TV/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/Boxa3qc.png",Supersport Premier League 
+https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Premier_League_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://images.supersport.com/media/ngsfbrab/laliga.png",Super Sports Laliga 
 https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_LaLiga_Live_TV/index.m3u8
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png",Super Sports Cricket 
+https://rr2---sn-npoe23nsr.creativehub.sbs/SuperSport_Cricket_Live_TV/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/Logo_TV_Premier_Sport_1.png?20220313174448",Premier Sports 1
 https://rr2---sn-npoe23nsr.creativehub.sbs/Premier_Sports_1/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_TV_Premier_Sport_2.png?20220313174530",Premier Sports 2
@@ -518,5 +522,3 @@ https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
 https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://imgur.com/kwS76Ag.png",Redbull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-
-
