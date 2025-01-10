@@ -1,7 +1,14 @@
 #EXTM3U 
 
+#EXTINF:-1, Setanta Sports 1 🇷🇺
+https://stream2.cinerama.uz/1263/index.m3u8
+#EXTINF:-1, Setanta Sports 2 🇷🇺
+https://stream2.cinerama.uz/1264/index.m3u8
+#EXTINF:-1, ESPN1 LIVE 🇺🇸
+https://marcosdos@fs.anonup.net/espn/index.m3u8
 #EXTINF:-1, ESPN2 LIVE 🇺🇸
 https://marcosdos@fs.anonup.net/espn2/index.m3u8
+
 #EXTINF:-1, ELEVEN SPORTS 1 HD 🇵🇹
 http://5.troya.info:34000/ch2098/mono.m3u8
 #EXTINF:-1, ELEVEN SPORTS 2 HD 🇵🇹
@@ -26,50 +33,34 @@ http://5.troya.info:34000/ch231/mono.m3u8
 http://5.troya.info:34000/ch232/mono.m3u8
 #EXTINF:-1, Bien sport 7 🇶🇦
 http://5.troya.info:34000/ch1062/mono.m3u8
-#EXTINF:-1, Setanta Sports 2 🇷🇺
-https://stream2.cinerama.uz/1264/index.m3u8
-#EXTINF:-1, Setanta Sports 1 🇷🇺
-https://stream2.cinerama.uz/1263/index.m3u8
 
 #EXTINF:-1, Bien sport 1 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports1.m3u8
-#EXTINF:-1, Bien sport 1 🇶🇦
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://stream.sainaertebat.com/hls2/bein1.m3u8
-#EXTINF:-1, Bien sport 1 🇶🇦
-https://ayassport.776740.ir.cdn.ir/hls2/bein1.m3u8
-#EXTINF:-1, Bien sport 2 🇶🇦
-http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
 #EXTINF:-1, Bien sport 2 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports2.m3u8
 #EXTINF:-1, Bien sport 3 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports3.m3u8
 #EXTINF:-1, Bien sport 4 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports4.m3u8
-#EXTINF:-1, Bien sport 4 🇶🇦
-http://pl.seetv.cc/play/1104/1E20008EF0CBB6F/video.m3u8
 #EXTINF:-1, Bien sport 5 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports5.m3u8
 #EXTINF:-1, Bien sport 6 🇶🇦
 https://live4.beinconnect.us/YallaGoalApp/beINSports6.m3u8
-#EXTINF:-1, Bien sport 7 🇶🇦
-http://125.209.88.166:45793/BRN/beINSP11.stream/playlist.m3u8
+
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://stream.sainaertebat.com/hls2/bein1.m3u8
+#EXTINF:-1, Bien sport 1 🇶🇦
+https://ayassport.776740.ir.cdn.ir/hls2/bein1.m3u8
+#EXTINF:-1, Bien sport 2 🇶🇦
+http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8
+#EXTINF:-1, Bien sport 4 🇶🇦
+http://pl.seetv.cc/play/1104/1E20008EF0CBB6F/video.m3u8
 #EXTINF:-1, Bein Sports 1 France 🇫🇷
 http://51.178.65.238/BeinSport/mono.m3u8
 #EXTINF:-1, Bein Sports 1 🇬🇧
 http://kstv.us/live/jgarcia31/224178522/12554.m3u8
 #EXTINF:-1, Bein Sports 🇬🇧
 http://fl2.moveonjoy.com/BEIN_SPORTS/index.m3u8
-
-#EXTINF:-1,Arena Sport 1 🇷🇸
-http://109.105.201.198/ARENASPORT1/video.m3u8
-#EXTINF:-1, ARENA SPORT 2 🇭🇷
-http://109.105.201.198/Arenasport2/video.m3u8
-#EXTINF:-1,Arena Sport 3 🇷🇸
-http://109.105.201.198/ARENASPORT3/video.m3u8
-#EXTINF:-1,Arena Sport 4 🇷🇸
-http://109.105.201.198/ARENASPORT4/video.m3u8
 
 #EXTINF:-1,ESPN VIVO 🇦🇷
 http://hzcdn.vood.top:80/hls/309458_.m3u8
