@@ -78,6 +78,10 @@ https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="CBC News Network HD.ca" tvg-logo="https://iili.io/2rMsIDP.png" group-title="CANADIAN NEWS",CBC News Network
 https://dbrb49pjoymg4.cloudfront.net/10001/99991276/hls/master.m3u8?ads.xumo_channelId=99991276
+#EXTINF:-1 tvg-id="CBC News Network HD.ca" tvg-logo="https://iili.io/2rMsIDP.png" group-title="CANADIAN NEWS",CBC News Network
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master.m3u8
+#EXTINF:-1 tvg-id="CBC News Network HD.ca" tvg-logo="https://iili.io/2rMsIDP.png" group-title="CANADIAN NEWS",CBC News Network
+https://edge02.odtv.az/o1/cbc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmK3ucB.png" group-title="CANADIAN NEWS",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 tvg-id="IciRDI.ca" tvg-logo="https://iili.io/JmK3A8P.png" group-title="CANADIAN NEWS",Ici RDI
