@@ -20,7 +20,7 @@ https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/strea
 #EXTINF:-1 tvg-id="Russia Today.de" tvg-logo="https://iili.io/JhksYZb.png" group-title="WORLD NEWS",RT
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="610.unifi" tvg-logo="https://iili.io/JhksoG4.png" group-title="WORLD NEWS",CGTN
-https://english-livebkws.cgtn.com/live/encgtn_0.m3u8
+https://english-livebkws.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 tvg-id="TRT World HD.uk" tvg-logo="https://iili.io/Jhks06Q.png" group-title="WORLD NEWS",TRT World
 https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-id="NHK World HD.uk" tvg-logo="https://iili.io/Jhks7wu.png" group-title="WORLD NEWS",NHK World Japan
