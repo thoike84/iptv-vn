@@ -1,45 +1,10 @@
 #EXTM3U url-tvg="phattai_phattai2003@yahoo.com" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 tvg-id="326.astro" tvg-logo="https://iili.io/JmKqdxe.png" group-title="MANDARIN NEWS",Phoenix InfoNews Channel
-https://ythls.armelin.one/channel/UCd9dPMYgV9-IQaZG491TaRw.m3u8
-
-#EXTINF:-1 tvg-id="514.astro" tvg-logo="https://iili.io/JhkslMx.png" group-title="WORLD NEWS",Sky News
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
-
-#EXTINF:-1 tvg-id="A NEWS HD.tr" tvg-logo="https://iili.io/Jhksnnf.png" group-title="WORLD NEWS",A News
-https://ythls.armelin.one/channel/UC-LRBEUet4xX2fRB3JitFxg.m3u8
-
-#EXTINF:-1 tvg-id="EN1" tvg-logo="https://iili.io/JmKwef9.png" group-title="AFRICAN NEWS",Africanews English
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/afrnabren_eng.m3u8
-#EXTINF:-1 tvg-id="AfricanewsEnglish.fr" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",Africanews
-https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
-#EXTINF:-1 tvg-id="AfricanewsFrench.fr" tvg-logo="https://i.imgur.com/5UxU4zc.png" group-title="News",AfricaNews Français (720p)
-https://rakuten-africanews-2-be.samsung.wurl.tv/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CN8" tvg-logo="https://iili.io/2MUDZbe.png" group-title="AFRICAN NEWS",CNBC Africa
-https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="HD2" tvg-logo="https://iili.io/dukKzas.png" group-title="AFRICAN NEWS",eNCA
-http://185.59.221.131:8081/live/enca/playlist.m3u8
-
-#EXTINF:-1 tvg-id="CNN HD (1202).us" tvg-logo="https://iili.io/JmKv9vn.png" group-title="AMERICAN NEWS",CNN USA
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-#EXTINF:-1 tvg-id="CNN HD (1202).us" tvg-logo="https://iili.io/JmKv9vn.png" group-title="AMERICAN NEWS",CNN USA
-https://live-media-aka.warnermediacdn.com/cmaf/live/2028338/cnngo/cnni-cenc/master_wv_de.m3u8
-#EXTINF:-1 tvg-id="CNN HD (1202).us" tvg-logo="https://iili.io/JmKv9vn.png" group-title="AMERICAN NEWS",CNN USA
-https://live-media-aka.warnermediacdn.com/cmaf/live/2019054/cnngo/cnn_slate-cenc/master_wv_de.m3u8
-#EXTINF:-1 tvg-id="CNN HD (1202).us" tvg-logo="https://iili.io/JmKv9vn.png" group-title="AMERICAN NEWS",CNN USA
-https://live-media-aka.warnermediacdn.com/cmaf/live/2019057/cnngo/hln-cenc/master_wv_de.m3u8
-
-#EXTINF:-1 tvg-id="One America News Network HD (1208).us" tvg-logo="https://iili.io/JmKvRCQ.png" group-title="AMERICAN NEWS",OAN
-#EXTVLCOPT:http-referrer=https://usnewson.com/watch/oann-live-stream/
-https://s17.usnlive.com/stream/oann.m3u8
-#EXTINF:-1 tvg-id="OneAmericaNewsNetwork.us" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/One_America_News_Network_logo.svg/512px-One_America_News_Network_logo.svg.png" group-title="News",OAN (1080p)
-https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OANEncore.us" tvg-logo="https://i.imgur.com/9S4ZbPL.jpg" group-title="News",OAN Encore (720p) [Geo-blocked]
-https://cdn.herringnetwork.com/80A4DFF/oane_oregon/OAN_Encore.m3u8
 
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JhksBZG.png",Al Jazeera English
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JmKwef9.png",Africanews English
+https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/dVK1ux1.png",ABC News
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/abc83881886746b0802dc3e7ca2bc792/index.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JmKvHps.png",ABC News Live
@@ -49,7 +14,7 @@ https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/Jhksfun.png",Bloomberg TV
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/2rMsIDP.png",CBC News Network
-https://dbrb49pjoymg4.cloudfront.net/10001/99991276/hls/master.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99991276/hls/master.m3u8?ads.xumo_channelId=99991276
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/d9HAnkB.png",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JhksoG4.png",CGTN
@@ -58,6 +23,8 @@ https://english-livebkws.cgtn.com/live/encgtn_1.m3u8
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JhksIF2.png",CNBC US
 http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JmKv9vn.png",CNN USA
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/Jhksu87.png",DW English
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JhksR99.png",Euronews English
@@ -78,6 +45,8 @@ https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8 
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/Jhks7wu.png",NHK World Japan
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JmKvRCQ.png",OAN
+https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JmK3ucB.png",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/Jhkscnj.png",Press TV
@@ -86,6 +55,8 @@ https://live.presstv.ir/hls/presstv.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/dukKI8G.png",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/index.m3u8
+#EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JhkslMx.png",Sky News
+https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JmKLFrG.png",Sky News Now
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JmK1KwF.png",teleSUR English
