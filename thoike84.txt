@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="phattai_phattai2003@yahoo.com" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 tvg-id="326.astro" tvg-logo="https://iili.io/JmKqdxe.png" group-title="MANDARIN NEWS",Phoenix InfoNews Channel
-https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+https://ythls.armelin.one/channel/UCd9dPMYgV9-IQaZG491TaRw.m3u8
 
 #EXTINF:-1 tvg-id="512.astro" tvg-logo="https://iili.io/Jhksqjs.png" group-title="WORLD NEWS",BBC News
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
