@@ -20,9 +20,14 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991276/hls/master.m3u8?ads.xumo_cha
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/d9HAnkB.png",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JhksoG4.png",CGTN
-https://english-livebkali.cgtn.com/live/encgtn.m3u8
+#https://english-livebkali.cgtn.com/live/encgtn.m3u8
+https://0472.org/hls/cgtn.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/Jhksx6l.png",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+#EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JmKv9vn.png",CNN International
+https://stream1.itv.uz/1259/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JmKv9vn.png",CNN Live News
+https://stream.livenewsplay.com/hls/cnnewson/news.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JmKv9vn.png",CNN
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/Jhksu87.png",DW
