@@ -551,9 +551,9 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/Jhks5ue.png",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JmKvTjj.png",NBC News Now
-https://d4whmvwm0rdvi.cloudfront.net/10007/99991247/hls/master.m3u8?ads.xumo_channelId=99991247
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1280x720_1645600/chunklist.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JmKvTjj.png",NBC News Now
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/1280x720_2745600/chunklist.m3u88
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/Jhv9BJj.png",Newsmax 1
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
 #EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/Jhv9BJj.png",Newsmax 2
