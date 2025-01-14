@@ -20,9 +20,9 @@ https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
 #----------*-VTV-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://z215ymcm4tliv.vcdn.cloud/s2/hls/vtv1/index.m3u8
+https://z215ymcm4tliv.vcdn.cloud/s4/hls/vtv1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv3/index.m3u8
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv2/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv3/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 
@@ -30,7 +30,7 @@ https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtv4/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv5/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv5/index.m3u8
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv6/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv5_tnb/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
@@ -420,7 +420,7 @@ https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/RIQE8kA.png",CNA
 https://live.fptplay53.net/fnxhd2/newsasia_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://teohdtv.github.io/thumbs/INT/CNBC.png",CNBC Asia
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/H0hAm72.png",CNBC Asia
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/Ppi36a4.png",DW
 https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
@@ -429,6 +429,8 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24
 https://live.fptplay53.net/fnxhd2/france24_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
+https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan
 https://live.fptplay53.net/fnxhd2/nhkworld_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/x4zXtYX.png",Outdoor
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist.m3u8
