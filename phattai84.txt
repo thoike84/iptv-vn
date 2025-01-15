@@ -19,30 +19,28 @@ https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
 
 #----------*-VTV-*----------#
 
-#EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 VTVGO
-https://live-on-akm.akamaized.net/manifest/vtv1/master.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
+https://live-on-akm.akamaized.net/manifest/vtv1/master.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
+https://live-on-akm.akamaized.net/manifest/vtv2/master.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
+https://live-on-akm.akamaized.net/manifest/vtv3/master.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+https://live-on-akm.akamaized.net/manifest/vtv4/master.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
+https://live-on-akm.akamaized.net/manifest/vtv5/master.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
+https://live-on-akm.akamaized.net/manifest/vtv6/master.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
+https://live-on-akm.akamaized.net/manifest/vtv7/master.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
+https://live-on-akm.akamaized.net/manifest/vtv8/master.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
+https://live-on-akm.akamaized.net/manifest/vtv9/master.m3u8
 
 #----------*-VTVCAB-*----------#
 
@@ -256,7 +254,7 @@ https://tv.gialaitv.vn/tv.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/HQ7jCa6.png",TRT HD | TH Thừa Thiên Huế
 https://live.trt.com.vn/TRT-Online/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/N2gUYoh.png",KTV HD | TH Khánh Hòa
-https://cmcdp.vtvdigital.vn/live/khanhhoatv/playlist.m3u8
+https://cmcdp1.vtvdigital.vn/live/khanhhoatv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/PKyIRIJ.png",KRT HD | TH Kon Tum
 https://cmcdp.vtvdigital.vn/live/kontumtv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/9bFk5Lj.png",NTV HD | TH Ninh Thuận
@@ -264,7 +262,7 @@ https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/DJsuiHq.png",PTP HD | TH Phú Yên
 https://cmcdp.vtvdigital.vn/live/phuyentv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/JCFsITk.png",QBTV | TH Quảng Bình
-https://cmcdp.vtvdigital.vn/live/quangbinhtv/playlist.m3u8
+https://cmcdp1.vtvdigital.vn/live/quangbinhtv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/1fNSjhT.png",QRT | TH Quảng Nam
 https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/FTyvVYO.png",PTQ | TH Quảng Ngãi
@@ -307,7 +305,7 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/yxz02UD.png",LSTV HD | TH Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ldwQU4L.png",THLC HD | TH Lào Cai
-https://cmcdp.vtvdigital.vn/live/laocaitv/playlist.m3u8
+https://cmcdp1.vtvdigital.vn/live/laocaitv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/juBOaJJ.png",NTV | TH Nam Định
 https://9b55fb4a43bb849.cmccloud.com.vn/NamdinhTV/namdinhtv1.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/FLvFSLS.png",NTV HD | TH Nghệ An
@@ -329,11 +327,11 @@ https://streaming.thainguyentv.vn/hls/livestream.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/UwTCbZ5.png",TTV HD | TH Thanh Hóa
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/qPZeGPa.png",TTV HD | TH Tuyên Quang
-https://cmcdp.vtvdigital.vn/live/tuyenquangtv/playlist.m3u8
+https://cmcdp1.vtvdigital.vn/live/tuyenquangtv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/CXUvMX2.png",VP HD | TH Vĩnh Phúc
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/WKneY2w.png",YTV HD | TH Yên Bái
-https://live.fptplay53.net/fnxsd1/yenbai_hls.smil/chunklist.m3u8
+https://live.yenbaitv.org.vn/hls/livestream.m3u8
 
 #----------*-Quốc tế-*----------#
 
