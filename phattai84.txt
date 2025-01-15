@@ -171,27 +171,12 @@ https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctvphimtonghop/index.m3u8
 
 #----------*-Địa phương-*----------#
 
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://tvbaw-na.s3.us-west-1.amazonaws.com/hb/TVB%20Vietnam%20Banner_Side.jpg",TVB VIỆT NAM
-
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV
 https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN
 https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews
 https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
-
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
-https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/7zgsFIK.png",NHÂN DÂN TV
-https://liveh34.vtvcab.vn/hls/ONNHANDAN_CL/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
-https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/YtZGuSy.png",QUỐC HỘI TV
-https://storage.quochoitv.vn/live/quochoitv_abitrate.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/AAWIPHz.png",VNews
-https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/lARtNRO.png",VOVTV HD
-https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1 | TH Vĩnh Long
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8?|Referer=http://sctvonline.vn/
