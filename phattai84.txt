@@ -19,6 +19,8 @@ https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
 
 #----------*-VTV-*----------#
 
+#EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1 VTVGO
+https://live-on-akm.akamaized.net/manifest/vtv1/master.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
 https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
