@@ -1,18 +1,408 @@
-#EXTM3U url-tvg="phattai_phattai2003@yahoo.com" tvg-shift=0 m3uautoload=1
-
-#EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/JhksBZG.png",Al Jazeera
-https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8
-#EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/2rMsIDP.png",CBC News Network
-https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master720p.m3u8
-#EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/2rMsIDP.png",CBC News Network
-https://livecbcdai-i.akamaihd.net/hls/live/567245/event2/CBCNN/master5.m3u8
-#EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/2rMsIDP.png",CBC News Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-#EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/2rMsIDP.png",CBC News Network
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-cbcnews/CDN/master.m3u8
-#EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/d9HAnkB.png",CBS News 24/7
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_22.m3u8
-#EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/Jhks7wu.png",NHK World Japan
-https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/es/playlist.m3u8
-#EXTINF:-1 group-title="🌏| WORLD NEWS"tvg-logo="https://iili.io/Jhks7wu.png",NHK World Japan
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTM3U
+#EXTINF:-1, Vinayaga music 
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+#EXTINF:-1, நமது சங்கமம்
+http://shinestream.in:1935/namathusangamam/namathusangamam/chunklist_w101948811.m3u8
+#EXTINF:-1, வேதா டிவி
+http://conference1.livebox.co.in:80/vedhatvhls/live.m3u8
+#EXTINF:-1, ATN media
+http://indiamatrix.in:80/atn/atn.m3u8
+#EXTINF:-1, பாமா 
+http://livematrix.in:80/bamahd/bamahd.m3u8
+#EXTINF:-1, தி நெல்லை டைம்ஸ்
+http://indiamatrix.in:80/nellaitimestv/nellaitimestv.m3u8
+#EXTINF:-1, K channel
+http://indiamatrix.in:80/kchannel/kchannel.m3u8
+#EXTINF:-1, Smile 
+http://hdserver.7starcloud.com:1935/smile/livestream/playlist.m3u8
+#EXTINF:-1, Sun star
+http://nextgeninfotech.ddns.net:8080/sunstar/sunstar.m3u8
+#EXTINF:-1, Mullai 
+http://live.singamcloud.in:1935/mullaitv/mullaitv/playlist.m3u8
+#EXTINF:-1, தருண் மூவிஸ்
+http://secure.ultramaxnet.com:80/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
+#EXTINF:-1, லீப் விஜய்
+http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
+#EXTINF:-1, வசந்த்
+http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
+#EXTINF:-1, S flix 
+http://bmlive.net:8000/appletv/sflixtv/bms.m3u8
+#EXTINF:-1, VIP
+http://media.7starcloud.com:1935/harimedia/vip/playlist.m3u8
+#EXTINF:-1, லீ
+http://nextgeninfotech.ddns.net:8080/leetv/leetv.m3u8
+#EXTINF:-1, பவானி சங்கமம்
+http://7starcloud.com:1935/bhavanitv/livestream/chunklist_w2024503718.m3u8
+#EXTINF:-1, ஜீ
+http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
+#EXTINF:-1, 
+தேவதை
+http://singamcloud.in/Deavathaitv/Deavathaitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1, 
+அசோகா
+http://stream.singamcloud.in/asokatvcbe/asokatvcbe/index.m3u8
+#EXTINF:-1, 
+அபிநயா மியூசிக்
+http://singamcloud.in/purpletv/purpletv/index.m3u8
+#EXTINF:-1, 
+சிங்கம்
+http://singamcloud.in/singamtv/singamtv/index.m3u8
+#EXTINF:-1, 
+கலை இசை
+http://singamcloud.in/kalai/kalaiisai/index.m3u8
+M music 
+https://mntv.livebox.co.in/musichls/live.m3u8
+அத்விகா
+http://bmlive.net:8000/paulveernan/advika/bms.m3u8
+ஸ்ரீசரவணா
+http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
+ரியோ
+http://stream.singamcloud.in/riotv/riotv/index.m3u8
+7 hills
+http://live.singamcloud.in:1935/7hilstv/7hilstv/playlist.m3u8
+போனஸ்
+http://singamcloud.in:80/bonushd/bonushd/tracks-v1a1/mono.m3u8
+SLS
+http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
+#EXTINF:-1 tvg-chno="1",Saravana
+http://bmlive.net:8000/BALATV/sreesaravanaa/bms.m3u8
+#EXTINF:-1 tvg-chno="1",Sony ten1
+https://sony247channels.akamaized.net/hls/live/2011747/TEN1HD/master.m3u8?hdnea=st=1665303958~exp=1665304258~acl=*~id=8b75bfcd-9cd9-4513-8684-5cd9d98246d6~hmac=222c6dc880816dc14f5d25bde3224df9d0170e3ca9e3f4720c6f11a795dfb386&originpath=/linear/hls/pb/event/yeYP86THQ4yl7US8Zx5eug/stream/36f6bcc2-b1e7-43eb-b2ac-c9c94fb23b59:SIN2/master.m3u8
+#EXTINF:-1 tvg-chno="1",Pheonix
+http://premium.7starcloud.com:1935/live/phoenixtv/chunklist_w282307831.m3u8
+#EXTINF:-1 tvg-chno="1",Raagam
+http://account12.livebox.co.in:80/ntvhls/ntv.m3u8
+#EXTINF:-1 tvg-chno="1",Sai ultramax
+http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/saitvcud.m3u8
+#EXTINF:-1 tvg-chno="1",Arunau
+http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/arunaitvtvm.m3u8
+#EXTINF:-1 tvg-chno="1" group-title="Music",Vinayaga music
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Bhavani
+http://7starcloud.com:1935/bhavanitv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Gtv
+http://live.singamcloud.in:1935/gtv/gtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Pctv
+http://pctv.livebox.co.in/pctvhls/live.m3u8
+#EXTINF:-1 tvg-chno="1",Atn
+http://hdserver.7starcloud.com:1935/atntv/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Kvm
+http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/kvmtv321_low/index.m3u8
+#EXTINF:-1 tvg-chno="1",Tamilplus
+http://hdserver.7starcloud.com:1935/tamil/plus/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Anandam
+http://shinestream.in:1935/anandamtv/tactv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Abi shine
+http://shinestream.in:1935/abitv/abitv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Nila shine
+http://shinestream.in:1935/nilatv/nilatv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Ibc
+https://tx1.ibctamil.tv/CDN_IBC_Pakidi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="1",Msk
+https://server2.iptelevision.in/hls/msktv.m3u8
+#EXTINF:-1 tvg-chno="1",Nagaram
+https://server2.iptelevision.in/hls/nagaramtv.m3u8
+#EXTINF:-1 tvg-chno="1",Jaitv
+https://server2.iptelevision.in/jaitv.m3u8
+#EXTINF:-1 tvg-chno="1",Vel
+http://live.singamcloud.in:1935/veltv/veltv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Arasan
+http://198.144.149.82:8080/AMMA/ARASANTV/index.m3u8?token=AMMA
+#EXTINF:-1 tvg-chno="1",Vinayaga music
+http://media.7starcloud.com:1935/harimedia/vinayagamusic/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Vinayaga
+http://media.7starcloud.com:1935/harimedia/vinayagahd/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Sony BBC earth
+https://pubads.g.doubleclick.net/ssai/event/V73ovbgASP-xGvQQOukwTQ/master.m3u8
+#EXTINF:-1 tvg-chno="1",Mk six
+http://103.199.160.85/Content/mktv6/Live/Channel(MKTV6)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-chno="1",Jr
+https://server.ashokatv.com/hls/jrtv.m3u8
+#EXTINF:-1 tvg-chno="1",Ntv
+http://7starcloud.com:1935/ntv/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Nila tv2
+http://account13.livebox.co.in/nilatvhls/live.m3u8
+#EXTINF:-1 tvg-chno="1",Kri tamizhan
+http://media.7starcloud.com:1935/harimedia/live1/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Shalini
+http://198.144.149.82:8080/NOTV/SHALINITV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Mm notv
+http://198.144.149.82:8080/NOTV/MMTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Kunari
+http://indiamatrix.in/kumaritvnow/kumaritvnow.m3u8
+#EXTINF:-1 tvg-chno="1",Nilatv
+http://131.153.22.8:1935/nilatv/nilalive/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",K channel
+http://indiamatrix.in/kchannel/kchannel.m3u8
+#EXTINF:-1 tvg-chno="1",Eesan
+http://139.99.96.93:1935/eesantv/eesantv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Phoenix nexthen
+http://103.88.77.238:8081/phoenix/phoenix.m3u8
+#EXTINF:-1 tvg-chno="1",Pink
+http://nextgeninfotech.ddns.net:8080/pink/pink.m3u8
+#EXTINF:-1 tvg-chno="1",Ntv theni
+http://198.144.149.82:8080/NOTV/NTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Udumalaipet annai
+http://198.144.149.82:8080/NOTV/ANNAITV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Arjun
+http://198.144.149.82:8080/NOTV/SRIARJUNTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Sharvesh
+http://hdserver.7starcloud.com:1935/sharvesh/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",7star plus
+http://hdserver.7starcloud.com:1935/live/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Krishna tkode
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Thendral
+https://iptelevision.in/hls/thendral.m3u8
+#EXTINF:-1 tvg-chno="1",Vaagai
+http://198.144.149.82:8080/NOTV/VAGAITV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Saaral
+http://bmlive.net:8000/srmusix/srmusix/bms.m3u8
+#EXTINF:-1 tvg-chno="1",Vasanth
+http://bmlive.net:8000/vasanthtvngl/vasanthtvngl/bms.m3u8
+#EXTINF:-1 tvg-chno="1",Penguin
+http://bmlive.net:8000/penguintv/penguintv/bms.m3u8
+#EXTINF:-1 tvg-chno="1",Gtv
+http://bmlive.net:8000/gtv/gtv/bms.m3u8
+#EXTINF:-1 tvg-chno="1",Mcv
+http://shinestream.in:1935/mcvtv/mcvtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Evergreen
+http://shinestream.in:1935/evergreen/evergreen/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Krp
+http://live.singamcloud.in:1935/krptv/krptv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Sana plus
+http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Ss varma
+http://hdserver.7starcloud.com:1935/ssvarmatv/ssvarmatv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Yaal
+http://198.144.149.82:8080/NOTV/YAALTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Msn 
+http://media.7starcloud.com:1935/msntv/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Tharun movies
+http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/tharunmovies_low/index.m3u8
+#EXTINF:-1 tvg-chno="1",Ezhil
+http://198.144.149.82:8080/NOTV/EZHILTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Sana hd
+http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Analai
+http://198.144.149.82:8080/ANALAI_MOVIE/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Phoenix tv
+http://198.144.149.82:8080/NOTV/PHOENIXTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",MM MUSIC
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://198.144.149.82:8080/NOTV/MSMUSIC/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 tvg-id="Mn_tv" tvg-name="Mn tv" tvg-logo="null" tvg-chno="1",Mn tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://mntv.livebox.co.in/mntvhls/mntv.m3u8
+#EXTINF:-1 tvg-id="Mn_music" tvg-name="Mn music" tvg-logo="null" tvg-chno="1",Mn music
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://mntv.livebox.co.in/musichls/live.m3u8
+#EXTINF:-1 tvg-id="UDHAYAM_nxtgen" tvg-name="UDHAYAM nxtgen" tvg-logo="undefined" tvg-chno="1",UDHAYAM nxtgen
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://nextgeninfotech.ddns.net:8080/udhayam/udhayam.m3u8
+#EXTINF:-1 tvg-id="Maa_tv" tvg-name="Maa tv" tvg-logo="undefined" tvg-chno="1",Maa tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://stream.singamcloud.in:1935/maatv/maatv/playlist.m3u8
+#EXTINF:-1 tvg-id="Utv" tvg-name="Utv" tvg-logo="undefined" tvg-chno="1",Utv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://198.144.149.82:8080/NOTV/UTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="Maya_tv" tvg-name="Maya tv" tvg-logo="undefined" tvg-chno="1",Maya tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://softstreamtv.com:8080/NOTV/MAYATV/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 tvg-id="9star" tvg-name="9star" tvg-logo="undefined" tvg-chno="1",9star
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://198.144.149.82:8080/NOTV/NINETV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="Singam_tv" tvg-name="Singam tv" tvg-logo="undefined" tvg-chno="1",Singam tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://singamcloud.in:8080/singamtv/singamtv/playlist.m3u8
+#EXTINF:-1 tvg-id="Sai_tv" tvg-name="Sai tv" tvg-logo="undefined" tvg-chno="1",Sai tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://198.144.149.82:8080/NOTV/SAITVMD/index.m3u8?token=GTR
+#EXTINF:-1 tvg-id="Shakthi" tvg-name="Shakthi" tvg-logo="undefined" tvg-chno="1",Shakthi
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://88.150.197.10:1935/star-live/shakthi/chunklist.m3u8
+#EXTINF:-1 tvg-id="Thirumalai" tvg-name="Thirumalai" tvg-logo="undefined" tvg-chno="1",Thirumalai
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://media.7starcloud.com:1935/tirumalaitv/stream/playlist.m3u8
+#EXTINF:-1 tvg-id="7_STAR" tvg-name="7 STAR" tvg-logo="undefined" tvg-chno="1",7 STAR
+http://hdserver.7starcloud.com:1935/live/7star2/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Al jazeera
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-chno="1",Kavin ultramax
+http://site1.ultramaxnet.com/client/hls/ultramax-app-v1975/kavintv_low/index.m3u8
+#EXTINF:-1 tvg-chno="1",Surya
+http://media.7starcloud.com:1935/suryatv/mystream/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Vtv
+http://198.144.149.82:8080/NOTV/VTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Jayam tv green leaf
+http://103.147.60.4:1935/live/jayamtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Selfie
+http://bmlive.net:8000/selfeetv/selfeetv/bms.m3u8
+#EXTINF:-1 tvg-chno="1",Meenachi
+http://live.singamcloud.in:1935/meenachitv/meenachitv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Digital tv
+http://bmlive.net:8000/digitaltv/digitaltv/bms.m3u8
+#EXTINF:-1 tvg-chno="1",Metro
+http://cdn.yoctoentertainment.com:8081/metro/metro.m3u8
+#EXTINF:-1 tvg-chno="1",Anu
+http://live.singamcloud.in:1935/anutv/anutv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Stv madurai
+http://nextgeninfotech.ddns.net:8080/stvchannel/stvchannel.m3u8
+#EXTINF:-1 tvg-chno="1",Jm
+http://198.144.149.82:8080/NOTV/JMTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Ladhee
+http://bmlive.net:8000/ladheetv/ladheetv/bms.m3u8
+#EXTINF:-1 tvg-chno="1",Kanchi
+http://198.144.149.82:8080/NOTV/KANCHITV/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Polimer
+http://hdserver.7starcloud.com:1935/polimer/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Ashoka
+http://hdserver.7starcloud.com:1935/ashoka/channel/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Rishi
+http://198.144.149.82:8080/NOTV/RISHITV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Mm classic
+http://198.144.149.82:8080/NOTV/MMCLASSIC/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Mm 2
+http://198.144.149.82:8080/NOTV/MMTV2/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Mm kanchi
+http://198.144.149.82:8080/NOTV/MMTVKANCHI/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Galaxy
+http://shinestream.in:1935/galaxytv/galaxytv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Skylink
+http://nextgeninfotech.ddns.net:8080/skylink/skylink.m3u8
+#EXTINF:-1 tvg-chno="1",Sss
+http://198.144.149.82:8080/NOTV/SSSTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Sky notv
+http://198.144.149.82:8080/NOTV/SKYTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",3tamil
+https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Nsk
+https://iptelevision.in/hls/nsktv.m3u8
+#EXTINF:-1 tvg-id="Anbu_uhd" tvg-name="Anbu uhd" tvg-chno="1",Shree
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://hdserver.7starcloud.com:1935/shree/tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Anbu
+http://nextgeninfotech.ddns.net:8080/anbu/anbu.m3u8
+#EXTINF:-1 tvg-chno="1",Sony pix
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#EXTINF:-1 tvg-chno="1",Sony Max 2
+https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#EXTINF:-1 tvg-chno="1",Jeiyan
+http://198.144.149.82:8080/NOTV/JEIYANTV/index.m3u8?token=GTR
+#EXTINF:-1 tvg-chno="1",Reach
+http://nextgeninfotech.ddns.net:8080/reachtwo/reachtwo.m3u8
+#EXTINF:-1 tvg-chno="1",Acnmusic
+http://198.144.149.82:8080/AMMA/ACNMUSIC/index.m3u8?token=AMMA
+#EXTINF:-1 tvg-chno="1",Tamilstar
+http://stream.singamcloud.in/tamilstartv/tamilstartv/index.m3u8
+#EXTINF:-1 tvg-chno="1",Siripoli
+http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/Stream(01)/index.m3u8
+#EXTINF:-1 tvg-chno="1",Sun music
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF:-1 tvg-chno="1",Jayam hari
+http://live.singamcloud.in:1935/veltv/veltv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Eet
+https://live.streamjo.com/eetlive/eettv.m3u8
+#EXTINF:-1 tvg-chno="1",Rcn
+https://5c75277727cd1.streamlock.net:443/rcntv/rcntv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Jayaam
+http://139.99.96.85:1935/jayaamtv/jayaamtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Lotus
+http://hdserver.7starcloud.com:1935/lotustv/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Sun music
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF:-1 tvg-chno="1",7hills
+http://139.99.96.93:1935/7hilstv/7hilstv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Velur
+https://server.ashokatv.com/hls/velurtv.m3u8
+#EXTINF:-1 tvg-chno="1" group-title="Music",Sun music
+http://uk1.zecast.com:1935/star-live/smusic/index.m3u8
+#EXTINF:-1 tvg-chno="1",Suriya
+http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/suriyatv123_low/index.m3u8
+#EXTINF:-1 tvg-chno="1",Jeevan
+http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/jeevantv123.m3u8
+#EXTINF:-1 tvg-chno="1",Max ultra
+http://site1.ultramaxnet.com:80/client/hls/ultramax-app-v1975/maxtv123.m3u8
+#EXTINF:-1 tvg-chno="1",Rasi
+http://singamcloud.in:80/rasinetworks/rasitv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="1",Rasimovies
+http://singamcloud.in:80/rasinetworks/rasimovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="1",Rasitamil
+http://singamcloud.in:80/rasinetworks/rasitamil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="1",Rasimusic
+http://singamcloud.in:80/rasinetworks/rasimusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="1",Kalaicine
+http://singamcloud.in:80/kalai/kalaicinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="1",Kalaimusic
+http://singamcloud.in:80/kalai/kalaiisai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="1",Jayam
+http://hdserver.singamcloud.in:1935/jayamtvs/jayamtv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Saffron
+http://139.99.96.93:1935/saffrontv/saffrontv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Ctn
+http://hdserver.7starcloud.com:1935/ctn/live/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Erodekroshna
+http://media.7starcloud.com:1935/erodekrishnatv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Erodekrosh2
+http://7starcloud.com:1935/lotustv/lotustv/playlist.m3u8
+#EXTINF:-1 tvg-chno="1",Ibc comedy
+http://tx1.ibctamil.tv:80/CDN_IBC_pagadi/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="1",Ibctamil
+http://tx1.ibctamil.tv:80/CDN_IBC_isai/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-chno="1",Ibc tamil
+https://tx1.ibctamil.tv/CDN_IBC_Tamil/index.m3u8
+#EXTINF:-1 tvg-chno="1",Ibc canda
+https://tx1.ibctamil.tv/CDN_IBC_Canada/index.m3u8
+#EXTINF:-1 tvg-chno="1",Sony ten 1.1
+https://sony247channels.akamaized.net/hls/live/2011739/TEN1SD/master.m3u8?hdnea=st=1665304603~exp=1665304903~acl=*~id=995396f5-bb9f-4997-a54b-415334ecb595~hmac=0fc82dc35b40841190c54d4ee135b201648bb655e52456675336af1581bf456c&originpath=/linear/hls/pb/event/4_pnLi2QTe6bRGvvahRbfg/stream/51daa7dd-b3de-46ab-a2cf-e24dd867a27d:TPE/master.m3u8
+#EXTINF:-1 tvg-chno="1",G tv
+http://7starcloud.com:1935/gtv/studiogtn/playlist.m3u8
+#EXTINF:-1 tvg-id="RAM_TV" tvg-name="RAM TV" tvg-logo="undefined" tvg-chno="92",RAM TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://media.7starcloud.com:1935/harimedia/live5/playlist.m3u8
+#EXTINF:-1 tvg-id="MONTAMIL" tvg-name="MONTAMIL" tvg-logo="https://i.vimeocdn.com/portrait/7157170_300x300.webp" tvg-chno="94",MONTAMIL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://198.144.149.82:8080/MONTAMIL_CINEMA/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 tvg-id="MP_TV" tvg-name="MP TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVDRJj27EXVk-Ds5wb28bjlt8d1NCmpQwIDA&usqp=CAU" tvg-chno="95",MP TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://nextgeninfotech.ddns.net:8080/mptv/mptv.m3u8
+#EXTINF:-1 tvg-id="OSCAR_TV" tvg-name="OSCAR TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmMVnN3YaSa1CEdoN9gyWkyRacn7KFP6HgIQ&usqp=CAU" tvg-chno="99",OSCAR TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://cdn.yoctoentertainment.com:8081/oscar/oscar.m3u8
+#EXTINF:-1 tvg-id="ANNAI_TV" tvg-name="ANNAI TV" tvg-logo="undefined" tvg-chno="106",ANNAI TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://annaitv.livebox.co.in/annailivehls/live.m3u8
+#EXTINF:-1 tvg-id="SRV_WALAJAPET" tvg-name="SRV WALAJAPET" tvg-logo="undefined" tvg-chno="109",SRV WALAJAPET
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://nextgeninfotech.ddns.net:8080/srv/srv.m3u8
+#EXTINF:-1 tvg-id="LEAF_TV" tvg-name="LEAF TV" tvg-logo="undefined" tvg-chno="112",LEAF TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://nextgeninfotech.ddns.net:8080/leaf/leaf.m3u8
+#EXTINF:-1 tvg-id="UDHAYAM_TV" tvg-name="UDHAYAM TV" tvg-logo="undefined" tvg-chno="114",UDHAYAM TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://media.7starcloud.com:1935/harimedia/live3/playlist.m3u8
+#EXTINF:-1 tvg-id="SILVERSAT_TV" tvg-name="SILVERSAT TV" tvg-logo="undefined" tvg-chno="128",SILVERSAT TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://7starcloud.com:1935/silversat/silversattv/chunklist_w159475530.m3u8
+#EXTINF:-1 tvg-id="JAWAHAR_CHANNEL" tvg-name="JAWAHAR CHANNEL" tvg-chno="141",JAWAHAR tv
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://streamingbox.7starcloud.com:1935/jawahartv/streamingbox/playlist.m3u8
+#EXTINF:-1 tvg-id="SR_MUSIX" tvg-name="SR MUSIX" tvg-chno="152",SR MUSIX
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://hdserver.7starcloud.com:1935/srmusix/live/playlist.m3u8
+#EXTINF:-1 tvg-id="SPICE_TV" tvg-name="SPICE TV" tvg-logo="undefined" tvg-chno="152",SPICE TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://7starcloud.com:1935/spicetv/spicelivetv/playlist.m3u8
+#EXTINF:-1 tvg-id="HARI_TV" tvg-name="HARI TV" tvg-logo="undefined" tvg-chno="162",HARI TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://media.7starcloud.com:1935/harimedia/haritv/playlist.m3u8
+#EXTINF:-1 tvg-id="GTA_TAMIL" tvg-name="GTA TAMIL" tvg-logo="undefined" tvg-chno="167",GTA TAMIL
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://142.44.213.115:8888/gta_tamil/index.m3u8
+#EXTINF:-1 tvg-id="PRATHI_TV" tvg-name="PRATHI TV" tvg-chno="169",Musicstar
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+http://198.144.149.82:8080/NOTV/MUSICSTARTV/tracks-v1a1/mono.m3u8?token=GTR
+#EXTINF:-1 tvg-id="SD_MEDIA" tvg-name="SD MEDIA" tvg-logo="undefined" tvg-chno="170",SD MEDIA
+http://7starcloud.com:1935/sd/sdmedia/playlist.m3u8
+#EXTINF:-1, willow
+http://server.sibfungold.info:8080/serveriptvay/VQdIBDXK7jVQdIBDXK7j/46714
