@@ -1,21 +1,13 @@
 #EXTM3U url-tvg="phattai_phattai2003@yahoo.com" tvg-shift=0 m3uautoload=1
 
-#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/OqSl2Qf.png",Channel Y
-http://cdn19.live247stream.com/channely/tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/UcAwBep.png",UN Web
-https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/BB93NQP.png",Al Jazeera
-https://live-hls-web-aje-fa.getaj.net/AJE/index.m3u8
+
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cbs-news-us.png",CBS News 24/7
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
-#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/fMsJYzl.png",CGTN
-https://english-livebkali.cgtn.com/live/encgtn.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN
 https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
-#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",Euronews
-https://39997b2f529e4793961899e546833a75.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_EuroNewsLive/playlist.m3u8
+#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN
+https://live-media-fly.warnermediacdn.com/cmaf/live/2019054/cnngo/cnn_slate-cenc/master_wv_de.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan
 https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/vi/playlist.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",GB News
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
-
