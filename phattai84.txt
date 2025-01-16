@@ -356,5 +356,9 @@ https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://iptv-pro.github.io/logo/KIX.png",KiX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/xBLLYyx.png",BBC News
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN
+https://d1vnr7amzbx49s.cloudfront.net/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Love-Nature-TV.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
