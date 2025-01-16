@@ -20,27 +20,27 @@ https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
 #----------*-VTV-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-https://live-on-akm.akamaized.net/manifest/vtv1/master.m3u8
+https://z215ymcm4tliv.vcdn.cloud/s4/hls/vtv1/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
-https://live-on-akm.akamaized.net/manifest/vtv2/master.m3u8
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv2/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
-https://live-on-akm.akamaized.net/manifest/vtv3/master.m3u8
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv3/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/9zVTtsA.png",VTV4 
-https://live-on-akm.akamaized.net/manifest/vtv4/master.m3u8
+https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtv4/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7qPKNFU.png",VTV5
-https://live-on-akm.akamaized.net/manifest/vtv5/master.m3u8
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv5/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/HCpqatZ.png",VTV Cần Thơ
-https://live-on-akm.akamaized.net/manifest/vtv6/master.m3u8
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv6/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/mIUWkDx.png",VTV5 Tây Nam Bộ
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
+https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv5_tnb/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/R8c2swd.png",VTV5 Tây Nguyên
 https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/AgamSNe.png",VTV7
-https://live-on-akm.akamaized.net/manifest/vtv7/master.m3u8
+https://z215ymcm4tliv.vcdn.cloud/s2/hls/vtv7/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/lpcltL9.png",VTV8
-https://live-on-akm.akamaized.net/manifest/vtv8/master.m3u8
+https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtv8/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
-https://live-on-akm.akamaized.net/manifest/vtv9/master.m3u8
+https://z215ymcm4tliv.vcdn.cloud/s2/hls/vtv9/index.m3u8
 
 #----------*-VTVCAB-*----------#
 
