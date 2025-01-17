@@ -67,6 +67,8 @@ https://content.uplynk.com/channel/4bb4901b934c4e029fd4c1abfc766c37.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/Sky_News_Australia_logo_-_2019.svg/512px-Sky_News_Australia_logo_-_2019.svg.png",Sky News Now
 https://amg00663-skynews-skynewsau-samsungau-r7n40.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Spectrum_News_%282023%29.svg/1920px-Spectrum_News_%282023%29.svg.png",Spectrum News
+https://dbrb49pjoymg4.cloudfront.net/10001/99951337/hls/playlist.m3u8?ads.xumo_channelId=99951337
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/UcAwBep.png",UN Web
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/83/TalkTV_logo.png/673px-TalkTV_logo.png",TalkTV
@@ -79,6 +81,17 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/43oHsHL.png",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/Salem_news_channel_logo_3_22.jpg",Salem News
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00732-salemmediagroup-snc-ono/playlist.m3u8
+#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Fox_Weather.png?20210721012152",Fox Nation
+https://dtqutq7lmcchv.cloudfront.net/10001/99991694/hls/playlist.m3u8?ads.xumo_channelId=99991694
+#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://d9hhrg4mnvzow.cloudfront.net/join.tyt.com/acr-logos/6c2d2593-transparent-white-tyt-logo_075046000000000000001.png",TYT
+https://tyt-xumo-us.amagi.tv/hls/amagi_hls_data_tytnetwor-tyt-xumo/CDN/master.m3u8
+#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/Reuters_TV_logo.png",Reuters Evening News
+https://dbrb49pjoymg4.cloudfront.net/10001/99951197/hls/playlist.m3u8?ads.xumo_channelId=99951197
+#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Today_logo.svg/800px-Today_logo.svg.png",Today All Day
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991245/hls/master.m3u8?ads.xumo_channelId=99991245
 
 #----------*-Thể thao-*----------#
 
@@ -107,3 +120,19 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png",Stadium
 https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
+
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/32/ProfessionalFightersLeagueShieldLogo.png",PFL MMA
+https://dbrb49pjoymg4.cloudfront.net/10001/99951203/hls/playlist.m3u8?ads.xumo_channelId=99951203
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3a/Glory_Logo.jpg",GLORY
+https://dbrb49pjoymg4.cloudfront.net/10001/99991278/hls/playlist.m3u8?ads.xumo_channelId=99991278
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/02/TNA_Impact%21_2024.png",TNA Wrestling Channel
+https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://pngimg.com/uploads/ufc/ufc_PNG58.png",UFC
+https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
+
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://unitedfightalliance.com/wp-content/uploads/2024/01/29_-_Printable_Resolution_File-removebg-preview-1024x504.png",United Fight Alliance
+https://moments.videobyte.com/api/livestreaming.m3u8?pid=zIuG6cy&msid=0001729
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://unitedfightalliance.com/wp-content/uploads/2024/01/29_-_Printable_Resolution_File-removebg-preview-1024x504.png",United Fight Alliance
+https://moments.videobyte.com/api/master.m3u8?sessionid=0c1faca1c708
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2017/07/mmaj-header-logo.png",MMA Junkie
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
