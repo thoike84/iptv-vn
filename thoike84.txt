@@ -27,8 +27,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u
 https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png",CNBC TV18
 https://amg01448-samsungin-nw18cnbc-samsungin-ad-n4.amagi.tv/playlist/amg01448-samsungin-nw18cnbc-samsungin/playlist.m3u8
-#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png",CNBC TV18
-https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/LjOE7VC.png",CNN
 #https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8
 https://d1vnr7amzbx49s.cloudfront.net/index.m3u8
@@ -40,10 +38,10 @@ https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png",Euronews
 https://rakuten-euronews-1-dk.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News
-https://247.foxnews.com/hls/live/2003586/FNCHLSv3/master.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/1JnyzHv.png",Fox News Now
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/512px-Fox_News_Channel_logo.svg.png",Fox News
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/YF2zMTz.png",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png",GB News
@@ -54,10 +52,11 @@ https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/a7h9epj.png",InfoWars Network
 https://freespeech.akamaized.net/hls/live/2016712/live1/playlist.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png",NBC News NOW 
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991247/hls/master.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/Et3vExm.png",NHK World Japan
-#https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/vi/playlist.m3u8
-https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+https://cdn.nhkworld.jp/www11/nhkworld-tv/bmcc-live/vi/playlist.m3u8
+#EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/0xW69iu.png",OAN Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/oan-encore/playlist.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Press_Tv_logo.svg/100px-Press_Tv_logo.svg.png",Press TV
 https://live.presstv.ir/hls/presstv.m3u8
 #EXTINF:-1 group-title="🌏| World News"tvg-logo="https://i.imgur.com/UfN6aAi.png",Scripps News 
@@ -81,7 +80,7 @@ https://yahoo-samsung.amagi.tv/playlist.m3u8
 
 #----------*-Thể thao-*----------#
 
-#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://imgur.com/kwS76Ag.png",Redbull TV
+#EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://img.redbull.com/images/w_250/q_auto,f_auto/redbullcom/2021/3/8/v1viztxjab9e9a6of4by/redbulltv",Redbull TV
 https://dms.redbull.tv/v5/destination/rbtv/linear-borb/personal_computer/http/vn/en/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://www.beinsportsxtra.com/_next/image?url=https%3A%2F%2Fresources.beinsportsxtra.com%2Fxtra%2Flogo_bein_sport_xtra_plain_55537aef6c.png&w=375&q=100",Bein SportXtra
 https://amg01334-beinsportsllc-beinxtra-localnow-kcy6r.amagi.tv/playlist.m3u8
@@ -96,7 +95,7 @@ https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109/variant/22099
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/ESV6qgH.png",FITE 24/7
 https://d3d85c7qkywguj.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/FiteTV-Nuestra/263.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://swerve.tv/wp-content/uploads/2023/03/Swerve-Combat-Logo_Swerve-Combat_Primary_970x260-1536x412.png",Swerve Combat
-https://linear-253.frequency.stream/dist/glewedtv/253/hls/master/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/10001/99991696/hls/playlist.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://i.imgur.com/XO8u1V7.png",IMPACT Wrestling 
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png",Fight Network
@@ -105,3 +104,4 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/boxing-tv/BOXINGTV_SCTE.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao"tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Stadium_%28sports_network%29_logo.svg/512px-Stadium_%28sports_network%29_logo.svg.png",Stadium
 https://apollo.production-public.tubi.io/live/ac-stadium2.m3u8
+
