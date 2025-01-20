@@ -84,18 +84,18 @@ https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab20/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
 https://vc.101vn.com/htv/htvcmb.php?id=2631
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
-https://vc.101vn.com/htv/htvcmb.php?id=2669
+https://1011154949.vnns.net/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png",HTV3
 https://vc.101vn.com/htv/htvcmb.php?id=2535
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
 https://vc.101vn.com/htv/htvcmb.php?id=2528
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7 
-https://vc.101vn.com/htv/htvcmb.php?id=256
+https://1011154949.vnns.net/CDN-FPT02/HTV7-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/1SgC1yo.png",HTV9
-https://vc.101vn.com/htv/htvcmb.php?id=2667
+https://1011154949.vnns.net/CDN-FPT02/HTV9-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/ZkUUWWN.png",HTV Thể Thao
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/SQ9cLJj.png",C+
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
@@ -110,7 +110,7 @@ https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/PLliKL6.png",Phụ Nữ
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| HTVC" tvg-logo="https://i.imgur.com/xmISDWo.png",Thuần Việt
-https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+https://1011154949.vnns.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
 
 #----------*-SCTV-*----------#
 
@@ -242,7 +242,7 @@ https://tv.gialaitv.vn/tv.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/HQ7jCa6.png",TRT HD | TH Thừa Thiên Huế
 https://live.trt.com.vn/TRT-Online/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/N2gUYoh.png",KTV HD | TH Khánh Hòa
-http://210.245.20.94/hls/ktv1.m3u8
+https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/PKyIRIJ.png",KRT HD | TH Kon Tum
 https://live.fptplay53.net/epzsd1/kontum_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/9bFk5Lj.png",NTV HD | TH Ninh Thuận
