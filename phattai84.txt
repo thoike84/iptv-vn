@@ -12,8 +12,7 @@ https://z215ymcm4tliv.vcdn.cloud/s4/hls/KPlusKid/index.m3u8
 #----------*-VTV-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
-#https://1011154949.vnns.net/CDN-FPT02/VTV1-HD-ABR/playlist.m3u8
-https://z215ymcm4tliv.vcdn.cloud/s4/hls/vtv1/index.m3u8
+https://1011154949.vnns.net/CDN-FPT02/VTV1-HD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/BVwi3K3.png",VTV2
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/vtv2/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/7rLCvgS.png",VTV3
@@ -162,13 +161,13 @@ https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/JWDsJxB.png",THVL4 | TH Vĩnh Long
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/0TkI4Ar.png",ATV HD | TH An Giang
-https://1011154949.vnns.net/CDN-FPT02/ANGIANG-SD-ABR/playlist.m3u8
+https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ATG11ql.png",BLTV HD | TH Bạc Liêu
 https://live.fptplay53.net/epzsd1/baclieu_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/l8Ae26m.png",THBT HD | TH Bến Tre
 https://1011154949.vnns.net/CDN-FPT02/BENTRE-SD-ABR/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/Soe6MC8.png",BTV1 HD | TH Bình Dương
-https://1011154949.vnns.net/CDN-FPT02/BINHDUONG1-SD-ABR/playlist.m3u8
+https://live.fptplay53.net/epzhd2/btv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pEaPECX.png",BTV2 HD | TH Bình Dương
 https://live.fptplay53.net/epzhd2/btv2_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 | An Viên TV
@@ -194,7 +193,7 @@ https://64d0d74b76158.streamlock.net/THDT2/thdttv2/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HGTV HD | TH Hậu Giang
 https://60acee235f4d5.streamlock.net/HGTV/d1/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jCTogPb.png",KG HD | TH Kiên Giang
-https://1011154949.vnns.net/CDN-FPT02/KIENGIANG-SD-ABR/playlist.m3u8
+https://live.fptplay53.net/epzsd1/kiengiang_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/iaexSxL.png",LTV HD | TH Lâm Đồng
 http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/j6T7sqT.png",LA34 HD | TH Long An
@@ -210,37 +209,27 @@ https://60acee235f4d5.streamlock.net/THTV/travinhtv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/FVmICGp.png",THTV2 HD | TH Trà Vinh
 https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/WEMfHas.png",BRT HD | TH Vũng Tàu
-https://1011154949.vnns.net/CDN-FPT02/BRVT-SD-ABR/playlist.m3u8
+https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
 
 #----------*-Quốc tế-*----------#
 
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
 https://z215ymcm4tliv.vcdn.cloud/s4/hls/happykid/index.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
 https://z215ymcm4tliv.vcdn.cloud/s4/hls/hollywood/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
-https://z215ymcm4tliv.vcdn.cloud/s4/hls/planetearth/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/1D37LIf.png",Dr.Fit
-https://z215ymcm4tliv.vcdn.cloud/s4/hls/drfit/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
-https://z215ymcm4tliv.vcdn.cloud/s4/hls/woman/index.m3u8
-
-
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/Rwm7Lod.png",AXN
 http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/7nIUtCU.png",HBO
 http://125hvt.ddns.net:21585/hbo/index.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV
 http://125hvt.ddns.net:21585/wbtv/index.m3u8
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
-http://125hvt.ddns.net:21585/discovery/index.m3u8
-
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci
-https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://iptv-pro.github.io/logo/KIX.png",KiX
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/KL9oaqc.png",Asian Food Network
 https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Love-Nature-TV.png",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/GKOac3p.png",Planet Earth
+https://z215ymcm4tliv.vcdn.cloud/s4/hls/planetearth/index.m3u8
+#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2JR5vSZ.png",Discovery
+http://125hvt.ddns.net:21585/discovery/index.m3u8
