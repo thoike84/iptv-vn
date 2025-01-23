@@ -1,6 +1,9 @@
 #EXTM3U url-tvg="phattai_phattai2003@yahoo.com" tvg-shift=0 m3uautoload=1
 
-
+#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HGTV HD | TH Hậu Giang
+https://hgtvdigital.vn/hls/backup.m3u8
+#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HGTV HD | TH Hậu Giang Stream
+https://hgtvdigital.vn/hls/stream1.m3u8
 #----------*-VTV-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
@@ -119,11 +122,11 @@ https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv13/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctv14/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
-https://z215ymcm4tliv.vcdn.cloud/s9/hls/sctv15/index.m3u8
+http://e5.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv16/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| SCTV" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
-https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv17/index.m3u8
+http://e5.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv18/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/GKqfMnC.png",SCTV19
@@ -133,7 +136,7 @@ https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv20/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/0YPmAH3.png",SCTV21
 https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv21/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22
-https://z215ymcm4tliv.vcdn.cloud/s1/hls/sctv22/index.m3u8
+http://e5.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV Phim TH
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/sctvphimtonghop/index.m3u8
 
@@ -184,8 +187,6 @@ https://z215ymcm4tliv.vcdn.cloud/s3/hls/thdongthap/index.m3u8
 https://z215ymcm4tliv.vcdn.cloud/s8/hls/thdt2/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HGTV HD | TH Hậu Giang
 https://live.fptplay53.net/epzsd1/haugiang_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/foh5NTi.png",HGTV HD | TH Hậu Giang Stream
-https://hgtvdigital.vn/hls/stream1.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jCTogPb.png",KG HD | TH Kiên Giang
 https://live.fptplay53.net/epzsd1/kiengiang_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/iaexSxL.png",LTV HD | TH Lâm Đồng
