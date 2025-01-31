@@ -62,6 +62,17 @@ https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab19/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
 https://z215ymcm4tliv.vcdn.cloud/s3/hls/vtvcab20/index.m3u8
 
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/moYwxwf.png",ON Sports
+https://509942876.r.vtvcdn.com/onplus/THETHAO_HD/m30_index.m3u8
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/cFs8OVb.png",ON Sports+
+https://509942876.r.vtvcdn.com/onplus/HAY_TV/m30_index.m3u8
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/WAxiIfP.png",ON Football
+https://509942876.r.vtvcdn.com/onplus/BONGDA_HD/m30_index.m3u8
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/wpRXpJg.png",ON Sports News
+https://509942876.r.vtvcdn.com/onplus/THETHAO_TINTUC_HD/m30_index.m3u8
+#EXTINF:-1 group-title="🇻🇳| VTVcab" tvg-logo="https://i.imgur.com/Sqo9Luk.png",BTV5
+https://509942876.r.vtvcdn.com/onplus/BTV5/m30_index.m3u8
+
 #----------*-HTV&HTVC-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| HTV" tvg-logo="https://i.imgur.com/Z8Y74ih.png",HTV1
