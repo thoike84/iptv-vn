@@ -126,11 +126,11 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv13/index.m3u8?|Referer=http://sctv
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/VRgzt0A.png",SCTV14
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctv14/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/kOyPmAu.png",SCTV15
-http://e5.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8|Referer=http://sctvonline.vn/
+http://e5.endpoint.cdn.sctvonline.vn/hls/sctv15/index.m3u8?phattai888|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/0GlXFt7.png",SCTV16
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv16/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV" tvg-logo="https://i.imgur.com/V9r8Hvo.png",SCTV17
-http://e5.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8|Referer=http://sctvonline.vn/
+http://e5.endpoint.cdn.sctvonline.vn/hls/sctv17/index.m3u8?phattai888|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/lmMnwF5.png",SCTV18
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv18/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/GKqfMnC.png",SCTV19
@@ -140,7 +140,7 @@ https://e1.endpoint.cdn.sctvonline.vn/hls/sctv20/index.m3u8?|Referer=http://sctv
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/0YPmAH3.png",SCTV21
 https://e1.endpoint.cdn.sctvonline.vn/hls/sctv21/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/wGAM1wv.png",SCTV22
-http://e5.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8|Referer=http://sctvonline.vn/
+http://e5.endpoint.cdn.sctvonline.vn/hls/sctv22/index.m3u8?phattai888|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🇻🇳| SCTV"tvg-logo="https://i.imgur.com/91XkT2M.png",SCTV Phim TH
 https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?|Referer=http://sctvonline.vn/
 
@@ -214,8 +214,6 @@ https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
 
 #----------*-Quốc tế-*----------#
 
-#EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/leWw1zz.png",Box Movie 1
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/index.m3u8?khichtv|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
