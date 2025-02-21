@@ -1,14 +1,6 @@
 #EXTM3U url-tvg="phattai_phattai2003@yahoo.com" tvg-shift=0 m3uautoload=1
 
 
-
-#----------*-K+-*----------#
-
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/As4bwUs.png", K+ CINE SD
-http://125hvt.ddns.net:21585/kcine/index.m3u8
-#EXTINF:-1 group-title="🇻🇳| K+" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
-http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/index.m3u8?|Referer=http://sctvonline.vn/
-
 #----------*-VTV-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
@@ -214,6 +206,8 @@ https://live.fptplay53.net/epzsd1/bariavungtau_hls.smil/chunklist.m3u8
 
 #----------*-Quốc tế-*----------#
 
+#EXTINF:-1 group-title="🌏| Quốc tế" tvg-logo="https://i.imgur.com/erWqYxh.png", K+ KIDS 
+http://e4.endpoint.cdn.sctvonline.vn/hls/KPlusKid/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/2EDOvcL.png",Hollywood Classics
 https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/index.m3u8?|Referer=http://sctvonline.vn/
 #EXTINF:-1 group-title="🌏| Quốc tế"tvg-logo="https://i.imgur.com/KbZPtgB.png",Happy Kids
