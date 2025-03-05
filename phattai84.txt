@@ -139,9 +139,9 @@ https://e8.endpoint.cdn.sctvonline.vn/hls/sctvphimtonghop/index.m3u8?|Referer=ht
 #----------*-Địa phương-*----------#
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
-https://liveh34.vtvcab.vn/hls/ONANTV_CL/index.m3u8
+https://lives.antv.gov.vn/channel/antv/playlist.m3u8#t=0.001
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
-https://liveh34.vtvcab.vn/hls/ONQUOCPHONG_CL/index.m3u8
+https://e8.endpoint.cdn.sctvonline.vn/hls/quocphongvn/index.m3u8?|Referer=http://sctvonline.vn/
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1 | TH Vĩnh Long
 https://e2.endpoint.cdn.sctvonline.vn/hls/thvl1/index.m3u8?|Referer=http://sctvonline.vn/
