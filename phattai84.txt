@@ -70,8 +70,12 @@ https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV HD
+https://lives.antv.gov.vn/channel/antv/playlist.m3u8#t=0.001
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/UIGZw0y.png",QPVN HD
+https://qpvn.vn/live/qpvn/index.m3u8
 
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pTVybK6.png",TH Vĩnh Long 1
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist.m3u8
@@ -130,10 +134,14 @@ https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/playlist.m3u8
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://gialaitv.vn/wp-content/themes/gialaitv/img/video1.png",TH Gia Lai
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/HQ7jCa6.png",TRT HD | TH Thừa Thiên Huế
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://gialaitv.vn/wp-content/themes/gialaitv/img/video1.png",TH Gia Lai
+https://tv.gialaitv.vn/tv.m3u8
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://huetv.com.vn/uploads/static/Banner/LogoHueTV.png",TH Thừa Thiên Huế
 https://live.huetv.com.vn/TRT-Online/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/N2gUYoh.png",TH Khánh Hòa
 https://live.fptplay53.net/epzsd1/khanhhoa_hls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/N2gUYoh.png",TH Khánh Hòa
+https://tv.ktv.org.vn/ktv.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://quantri.ninhthuantv.vn/wp-content/uploads/2025/07/download.png",TH Khánh Hòa
 https://618b88f69e53b.streamlock.net/NTV/ntvtv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://mediaptq.mediatech.vn/upload//files/logo/28_6_2025_logo_png.png",TH Quảng Ngãi
@@ -162,17 +170,15 @@ https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
 https://live.haiduongtv.vn/live/285857e204bb558402db3b431e183b6638d/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/JAglyuT.png",TH Hưng Yên
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/n02cvKQ.png",LTV HD | TH Lai Châu
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/n02cvKQ.png",TH Lai Châu
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/yxz02UD.png",LSTV HD | TH Lạng Sơn
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/yxz02UD.png",TH Lạng Sơn
 https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ldwQU4L.png",THLC HD | TH Lào Cai
-https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ldwQU4L.png",THLC HD | TH Lào Cai
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ldwQU4L.png",TH Lào Cai
 https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/pL4NqYO.png",TH Ninh Bình
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/playlist.m3u8
-#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/FLvFSLS.png",NTV HD | TH Nghệ An
+#EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/FLvFSLS.png",TH Nghệ An
 https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/LXuRwJY.png",TH Phú Thọ
 https://cdn.3ssoft.vn/live/phuthotv/phuthotv/index.m3u8
