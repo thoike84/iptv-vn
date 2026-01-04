@@ -182,7 +182,7 @@ https://live.fptplay53.net/epzsd1/angiang_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/jeunb3Y.png",An Viên TV
 https://live.fptplay53.net/fnxsd1/btv9_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://i.imgur.com/ZKV1ok2.png",TH Cà Mau
-https://live.fptplay53.net/epzsd1/camau_hls.smil/chunklist.m3u8
+https://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://canthotv.vn/wp-content/uploads/2025/09/Logo-BAO-PTHT-CAN-THO-WEB-1.png",TH Cần Thơ 1
 https://live.canthotv.vn/live/tv/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương"tvg-logo="https://canthotv.vn/wp-content/uploads/2025/09/Logo-BAO-PTHT-CAN-THO-WEB-1.png",TH Cần Thơ 2
